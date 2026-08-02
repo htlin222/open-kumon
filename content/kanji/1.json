@@ -1,0 +1,1248 @@
+[
+  {
+    "kanji": "一",
+    "grade": 1,
+    "strokes": 1,
+    "on": [
+      "イチ",
+      "イツ"
+    ],
+    "kun": [
+      "ひと-",
+      "ひと.つ"
+    ],
+    "meaningZh": "一",
+    "kanjivgId": "04e00"
+  },
+  {
+    "kanji": "七",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "シチ"
+    ],
+    "kun": [
+      "なな",
+      "なな.つ",
+      "なの"
+    ],
+    "meaningZh": "七",
+    "kanjivgId": "04e03"
+  },
+  {
+    "kanji": "三",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "サン",
+      "ゾウ"
+    ],
+    "kun": [
+      "み",
+      "み.つ",
+      "みっ.つ"
+    ],
+    "meaningZh": "三",
+    "kanjivgId": "04e09"
+  },
+  {
+    "kanji": "上",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "ジョウ",
+      "ショウ",
+      "シャン"
+    ],
+    "kun": [
+      "うえ",
+      "-うえ",
+      "うわ-",
+      "かみ",
+      "あ.げる",
+      "-あ.げる",
+      "あ.がる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.る",
+      "のぼ.り",
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
+    ],
+    "meaningZh": "上面；上升",
+    "kanjivgId": "04e0a"
+  },
+  {
+    "kanji": "下",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "カ",
+      "ゲ"
+    ],
+    "kun": [
+      "した",
+      "しも",
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
+    ],
+    "meaningZh": "下面；下降",
+    "kanjivgId": "04e0b"
+  },
+  {
+    "kanji": "中",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "なか",
+      "うち",
+      "あた.る"
+    ],
+    "meaningZh": "中間；裡面",
+    "kanjivgId": "04e2d"
+  },
+  {
+    "kanji": "九",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "ここの",
+      "ここの.つ"
+    ],
+    "meaningZh": "九",
+    "kanjivgId": "04e5d"
+  },
+  {
+    "kanji": "二",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "ニ",
+      "ジ"
+    ],
+    "kun": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "meaningZh": "二",
+    "kanjivgId": "04e8c"
+  },
+  {
+    "kanji": "五",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "いつ",
+      "いつ.つ"
+    ],
+    "meaningZh": "五",
+    "kanjivgId": "04e94"
+  },
+  {
+    "kanji": "人",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "ジン",
+      "ニン"
+    ],
+    "kun": [
+      "ひと",
+      "-り",
+      "-と"
+    ],
+    "meaningZh": "人",
+    "kanjivgId": "04eba"
+  },
+  {
+    "kanji": "休",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "やす.む",
+      "やす.まる",
+      "やす.める"
+    ],
+    "meaningZh": "休息",
+    "kanjivgId": "04f11"
+  },
+  {
+    "kanji": "先",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "さき",
+      "ま.ず"
+    ],
+    "meaningZh": "前面；先前",
+    "kanjivgId": "05148"
+  },
+  {
+    "kanji": "入",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "ニュウ",
+      "ジュ"
+    ],
+    "kun": [
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "い.れる",
+      "-い.れ",
+      "はい.る"
+    ],
+    "meaningZh": "進入；放入",
+    "kanjivgId": "05165"
+  },
+  {
+    "kanji": "八",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "ハチ",
+      "ハツ"
+    ],
+    "kun": [
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう"
+    ],
+    "meaningZh": "八",
+    "kanjivgId": "0516b"
+  },
+  {
+    "kanji": "六",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "ロク",
+      "リク"
+    ],
+    "kun": [
+      "む",
+      "む.つ",
+      "むっ.つ",
+      "むい"
+    ],
+    "meaningZh": "六",
+    "kanjivgId": "0516d"
+  },
+  {
+    "kanji": "円",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
+    ],
+    "meaningZh": "日圓；圓形",
+    "kanjivgId": "05186"
+  },
+  {
+    "kanji": "出",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "シュツ",
+      "スイ"
+    ],
+    "kun": [
+      "で.る",
+      "-で",
+      "だ.す",
+      "-だ.す",
+      "い.でる",
+      "い.だす"
+    ],
+    "meaningZh": "出去；拿出",
+    "kanjivgId": "051fa"
+  },
+  {
+    "kanji": "力",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "リョク",
+      "リキ",
+      "リイ"
+    ],
+    "kun": [
+      "ちから"
+    ],
+    "meaningZh": "力氣",
+    "kanjivgId": "0529b"
+  },
+  {
+    "kanji": "十",
+    "grade": 1,
+    "strokes": 2,
+    "on": [
+      "ジュウ",
+      "ジッ",
+      "ジュッ"
+    ],
+    "kun": [
+      "とお",
+      "と",
+      "そ"
+    ],
+    "meaningZh": "十",
+    "kanjivgId": "05341"
+  },
+  {
+    "kanji": "千",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ち"
+    ],
+    "meaningZh": "千",
+    "kanjivgId": "05343"
+  },
+  {
+    "kanji": "口",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "くち"
+    ],
+    "meaningZh": "嘴巴；出入口",
+    "kanjivgId": "053e3"
+  },
+  {
+    "kanji": "右",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "ウ",
+      "ユウ"
+    ],
+    "kun": [
+      "みぎ"
+    ],
+    "meaningZh": "右邊",
+    "kanjivgId": "053f3"
+  },
+  {
+    "kanji": "名",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kun": [
+      "な",
+      "-な"
+    ],
+    "meaningZh": "名字",
+    "kanjivgId": "0540d"
+  },
+  {
+    "kanji": "四",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "meaningZh": "四",
+    "kanjivgId": "056db"
+  },
+  {
+    "kanji": "土",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "ド",
+      "ト"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "meaningZh": "泥土；星期六",
+    "kanjivgId": "0571f"
+  },
+  {
+    "kanji": "夕",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "ゆう"
+    ],
+    "meaningZh": "傍晚",
+    "kanjivgId": "05915"
+  },
+  {
+    "kanji": "大",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "ダイ",
+      "タイ"
+    ],
+    "kun": [
+      "おお-",
+      "おお.きい",
+      "-おお.いに"
+    ],
+    "meaningZh": "大",
+    "kanjivgId": "05927"
+  },
+  {
+    "kanji": "天",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "あまつ",
+      "あめ",
+      "あま-"
+    ],
+    "meaningZh": "天空",
+    "kanjivgId": "05929"
+  },
+  {
+    "kanji": "女",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "ジョ",
+      "ニョ",
+      "ニョウ"
+    ],
+    "kun": [
+      "おんな",
+      "め"
+    ],
+    "meaningZh": "女生",
+    "kanjivgId": "05973"
+  },
+  {
+    "kanji": "子",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "シ",
+      "ス",
+      "ツ"
+    ],
+    "kun": [
+      "こ",
+      "-こ",
+      "ね"
+    ],
+    "meaningZh": "小孩",
+    "kanjivgId": "05b50"
+  },
+  {
+    "kanji": "字",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "meaningZh": "文字",
+    "kanjivgId": "05b57"
+  },
+  {
+    "kanji": "学",
+    "grade": 1,
+    "strokes": 8,
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "まな.ぶ"
+    ],
+    "meaningZh": "學習",
+    "kanjivgId": "05b66"
+  },
+  {
+    "kanji": "小",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "ちい.さい",
+      "こ-",
+      "お-",
+      "さ-"
+    ],
+    "meaningZh": "小",
+    "kanjivgId": "05c0f"
+  },
+  {
+    "kanji": "山",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "サン",
+      "セン"
+    ],
+    "kun": [
+      "やま"
+    ],
+    "meaningZh": "山",
+    "kanjivgId": "05c71"
+  },
+  {
+    "kanji": "川",
+    "grade": 1,
+    "strokes": 3,
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "かわ"
+    ],
+    "meaningZh": "河川",
+    "kanjivgId": "05ddd"
+  },
+  {
+    "kanji": "左",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "サ",
+      "シャ"
+    ],
+    "kun": [
+      "ひだり"
+    ],
+    "meaningZh": "左邊",
+    "kanjivgId": "05de6"
+  },
+  {
+    "kanji": "年",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "ネン"
+    ],
+    "kun": [
+      "とし"
+    ],
+    "meaningZh": "年；年紀",
+    "kanjivgId": "05e74"
+  },
+  {
+    "kanji": "手",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "シュ",
+      "ズ"
+    ],
+    "kun": [
+      "て",
+      "て-",
+      "-て",
+      "た-"
+    ],
+    "meaningZh": "手",
+    "kanjivgId": "0624b"
+  },
+  {
+    "kanji": "文",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "ブン",
+      "モン"
+    ],
+    "kun": [
+      "ふみ",
+      "あや"
+    ],
+    "meaningZh": "文章；文字",
+    "kanjivgId": "06587"
+  },
+  {
+    "kanji": "日",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kun": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "meaningZh": "太陽；日子",
+    "kanjivgId": "065e5"
+  },
+  {
+    "kanji": "早",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "ソウ",
+      "サッ"
+    ],
+    "kun": [
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "meaningZh": "早；快",
+    "kanjivgId": "065e9"
+  },
+  {
+    "kanji": "月",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kun": [
+      "つき"
+    ],
+    "meaningZh": "月亮；月份",
+    "kanjivgId": "06708"
+  },
+  {
+    "kanji": "木",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "ボク",
+      "モク"
+    ],
+    "kun": [
+      "き",
+      "こ-"
+    ],
+    "meaningZh": "樹；木頭",
+    "kanjivgId": "06728"
+  },
+  {
+    "kanji": "本",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "ホン"
+    ],
+    "kun": [
+      "もと"
+    ],
+    "meaningZh": "書；根本",
+    "kanjivgId": "0672c"
+  },
+  {
+    "kanji": "村",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "むら"
+    ],
+    "meaningZh": "村子",
+    "kanjivgId": "06751"
+  },
+  {
+    "kanji": "林",
+    "grade": 1,
+    "strokes": 8,
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "はやし"
+    ],
+    "meaningZh": "樹林",
+    "kanjivgId": "06797"
+  },
+  {
+    "kanji": "校",
+    "grade": 1,
+    "strokes": 10,
+    "on": [
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [],
+    "meaningZh": "學校",
+    "kanjivgId": "06821"
+  },
+  {
+    "kanji": "森",
+    "grade": 1,
+    "strokes": 12,
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "もり"
+    ],
+    "meaningZh": "森林",
+    "kanjivgId": "068ee"
+  },
+  {
+    "kanji": "正",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に"
+    ],
+    "meaningZh": "正確；端正",
+    "kanjivgId": "06b63"
+  },
+  {
+    "kanji": "気",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "キ",
+      "ケ"
+    ],
+    "kun": [
+      "き"
+    ],
+    "meaningZh": "空氣；心情",
+    "kanjivgId": "06c17"
+  },
+  {
+    "kanji": "水",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "みず",
+      "みず-"
+    ],
+    "meaningZh": "水",
+    "kanjivgId": "06c34"
+  },
+  {
+    "kanji": "火",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "ひ",
+      "-び",
+      "ほ-"
+    ],
+    "meaningZh": "火；星期二",
+    "kanjivgId": "0706b"
+  },
+  {
+    "kanji": "犬",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "いぬ",
+      "いぬ-"
+    ],
+    "meaningZh": "狗",
+    "kanjivgId": "072ac"
+  },
+  {
+    "kanji": "玉",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "ギョク"
+    ],
+    "kun": [
+      "たま",
+      "たま-",
+      "-だま"
+    ],
+    "meaningZh": "球；珠子",
+    "kanjivgId": "07389"
+  },
+  {
+    "kanji": "王",
+    "grade": 1,
+    "strokes": 4,
+    "on": [
+      "オウ",
+      "-ノウ"
+    ],
+    "kun": [],
+    "meaningZh": "國王",
+    "kanjivgId": "0738b"
+  },
+  {
+    "kanji": "生",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+    ],
+    "meaningZh": "出生；活著；生的",
+    "kanjivgId": "0751f"
+  },
+  {
+    "kanji": "田",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "デン"
+    ],
+    "kun": [
+      "た"
+    ],
+    "meaningZh": "田地",
+    "kanjivgId": "07530"
+  },
+  {
+    "kanji": "男",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "ダン",
+      "ナン"
+    ],
+    "kun": [
+      "おとこ",
+      "お"
+    ],
+    "meaningZh": "男生",
+    "kanjivgId": "07537"
+  },
+  {
+    "kanji": "町",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "まち"
+    ],
+    "meaningZh": "城鎮",
+    "kanjivgId": "0753a"
+  },
+  {
+    "kanji": "白",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "ハク",
+      "ビャク"
+    ],
+    "kun": [
+      "しろ",
+      "しら-",
+      "しろ.い"
+    ],
+    "meaningZh": "白色",
+    "kanjivgId": "0767d"
+  },
+  {
+    "kanji": "百",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "ヒャク",
+      "ビャク"
+    ],
+    "kun": [
+      "もも"
+    ],
+    "meaningZh": "一百",
+    "kanjivgId": "0767e"
+  },
+  {
+    "kanji": "目",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "モク",
+      "ボク"
+    ],
+    "kun": [
+      "め",
+      "-め",
+      "ま-"
+    ],
+    "meaningZh": "眼睛",
+    "kanjivgId": "076ee"
+  },
+  {
+    "kanji": "石",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "セキ",
+      "シャク",
+      "コク"
+    ],
+    "kun": [
+      "いし"
+    ],
+    "meaningZh": "石頭",
+    "kanjivgId": "077f3"
+  },
+  {
+    "kanji": "空",
+    "grade": 1,
+    "strokes": 8,
+    "on": [
+      "クウ"
+    ],
+    "kun": [
+      "そら",
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "から",
+      "す.く",
+      "す.かす",
+      "むな.しい"
+    ],
+    "meaningZh": "天空；空的",
+    "kanjivgId": "07a7a"
+  },
+  {
+    "kanji": "立",
+    "grade": 1,
+    "strokes": 5,
+    "on": [
+      "リツ",
+      "リュウ",
+      "リットル"
+    ],
+    "kun": [
+      "た.つ",
+      "-た.つ",
+      "た.ち-",
+      "た.てる",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
+    ],
+    "meaningZh": "站立",
+    "kanjivgId": "07acb"
+  },
+  {
+    "kanji": "竹",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "チク"
+    ],
+    "kun": [
+      "たけ"
+    ],
+    "meaningZh": "竹子",
+    "kanjivgId": "07af9"
+  },
+  {
+    "kanji": "糸",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "いと"
+    ],
+    "meaningZh": "線",
+    "kanjivgId": "07cf8"
+  },
+  {
+    "kanji": "耳",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "みみ"
+    ],
+    "meaningZh": "耳朵",
+    "kanjivgId": "08033"
+  },
+  {
+    "kanji": "花",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "はな"
+    ],
+    "meaningZh": "花",
+    "kanjivgId": "082b1"
+  },
+  {
+    "kanji": "草",
+    "grade": 1,
+    "strokes": 9,
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "くさ",
+      "くさ-",
+      "-ぐさ"
+    ],
+    "meaningZh": "草",
+    "kanjivgId": "08349"
+  },
+  {
+    "kanji": "虫",
+    "grade": 1,
+    "strokes": 6,
+    "on": [
+      "チュウ",
+      "キ"
+    ],
+    "kun": [
+      "むし"
+    ],
+    "meaningZh": "蟲",
+    "kanjivgId": "0866b"
+  },
+  {
+    "kanji": "見",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "み.る",
+      "み.える",
+      "み.せる"
+    ],
+    "meaningZh": "看",
+    "kanjivgId": "0898b"
+  },
+  {
+    "kanji": "貝",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "かい"
+    ],
+    "meaningZh": "貝殼",
+    "kanjivgId": "08c9d"
+  },
+  {
+    "kanji": "赤",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "セキ",
+      "シャク"
+    ],
+    "kun": [
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "meaningZh": "紅色",
+    "kanjivgId": "08d64"
+  },
+  {
+    "kanji": "足",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "あし",
+      "た.りる",
+      "た.る",
+      "た.す"
+    ],
+    "meaningZh": "腳；足夠",
+    "kanjivgId": "08db3"
+  },
+  {
+    "kanji": "車",
+    "grade": 1,
+    "strokes": 7,
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "くるま"
+    ],
+    "meaningZh": "車子",
+    "kanjivgId": "08eca"
+  },
+  {
+    "kanji": "金",
+    "grade": 1,
+    "strokes": 8,
+    "on": [
+      "キン",
+      "コン",
+      "ゴン"
+    ],
+    "kun": [
+      "かね",
+      "かな-",
+      "-がね"
+    ],
+    "meaningZh": "金；錢；星期五",
+    "kanjivgId": "091d1"
+  },
+  {
+    "kanji": "雨",
+    "grade": 1,
+    "strokes": 8,
+    "on": [
+      "ウ"
+    ],
+    "kun": [
+      "あめ",
+      "あま-",
+      "-さめ"
+    ],
+    "meaningZh": "雨",
+    "kanjivgId": "096e8"
+  },
+  {
+    "kanji": "青",
+    "grade": 1,
+    "strokes": 8,
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "meaningZh": "藍色",
+    "kanjivgId": "09752"
+  },
+  {
+    "kanji": "音",
+    "grade": 1,
+    "strokes": 9,
+    "on": [
+      "オン",
+      "イン",
+      "-ノン"
+    ],
+    "kun": [
+      "おと",
+      "ね"
+    ],
+    "meaningZh": "聲音",
+    "kanjivgId": "097f3"
+  }
+]
