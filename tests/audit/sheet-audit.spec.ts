@@ -169,6 +169,11 @@ for (const c of CASES) {
       })
 
       test('6. 視覺回歸', async ({ page }) => {
+        // 只在本機跑。baseline 是在 macOS 產生的，Linux runner 的字型渲染
+        // 不可能逐像素吻合，在 CI 比對只會製造假警報。
+        // 關卡 1–5 量的是尺寸與版面，跨平台一致，CI 照跑。
+        test.skip(!!process.env.CI, '視覺回歸只在本機執行（baseline 綁定 macOS 字型渲染）')
+
         // 容差刻意收緊：1% 相當於 35000 個像素，足以讓「拿掉筆順編號、加上筆順條」
         // 這種真實改動整個溜過去（實際發生過）。0.1% 仍能吸收字型反鋸齒雜訊。
         await expect(page.locator('.sheet')).toHaveScreenshot(`${name}.png`, {
