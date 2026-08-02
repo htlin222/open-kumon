@@ -5,7 +5,7 @@ const zh = JSON.parse(readFileSync('content/source/meanings-zh.json', 'utf8')) a
   string,
   string
 >
-const table = JSON.parse(readFileSync('data/raw/kyoiku-by-grade.json', 'utf8')) as Record<
+const table = JSON.parse(readFileSync('content/kyoiku-by-grade.json', 'utf8')) as Record<
   string,
   string[]
 >

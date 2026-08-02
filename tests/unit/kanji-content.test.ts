@@ -49,7 +49,7 @@ describe('content/kanji/1.json', () => {
   })
 
   it('順序與配当表一致（可重現）', () => {
-    const table = JSON.parse(readFileSync('data/raw/kyoiku-by-grade.json', 'utf8')) as Record<
+    const table = JSON.parse(readFileSync('content/kyoiku-by-grade.json', 'utf8')) as Record<
       string,
       string[]
     >

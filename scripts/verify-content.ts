@@ -9,7 +9,7 @@ import { readFileSync, existsSync } from 'node:fs'
 import { KanjiEntrySchema, GRADE_KANJI_COUNTS, TARGET_GRADES, type KanjiEntry } from '../src/content/schema.ts'
 import { makeKanjiGuard } from '../src/content/guard.ts'
 
-const table = JSON.parse(readFileSync('data/raw/kyoiku-by-grade.json', 'utf8')) as Record<
+const table = JSON.parse(readFileSync('content/kyoiku-by-grade.json', 'utf8')) as Record<
   string,
   string[]
 >

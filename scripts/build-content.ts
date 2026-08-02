@@ -15,7 +15,7 @@ interface KanjiApiEntry {
   kun_readings?: string[]
 }
 
-const table = JSON.parse(readFileSync('data/raw/kyoiku-by-grade.json', 'utf8')) as Record<
+const table = JSON.parse(readFileSync('content/kyoiku-by-grade.json', 'utf8')) as Record<
   string,
   string[]
 >

@@ -3,7 +3,7 @@ import { readFileSync, existsSync } from 'node:fs'
 import { GRADE_KANJI_COUNTS } from '../../src/content/schema'
 import { ADDED_TO_G4, MOVED, PREFECTURE_KANJI } from '../../src/content/kyoiku-revision-2020'
 
-const PATH = 'data/raw/kyoiku-by-grade.json'
+const PATH = 'content/kyoiku-by-grade.json'
 const table = (): Record<string, string[]> =>
   JSON.parse(readFileSync(PATH, 'utf8')) as Record<string, string[]>
 

@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: 單元測試
+        run: pnpm test
+
+      - name: 型別與建置
+        run: pnpm build
+
+      # 配当表護欄：任何素材用到超綱漢字就讓 CI 紅
+      - name: 內容驗證
+        run: pnpm content:verify
+
+      - name: 安裝 Chromium
+        run: pnpm exec playwright install --with-deps chromium
+
+      # 六道列印保真度關卡。失敗時要改版型，不是改閾值。
+      - name: 列印稽核
+        run: pnpm audit:sheets
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sheet-audits
+          path: audits/
+          retention-days: 14

@@ -4,7 +4,7 @@
  *   pnpm data:fetch
  *
  * 產出：
- *   data/raw/kyoiku-by-grade.json   現行学年別漢字配当表
+ *   content/kyoiku-by-grade.json    現行学年別漢字配当表（進 git）
  *   data/raw/kanji-details.json     每個字的音訓・画数（來源 kanjiapi.dev）
  *
  * 可重複執行；已抓過的字會跳過。
@@ -13,10 +13,13 @@ import { mkdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs'
 import { ADDED_TO_G4, MOVED } from '../src/content/kyoiku-revision-2020.ts'
 
 const RAW = 'data/raw'
+/** 配当表是衍生產物，但值得進 git —— CI 才不必連網重抓 */
+const TABLE_PATH = 'content/kyoiku-by-grade.json'
 const GRADES = [1, 2, 3, 4, 5, 6] as const
 const THROTTLE_MS = 80
 
 mkdirSync(RAW, { recursive: true })
+mkdirSync('content', { recursive: true })
 
 async function getJson<T>(url: string): Promise<T> {
   const res = await fetch(url)
@@ -83,8 +86,8 @@ async function fetchDetails(chars: string[]): Promise<void> {
 console.log('取得舊表…')
 const revised = applyRevision(await fetchOldTable())
 for (const g of GRADES) console.log(`  現行 ${g}年: ${revised[String(g)]!.length} 字`)
-writeFileSync(`${RAW}/kyoiku-by-grade.json`, JSON.stringify(revised, null, 2))
-console.log(`✓ ${RAW}/kyoiku-by-grade.json`)
+writeFileSync(TABLE_PATH, `${JSON.stringify(revised, null, 2)}\n`)
+console.log(`✓ ${TABLE_PATH}`)
 
 console.log('取得音訓・画数…')
 const targets = [1, 2, 3, 4, 5].flatMap((g) => revised[String(g)]!)
