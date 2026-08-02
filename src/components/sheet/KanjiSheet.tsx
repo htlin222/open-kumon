@@ -39,7 +39,8 @@ function Header({ unit, side }: { unit: KanjiUnit; side: string }) {
   return (
     <div className="sheet__header">
       <h1 className="sheet__title">
-        かん字 {unit.grade}年生 ・ だい{unit.unitNo}かい
+        かん字 {unit.grade}年生 ・{' '}
+        {unit.kind === 'review' ? 'ふくしゅう' : `だい${unit.unitNo}かい`}
         <span style={{ fontSize: '10pt', marginLeft: '3mm', color: '#666' }}>
           {side === 'front' ? 'おもて' : 'うら'}
         </span>
@@ -90,7 +91,9 @@ function Front({ unit, strokes }: { unit: KanjiUnit; strokes: Record<string, Str
 
       <p className="instruction">
         <PencilSimple size={20} weight="duotone" />
-        あたらしい かん字を なぞって かきましょう。
+        {unit.kind === 'review'
+          ? 'まえに ならった かん字を なぞって かきましょう。'
+          : 'あたらしい かん字を なぞって かきましょう。'}
       </p>
 
       {unit.newKanji.map((k) => (

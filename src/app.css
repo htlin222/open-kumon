@@ -74,3 +74,52 @@
     background: #fff;
   }
 }
+
+.chrome__stats {
+  display: flex;
+  gap: 14px;
+  margin: 12px 0;
+  font-size: 13px;
+  color: var(--fgColor-muted, #59636e);
+}
+
+.chrome__stats span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.chrome__today {
+  padding: 10px 12px;
+  margin: 12px 0;
+  font-size: 13px;
+  line-height: 1.6;
+  border-left: 3px solid var(--borderColor-accent-emphasis, #0969da);
+  background: var(--bgColor-accent-muted, #ddf4ff);
+  border-radius: 0 6px 6px 0;
+}
+
+.chrome__check-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.chrome__check-row[data-checked] {
+  background: var(--bgColor-attention-muted, #fff8c5);
+}
+
+.chrome__check-glyph {
+  font-family: 'Klee One', serif;
+  font-size: 26px;
+  line-height: 1;
+  min-width: 32px;
+}
+
+.chrome__check-gloss {
+  font-size: 13px;
+  color: var(--fgColor-muted, #59636e);
+}
