@@ -11,8 +11,10 @@ export const KANJI_BY_GRADE: Record<number, KanjiEntry[]> = {
   1: kanji1 as KanjiEntry[],
 }
 
+// JSON 匯入時 numbers 被推成 number[][]，但實際結構是 [x, y] 的 tuple。
+// TypeScript 無法從 JSON 字面值推出 tuple，所以要繞過 unknown。
 export const STROKES_BY_GRADE: Record<number, Record<string, StrokeData>> = {
-  1: strokes1 as Record<string, StrokeData>,
+  1: strokes1 as unknown as Record<string, StrokeData>,
 }
 
 export const AVAILABLE_GRADES = Object.keys(KANJI_BY_GRADE).map(Number).sort()
