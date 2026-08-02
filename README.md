@@ -1,6 +1,10 @@
 # open-kumon
 
+[![CI](https://github.com/htlin222/open-kumon/actions/workflows/ci.yml/badge.svg)](https://github.com/htlin222/open-kumon/actions/workflows/ci.yml)
+
 給台灣孩子的日本小學「国語」每日練習單。畫面上選好，一鍵印出 A4，寫完回網站勾錯題，隔天自動出下一張。
+
+**線上**：<https://open-kumon.pages.dev>（Cloudflare Access 保護，僅限白名單 email）
 
 課程骨架對齊「くもんの小学ドリル 国語」，範圍 1–5 年級。
 
@@ -44,6 +48,32 @@ Build-time pipeline：KANJIDIC2 / kanjiapi.dev（讀音）· KanjiVG（筆順）
 4. 單頁碳粉覆蓋率 ≤ 8%
 5. なぞり範字 ≥ 22mm、マス目 ≥ 18mm
 6. 視覺回歸比對
+
+## 目前進度
+
+| | 狀態 |
+|---|---|
+| 学年別漢字配当表（令和2年度・835 字） | ✅ |
+| 1 年級 80 字：音訓・畫數・zh-TW 釋義・筆順・插圖 | ✅ |
+| 漢字回版型（表：導入＋なぞり／裏：看圖寫字） | ✅ |
+| 六道列印稽核 + CI | ✅ |
+| 2–5 年級釋義（755 字） | ⬜ |
+| 課表引擎與錯題本 | ⬜ |
+| 言葉と文のきまり／文章の読解／書き方 版型 | ⬜ |
+| 程度檢定（Workers AI） | ⬜ |
+| D1 進度同步 | ⬜ |
+
+## 開發
+
+```bash
+pnpm install
+pnpm data:fetch          # 抓配当表與音訓（首次，約 70 秒）
+pnpm content:all         # 建構 content/ 並驗證
+pnpm dev                 # http://localhost:5173
+pnpm test                # 單元測試
+pnpm audit:sheets        # 列印稽核（六道關卡）
+./tools/deploy.sh        # 部署到 Cloudflare Pages
+```
 
 ## 文件
 
