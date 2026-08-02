@@ -15,7 +15,9 @@
     "content:build": "tsx scripts/build-content.ts",
     "content:verify": "tsx scripts/verify-content.ts",
     "audit:sheets": "playwright test tests/audit",
-    "content:strokes": "tsx scripts/build-strokes.ts"
+    "content:strokes": "tsx scripts/build-strokes.ts",
+    "content:illustrations": "tsx scripts/build-illustrations.ts",
+    "content:all": "pnpm content:build && pnpm content:strokes && pnpm content:illustrations && pnpm content:verify"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

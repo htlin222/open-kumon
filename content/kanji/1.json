@@ -12,7 +12,8 @@
       "ひと.つ"
     ],
     "meaningZh": "一",
-    "kanjivgId": "04e00"
+    "kanjivgId": "04e00",
+    "openmoji": "0031-FE0F-20E3"
   },
   {
     "kanji": "七",
@@ -27,7 +28,8 @@
       "なの"
     ],
     "meaningZh": "七",
-    "kanjivgId": "04e03"
+    "kanjivgId": "04e03",
+    "openmoji": "0037-FE0F-20E3"
   },
   {
     "kanji": "三",
@@ -43,7 +45,8 @@
       "みっ.つ"
     ],
     "meaningZh": "三",
-    "kanjivgId": "04e09"
+    "kanjivgId": "04e09",
+    "openmoji": "0033-FE0F-20E3"
   },
   {
     "kanji": "上",
@@ -72,7 +75,8 @@
       "たてまつ.る"
     ],
     "meaningZh": "上面；上升",
-    "kanjivgId": "04e0a"
+    "kanjivgId": "04e0a",
+    "openmoji": "2B06"
   },
   {
     "kanji": "下",
@@ -97,7 +101,8 @@
       "お.りる"
     ],
     "meaningZh": "下面；下降",
-    "kanjivgId": "04e0b"
+    "kanjivgId": "04e0b",
+    "openmoji": "2B07"
   },
   {
     "kanji": "中",
@@ -127,7 +132,8 @@
       "ここの.つ"
     ],
     "meaningZh": "九",
-    "kanjivgId": "04e5d"
+    "kanjivgId": "04e5d",
+    "openmoji": "0039-FE0F-20E3"
   },
   {
     "kanji": "二",
@@ -143,7 +149,8 @@
       "ふたたび"
     ],
     "meaningZh": "二",
-    "kanjivgId": "04e8c"
+    "kanjivgId": "04e8c",
+    "openmoji": "0032-FE0F-20E3"
   },
   {
     "kanji": "五",
@@ -157,7 +164,8 @@
       "いつ.つ"
     ],
     "meaningZh": "五",
-    "kanjivgId": "04e94"
+    "kanjivgId": "04e94",
+    "openmoji": "0035-FE0F-20E3"
   },
   {
     "kanji": "人",
@@ -173,7 +181,8 @@
       "-と"
     ],
     "meaningZh": "人",
-    "kanjivgId": "04eba"
+    "kanjivgId": "04eba",
+    "openmoji": "1F9CD"
   },
   {
     "kanji": "休",
@@ -188,7 +197,8 @@
       "やす.める"
     ],
     "meaningZh": "休息",
-    "kanjivgId": "04f11"
+    "kanjivgId": "04f11",
+    "openmoji": "1F634"
   },
   {
     "kanji": "先",
@@ -238,7 +248,8 @@
       "よう"
     ],
     "meaningZh": "八",
-    "kanjivgId": "0516b"
+    "kanjivgId": "0516b",
+    "openmoji": "0038-FE0F-20E3"
   },
   {
     "kanji": "六",
@@ -255,7 +266,8 @@
       "むい"
     ],
     "meaningZh": "六",
-    "kanjivgId": "0516d"
+    "kanjivgId": "0516d",
+    "openmoji": "0036-FE0F-20E3"
   },
   {
     "kanji": "円",
@@ -272,7 +284,8 @@
       "まろ.やか"
     ],
     "meaningZh": "日圓；圓形",
-    "kanjivgId": "05186"
+    "kanjivgId": "05186",
+    "openmoji": "1F4B4"
   },
   {
     "kanji": "出",
@@ -306,7 +319,8 @@
       "ちから"
     ],
     "meaningZh": "力氣",
-    "kanjivgId": "0529b"
+    "kanjivgId": "0529b",
+    "openmoji": "1F4AA"
   },
   {
     "kanji": "十",
@@ -323,7 +337,8 @@
       "そ"
     ],
     "meaningZh": "十",
-    "kanjivgId": "05341"
+    "kanjivgId": "05341",
+    "openmoji": "1F51F"
   },
   {
     "kanji": "千",
@@ -350,7 +365,8 @@
       "くち"
     ],
     "meaningZh": "嘴巴；出入口",
-    "kanjivgId": "053e3"
+    "kanjivgId": "053e3",
+    "openmoji": "1F444"
   },
   {
     "kanji": "右",
@@ -364,7 +380,8 @@
       "みぎ"
     ],
     "meaningZh": "右邊",
-    "kanjivgId": "053f3"
+    "kanjivgId": "053f3",
+    "openmoji": "27A1"
   },
   {
     "kanji": "名",
@@ -395,7 +412,8 @@
       "よん"
     ],
     "meaningZh": "四",
-    "kanjivgId": "056db"
+    "kanjivgId": "056db",
+    "openmoji": "0034-FE0F-20E3"
   },
   {
     "kanji": "土",
@@ -409,7 +427,8 @@
       "つち"
     ],
     "meaningZh": "泥土；星期六",
-    "kanjivgId": "0571f"
+    "kanjivgId": "0571f",
+    "openmoji": "1F30D"
   },
   {
     "kanji": "夕",
@@ -422,7 +441,8 @@
       "ゆう"
     ],
     "meaningZh": "傍晚",
-    "kanjivgId": "05915"
+    "kanjivgId": "05915",
+    "openmoji": "1F307"
   },
   {
     "kanji": "大",
@@ -469,7 +489,8 @@
       "め"
     ],
     "meaningZh": "女生",
-    "kanjivgId": "05973"
+    "kanjivgId": "05973",
+    "openmoji": "1F467"
   },
   {
     "kanji": "子",
@@ -486,7 +507,8 @@
       "ね"
     ],
     "meaningZh": "小孩",
-    "kanjivgId": "05b50"
+    "kanjivgId": "05b50",
+    "openmoji": "1F9D2"
   },
   {
     "kanji": "字",
@@ -544,7 +566,8 @@
       "やま"
     ],
     "meaningZh": "山",
-    "kanjivgId": "05c71"
+    "kanjivgId": "05c71",
+    "openmoji": "26F0"
   },
   {
     "kanji": "川",
@@ -557,7 +580,8 @@
       "かわ"
     ],
     "meaningZh": "河川",
-    "kanjivgId": "05ddd"
+    "kanjivgId": "05ddd",
+    "openmoji": "1F3DE"
   },
   {
     "kanji": "左",
@@ -571,7 +595,8 @@
       "ひだり"
     ],
     "meaningZh": "左邊",
-    "kanjivgId": "05de6"
+    "kanjivgId": "05de6",
+    "openmoji": "2B05"
   },
   {
     "kanji": "年",
@@ -584,7 +609,8 @@
       "とし"
     ],
     "meaningZh": "年；年紀",
-    "kanjivgId": "05e74"
+    "kanjivgId": "05e74",
+    "openmoji": "1F4C5"
   },
   {
     "kanji": "手",
@@ -601,7 +627,8 @@
       "た-"
     ],
     "meaningZh": "手",
-    "kanjivgId": "0624b"
+    "kanjivgId": "0624b",
+    "openmoji": "270B"
   },
   {
     "kanji": "文",
@@ -616,7 +643,8 @@
       "あや"
     ],
     "meaningZh": "文章；文字",
-    "kanjivgId": "06587"
+    "kanjivgId": "06587",
+    "openmoji": "1F4DD"
   },
   {
     "kanji": "日",
@@ -632,7 +660,8 @@
       "-か"
     ],
     "meaningZh": "太陽；日子",
-    "kanjivgId": "065e5"
+    "kanjivgId": "065e5",
+    "openmoji": "2600"
   },
   {
     "kanji": "早",
@@ -651,7 +680,8 @@
       "さ-"
     ],
     "meaningZh": "早；快",
-    "kanjivgId": "065e9"
+    "kanjivgId": "065e9",
+    "openmoji": "1F305"
   },
   {
     "kanji": "月",
@@ -665,7 +695,8 @@
       "つき"
     ],
     "meaningZh": "月亮；月份",
-    "kanjivgId": "06708"
+    "kanjivgId": "06708",
+    "openmoji": "1F319"
   },
   {
     "kanji": "木",
@@ -680,7 +711,8 @@
       "こ-"
     ],
     "meaningZh": "樹；木頭",
-    "kanjivgId": "06728"
+    "kanjivgId": "06728",
+    "openmoji": "1F333"
   },
   {
     "kanji": "本",
@@ -693,7 +725,8 @@
       "もと"
     ],
     "meaningZh": "書；根本",
-    "kanjivgId": "0672c"
+    "kanjivgId": "0672c",
+    "openmoji": "1F4D6"
   },
   {
     "kanji": "村",
@@ -706,7 +739,8 @@
       "むら"
     ],
     "meaningZh": "村子",
-    "kanjivgId": "06751"
+    "kanjivgId": "06751",
+    "openmoji": "1F3D8"
   },
   {
     "kanji": "林",
@@ -731,7 +765,8 @@
     ],
     "kun": [],
     "meaningZh": "學校",
-    "kanjivgId": "06821"
+    "kanjivgId": "06821",
+    "openmoji": "1F3EB"
   },
   {
     "kanji": "森",
@@ -744,7 +779,8 @@
       "もり"
     ],
     "meaningZh": "森林",
-    "kanjivgId": "068ee"
+    "kanjivgId": "068ee",
+    "openmoji": "1F332"
   },
   {
     "kanji": "正",
@@ -789,7 +825,8 @@
       "みず-"
     ],
     "meaningZh": "水",
-    "kanjivgId": "06c34"
+    "kanjivgId": "06c34",
+    "openmoji": "1F4A7"
   },
   {
     "kanji": "火",
@@ -804,7 +841,8 @@
       "ほ-"
     ],
     "meaningZh": "火；星期二",
-    "kanjivgId": "0706b"
+    "kanjivgId": "0706b",
+    "openmoji": "1F525"
   },
   {
     "kanji": "犬",
@@ -818,7 +856,8 @@
       "いぬ-"
     ],
     "meaningZh": "狗",
-    "kanjivgId": "072ac"
+    "kanjivgId": "072ac",
+    "openmoji": "1F415"
   },
   {
     "kanji": "玉",
@@ -833,7 +872,8 @@
       "-だま"
     ],
     "meaningZh": "球；珠子",
-    "kanjivgId": "07389"
+    "kanjivgId": "07389",
+    "openmoji": "1F48E"
   },
   {
     "kanji": "王",
@@ -845,7 +885,8 @@
     ],
     "kun": [],
     "meaningZh": "國王",
-    "kanjivgId": "0738b"
+    "kanjivgId": "0738b",
+    "openmoji": "1F451"
   },
   {
     "kanji": "生",
@@ -876,7 +917,8 @@
       "-う"
     ],
     "meaningZh": "出生；活著；生的",
-    "kanjivgId": "0751f"
+    "kanjivgId": "0751f",
+    "openmoji": "1F331"
   },
   {
     "kanji": "田",
@@ -889,7 +931,8 @@
       "た"
     ],
     "meaningZh": "田地",
-    "kanjivgId": "07530"
+    "kanjivgId": "07530",
+    "openmoji": "1F33E"
   },
   {
     "kanji": "男",
@@ -904,7 +947,8 @@
       "お"
     ],
     "meaningZh": "男生",
-    "kanjivgId": "07537"
+    "kanjivgId": "07537",
+    "openmoji": "1F466"
   },
   {
     "kanji": "町",
@@ -917,7 +961,8 @@
       "まち"
     ],
     "meaningZh": "城鎮",
-    "kanjivgId": "0753a"
+    "kanjivgId": "0753a",
+    "openmoji": "1F3D9"
   },
   {
     "kanji": "白",
@@ -933,7 +978,8 @@
       "しろ.い"
     ],
     "meaningZh": "白色",
-    "kanjivgId": "0767d"
+    "kanjivgId": "0767d",
+    "openmoji": "26AA"
   },
   {
     "kanji": "百",
@@ -947,7 +993,8 @@
       "もも"
     ],
     "meaningZh": "一百",
-    "kanjivgId": "0767e"
+    "kanjivgId": "0767e",
+    "openmoji": "1F4AF"
   },
   {
     "kanji": "目",
@@ -963,7 +1010,8 @@
       "ま-"
     ],
     "meaningZh": "眼睛",
-    "kanjivgId": "076ee"
+    "kanjivgId": "076ee",
+    "openmoji": "1F441"
   },
   {
     "kanji": "石",
@@ -978,7 +1026,8 @@
       "いし"
     ],
     "meaningZh": "石頭",
-    "kanjivgId": "077f3"
+    "kanjivgId": "077f3",
+    "openmoji": "1FAA8"
   },
   {
     "kanji": "空",
@@ -998,7 +1047,8 @@
       "むな.しい"
     ],
     "meaningZh": "天空；空的",
-    "kanjivgId": "07a7a"
+    "kanjivgId": "07a7a",
+    "openmoji": "2601"
   },
   {
     "kanji": "立",
@@ -1048,7 +1098,8 @@
       "いと"
     ],
     "meaningZh": "線",
-    "kanjivgId": "07cf8"
+    "kanjivgId": "07cf8",
+    "openmoji": "1F9F5"
   },
   {
     "kanji": "耳",
@@ -1061,7 +1112,8 @@
       "みみ"
     ],
     "meaningZh": "耳朵",
-    "kanjivgId": "08033"
+    "kanjivgId": "08033",
+    "openmoji": "1F442"
   },
   {
     "kanji": "花",
@@ -1075,7 +1127,8 @@
       "はな"
     ],
     "meaningZh": "花",
-    "kanjivgId": "082b1"
+    "kanjivgId": "082b1",
+    "openmoji": "1F337"
   },
   {
     "kanji": "草",
@@ -1090,7 +1143,8 @@
       "-ぐさ"
     ],
     "meaningZh": "草",
-    "kanjivgId": "08349"
+    "kanjivgId": "08349",
+    "openmoji": "1F33F"
   },
   {
     "kanji": "虫",
@@ -1104,7 +1158,8 @@
       "むし"
     ],
     "meaningZh": "蟲",
-    "kanjivgId": "0866b"
+    "kanjivgId": "0866b",
+    "openmoji": "1F41B"
   },
   {
     "kanji": "見",
@@ -1119,7 +1174,8 @@
       "み.せる"
     ],
     "meaningZh": "看",
-    "kanjivgId": "0898b"
+    "kanjivgId": "0898b",
+    "openmoji": "1F440"
   },
   {
     "kanji": "貝",
@@ -1132,7 +1188,8 @@
       "かい"
     ],
     "meaningZh": "貝殼",
-    "kanjivgId": "08c9d"
+    "kanjivgId": "08c9d",
+    "openmoji": "1F41A"
   },
   {
     "kanji": "赤",
@@ -1150,7 +1207,8 @@
       "あか.らめる"
     ],
     "meaningZh": "紅色",
-    "kanjivgId": "08d64"
+    "kanjivgId": "08d64",
+    "openmoji": "1F534"
   },
   {
     "kanji": "足",
@@ -1166,7 +1224,8 @@
       "た.す"
     ],
     "meaningZh": "腳；足夠",
-    "kanjivgId": "08db3"
+    "kanjivgId": "08db3",
+    "openmoji": "1F9B6"
   },
   {
     "kanji": "車",
@@ -1179,7 +1238,8 @@
       "くるま"
     ],
     "meaningZh": "車子",
-    "kanjivgId": "08eca"
+    "kanjivgId": "08eca",
+    "openmoji": "1F697"
   },
   {
     "kanji": "金",
@@ -1196,7 +1256,8 @@
       "-がね"
     ],
     "meaningZh": "金；錢；星期五",
-    "kanjivgId": "091d1"
+    "kanjivgId": "091d1",
+    "openmoji": "1F4B0"
   },
   {
     "kanji": "雨",
@@ -1211,7 +1272,8 @@
       "-さめ"
     ],
     "meaningZh": "雨",
-    "kanjivgId": "096e8"
+    "kanjivgId": "096e8",
+    "openmoji": "1F327"
   },
   {
     "kanji": "青",
@@ -1227,7 +1289,8 @@
       "あお.い"
     ],
     "meaningZh": "藍色",
-    "kanjivgId": "09752"
+    "kanjivgId": "09752",
+    "openmoji": "1F535"
   },
   {
     "kanji": "音",
@@ -1243,6 +1306,7 @@
       "ね"
     ],
     "meaningZh": "聲音",
-    "kanjivgId": "097f3"
+    "kanjivgId": "097f3",
+    "openmoji": "1F3B5"
   }
 ]
