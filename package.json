@@ -31,8 +31,7 @@
     "@tabler/icons-react": "^3.46.0",
     "lucide-react": "^1.28.0",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8",
-    "styled-components": "^6.4.4"
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@playwright/test": "^1.62.1",

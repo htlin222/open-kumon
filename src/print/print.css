@@ -1,0 +1,123 @@
+/*
+ * 練習單版面。
+ *
+ * 這份樣式刻意不吃 Primer 的 typography —— Primer 是為 GitHub 那種高密度
+ * 開發者介面設計的（base 14px、不少元件 12px），直接用在給小孩描字的紙上
+ * 會全部太小。App 外殼歸 Primer，紙面歸這裡。
+ *
+ * 螢幕預覽與列印用的是同一份 DOM，只靠 transform 縮放。所見即所印。
+ */
+
+@page {
+  size: A4;
+  margin: 12mm 14mm;
+}
+
+:root {
+  --sheet-width: 210mm;
+  --sheet-height: 297mm;
+  --sheet-margin-y: 12mm;
+  --sheet-margin-x: 14mm;
+
+  --trace-glyph: 22mm;
+  --writing-cell: 18mm;
+  --clearance: 5mm;
+
+  --fs-sentence: 14pt;
+  --fs-instruction: 12pt;
+  --fs-annotation: 10pt;
+
+  --ink-strong: #111;
+  --ink-rule: #9aa0a6;
+  --ink-trace: #b0b0b0;
+  --ink-guide: #ccd0d5;
+}
+
+/* 一頁 = 一個 .sheet。表裏是兩個 .sheet */
+.sheet {
+  box-sizing: border-box;
+  width: var(--sheet-width);
+  height: var(--sheet-height);
+  padding: var(--sheet-margin-y) var(--sheet-margin-x);
+  background: #fff;
+  color: var(--ink-strong);
+  font-family: 'Klee One', 'Hiragino Mincho ProN', serif;
+  font-feature-settings: 'palt' 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.sheet__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  border-bottom: 1.5px solid var(--ink-rule);
+  padding-bottom: 2mm;
+  margin-bottom: 4mm;
+}
+
+.sheet__title {
+  font-size: var(--fs-sentence);
+  font-weight: 600;
+  margin: 0;
+}
+
+.sheet__meta {
+  font-size: var(--fs-annotation);
+  color: #444;
+}
+
+.sheet__footer {
+  margin-top: auto;
+  padding-top: 2mm;
+  border-top: 1px solid var(--ink-guide);
+  font-size: var(--fs-annotation);
+  color: #666;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* 頁尾的授權標示。設計文件說 6pt，但絕對下限是 9pt —— 下限贏。 */
+.sheet__credit {
+  font-size: var(--fs-annotation);
+  color: #888;
+}
+
+.instruction {
+  font-size: var(--fs-instruction);
+  display: flex;
+  align-items: center;
+  gap: 2mm;
+  margin: 0 0 2mm;
+}
+
+/* 螢幕預覽：把真實 A4 縮進視窗，不改內容 */
+@media screen {
+  .sheet {
+    box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 8px 24px rgb(0 0 0 / 12%);
+    margin: 0 auto;
+  }
+}
+
+@media print {
+  .app-chrome {
+    display: none !important;
+  }
+
+  .sheet {
+    box-shadow: none;
+    margin: 0;
+    /* 表裏各自成頁 */
+    break-after: page;
+  }
+
+  .sheet:last-of-type {
+    break-after: auto;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

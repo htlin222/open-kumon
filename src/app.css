@@ -1,0 +1,76 @@
+/* App 外殼。這裡吃 Primer 的尺度；紙面的樣式在 print/print.css，兩者互不干涉。 */
+
+.chrome__unit {
+  font-size: 12px;
+  color: var(--fgColor-muted, #59636e);
+}
+
+.chrome__nav {
+  display: flex;
+  gap: 8px;
+  margin: 16px 0;
+}
+
+.chrome__print {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.chrome__section-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--fgColor-muted, #59636e);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 8px;
+}
+
+.chrome__kanji-row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 10px 0;
+  border-top: 1px solid var(--borderColor-muted, #d1d9e0b3);
+}
+
+.chrome__kanji-glyph {
+  font-family: 'Klee One', serif;
+  font-size: 40px;
+  line-height: 1;
+  flex: 0 0 auto;
+}
+
+.chrome__kanji-gloss {
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.chrome__kanji-detail {
+  font-size: 12px;
+  color: var(--fgColor-muted, #59636e);
+  line-height: 1.6;
+}
+
+.chrome__note {
+  margin-top: 20px;
+  padding: 10px 12px;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--fgColor-muted, #59636e);
+  background: var(--bgColor-neutral-muted, #818b981f);
+  border-radius: 6px;
+}
+
+.preview-area {
+  padding: 24px;
+  background: var(--bgColor-inset, #f6f8fa);
+  min-height: 100vh;
+}
+
+@media print {
+  .preview-area {
+    padding: 0;
+    background: #fff;
+  }
+}
