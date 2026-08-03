@@ -75,6 +75,31 @@ describe('語彙資料', () => {
     expect(withEx / 300).toBeLessThan(0.5)
   })
 
+  it('有例句的詞裡，N5 排在 N4 之前（JLPT 分級主導排序）', () => {
+    for (const g of GRADES) {
+      const withEx = vocab[g]!.filter((e) => e.example && e.jlpt !== null)
+      const levels = withEx.map((e) => e.jlpt!)
+      for (let i = 1; i < levels.length; i++) {
+        expect(levels[i]!, `${g}年級第 ${i} 個詞`).toBeLessThanOrEqual(levels[i - 1]!)
+      }
+    }
+  })
+
+  it('不在 JLPT 詞表內的詞排在有等級的之後', () => {
+    for (const g of GRADES) {
+      const withEx = vocab[g]!.filter((e) => e.example)
+      const firstNull = withEx.findIndex((e) => e.jlpt === null)
+      if (firstNull !== -1) {
+        expect(withEx.slice(firstNull).every((e) => e.jlpt === null), `${g}年級`).toBe(true)
+      }
+    }
+  })
+
+  it('1 年級的前幾個詞都是 N5', () => {
+    const head = vocab[1]!.filter((e) => e.example).slice(0, 5)
+    for (const e of head) expect(e.jlpt, e.ja).toBe(5)
+  })
+
   it('沒有罕用漢字寫法混入（rK/iK 已濾掉）', () => {
     const all = GRADES.flatMap((g) => vocab[g]!)
     // 這幾個是先前實際混進來過的罕用寫法，用它們當哨兵

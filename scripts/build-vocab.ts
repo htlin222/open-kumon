@@ -15,7 +15,17 @@
  *
  * 中文釋義另外處理（content/source/vocab-zh.json），那部分擁有者看得懂、能檢查。
  *
+ * 【選詞的依據】
+ * 先前用的是機械規則（短的優先），那只保證「這是真的日文」，保證不了
+ * 「這是這個階段該先學的詞」。現在改用 JLPT 分級詞表當主要排序 ——
+ * N5 的詞先教，然後 N4、N3。這仍不是教材編者的判斷，但至少是一份
+ * 有人整理過、按難度分過級的清單，而不是我的猜測。
+ *
+ * 注意：JLPT 自 2010 年改制後不再公布官方詞表。這份是 Jonathan Waller
+ * 依舊制重建的通行版本，屬於合理的代用品而非權威資料。
+ *
  * 來源：JMdict (EDRDG, CC BY-SA 4.0) · 例句 Tatoeba (CC BY 2.0 FR)
+ *      JLPT 分級 Jonathan Waller / tanos.co.uk (CC BY)
  */
 import { mkdirSync, readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs'
 import { TARGET_GRADES, type KanjiEntry } from '../src/content/schema.ts'
@@ -46,6 +56,8 @@ export interface VocabEntry {
   exampleEn: string | null
   /** 這個詞用到的漢字 */
   kanji: string[]
+  /** JLPT 等級：5 = N5 … 1 = N1；不在詞表內為 null */
+  jlpt: number | null
 }
 
 /** 不適合小學生的詞性與標記 */
@@ -75,6 +87,14 @@ const table = JSON.parse(readFileSync('content/kyoiku-by-grade.json', 'utf8')) a
   string[]
 >
 const guard = makeKanjiGuard(table)
+
+/** 表記 → JLPT 等級（5 = N5 … 1 = N1） */
+const jlptLevels: Record<string, { reading: string; level: number }[]> = existsSync(
+  `${RAW}/jlpt-vocab.json`,
+)
+  ? JSON.parse(readFileSync(`${RAW}/jlpt-vocab.json`, 'utf8'))
+  : {}
+const jlptOf = (word: string): number | null => jlptLevels[word]?.[0]?.level ?? null
 
 console.log('讀取 JMdict…')
 const dict = JSON.parse(readFileSync(findJmdict(), 'utf8')) as { words: JmdictWord[] }
@@ -154,6 +174,7 @@ for (const grade of TARGET_GRADES) {
       example,
       exampleEn,
       kanji: [...new Set([...form.text].filter((c) => HAS_KANJI.test(c) && known.has(c)))],
+      jlpt: jlptOf(form.text),
     })
 
   }
@@ -163,11 +184,13 @@ for (const grade of TARGET_GRADES) {
   //
   // 排序準則，由重到輕：
   //   1. 有例句 —— 例句是這套教材的重點，沒例句的只是字表
-  //   2. 短的優先 —— 二三字的詞對小學生比五字的複合詞好用
-  //   3. 表記與字典順序 —— 讓結果可重現
+  //   2. JLPT 等級低的優先（N5 → N1）—— 這取代了先前「短的優先」那個猜測
+  //   3. 不在 JLPT 詞表內的排最後 —— 它們合規但未必值得先學
+  //   4. 短的優先，然後字典順序 —— 讓結果可重現
   picked.sort(
     (a, b) =>
       Number(Boolean(b.example)) - Number(Boolean(a.example)) ||
+      (b.jlpt ?? 0) - (a.jlpt ?? 0) ||
       a.ja.length - b.ja.length ||
       (a.ja < b.ja ? -1 : a.ja > b.ja ? 1 : 0),
   )

@@ -1,69 +1,499 @@
 [
   {
-    "ja": "仏",
-    "reading": "ほとけ",
+    "ja": "厚い",
+    "reading": "あつい",
     "glossEn": [
-      "Buddha",
-      "Shakyamuni"
+      "thick",
+      "deep"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "氷は２インチの厚さだ。",
+    "exampleEn": "The ice is two inches thick.",
+    "kanji": [
+      "厚"
+    ],
+    "jlpt": 5
+  },
+  {
+    "ja": "大勢",
+    "reading": "おおぜい",
+    "glossEn": [
+      "crowd of people",
+      "great number of people"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "そこには大勢の人がいた。",
+    "exampleEn": "There was a large crowd there.",
+    "kanji": [
+      "大",
+      "勢"
+    ],
+    "jlpt": 5
+  },
+  {
+    "ja": "授業",
+    "reading": "じゅぎょう",
+    "glossEn": [
+      "lesson",
+      "class"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "それは授業の終わりだった。",
+    "exampleEn": "That was the end of the class.",
+    "kanji": [
+      "授",
+      "業"
+    ],
+    "jlpt": 5
+  },
+  {
+    "ja": "結構",
+    "reading": "けっこう",
+    "glossEn": [
+      "splendid",
+      "nice"
+    ],
+    "partOfSpeech": [
+      "adj-na"
+    ],
+    "example": "どちらの日でも結構です。",
+    "exampleEn": "Either day is OK.",
+    "kanji": [
+      "結",
+      "構"
+    ],
+    "jlpt": 5
+  },
+  {
+    "ja": "易しい",
+    "reading": "やさしい",
+    "glossEn": [
+      "easy",
+      "plain"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "この仕事は決してやさしくない。",
+    "exampleEn": "This work is by no means easy.",
+    "kanji": [
+      "易"
+    ],
+    "jlpt": 5
+  },
+  {
+    "ja": "留学生",
+    "reading": "りゅうがくせい",
+    "glossEn": [
+      "overseas student",
+      "exchange student"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "あの人は仏のような人だ。",
-    "exampleEn": "He is a saint of a man.",
+    "example": "３人の中国人留学生がその大学に入学が許された。",
+    "exampleEn": "Three Chinese students were admitted to the college.",
     "kanji": [
-      "仏"
-    ]
+      "留",
+      "学",
+      "生"
+    ],
+    "jlpt": 5
   },
   {
-    "ja": "仮",
-    "reading": "かり",
+    "ja": "夢",
+    "reading": "ゆめ",
     "glossEn": [
-      "temporary",
-      "provisional"
+      "dream"
     ],
     "partOfSpeech": [
-      "adj-no",
-      "pref"
+      "n"
     ],
-    "example": "仮のブリッジをいれます。",
-    "exampleEn": "You'll need a temporary bridge.",
+    "example": "あなたの夢がみんな実現されますように。",
+    "exampleEn": "May all your dreams come true!",
     "kanji": [
-      "仮"
-    ]
+      "夢"
+    ],
+    "jlpt": 4
   },
   {
-    "ja": "像",
-    "reading": "ぞう",
+    "ja": "似る",
+    "reading": "にる",
     "glossEn": [
-      "image",
-      "figure"
+      "to resemble",
+      "to look like"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "ニュージーランドの気候は日本のと似ている。",
+    "exampleEn": "The climate of New Zealand is similar to that of Japan.",
+    "kanji": [
+      "似"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "原因",
+    "reading": "げんいん",
+    "glossEn": [
+      "cause",
+      "origin"
     ],
     "partOfSpeech": [
       "n",
-      "n-suf"
+      "vs",
+      "vi"
     ],
-    "example": "その像は型に入れられて作られた。",
-    "exampleEn": "The statue was cast in a mold.",
+    "example": "それで事故の原因が分かった。",
+    "exampleEn": "That accounts for the accident.",
     "kanji": [
-      "像"
-    ]
+      "原",
+      "因"
+    ],
+    "jlpt": 4
   },
   {
-    "ja": "再",
-    "reading": "さい",
+    "ja": "喜ぶ",
+    "reading": "よろこぶ",
     "glossEn": [
-      "re-",
-      "again"
+      "to be delighted",
+      "to be glad"
     ],
     "partOfSpeech": [
-      "pref"
+      "v5b",
+      "vt",
+      "vi"
     ],
-    "example": "ビザの再発給をお願いしたいのですが。",
-    "exampleEn": "Could you please issue me a visa again?",
+    "example": "喜んで質問に答えましょう。",
+    "exampleEn": "I'll be happy to answer your question.",
     "kanji": [
-      "再"
-    ]
+      "喜"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "国際",
+    "reading": "こくさい",
+    "glossEn": [
+      "international"
+    ],
+    "partOfSpeech": [
+      "adj-no",
+      "n"
+    ],
+    "example": "今月は国際貿易見本市が開かれている。",
+    "exampleEn": "We are having an international trade fair this month.",
+    "kanji": [
+      "国",
+      "際"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "女性",
+    "reading": "じょせい",
+    "glossEn": [
+      "woman",
+      "female"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "その少女は大きくなってすらりとした女性になった。",
+    "exampleEn": "The girl has grown into a slender woman.",
+    "kanji": [
+      "女",
+      "性"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "寄る",
+    "reading": "よる",
+    "glossEn": [
+      "to approach",
+      "to draw near"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "ちょっと寄って行きませんか。",
+    "exampleEn": "Won't you come in for a moment?",
+    "kanji": [
+      "寄"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "復習",
+    "reading": "ふくしゅう",
+    "glossEn": [
+      "review (of learned material)",
+      "revision"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "その課の復習をしましたか。",
+    "exampleEn": "Have you gone over the lesson?",
+    "kanji": [
+      "復",
+      "習"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "田舎",
+    "reading": "いなか",
+    "glossEn": [
+      "rural area",
+      "countryside"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "１週間田舎にいてすっかり元気になったような気がする。",
+    "exampleEn": "I feel completely restored after a week in the country.",
+    "kanji": [
+      "田",
+      "舎"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "移る",
+    "reading": "うつる",
+    "glossEn": [
+      "to move (to another place or state)",
+      "to change (e.g. of state, affiliation, scenery, etc.)"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "ハイジャック犯達は飛行機の後部に移った。",
+    "exampleEn": "The hijackers moved to the rear of the plane.",
+    "kanji": [
+      "移"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "習慣",
+    "reading": "しゅうかん",
+    "glossEn": [
+      "habit"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その習慣は中国で始まった。",
+    "exampleEn": "The custom originated in China.",
+    "kanji": [
+      "習",
+      "慣"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "興味",
+    "reading": "きょうみ",
+    "glossEn": [
+      "interest (in something)",
+      "curiosity (about something)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたは花に興味がありますか。",
+    "exampleEn": "Are you interested in flowers?",
+    "kanji": [
+      "興",
+      "味"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "複雑",
+    "reading": "ふくざつ",
+    "glossEn": [
+      "complex",
+      "complicated"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "あれはとても複雑な機械だ。",
+    "exampleEn": "That is a very complex machine.",
+    "kanji": [
+      "複",
+      "雑"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "規則",
+    "reading": "きそく",
+    "glossEn": [
+      "rule",
+      "regulation"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この規則はあなたにも当てはまる。",
+    "exampleEn": "This rule applies to you, too.",
+    "kanji": [
+      "規",
+      "則"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "講堂",
+    "reading": "こうどう",
+    "glossEn": [
+      "auditorium",
+      "lecture hall"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その教師は講堂に学生を集めた。",
+    "exampleEn": "The teacher assembled the students in the hall.",
+    "kanji": [
+      "講",
+      "堂"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "講義",
+    "reading": "こうぎ",
+    "glossEn": [
+      "lecture"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "その講義へ来た人はほとんどいなかった。",
+    "exampleEn": "Few people came to the lecture.",
+    "kanji": [
+      "講",
+      "義"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "増える",
+    "reading": "ふえる",
+    "glossEn": [
+      "to increase",
+      "to multiply"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "ここの交通量は増えた。",
+    "exampleEn": "The traffic has built up here.",
+    "kanji": [
+      "増"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "慣れる",
+    "reading": "なれる",
+    "glossEn": [
+      "to get used to",
+      "to grow accustomed to"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "学生の時は勉強することになれていた。",
+    "exampleEn": "I was used to studying when I was a student.",
+    "kanji": [
+      "慣"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "美術館",
+    "reading": "びじゅつかん",
+    "glossEn": [
+      "art museum",
+      "art gallery"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "このバスは美術館まで行きますか。",
+    "exampleEn": "Does this bus go to the museum?",
+    "kanji": [
+      "美",
+      "術",
+      "館"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "過ぎる",
+    "reading": "すぎる",
+    "glossEn": [
+      "to pass through",
+      "to pass by"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "このスープは、しょっぱ過ぎて飲めないよ。",
+    "exampleEn": "This soup is too salty to eat.",
+    "kanji": [
+      "過"
+    ],
+    "jlpt": 4
+  },
+  {
+    "ja": "天気予報",
+    "reading": "てんきよほう",
+    "glossEn": [
+      "weather forecast",
+      "weather report"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "天気予報が当たったよ。",
+    "exampleEn": "The weather forecast was right.",
+    "kanji": [
+      "天",
+      "気",
+      "予",
+      "報"
+    ],
+    "jlpt": 4
   },
   {
     "ja": "型",
@@ -80,55 +510,8 @@
     "exampleEn": "The statue was cast in a mold.",
     "kanji": [
       "型"
-    ]
-  },
-  {
-    "ja": "報",
-    "reading": "ほう",
-    "glossEn": [
-      "information",
-      "news"
     ],
-    "partOfSpeech": [
-      "n",
-      "n-suf"
-    ],
-    "example": "国民全体は国王死去の報を聞いて悲しんだ。",
-    "exampleEn": "The whole nation was sad to hear that their king died.",
-    "kanji": [
-      "報"
-    ]
-  },
-  {
-    "ja": "夢",
-    "reading": "ゆめ",
-    "glossEn": [
-      "dream"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "あなたの夢がみんな実現されますように。",
-    "exampleEn": "May all your dreams come true!",
-    "kanji": [
-      "夢"
-    ]
-  },
-  {
-    "ja": "志",
-    "reading": "こころざし",
-    "glossEn": [
-      "will",
-      "resolution"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "何事をするにも志が大切。",
-    "exampleEn": "The will is as good as the deed.",
-    "kanji": [
-      "志"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "性",
@@ -143,7 +526,8 @@
     "exampleEn": "Habit is second nature.",
     "kanji": [
       "性"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "損",
@@ -162,7 +546,8 @@
     "exampleEn": "You may go farther and fare worse.",
     "kanji": [
       "損"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "毒",
@@ -178,40 +563,8 @@
     "exampleEn": "This fish is free from poison.",
     "kanji": [
       "毒"
-    ]
-  },
-  {
-    "ja": "略",
-    "reading": "りゃく",
-    "glossEn": [
-      "abbreviation",
-      "omission"
     ],
-    "partOfSpeech": [
-      "n",
-      "n-suf"
-    ],
-    "example": "ＡＩは人工知能の略です。",
-    "exampleEn": "AI stands for artificial intelligence.",
-    "kanji": [
-      "略"
-    ]
-  },
-  {
-    "ja": "益",
-    "reading": "えき",
-    "glossEn": [
-      "benefit",
-      "use"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "労なくして益なし。",
-    "exampleEn": "No pain, no gain.",
-    "kanji": [
-      "益"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "程",
@@ -228,7 +581,8 @@
     "exampleEn": "I wish I could play the piano as well as Susie.",
     "kanji": [
       "程"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "粉",
@@ -244,7 +598,8 @@
     "exampleEn": "This wheat is made into flour.",
     "kanji": [
       "粉"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "素",
@@ -260,23 +615,8 @@
     "exampleEn": "It seems like that she wasn't acting back then; they were her real feelings.",
     "kanji": [
       "素"
-    ]
-  },
-  {
-    "ja": "総",
-    "reading": "そう",
-    "glossEn": [
-      "whole",
-      "total"
     ],
-    "partOfSpeech": [
-      "pref"
-    ],
-    "example": "総入れ歯にする必要があります。",
-    "exampleEn": "You have to have a full denture.",
-    "kanji": [
-      "総"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "罪",
@@ -294,7 +634,8 @@
     "exampleEn": "Bill did not commit the crime.",
     "kanji": [
       "罪"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "能",
@@ -310,57 +651,8 @@
     "exampleEn": "Noh is a traditional Japanese art.",
     "kanji": [
       "能"
-    ]
-  },
-  {
-    "ja": "術",
-    "reading": "じゅつ",
-    "glossEn": [
-      "art",
-      "technique"
     ],
-    "partOfSpeech": [
-      "n",
-      "n-suf"
-    ],
-    "example": "ボクシングは、打たれずに打つ術だと定義されている。",
-    "exampleEn": "Boxing has been defined as the art of hitting without being hit.",
-    "kanji": [
-      "術"
-    ]
-  },
-  {
-    "ja": "製",
-    "reading": "せい",
-    "glossEn": [
-      "make",
-      "manufacture"
-    ],
-    "partOfSpeech": [
-      "n-suf",
-      "n"
-    ],
-    "example": "これらの箱はプラスチック製です。",
-    "exampleEn": "These boxes are made of plastic.",
-    "kanji": [
-      "製"
-    ]
-  },
-  {
-    "ja": "費",
-    "reading": "ひ",
-    "glossEn": [
-      "cost",
-      "expense"
-    ],
-    "partOfSpeech": [
-      "n-suf"
-    ],
-    "example": "製造費は予算の３６パーセントと見積もっている。",
-    "exampleEn": "I estimate the production costs to be 36 percent of the budget.",
-    "kanji": [
-      "費"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "質",
@@ -377,110 +669,8 @@
     "exampleEn": "The quality of tea is going down.",
     "kanji": [
       "質"
-    ]
-  },
-  {
-    "ja": "銅",
-    "reading": "どう",
-    "glossEn": [
-      "copper (Cu)"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "銅はよく電気を通す。",
-    "exampleEn": "Copper conducts electricity well.",
-    "kanji": [
-      "銅"
-    ]
-  },
-  {
-    "ja": "際",
-    "reading": "さい",
-    "glossEn": [
-      "occasion",
-      "time"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "火事の際は１１９番に電話してください。",
-    "exampleEn": "In the case of fire, dial 119.",
-    "kanji": [
-      "際"
-    ]
-  },
-  {
-    "ja": "一個",
-    "reading": "いっこ",
-    "glossEn": [
-      "one (thing)",
-      "one piece"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "そのオレンジは１個７ペンスでした。",
-    "exampleEn": "The oranges cost 7 pence each.",
-    "kanji": [
-      "一",
-      "個"
-    ]
-  },
-  {
-    "ja": "一応",
-    "reading": "いちおう",
-    "glossEn": [
-      "more or less",
-      "though not quite satisfactorily"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no",
-      "adv"
-    ],
-    "example": "ええ、先方から一応返事はありました。",
-    "exampleEn": "Yeah, there was some sort of reply from them.",
-    "kanji": [
-      "一",
-      "応"
-    ]
-  },
-  {
-    "ja": "万能",
-    "reading": "ばんのう",
-    "glossEn": [
-      "all-purpose",
-      "utility"
-    ],
-    "partOfSpeech": [
-      "adj-no",
-      "n"
-    ],
-    "example": "人間は神ほど万能ではない。",
-    "exampleEn": "Man is not as almighty as God.",
-    "kanji": [
-      "万",
-      "能"
-    ]
-  },
-  {
-    "ja": "上告",
-    "reading": "じょうこく",
-    "glossEn": [
-      "final appeal to the highest court"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その判決が不満で上告する。",
-    "exampleEn": "I will appeal against the sentence.",
-    "kanji": [
-      "上",
-      "告"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "不可",
@@ -500,60 +690,8 @@
     "kanji": [
       "不",
       "可"
-    ]
-  },
-  {
-    "ja": "不能",
-    "reading": "ふのう",
-    "glossEn": [
-      "impossible",
-      "incapable (of doing)"
     ],
-    "partOfSpeech": [
-      "adj-na",
-      "n"
-    ],
-    "example": "不能になりました。",
-    "exampleEn": "I've become impotent.",
-    "kanji": [
-      "不",
-      "能"
-    ]
-  },
-  {
-    "ja": "中絶",
-    "reading": "ちゅうぜつ",
-    "glossEn": [
-      "abortion"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "２年前中絶しました。",
-    "exampleEn": "I had an abortion two years ago.",
-    "kanji": [
-      "中",
-      "絶"
-    ]
-  },
-  {
-    "ja": "主任",
-    "reading": "しゅにん",
-    "glossEn": [
-      "person in charge",
-      "senior staff"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "その問題は主任をひどく苦しめた。",
-    "exampleEn": "The problem tortured the chief.",
-    "kanji": [
-      "主",
-      "任"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "主婦",
@@ -570,7 +708,8 @@
     "kanji": [
       "主",
       "婦"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "予報",
@@ -589,7 +728,8 @@
     "kanji": [
       "予",
       "報"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "予測",
@@ -608,7 +748,8 @@
     "kanji": [
       "予",
       "測"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "事件",
@@ -625,7 +766,8 @@
     "kanji": [
       "事",
       "件"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "事情",
@@ -642,27 +784,8 @@
     "kanji": [
       "事",
       "情"
-    ]
-  },
-  {
-    "ja": "交易",
-    "reading": "こうえき",
-    "glossEn": [
-      "trade",
-      "commerce"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "戦争中米国は英国との交易を中断しようとした。",
-    "exampleEn": "During the war, America tried to stop trading with England.",
-    "kanji": [
-      "交",
-      "易"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "交際",
@@ -681,548 +804,8 @@
     "kanji": [
       "交",
       "際"
-    ]
-  },
-  {
-    "ja": "人質",
-    "reading": "ひとじち",
-    "glossEn": [
-      "hostage"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "人質は解放されるだろう。",
-    "exampleEn": "The hostages will be released.",
-    "kanji": [
-      "人",
-      "質"
-    ]
-  },
-  {
-    "ja": "仏語",
-    "reading": "ふつご",
-    "glossEn": [
-      "French (language)"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "ジムは仏語と独語が自由に使える。",
-    "exampleEn": "Jim mastered French and German.",
-    "kanji": [
-      "仏",
-      "語"
-    ]
-  },
-  {
-    "ja": "付属",
-    "reading": "ふぞく",
-    "glossEn": [
-      "being attached (to)",
-      "being affiliated (to)"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi",
-      "adj-no"
-    ],
-    "example": "そのカレッジは大学に付属している。",
-    "exampleEn": "The college is affiliated with the university.",
-    "kanji": [
-      "付",
-      "属"
-    ]
-  },
-  {
-    "ja": "仮に",
-    "reading": "かりに",
-    "glossEn": [
-      "supposing",
-      "even if"
-    ],
-    "partOfSpeech": [
-      "adv"
-    ],
-    "example": "あなたがもし仮に一万ドルを持っていたらどうしますか。",
-    "exampleEn": "What would you do if you had, say, ten thousand dollars?",
-    "kanji": [
-      "仮"
-    ]
-  },
-  {
-    "ja": "仮説",
-    "reading": "かせつ",
-    "glossEn": [
-      "hypothesis",
-      "supposition"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "これらのデータはその仮説を支持している。",
-    "exampleEn": "This data supports the hypothesis.",
-    "kanji": [
-      "仮",
-      "説"
-    ]
-  },
-  {
-    "ja": "件数",
-    "reading": "けんすう",
-    "glossEn": [
-      "number of cases, incidents, items, messages, accounts, etc."
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "交通事故の件数が増加している。",
-    "exampleEn": "There has been an increase in the number of traffic accidents.",
-    "kanji": [
-      "件",
-      "数"
-    ]
-  },
-  {
-    "ja": "休講",
-    "reading": "きゅうこう",
-    "glossEn": [
-      "cancellation (of a lecture, class, etc.)"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "この授業は明日休講です。",
-    "exampleEn": "This lesson is cancelled tomorrow.",
-    "kanji": [
-      "休",
-      "講"
-    ]
-  },
-  {
-    "ja": "似る",
-    "reading": "にる",
-    "glossEn": [
-      "to resemble",
-      "to look like"
-    ],
-    "partOfSpeech": [
-      "v1",
-      "vi"
-    ],
-    "example": "ニュージーランドの気候は日本のと似ている。",
-    "exampleEn": "The climate of New Zealand is similar to that of Japan.",
-    "kanji": [
-      "似"
-    ]
-  },
-  {
-    "ja": "体格",
-    "reading": "たいかく",
-    "glossEn": [
-      "build",
-      "physique"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "そのスポーツ選手はがっしりした体格をしていた。",
-    "exampleEn": "The athlete had a strong build.",
-    "kanji": [
-      "体",
-      "格"
-    ]
-  },
-  {
-    "ja": "何故",
-    "reading": "なぜ",
-    "glossEn": [
-      "why",
-      "how"
-    ],
-    "partOfSpeech": [
-      "adv"
-    ],
-    "example": "あなたはなぜ働いているの。",
-    "exampleEn": "How come you're still working?",
-    "kanji": [
-      "何",
-      "故"
-    ]
-  },
-  {
-    "ja": "余り",
-    "reading": "あまり",
-    "glossEn": [
-      "remainder",
-      "remnant"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "この手の本はあまり読まない。",
-    "exampleEn": "I don't read this kind of book much.",
-    "kanji": [
-      "余"
-    ]
-  },
-  {
-    "ja": "余る",
-    "reading": "あまる",
-    "glossEn": [
-      "to remain",
-      "to be left over"
-    ],
-    "partOfSpeech": [
-      "v5r",
-      "vi"
-    ],
-    "example": "日本では米が、ヨーロッパではワインが余っている。",
-    "exampleEn": "Japan has a surplus of rice, Europe of wine.",
-    "kanji": [
-      "余"
-    ]
-  },
-  {
-    "ja": "余波",
-    "reading": "よは",
-    "glossEn": [
-      "waves that remain after the wind has subsided"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "台風の余波で２日間停電した。",
-    "exampleEn": "There was no electricity for two days in the aftermath of the typhoon.",
-    "kanji": [
-      "余",
-      "波"
-    ]
-  },
-  {
-    "ja": "余計",
-    "reading": "よけい",
-    "glossEn": [
-      "extra",
-      "more"
-    ],
-    "partOfSpeech": [
-      "adj-na"
-    ],
-    "example": "こんな余計な機能なんでつけたんだろう。",
-    "exampleEn": "What did they add this needless function for?",
-    "kanji": [
-      "余",
-      "計"
-    ]
-  },
-  {
-    "ja": "保つ",
-    "reading": "たもつ",
-    "glossEn": [
-      "to keep",
-      "to preserve"
-    ],
-    "partOfSpeech": [
-      "v5t",
-      "vt"
-    ],
-    "example": "体面を保つために行った。",
-    "exampleEn": "For appearances sake, I went.",
-    "kanji": [
-      "保"
-    ]
-  },
-  {
-    "ja": "保健",
-    "reading": "ほけん",
-    "glossEn": [
-      "preservation of health",
-      "hygiene"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "ＷＨＯとは世界保健機構を表す。",
-    "exampleEn": "WHO stands for World Health Organization.",
-    "kanji": [
-      "保",
-      "健"
-    ]
-  },
-  {
-    "ja": "保有",
-    "reading": "ほゆう",
-    "glossEn": [
-      "possession",
-      "retention"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その会社はアメリカ資本が５１％保有している。",
-    "exampleEn": "The company is 51% owned by American capital.",
-    "kanji": [
-      "保",
-      "有"
-    ]
-  },
-  {
-    "ja": "保留",
-    "reading": "ほりゅう",
-    "glossEn": [
-      "reservation",
-      "putting on hold"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その件は保留にしておこう。",
-    "exampleEn": "Let's put that on hold.",
-    "kanji": [
-      "保",
-      "留"
-    ]
-  },
-  {
-    "ja": "保護",
-    "reading": "ほご",
-    "glossEn": [
-      "protection",
-      "safeguard"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その子はおじの保護を受けている。",
-    "exampleEn": "He is in custody of his uncle.",
-    "kanji": [
-      "保",
-      "護"
-    ]
-  },
-  {
-    "ja": "保険",
-    "reading": "ほけん",
-    "glossEn": [
-      "insurance"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "この保険は何もかもカバーする。",
-    "exampleEn": "This insurance covers everything.",
-    "kanji": [
-      "保",
-      "険"
-    ]
-  },
-  {
-    "ja": "修復",
-    "reading": "しゅうふく",
-    "glossEn": [
-      "restoration",
-      "repair"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その城は修復され市民に公開されている。",
-    "exampleEn": "The castle has been restored and is open to the public.",
-    "kanji": [
-      "修",
-      "復"
-    ]
-  },
-  {
-    "ja": "個室",
-    "reading": "こしつ",
-    "glossEn": [
-      "single (room)",
-      "room for one"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "個室を予約したいのですが？",
-    "exampleEn": "I'd like to reserve a private compartment.",
-    "kanji": [
-      "個",
-      "室"
-    ]
-  },
-  {
-    "ja": "停止",
-    "reading": "ていし",
-    "glossEn": [
-      "stoppage",
-      "coming to a stop"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "コンピューター・システムは午後８時に自動的に停止する。",
-    "exampleEn": "The computer system shuts down automatically at 8pm.",
-    "kanji": [
-      "停",
-      "止"
-    ]
-  },
-  {
-    "ja": "停車",
-    "reading": "ていしゃ",
-    "glossEn": [
-      "stopping (of a train, car, etc.)",
-      "stop"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "この列車は各駅に停車する。",
-    "exampleEn": "This train stops at every station.",
-    "kanji": [
-      "停",
-      "車"
-    ]
-  },
-  {
-    "ja": "停電",
-    "reading": "ていでん",
-    "glossEn": [
-      "power outage",
-      "power failure"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "台風の余波で２日間停電した。",
-    "exampleEn": "There was no electricity for two days in the aftermath of the typhoon.",
-    "kanji": [
-      "停",
-      "電"
-    ]
-  },
-  {
-    "ja": "備え",
-    "reading": "そなえ",
-    "glossEn": [
-      "preparation",
-      "provision"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "このお金は、もしものときの備えです。",
-    "exampleEn": "This money is for a rainy day.",
-    "kanji": [
-      "備"
-    ]
-  },
-  {
-    "ja": "元素",
-    "reading": "げんそ",
-    "glossEn": [
-      "element",
-      "chemical element"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "元素記号Ｈは水素をあらわす。",
-    "exampleEn": "The chemical symbol H indicates hydrogen.",
-    "kanji": [
-      "元",
-      "素"
-    ]
-  },
-  {
-    "ja": "先導",
-    "reading": "せんどう",
-    "glossEn": [
-      "guidance",
-      "leadership"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "そのパレードは軍楽隊に先導された。",
-    "exampleEn": "The parade was led by an army band.",
-    "kanji": [
-      "先",
-      "導"
-    ]
-  },
-  {
-    "ja": "全額",
-    "reading": "ぜんがく",
-    "glossEn": [
-      "total",
-      "full amount"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "なるべく早く、全額をご送金くださるようお願いします。",
-    "exampleEn": "May we ask you to remit the settlement in full at your earliest convenience?",
-    "kanji": [
-      "全",
-      "額"
-    ]
-  },
-  {
-    "ja": "公判",
-    "reading": "こうはん",
-    "glossEn": [
-      "public hearing",
-      "trial"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "その殺人者は今、公判中だ。",
-    "exampleEn": "The murderer is now on trial.",
-    "kanji": [
-      "公",
-      "判"
-    ]
-  },
-  {
-    "ja": "公務",
-    "reading": "こうむ",
-    "glossEn": [
-      "official business",
-      "public business"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "公務のために多くの時間がとられる。",
-    "exampleEn": "My public duties take a lot of time.",
-    "kanji": [
-      "公",
-      "務"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "内容",
@@ -1239,25 +822,8 @@
     "kanji": [
       "内",
       "容"
-    ]
-  },
-  {
-    "ja": "内政",
-    "reading": "ないせい",
-    "glossEn": [
-      "domestic affairs",
-      "internal administration"
     ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "その省は内政問題の行政をつかさどる。",
-    "exampleEn": "The ministry administers the internal affairs.",
-    "kanji": [
-      "内",
-      "政"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "再び",
@@ -1273,103 +839,8 @@
     "exampleEn": "Can such a thing happen again?",
     "kanji": [
       "再"
-    ]
-  },
-  {
-    "ja": "再建",
-    "reading": "さいけん",
-    "glossEn": [
-      "rebuilding",
-      "reconstruction"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その城は、１４８５年に全焼して、再建されなかった。",
-    "exampleEn": "The castle, burnt down in 1485, was not rebuilt.",
-    "kanji": [
-      "再",
-      "建"
-    ]
-  },
-  {
-    "ja": "再燃",
-    "reading": "さいねん",
-    "glossEn": [
-      "recurrence",
-      "revival"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その問題が再燃した。",
-    "exampleEn": "The problem has come to the fore again.",
-    "kanji": [
-      "再",
-      "燃"
-    ]
-  },
-  {
-    "ja": "再生",
-    "reading": "さいせい",
-    "glossEn": [
-      "restoration to life",
-      "coming to life again"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "録音が終わったらそれを再生して聞かせてください。",
-    "exampleEn": "Please play it back for me after you've finished the recording.",
-    "kanji": [
-      "再",
-      "生"
-    ]
-  },
-  {
-    "ja": "再起",
-    "reading": "さいき",
-    "glossEn": [
-      "comeback",
-      "recovery"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その選手は見事に再起した。",
-    "exampleEn": "The player made a splendid comeback.",
-    "kanji": [
-      "再",
-      "起"
-    ]
-  },
-  {
-    "ja": "出張",
-    "reading": "しゅっちょう",
-    "glossEn": [
-      "business trip",
-      "official trip"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "ロス出張をキャンセルしようかな。",
-    "exampleEn": "I should cancel my L.A. trip.",
-    "kanji": [
-      "出",
-      "張"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "出版",
@@ -1387,80 +858,8 @@
     "kanji": [
       "出",
       "版"
-    ]
-  },
-  {
-    "ja": "出費",
-    "reading": "しゅっぴ",
-    "glossEn": [
-      "expenses",
-      "disbursements"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "金をためるには出費を切りつめないと。",
-    "exampleEn": "We must cut our expenses to save money.",
-    "kanji": [
-      "出",
-      "費"
-    ]
-  },
-  {
-    "ja": "分解",
-    "reading": "ぶんかい",
-    "glossEn": [
-      "disassembly",
-      "dismantling"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "水は酸素と水素に分解できる。",
-    "exampleEn": "Water can be decomposed into oxygen and hydrogen.",
-    "kanji": [
-      "分",
-      "解"
-    ]
-  },
-  {
-    "ja": "初版",
-    "reading": "しょはん",
-    "glossEn": [
-      "first edition"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "初版は１０年前に出版された。",
-    "exampleEn": "The first edition was published ten years ago.",
-    "kanji": [
-      "初",
-      "版"
-    ]
-  },
-  {
-    "ja": "別個",
-    "reading": "べっこ",
-    "glossEn": [
-      "another",
-      "different"
-    ],
-    "partOfSpeech": [
-      "adj-no"
-    ],
-    "example": "その二つの考えはまったく別個のものだ。",
-    "exampleEn": "Those two ideas are quite distinct.",
-    "kanji": [
-      "別",
-      "個"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "利益",
@@ -1477,7 +876,8 @@
     "kanji": [
       "利",
       "益"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "制度",
@@ -1494,7 +894,8 @@
     "kanji": [
       "制",
       "度"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "加減",
@@ -1512,7 +913,8 @@
     "kanji": [
       "加",
       "減"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "勢い",
@@ -1528,99 +930,8 @@
     "exampleEn": "The storm abated.",
     "kanji": [
       "勢"
-    ]
-  },
-  {
-    "ja": "単独",
-    "reading": "たんどく",
-    "glossEn": [
-      "sole",
-      "single"
     ],
-    "partOfSpeech": [
-      "adj-no",
-      "adj-na"
-    ],
-    "example": "不幸は決して単独では来ない。",
-    "exampleEn": "Misfortunes seldom come singly.",
-    "kanji": [
-      "単",
-      "独"
-    ]
-  },
-  {
-    "ja": "厚い",
-    "reading": "あつい",
-    "glossEn": [
-      "thick",
-      "deep"
-    ],
-    "partOfSpeech": [
-      "adj-i"
-    ],
-    "example": "氷は２インチの厚さだ。",
-    "exampleEn": "The ice is two inches thick.",
-    "kanji": [
-      "厚"
-    ]
-  },
-  {
-    "ja": "原因",
-    "reading": "げんいん",
-    "glossEn": [
-      "cause",
-      "origin"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "それで事故の原因が分かった。",
-    "exampleEn": "That accounts for the accident.",
-    "kanji": [
-      "原",
-      "因"
-    ]
-  },
-  {
-    "ja": "受講",
-    "reading": "じゅこう",
-    "glossEn": [
-      "taking a lecture",
-      "attending a class"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "学生はこれらの英語コースの中から１つを受講する。",
-    "exampleEn": "Students will take one of these English courses.",
-    "kanji": [
-      "受",
-      "講"
-    ]
-  },
-  {
-    "ja": "可決",
-    "reading": "かけつ",
-    "glossEn": [
-      "approval",
-      "adoption (of a motion, bill, etc.)"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "委員会はその議案を可決した。",
-    "exampleEn": "The committee passed the bill.",
-    "kanji": [
-      "可",
-      "決"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "可能",
@@ -1638,63 +949,8 @@
     "kanji": [
       "可",
       "能"
-    ]
-  },
-  {
-    "ja": "史上",
-    "reading": "しじょう",
-    "glossEn": [
-      "in history",
-      "ever"
     ],
-    "partOfSpeech": [
-      "adj-no",
-      "n",
-      "adv"
-    ],
-    "example": "日本の貿易黒字は史上最高を記録しました。",
-    "exampleEn": "Japan's trade surplus soared to a record high.",
-    "kanji": [
-      "史",
-      "上"
-    ]
-  },
-  {
-    "ja": "合弁",
-    "reading": "ごうべん",
-    "glossEn": [
-      "joint management",
-      "pool"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "会社が日中合弁で経営しています。",
-    "exampleEn": "The company is operating under joint Sino-Japanese management.",
-    "kanji": [
-      "合",
-      "弁"
-    ]
-  },
-  {
-    "ja": "同居",
-    "reading": "どうきょ",
-    "glossEn": [
-      "living together",
-      "coexistence"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "キムはケンと同居している。",
-    "exampleEn": "Kim is living with Ken.",
-    "kanji": [
-      "同",
-      "居"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "周囲",
@@ -1712,58 +968,8 @@
     "kanji": [
       "周",
       "囲"
-    ]
-  },
-  {
-    "ja": "品質",
-    "reading": "ひんしつ",
-    "glossEn": [
-      "quality (of a product or a service)"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "もっと品質の良いものはありますか。",
-    "exampleEn": "Do you have better quality ones?",
-    "kanji": [
-      "品",
-      "質"
-    ]
-  },
-  {
-    "ja": "喜ぶ",
-    "reading": "よろこぶ",
-    "glossEn": [
-      "to be delighted",
-      "to be glad"
-    ],
-    "partOfSpeech": [
-      "v5b",
-      "vt",
-      "vi"
-    ],
-    "example": "喜んで質問に答えましょう。",
-    "exampleEn": "I'll be happy to answer your question.",
-    "kanji": [
-      "喜"
-    ]
-  },
-  {
-    "ja": "営む",
-    "reading": "いとなむ",
-    "glossEn": [
-      "to run (a business)",
-      "to operate"
-    ],
-    "partOfSpeech": [
-      "v5m",
-      "vt"
-    ],
-    "example": "その島には漁業を営む人たちが住んでいた。",
-    "exampleEn": "The island was inhabited by a fishing people.",
-    "kanji": [
-      "営"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "営業",
@@ -1782,7 +988,8 @@
     "kanji": [
       "営",
       "業"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "回復",
@@ -1802,211 +1009,8 @@
     "kanji": [
       "回",
       "復"
-    ]
-  },
-  {
-    "ja": "因果",
-    "reading": "いんが",
-    "glossEn": [
-      "cause and effect",
-      "causality"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "親の因果が子に報いる。",
-    "exampleEn": "The sins of the fathers are visited upon the children.",
-    "kanji": [
-      "因",
-      "果"
-    ]
-  },
-  {
-    "ja": "囲い",
-    "reading": "かこい",
-    "glossEn": [
-      "enclosure",
-      "fence"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "家の周りには囲いがしてある。",
-    "exampleEn": "There is a fence about the house.",
-    "kanji": [
-      "囲"
-    ]
-  },
-  {
-    "ja": "図解",
-    "reading": "ずかい",
-    "glossEn": [
-      "(explanatory) diagram",
-      "illustration"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "この図解は地球の深い内部を示している。",
-    "exampleEn": "The illustration shows the deep interior.",
-    "kanji": [
-      "図",
-      "解"
-    ]
-  },
-  {
-    "ja": "国防",
-    "reading": "こくぼう",
-    "glossEn": [
-      "national defence",
-      "national defense"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "国防のため大きな額が計上された。",
-    "exampleEn": "A considerable amount of money was appropriated for the national defense.",
-    "kanji": [
-      "国",
-      "防"
-    ]
-  },
-  {
-    "ja": "国際",
-    "reading": "こくさい",
-    "glossEn": [
-      "international"
-    ],
-    "partOfSpeech": [
-      "adj-no",
-      "n"
-    ],
-    "example": "今月は国際貿易見本市が開かれている。",
-    "exampleEn": "We are having an international trade fair this month.",
-    "kanji": [
-      "国",
-      "際"
-    ]
-  },
-  {
-    "ja": "圧力",
-    "reading": "あつりょく",
-    "glossEn": [
-      "pressure"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "橋が圧力で落ちた。",
-    "exampleEn": "The bridge crashed under the pressure.",
-    "kanji": [
-      "圧",
-      "力"
-    ]
-  },
-  {
-    "ja": "在学",
-    "reading": "ざいがく",
-    "glossEn": [
-      "attending (school, college, etc.)",
-      "being enrolled"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その学校には二千人の学生が在学している。",
-    "exampleEn": "There are 2,000 students in the school.",
-    "kanji": [
-      "在",
-      "学"
-    ]
-  },
-  {
-    "ja": "地価",
-    "reading": "ちか",
-    "glossEn": [
-      "the price of land"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "日本の地価は法外だ。",
-    "exampleEn": "Land prices are sky-high in Japan.",
-    "kanji": [
-      "地",
-      "価"
-    ]
-  },
-  {
-    "ja": "基地",
-    "reading": "きち",
-    "glossEn": [
-      "base (military, expedition, etc.)"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "この近くに軍の基地がある。",
-    "exampleEn": "There is a military base near here.",
-    "kanji": [
-      "基",
-      "地"
-    ]
-  },
-  {
-    "ja": "基調",
-    "reading": "きちょう",
-    "glossEn": [
-      "basic tone",
-      "underlying tone"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "バナーと同じ、白を基調としたデザイン。",
-    "exampleEn": "Like the banner, the design was based around the colour white.",
-    "kanji": [
-      "基",
-      "調"
-    ]
-  },
-  {
-    "ja": "基金",
-    "reading": "ききん",
-    "glossEn": [
-      "fund",
-      "foundation"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "シンガポールの中央基金は年金を支給する。",
-    "exampleEn": "Singapore's Central Fund provides pensions.",
-    "kanji": [
-      "基",
-      "金"
-    ]
-  },
-  {
-    "ja": "増し",
-    "reading": "まし",
-    "glossEn": [
-      "better",
-      "preferable"
-    ],
-    "partOfSpeech": [
-      "adj-na"
-    ],
-    "example": "非会員は50ドル増しとなります。",
-    "exampleEn": "Non-members pay an additional 50 dollars.",
-    "kanji": [
-      "増"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "増加",
@@ -2026,293 +1030,8 @@
     "kanji": [
       "増",
       "加"
-    ]
-  },
-  {
-    "ja": "増大",
-    "reading": "ぞうだい",
-    "glossEn": [
-      "enlargement",
-      "increase"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "貿易が国富を増大させた。",
-    "exampleEn": "Trade increased the country's wealth.",
-    "kanji": [
-      "増",
-      "大"
-    ]
-  },
-  {
-    "ja": "増発",
-    "reading": "ぞうはつ",
-    "glossEn": [
-      "increasing the number (of trains, planes, etc.) in operation"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "バスを増発しなければならない。",
-    "exampleEn": "Bus service must be increased in frequency.",
-    "kanji": [
-      "増",
-      "発"
-    ]
-  },
-  {
-    "ja": "増税",
-    "reading": "ぞうぜい",
-    "glossEn": [
-      "tax increase"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "大部分の日本人が増税に反対した。",
-    "exampleEn": "Most Japanese opposed a tax increase.",
-    "kanji": [
-      "増",
-      "税"
-    ]
-  },
-  {
-    "ja": "増設",
-    "reading": "ぞうせつ",
-    "glossEn": [
-      "adding (equipment, facilities, etc.)",
-      "establishing more"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "メモリ増設しようかな。",
-    "exampleEn": "Maybe I ought to expand the memory.",
-    "kanji": [
-      "増",
-      "設"
-    ]
-  },
-  {
-    "ja": "多額",
-    "reading": "たがく",
-    "glossEn": [
-      "large (amount of money)",
-      "huge"
-    ],
-    "partOfSpeech": [
-      "adj-no",
-      "adj-na",
-      "n"
-    ],
-    "example": "１０００ドルというのは、多額の金だ。",
-    "exampleEn": "A thousand dollars is a large sum.",
-    "kanji": [
-      "多",
-      "額"
-    ]
-  },
-  {
-    "ja": "大仏",
-    "reading": "だいぶつ",
-    "glossEn": [
-      "large statue of Buddha (trad. at least 4.8m high)"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "奈良は大仏で有名です。",
-    "exampleEn": "Nara is famous for Daibutsu.",
-    "kanji": [
-      "大",
-      "仏"
-    ]
-  },
-  {
-    "ja": "大勢",
-    "reading": "おおぜい",
-    "glossEn": [
-      "crowd of people",
-      "great number of people"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "そこには大勢の人がいた。",
-    "exampleEn": "There was a large crowd there.",
-    "kanji": [
-      "大",
-      "勢"
-    ]
-  },
-  {
-    "ja": "失態",
-    "reading": "しったい",
-    "glossEn": [
-      "blunder",
-      "fault"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "あの事件は大統領の失態であった。",
-    "exampleEn": "That incident was a black mark against the president.",
-    "kanji": [
-      "失",
-      "態"
-    ]
-  },
-  {
-    "ja": "女史",
-    "reading": "じょし",
-    "glossEn": [
-      "lady (of high social status; e.g. scholar, artist, critic, politician)"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "コブ女史が帰ってくる日が待ち遠しいよ。ほんとに。",
-    "exampleEn": "I'm looking forward to the day when Miss Cobb comes back, I can tell you.",
-    "kanji": [
-      "女",
-      "史"
-    ]
-  },
-  {
-    "ja": "女性",
-    "reading": "じょせい",
-    "glossEn": [
-      "woman",
-      "female"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "その少女は大きくなってすらりとした女性になった。",
-    "exampleEn": "The girl has grown into a slender woman.",
-    "kanji": [
-      "女",
-      "性"
-    ]
-  },
-  {
-    "ja": "婦長",
-    "reading": "ふちょう",
-    "glossEn": [
-      "head nurse"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "婦長と話したいのですが。",
-    "exampleEn": "Can I speak to the head nurse?",
-    "kanji": [
-      "婦",
-      "長"
-    ]
-  },
-  {
-    "ja": "学歴",
-    "reading": "がくれき",
-    "glossEn": [
-      "academic background",
-      "academic credentials"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "給料は、経験と学歴に基づいて決まります。",
-    "exampleEn": "Pay will be based on experience and educational background.",
-    "kanji": [
-      "学",
-      "歴"
-    ]
-  },
-  {
-    "ja": "守衛",
-    "reading": "しゅえい",
-    "glossEn": [
-      "(security) guard",
-      "caretaker"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "守衛にとがめられた。",
-    "exampleEn": "I was challenged by a gatekeeper.",
-    "kanji": [
-      "守",
-      "衛"
-    ]
-  },
-  {
-    "ja": "実在",
-    "reading": "じつざい",
-    "glossEn": [
-      "actual existence",
-      "real existence"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi",
-      "adj-no"
-    ],
-    "example": "サンタクロースが実在しないなんて信じない。",
-    "exampleEn": "I don't believe that Santa Claus is imaginary.",
-    "kanji": [
-      "実",
-      "在"
-    ]
-  },
-  {
-    "ja": "実情",
-    "reading": "じつじょう",
-    "glossEn": [
-      "real condition",
-      "actual circumstances"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "実情がどうなっているかはっきり言いましょう。",
-    "exampleEn": "I will tell you exactly how the matter stands.",
-    "kanji": [
-      "実",
-      "情"
-    ]
-  },
-  {
-    "ja": "実演",
-    "reading": "じつえん",
-    "glossEn": [
-      "demonstration",
-      "presentation"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "セールスマンはその使い方を実演した。",
-    "exampleEn": "The salesman demonstrated how to use it.",
-    "kanji": [
-      "実",
-      "演"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "実現",
@@ -2332,7 +1051,8 @@
     "kanji": [
       "実",
       "現"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "実際",
@@ -2350,7 +1070,8 @@
     "kanji": [
       "実",
       "際"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "容易",
@@ -2368,60 +1089,8 @@
     "kanji": [
       "容",
       "易"
-    ]
-  },
-  {
-    "ja": "容量",
-    "reading": "ようりょう",
-    "glossEn": [
-      "capacity",
-      "volume"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "タンクの容量は５０ガロンだ。",
-    "exampleEn": "The tank has a capacity of fifty-gallons.",
-    "kanji": [
-      "容",
-      "量"
-    ]
-  },
-  {
-    "ja": "寄る",
-    "reading": "よる",
-    "glossEn": [
-      "to approach",
-      "to draw near"
-    ],
-    "partOfSpeech": [
-      "v5r",
-      "vi"
-    ],
-    "example": "ちょっと寄って行きませんか。",
-    "exampleEn": "Won't you come in for a moment?",
-    "kanji": [
-      "寄"
-    ]
-  },
-  {
-    "ja": "対応",
-    "reading": "たいおう",
-    "glossEn": [
-      "correspondence (to)",
-      "equivalence"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その日本語に対応する英語はない。",
-    "exampleEn": "That Japanese word has no equivalent in English.",
-    "kanji": [
-      "対",
-      "応"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "対象",
@@ -2439,25 +1108,8 @@
     "kanji": [
       "対",
       "象"
-    ]
-  },
-  {
-    "ja": "小枝",
-    "reading": "こえだ",
-    "glossEn": [
-      "twig",
-      "spray"
     ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "小枝で火はおこせますか。",
-    "exampleEn": "Can you build a fire with twigs?",
-    "kanji": [
-      "小",
-      "枝"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "居る",
@@ -2474,96 +1126,8 @@
     "exampleEn": "They're all fine, thank you.",
     "kanji": [
       "居"
-    ]
-  },
-  {
-    "ja": "居住",
-    "reading": "きょじゅう",
-    "glossEn": [
-      "residence",
-      "living (at, in)"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "「居住外国人」とは、どういう意味ですか。",
-    "exampleEn": "What does \"resident alien\" mean?",
-    "kanji": [
-      "居",
-      "住"
-    ]
-  },
-  {
-    "ja": "市営",
-    "reading": "しえい",
-    "glossEn": [
-      "(under) municipal management (transport, housing, etc.)",
-      "city facility management"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "毎日市営プールに行きます。",
-    "exampleEn": "I go to the city pool every day.",
-    "kanji": [
-      "市",
-      "営"
-    ]
-  },
-  {
-    "ja": "布石",
-    "reading": "ふせき",
-    "glossEn": [
-      "strategic arrangement of go stones at the beginning of a game",
-      "opening moves"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "１発目のローキックはこの布石か！？",
-    "exampleEn": "The first low kick was the set-up for this!?",
-    "kanji": [
-      "布",
-      "石"
-    ]
-  },
-  {
-    "ja": "平均",
-    "reading": "へいきん",
-    "glossEn": [
-      "average",
-      "mean"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "今年の冬は気温が平均以上だ。",
-    "exampleEn": "The temperature is above average this winter.",
-    "kanji": [
-      "平",
-      "均"
-    ]
-  },
-  {
-    "ja": "年率",
-    "reading": "ねんりつ",
-    "glossEn": [
-      "annual rate (of interest)"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "四半期１．２％の成長は年率４．９％の成長率を意味する。",
-    "exampleEn": "A quarterly growth of 1.2% means an annual growth rate of 4.8%.",
-    "kanji": [
-      "年",
-      "率"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "広告",
@@ -2582,7 +1146,8 @@
     "kanji": [
       "広",
       "告"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "建設",
@@ -2601,46 +1166,8 @@
     "kanji": [
       "建",
       "設"
-    ]
-  },
-  {
-    "ja": "建造",
-    "reading": "けんぞう",
-    "glossEn": [
-      "building",
-      "construction"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "これはわが国で建造された最大のタンカーです。",
-    "exampleEn": "This is the largest tanker that has ever been constructed in our country.",
-    "kanji": [
-      "建",
-      "造"
-    ]
-  },
-  {
-    "ja": "弁明",
-    "reading": "べんめい",
-    "glossEn": [
-      "explanation",
-      "excuse"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "adj-no"
-    ],
-    "example": "君は自分の不始末をどう弁明するのか。",
-    "exampleEn": "What account can you give of your misbehavior?",
-    "kanji": [
-      "弁",
-      "明"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "張る",
@@ -2657,115 +1184,8 @@
     "exampleEn": "Have you ever seen a spider spinning its web?",
     "kanji": [
       "張"
-    ]
-  },
-  {
-    "ja": "形勢",
-    "reading": "けいせい",
-    "glossEn": [
-      "condition",
-      "situation"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "形勢は逆転した。",
-    "exampleEn": "Now the shoe is on the other foot.",
-    "kanji": [
-      "形",
-      "勢"
-    ]
-  },
-  {
-    "ja": "形容",
-    "reading": "けいよう",
-    "glossEn": [
-      "description",
-      "expression (in words)"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その王女は形容できないほど美しかった。",
-    "exampleEn": "The princess was beautiful beyond description.",
-    "kanji": [
-      "形",
-      "容"
-    ]
-  },
-  {
-    "ja": "形態",
-    "reading": "けいたい",
-    "glossEn": [
-      "form",
-      "shape"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "ジョギングは、運動として、好ましい形態になった。",
-    "exampleEn": "Jogging has become the favorite form of exercise.",
-    "kanji": [
-      "形",
-      "態"
-    ]
-  },
-  {
-    "ja": "往来",
-    "reading": "おうらい",
-    "glossEn": [
-      "coming and going",
-      "traffic"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "多くの人が往来する。",
-    "exampleEn": "Many a man comes and goes.",
-    "kanji": [
-      "往",
-      "来"
-    ]
-  },
-  {
-    "ja": "往生",
-    "reading": "おうじょう",
-    "glossEn": [
-      "passing on to the next life"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "こういう実行不可能な提案には往生する。",
-    "exampleEn": "Those impossible suggestions just annoy me.",
-    "kanji": [
-      "往",
-      "生"
-    ]
-  },
-  {
-    "ja": "後任",
-    "reading": "こうにん",
-    "glossEn": [
-      "successor"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "スミス氏が後任の委員長として発表された。",
-    "exampleEn": "Mr Smith was announced as the succeeding chairman.",
-    "kanji": [
-      "後",
-      "任"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "得る",
@@ -2782,7 +1202,8 @@
     "exampleEn": "It was a satisfactory arrangement for fifteen years.",
     "kanji": [
       "得"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "得意",
@@ -2801,289 +1222,8 @@
     "kanji": [
       "得",
       "意"
-    ]
-  },
-  {
-    "ja": "得点",
-    "reading": "とくてん",
-    "glossEn": [
-      "scoring",
-      "score"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "ハーフタイムでの得点はどうでしたか。",
-    "exampleEn": "What was the score at halftime?",
-    "kanji": [
-      "得",
-      "点"
-    ]
-  },
-  {
-    "ja": "復帰",
-    "reading": "ふっき",
-    "glossEn": [
-      "return",
-      "reversion"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "二年後にその歌手は復帰した。",
-    "exampleEn": "Two years later, the singer came back.",
-    "kanji": [
-      "復",
-      "帰"
-    ]
-  },
-  {
-    "ja": "復旧",
-    "reading": "ふっきゅう",
-    "glossEn": [
-      "restoration",
-      "restitution"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "現在、通常のサービスの早急な復旧に努めています。",
-    "exampleEn": "We are currently working to restore normal service as soon as possible.",
-    "kanji": [
-      "復",
-      "旧"
-    ]
-  },
-  {
-    "ja": "復活",
-    "reading": "ふっかつ",
-    "glossEn": [
-      "revival (of an old system, custom, fashion, etc.)",
-      "restoration"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "３０年前のファッションが復活した。",
-    "exampleEn": "Fashions of thirty years ago have come back in style.",
-    "kanji": [
-      "復",
-      "活"
-    ]
-  },
-  {
-    "ja": "復習",
-    "reading": "ふくしゅう",
-    "glossEn": [
-      "review (of learned material)",
-      "revision"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その課の復習をしましたか。",
-    "exampleEn": "Have you gone over the lesson?",
-    "kanji": [
-      "復",
-      "習"
-    ]
-  },
-  {
-    "ja": "復興",
-    "reading": "ふっこう",
-    "glossEn": [
-      "revival",
-      "reconstruction"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "それはさらにいっそうの活力で復興した。",
-    "exampleEn": "It revived with even greater vigor.",
-    "kanji": [
-      "復",
-      "興"
-    ]
-  },
-  {
-    "ja": "必修",
-    "reading": "ひっしゅう",
-    "glossEn": [
-      "required (subject)"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "体育の授業は全員が必修です。",
-    "exampleEn": "The physical fitness courses are required for everyone.",
-    "kanji": [
-      "必",
-      "修"
-    ]
-  },
-  {
-    "ja": "志す",
-    "reading": "こころざす",
-    "glossEn": [
-      "to aspire to",
-      "to aim for"
-    ],
-    "partOfSpeech": [
-      "v5s",
-      "vi",
-      "vt"
-    ],
-    "example": "このコーヒー店には芸術家を志すものが足しげく通う。",
-    "exampleEn": "This coffee shop is frequented by aspiring artists.",
-    "kanji": [
-      "志"
-    ]
-  },
-  {
-    "ja": "志向",
-    "reading": "しこう",
-    "glossEn": [
-      "intention",
-      "aim"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その会社の強さは未来志向の戦略によって生みだされている。",
-    "exampleEn": "The strength of the firm is attributed to its future-oriented strategy.",
-    "kanji": [
-      "志",
-      "向"
-    ]
-  },
-  {
-    "ja": "応急",
-    "reading": "おうきゅう",
-    "glossEn": [
-      "emergency fix",
-      "tentative measure"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "これらの建物は応急の修理が必要です。",
-    "exampleEn": "These buildings need temporary repairs.",
-    "kanji": [
-      "応",
-      "急"
-    ]
-  },
-  {
-    "ja": "応答",
-    "reading": "おうとう",
-    "glossEn": [
-      "reply",
-      "answer"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "こちらアヤ、こちらアヤ、応答お願いします。",
-    "exampleEn": "This is Aya, this is Aya. Please respond.",
-    "kanji": [
-      "応",
-      "答"
-    ]
-  },
-  {
-    "ja": "快晴",
-    "reading": "かいせい",
-    "glossEn": [
-      "clear weather",
-      "cloudless weather"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "今日は快晴だ。これで一日中仕事が出来る。",
-    "exampleEn": "It's fair today, so we can work all day.",
-    "kanji": [
-      "快",
-      "晴"
-    ]
-  },
-  {
-    "ja": "快楽",
-    "reading": "かいらく",
-    "glossEn": [
-      "pleasure"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "快楽しか求めない人もいる。",
-    "exampleEn": "Some people pursue only pleasure.",
-    "kanji": [
-      "快",
-      "楽"
-    ]
-  },
-  {
-    "ja": "快調",
-    "reading": "かいちょう",
-    "glossEn": [
-      "good (condition)",
-      "going well"
-    ],
-    "partOfSpeech": [
-      "adj-na",
-      "adj-no",
-      "n"
-    ],
-    "example": "この車は以前ほど快調に走らない。",
-    "exampleEn": "This car is running less smoothly than it used to.",
-    "kanji": [
-      "快",
-      "調"
-    ]
-  },
-  {
-    "ja": "急増",
-    "reading": "きゅうぞう",
-    "glossEn": [
-      "rapid increase",
-      "sharp rise"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "７月の工業生産は急増した。",
-    "exampleEn": "Industrial production rose sharply in July.",
-    "kanji": [
-      "急",
-      "増"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "性格",
@@ -3100,57 +1240,8 @@
     "kanji": [
       "性",
       "格"
-    ]
-  },
-  {
-    "ja": "性病",
-    "reading": "せいびょう",
-    "glossEn": [
-      "sexually transmitted disease",
-      "STD"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "性病にかかっているかもしれません。",
-    "exampleEn": "I'm afraid I've contracted a venereal disease.",
-    "kanji": [
-      "性",
-      "病"
-    ]
-  },
-  {
-    "ja": "性能",
-    "reading": "せいのう",
-    "glossEn": [
-      "ability",
-      "performance"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "この車はあの車より性能がよい。",
-    "exampleEn": "This car has a better performance than that one.",
-    "kanji": [
-      "性",
-      "能"
-    ]
-  },
-  {
-    "ja": "情け",
-    "reading": "なさけ",
-    "glossEn": [
-      "pity",
-      "sympathy"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "旅は道連れ世は情け。",
-    "exampleEn": "No road is long with good company.",
-    "kanji": [
-      "情"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "情報",
@@ -3167,7 +1258,8 @@
     "kanji": [
       "情",
       "報"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "想像",
@@ -3186,7 +1278,8 @@
     "kanji": [
       "想",
       "像"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "意志",
@@ -3203,7 +1296,8 @@
     "kanji": [
       "意",
       "志"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "感謝",
@@ -3223,25 +1317,8 @@
     "kanji": [
       "感",
       "謝"
-    ]
-  },
-  {
-    "ja": "戦略",
-    "reading": "せんりゃく",
-    "glossEn": [
-      "strategy",
-      "tactics"
     ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "その会社の急速な成長はその独特な戦略によるものだった。",
-    "exampleEn": "The rapid growth of the firm was attributed to its unique strategy.",
-    "kanji": [
-      "戦",
-      "略"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "手術",
@@ -3260,7 +1337,8 @@
     "kanji": [
       "手",
       "術"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "才能",
@@ -3277,7 +1355,8 @@
     "kanji": [
       "才",
       "能"
-    ]
+    ],
+    "jlpt": 3
   },
   {
     "ja": "技師",
@@ -3294,22 +1373,8 @@
     "kanji": [
       "技",
       "師"
-    ]
-  },
-  {
-    "ja": "招き",
-    "reading": "まねき",
-    "glossEn": [
-      "invitation"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "お招き下さってありがとうございました。",
-    "exampleEn": "It was kind of you to invite us.",
-    "kanji": [
-      "招"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "招待",
@@ -3327,175 +1392,8 @@
     "kanji": [
       "招",
       "待"
-    ]
-  },
-  {
-    "ja": "招集",
-    "reading": "しょうしゅう",
-    "glossEn": [
-      "call",
-      "summons"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "大統領は軍隊を招集した。",
-    "exampleEn": "The President called out the troops.",
-    "kanji": [
-      "招",
-      "集"
-    ]
-  },
-  {
-    "ja": "授業",
-    "reading": "じゅぎょう",
-    "glossEn": [
-      "lesson",
-      "class"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "それは授業の終わりだった。",
-    "exampleEn": "That was the end of the class.",
-    "kanji": [
-      "授",
-      "業"
-    ]
-  },
-  {
-    "ja": "採用",
-    "reading": "さいよう",
-    "glossEn": [
-      "use",
-      "adoption"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "６世紀にアングロ・サクソン族はローマ文字を採用した。",
-    "exampleEn": "In the 6th century, the Anglo-Saxons adopted Roman characters.",
-    "kanji": [
-      "採",
-      "用"
-    ]
-  },
-  {
-    "ja": "採算",
-    "reading": "さいさん",
-    "glossEn": [
-      "profit"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "その事業もやがては採算が取れるようになるだろう。",
-    "exampleEn": "The business will pay in due course.",
-    "kanji": [
-      "採",
-      "算"
-    ]
-  },
-  {
-    "ja": "接戦",
-    "reading": "せっせん",
-    "glossEn": [
-      "close contest",
-      "close match"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "レースはもつれた接戦となった。",
-    "exampleEn": "The race went down to the wire.",
-    "kanji": [
-      "接",
-      "戦"
-    ]
-  },
-  {
-    "ja": "接近",
-    "reading": "せっきん",
-    "glossEn": [
-      "getting closer",
-      "drawing nearer"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "飛行機はニューヨークに接近している。",
-    "exampleEn": "The plane is approaching New York.",
-    "kanji": [
-      "接",
-      "近"
-    ]
-  },
-  {
-    "ja": "提唱",
-    "reading": "ていしょう",
-    "glossEn": [
-      "advocacy",
-      "proposal"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "トムは別の案を委員会に提唱した。",
-    "exampleEn": "Tom suggested another plan to the committee.",
-    "kanji": [
-      "提",
-      "唱"
-    ]
-  },
-  {
-    "ja": "提示",
-    "reading": "ていじ",
-    "glossEn": [
-      "presentation (of a passport, ID, etc.)",
-      "showing"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "下記に対して価格を提示してください。",
-    "exampleEn": "I'd like a quote for the following.",
-    "kanji": [
-      "提",
-      "示"
-    ]
-  },
-  {
-    "ja": "提言",
-    "reading": "ていげん",
-    "glossEn": [
-      "proposal",
-      "motion"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "君の提言が会合の席で話題にのぼったよ。",
-    "exampleEn": "Your suggestion came up at the meeting.",
-    "kanji": [
-      "提",
-      "言"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "損害",
@@ -3514,24 +1412,8 @@
     "kanji": [
       "損",
       "害"
-    ]
-  },
-  {
-    "ja": "損得",
-    "reading": "そんとく",
-    "glossEn": [
-      "loss and gain",
-      "advantage and disadvantage"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "損得なしにしよう。",
-    "exampleEn": "Let's make it a fair trade.",
-    "kanji": [
-      "損",
-      "得"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "支度",
@@ -3550,42 +1432,8 @@
     "kanji": [
       "支",
       "度"
-    ]
-  },
-  {
-    "ja": "支流",
-    "reading": "しりゅう",
-    "glossEn": [
-      "tributary",
-      "branch"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "アマゾン川には多くの支流がある。",
-    "exampleEn": "The Amazon is fed by a large number of tributaries.",
-    "kanji": [
-      "支",
-      "流"
-    ]
-  },
-  {
-    "ja": "支部",
-    "reading": "しぶ",
-    "glossEn": [
-      "branch",
-      "branch office"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "あの支部は炭鉱労働組合に属している。",
-    "exampleEn": "That branch is affiliated to the miners' union.",
-    "kanji": [
-      "支",
-      "部"
-    ]
+    "jlpt": 3
   },
   {
     "ja": "支配",
@@ -3604,26 +1452,1899 @@
     "kanji": [
       "支",
       "配"
-    ]
+    ],
+    "jlpt": 3
   },
   {
-    "ja": "改築",
-    "reading": "かいちく",
+    "ja": "救う",
+    "reading": "すくう",
     "glossEn": [
-      "structural alteration (of a building)",
-      "reconstruction"
+      "to rescue (someone)",
+      "to save"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vt"
+    ],
+    "example": "その犬は少女の命を救った。",
+    "exampleEn": "The dog saved the girl's life.",
+    "kanji": [
+      "救"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "教授",
+    "reading": "きょうじゅ",
+    "glossEn": [
+      "professor"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "一人の教授がささやいた。",
+    "exampleEn": "One of his colleagues whispered.",
+    "kanji": [
+      "教",
+      "授"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "文句",
+    "reading": "もんく",
+    "glossEn": [
+      "complaint",
+      "grumbling"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そんなことは君が文句を言う理由にはならないよ。",
+    "exampleEn": "That doesn't give you grounds for complaining.",
+    "kanji": [
+      "文",
+      "句"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "断る",
+    "reading": "ことわる",
+    "glossEn": [
+      "to refuse",
+      "to reject"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vt"
+    ],
+    "example": "予め断りますが、今日のブログは面白くないよ〜。",
+    "exampleEn": "Just to warn you in advance, today's blog is no fun.",
+    "kanji": [
+      "断"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "日常",
+    "reading": "にちじょう",
+    "glossEn": [
+      "everyday",
+      "daily"
+    ],
+    "partOfSpeech": [
+      "adj-no",
+      "n",
+      "adv"
+    ],
+    "example": "日常の運動はあなたのためになる。",
+    "exampleEn": "Moderate exercise is good for you.",
+    "kanji": [
+      "日",
+      "常"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "明確",
+    "reading": "めいかく",
+    "glossEn": [
+      "clear",
+      "precise"
+    ],
+    "partOfSpeech": [
+      "adj-na"
+    ],
+    "example": "この語を明確に定義できますか。",
+    "exampleEn": "Can you clearly define this word?",
+    "kanji": [
+      "明",
+      "確"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "条件",
+    "reading": "じょうけん",
+    "glossEn": [
+      "condition",
+      "term"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そちらの条件を受け入れましょう。",
+    "exampleEn": "We will accept your conditions.",
+    "kanji": [
+      "条",
+      "件"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "格好",
+    "reading": "かっこう",
+    "glossEn": [
+      "shape",
+      "form"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あの少年は格好がいい。",
+    "exampleEn": "The young man is a handsome figure.",
+    "kanji": [
+      "格",
+      "好"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "構う",
+    "reading": "かまう",
+    "glossEn": [
+      "to mind",
+      "to care about"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vi"
+    ],
+    "example": "６時に起きるのはかまわない。",
+    "exampleEn": "I don't mind getting up at six.",
+    "kanji": [
+      "構"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "横断",
+    "reading": "おうだん",
+    "glossEn": [
+      "crossing (a road, river, etc.)",
+      "cutting through (e.g. of a river through a town)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "道路を横断する時は気を付けなさい。",
+    "exampleEn": "Take care when you cross the street.",
+    "kanji": [
+      "横",
+      "断"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "機能",
+    "reading": "きのう",
+    "glossEn": [
+      "function",
+      "facility"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "こんな余計な機能なんでつけたんだろう。",
+    "exampleEn": "What did they add this needless function for?",
+    "kanji": [
+      "機",
+      "能"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "正確",
+    "reading": "せいかく",
+    "glossEn": [
+      "accurate",
+      "correct"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "この時計の時間は正確だ。",
+    "exampleEn": "This watch keeps correct time.",
+    "kanji": [
+      "正",
+      "確"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "武器",
+    "reading": "ぶき",
+    "glossEn": [
+      "weapon",
+      "arms"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その軍隊は十分な武器を持っていた。",
+    "exampleEn": "The troops had plenty of arms.",
+    "kanji": [
+      "武",
+      "器"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "殺す",
+    "reading": "ころす",
+    "glossEn": [
+      "to kill",
+      "to slay"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "おまえはオレを殺そうとしている。",
+    "exampleEn": "You are trying to kill me.",
+    "kanji": [
+      "殺"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "水準",
+    "reading": "すいじゅん",
+    "glossEn": [
+      "level",
+      "standard"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "君の仕事は期待している水準に達していない。",
+    "exampleEn": "Your work comes short of the expected standard.",
+    "kanji": [
+      "水",
+      "準"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "永遠",
+    "reading": "えいえん",
+    "glossEn": [
+      "eternity",
+      "perpetuity"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "adj-na"
+    ],
+    "example": "その画家は、いわば永遠の少年だ。",
+    "exampleEn": "The artist is eternally a boy.",
+    "kanji": [
+      "永",
+      "遠"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "消費",
+    "reading": "しょうひ",
+    "glossEn": [
+      "consumption",
+      "expenditure"
     ],
     "partOfSpeech": [
       "n",
       "vs",
       "vt"
     ],
-    "example": "わが家は全面的に改築された。",
-    "exampleEn": "Our house was entirely rebuilt.",
+    "example": "その車は多量の燃料を消費する。",
+    "exampleEn": "The car consumes a lot of fuel.",
     "kanji": [
-      "改",
-      "築"
-    ]
+      "消",
+      "費"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "混雑",
+    "reading": "こんざつ",
+    "glossEn": [
+      "congestion",
+      "crush"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "その道は車で混雑している。",
+    "exampleEn": "The roads are jammed with cars.",
+    "kanji": [
+      "混",
+      "雑"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "減る",
+    "reading": "へる",
+    "glossEn": [
+      "to decrease (in size or number)",
+      "to diminish"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "会員は５人に減った。",
+    "exampleEn": "The number of members decreased to five.",
+    "kanji": [
+      "減"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "準備",
+    "reading": "じゅんび",
+    "glossEn": [
+      "preparation",
+      "arrangements"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "準備ができるまでちょっと待ってくれ。",
+    "exampleEn": "Hang on a bit until I'm ready.",
+    "kanji": [
+      "準",
+      "備"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "火災",
+    "reading": "かさい",
+    "glossEn": [
+      "conflagration",
+      "fire"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "火災の理由は何か。",
+    "exampleEn": "What caused the fire?",
+    "kanji": [
+      "火",
+      "災"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "物価",
+    "reading": "ぶっか",
+    "glossEn": [
+      "prices of commodities",
+      "prices (in general)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "物価はまもなく下がるはずだ。",
+    "exampleEn": "Prices ought to come down soon.",
+    "kanji": [
+      "物",
+      "価"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "犯人",
+    "reading": "はんにん",
+    "glossEn": [
+      "offender",
+      "criminal"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その犯人はまだつかまっていない。",
+    "exampleEn": "The criminal is still at large.",
+    "kanji": [
+      "犯",
+      "人"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "犯罪",
+    "reading": "はんざい",
+    "glossEn": [
+      "crime",
+      "offence"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "戦争は人類に対する犯罪だ。",
+    "exampleEn": "War is a crime against humanity.",
+    "kanji": [
+      "犯",
+      "罪"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "状態",
+    "reading": "じょうたい",
+    "glossEn": [
+      "state",
+      "condition"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その古家はひどい状態であった。",
+    "exampleEn": "The old house was in bad shape.",
+    "kanji": [
+      "状",
+      "態"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "独特",
+    "reading": "どくとく",
+    "glossEn": [
+      "peculiarity",
+      "uniqueness"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "adj-na"
+    ],
+    "example": "ナチズムはドイツ独特のものでしたか。",
+    "exampleEn": "Was Nazism peculiar to Germany?",
+    "kanji": [
+      "独",
+      "特"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "独立",
+    "reading": "どくりつ",
+    "glossEn": [
+      "independence",
+      "self-reliance"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "インドは英国から１９４７年に独立した。",
+    "exampleEn": "India gained independence from Britain in 1947.",
+    "kanji": [
+      "独",
+      "立"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "現在",
+    "reading": "げんざい",
+    "glossEn": [
+      "the present",
+      "present time"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv",
+      "adj-no"
+    ],
+    "example": "現在、通常のサービスの早急な復旧に努めています。",
+    "exampleEn": "We are currently working to restore normal service as soon as possible.",
+    "kanji": [
+      "現",
+      "在"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "現実",
+    "reading": "げんじつ",
+    "glossEn": [
+      "reality",
+      "actuality"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "いい加減に現実をみつめろ。",
+    "exampleEn": "Open your eyes to reality.",
+    "kanji": [
+      "現",
+      "実"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "現象",
+    "reading": "げんしょう",
+    "glossEn": [
+      "phenomenon"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この現象に関してはまだ物理的な説明がなされていない。",
+    "exampleEn": "There is not a physical explanation for this phenomenon yet.",
+    "kanji": [
+      "現",
+      "象"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "理解",
+    "reading": "りかい",
+    "glossEn": [
+      "understanding",
+      "comprehension"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "わたしはあなたの言うことが理解できる。",
+    "exampleEn": "I can understand what you are saying.",
+    "kanji": [
+      "理",
+      "解"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "真似",
+    "reading": "まね",
+    "glossEn": [
+      "imitating",
+      "copying"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "その少年は馬鹿なまねをした。",
+    "exampleEn": "The boy made a fool of himself.",
+    "kanji": [
+      "真",
+      "似"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "知能",
+    "reading": "ちのう",
+    "glossEn": [
+      "intelligence",
+      "intellect"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "イルカは非常に知能の高い動物です。",
+    "exampleEn": "The dolphin is a very intelligent animal.",
+    "kanji": [
+      "知",
+      "能"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "破る",
+    "reading": "やぶる",
+    "glossEn": [
+      "to tear",
+      "to rip"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vt"
+    ],
+    "example": "約束を破らないでよ。",
+    "exampleEn": "Don't go back on your promise.",
+    "kanji": [
+      "破"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "移す",
+    "reading": "うつす",
+    "glossEn": [
+      "to transfer (to a different place, group, etc.)",
+      "to change"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "委員会は別のホールに会場を移した。",
+    "exampleEn": "The committee adjourned to another hall.",
+    "kanji": [
+      "移"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "程度",
+    "reading": "ていど",
+    "glossEn": [
+      "degree",
+      "amount"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv",
+      "n-suf"
+    ],
+    "example": "この程度のお金じゃ長くは持たないだろう。",
+    "exampleEn": "This sum of money won't go far.",
+    "kanji": [
+      "程",
+      "度"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "税金",
+    "reading": "ぜいきん",
+    "glossEn": [
+      "tax",
+      "duty"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "新しい税金がワインにかせられた。",
+    "exampleEn": "A new tax was imposed on wine.",
+    "kanji": [
+      "税",
+      "金"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "競技",
+    "reading": "きょうぎ",
+    "glossEn": [
+      "game",
+      "match"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "あなたは競技に参加しましたか。",
+    "exampleEn": "Did you take part in the game?",
+    "kanji": [
+      "競",
+      "技"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "精神",
+    "reading": "せいしん",
+    "glossEn": [
+      "mind",
+      "spirit"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "日本人の精神はその独特の風土に根ざしている。",
+    "exampleEn": "It is the particular environment that has shaped the Japanese mentality.",
+    "kanji": [
+      "精",
+      "神"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "組織",
+    "reading": "そしき",
+    "glossEn": [
+      "organization",
+      "organisation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "役員評議会が組織されて新提案を協議した。",
+    "exampleEn": "An executive council was formed to discuss the new proposal.",
+    "kanji": [
+      "組",
+      "織"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "経つ",
+    "reading": "たつ",
+    "glossEn": [
+      "to pass (of time)",
+      "to elapse"
+    ],
+    "partOfSpeech": [
+      "v5t",
+      "vi"
+    ],
+    "example": "時がどんどんたってゆく。",
+    "exampleEn": "Time is going by very quickly.",
+    "kanji": [
+      "経"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "経験",
+    "reading": "けいけん",
+    "glossEn": [
+      "experience"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "この仕事では経験がものを言う。",
+    "exampleEn": "Experience counts in this job.",
+    "kanji": [
+      "経",
+      "験"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "絶対",
+    "reading": "ぜったい",
+    "glossEn": [
+      "absolutely",
+      "definitely"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "アーア、絶対うまくいくと思ったのになあ。",
+    "exampleEn": "Oh man! I was sure this was going to work out.",
+    "kanji": [
+      "絶",
+      "対"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "義務",
+    "reading": "ぎむ",
+    "glossEn": [
+      "duty",
+      "obligation"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "このような義務があるなんて知らなかった。",
+    "exampleEn": "I never knew about such a duty.",
+    "kanji": [
+      "義",
+      "務"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "製品",
+    "reading": "せいひん",
+    "glossEn": [
+      "manufactured goods",
+      "finished goods"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この製品はイタリア製だ。",
+    "exampleEn": "This product is made in Italy.",
+    "kanji": [
+      "製",
+      "品"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "要素",
+    "reading": "ようそ",
+    "glossEn": [
+      "component",
+      "factor"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "教育は重大な要素である。",
+    "exampleEn": "Education is a critical element.",
+    "kanji": [
+      "要",
+      "素"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "解決",
+    "reading": "かいけつ",
+    "glossEn": [
+      "settlement",
+      "solution"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "その問題はまだ解決されていない。",
+    "exampleEn": "The problem is not settled yet.",
+    "kanji": [
+      "解",
+      "決"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "許す",
+    "reading": "ゆるす",
+    "glossEn": [
+      "to permit",
+      "to allow"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "ＤＮＡのサンプルを貯える事は許されるべきではない。",
+    "exampleEn": "It shouldn't be permitted to store samples of DNA.",
+    "kanji": [
+      "許"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "評価",
+    "reading": "ひょうか",
+    "glossEn": [
+      "valuation",
+      "appraisal"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "あなたはどのようにして学生を評価しますか。",
+    "exampleEn": "How do you assess your students?",
+    "kanji": [
+      "評",
+      "価"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "評判",
+    "reading": "ひょうばん",
+    "glossEn": [
+      "reputation",
+      "(public) estimation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "スキャンダルで会社の評判が落ちた。",
+    "exampleEn": "The scandal hurt the company's reputation.",
+    "kanji": [
+      "評",
+      "判"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "調査",
+    "reading": "ちょうさ",
+    "glossEn": [
+      "investigation",
+      "examination"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "その調査は進行中です。",
+    "exampleEn": "The investigation is under way.",
+    "kanji": [
+      "調",
+      "査"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "豊富",
+    "reading": "ほうふ",
+    "glossEn": [
+      "abundant",
+      "plentiful"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "その国は石油が豊富である。",
+    "exampleEn": "Oil is abundant in that country.",
+    "kanji": [
+      "豊",
+      "富"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "財産",
+    "reading": "ざいさん",
+    "glossEn": [
+      "property",
+      "fortune"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ミスで財産を失った。",
+    "exampleEn": "My mistake cost me my fortune.",
+    "kanji": [
+      "財",
+      "産"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "責任",
+    "reading": "せきにん",
+    "glossEn": [
+      "duty",
+      "responsibility (incl. supervision of staff)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "けんかは両方に責任がある。",
+    "exampleEn": "It takes two to make a quarrel.",
+    "kanji": [
+      "責",
+      "任"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "貸し",
+    "reading": "かし",
+    "glossEn": [
+      "loan",
+      "lending"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "でも、これで１つ貸しだね。",
+    "exampleEn": "But you're going to owe me one.",
+    "kanji": [
+      "貸"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "輸入",
+    "reading": "ゆにゅう",
+    "glossEn": [
+      "import",
+      "importation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "１９９８年日本の輸出が輸入を７７８億ドル上回った。",
+    "exampleEn": "Japan's exports exceeded imports by $77.8 billion in 1998.",
+    "kanji": [
+      "輸",
+      "入"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "輸出",
+    "reading": "ゆしゅつ",
+    "glossEn": [
+      "export",
+      "exportation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "オーストラリアは多くの羊毛を輸出している。",
+    "exampleEn": "Australia exports a lot of wool.",
+    "kanji": [
+      "輸",
+      "出"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "迷子",
+    "reading": "まいご",
+    "glossEn": [
+      "lost child",
+      "lost person"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "迷子の女の子はすすり泣きしながら名前を言っていた。",
+    "exampleEn": "The stray girl sobbed her name.",
+    "kanji": [
+      "迷",
+      "子"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "通過",
+    "reading": "つうか",
+    "glossEn": [
+      "passing through (a tunnel, station, town, etc.)",
+      "passing by (e.g. of a typhoon)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "通過する車に気をつけなさい。",
+    "exampleEn": "Watch out for passing cars.",
+    "kanji": [
+      "通",
+      "過"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "適切",
+    "reading": "てきせつ",
+    "glossEn": [
+      "appropriate",
+      "suitable"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "「行った」というのが適切な言葉だ。",
+    "exampleEn": "\"Performed\" is the right word.",
+    "kanji": [
+      "適",
+      "切"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "適度",
+    "reading": "てきど",
+    "glossEn": [
+      "moderate (degree)",
+      "proper (amount)"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "adj-no",
+      "n"
+    ],
+    "example": "健康は適切な食事と適度な運動にある。",
+    "exampleEn": "Good health consists of proper eating and moderate exercise.",
+    "kanji": [
+      "適",
+      "度"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "酸素",
+    "reading": "さんそ",
+    "glossEn": [
+      "oxygen (O)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "酸素が無ければ生きられない。",
+    "exampleEn": "You can't live without oxygen.",
+    "kanji": [
+      "酸",
+      "素"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "金属",
+    "reading": "きんぞく",
+    "glossEn": [
+      "metal"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "鉄は最も有用な金属です。",
+    "exampleEn": "Iron is the most useful metal.",
+    "kanji": [
+      "金",
+      "属"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "金額",
+    "reading": "きんがく",
+    "glossEn": [
+      "amount of money",
+      "sum"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "飲み代として使った金額は総計７千ドルだった。",
+    "exampleEn": "The total bill for drinks came up to 7000 dollars.",
+    "kanji": [
+      "金",
+      "額"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "限る",
+    "reading": "かぎる",
+    "glossEn": [
+      "to restrict",
+      "to limit"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vt"
+    ],
+    "example": "金持ちが必ずしも幸福とは限らない。",
+    "exampleEn": "The rich are not always happy.",
+    "kanji": [
+      "限"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "限界",
+    "reading": "げんかい",
+    "glossEn": [
+      "limit",
+      "bound"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "あらゆるものに限界がある。",
+    "exampleEn": "There is a limit to everything.",
+    "kanji": [
+      "限",
+      "界"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "集団",
+    "reading": "しゅうだん",
+    "glossEn": [
+      "group",
+      "mass"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "君はいまやエリート集団の一員だ。",
+    "exampleEn": "You are now among the elite.",
+    "kanji": [
+      "集",
+      "団"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "飼う",
+    "reading": "かう",
+    "glossEn": [
+      "to keep (a pet or other animal)",
+      "to have"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vt"
+    ],
+    "example": "ナンシーは犬を飼いたがっていますか。",
+    "exampleEn": "Does Nancy want to have a dog?",
+    "kanji": [
+      "飼"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "高価",
+    "reading": "こうか",
+    "glossEn": [
+      "highly priced",
+      "expensive"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "そんな高価な本は買えないよ。",
+    "exampleEn": "I can't buy a book this expensive.",
+    "kanji": [
+      "高",
+      "価"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "任せる",
+    "reading": "まかせる",
+    "glossEn": [
+      "to leave (a matter, decision, etc. to someone)",
+      "to entrust (to someone)"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "ご想像にお任せします。",
+    "exampleEn": "I'll leave it up to your imagination.",
+    "kanji": [
+      "任"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "停留所",
+    "reading": "ていりゅうじょ",
+    "glossEn": [
+      "stop (bus, tram, etc.)",
+      "station"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "バスの停留所まで競争しよう。",
+    "exampleEn": "I'll race you to the bus stop.",
+    "kanji": [
+      "停",
+      "留",
+      "所"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "備える",
+    "reading": "そなえる",
+    "glossEn": [
+      "to furnish with",
+      "to equip with"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "不時にそなえなくてはいけない。",
+    "exampleEn": "You should be prepared for emergencies.",
+    "kanji": [
+      "備"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "基づく",
+    "reading": "もとづく",
+    "glossEn": [
+      "to be based (on)",
+      "to be founded (on)"
+    ],
+    "partOfSpeech": [
+      "v5k",
+      "vi"
+    ],
+    "example": "この物語は事実に基づいている。",
+    "exampleEn": "This story is founded on fact.",
+    "kanji": [
+      "基"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "支える",
+    "reading": "ささえる",
+    "glossEn": [
+      "to support",
+      "to prop"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "なんとかそこで支えよ。入市を許すな。",
+    "exampleEn": "Hold them there! Don't let them into the city!",
+    "kanji": [
+      "支"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "減らす",
+    "reading": "へらす",
+    "glossEn": [
+      "to abate",
+      "to decrease"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "ジョギングでもして体重を減らすようにしなさい。",
+    "exampleEn": "Try to lose weight by jogging.",
+    "kanji": [
+      "減"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "燃える",
+    "reading": "もえる",
+    "glossEn": [
+      "to burn",
+      "to get fired up"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "火がぼんぼん燃えている。",
+    "exampleEn": "The fire is burning furiously.",
+    "kanji": [
+      "燃"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "現れる",
+    "reading": "あらわれる",
+    "glossEn": [
+      "to appear",
+      "to come in sight"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "その薬の効きめが現れた。",
+    "exampleEn": "The medicine took effect.",
+    "kanji": [
+      "現"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "解ける",
+    "reading": "とける",
+    "glossEn": [
+      "to be solved",
+      "to be worked out"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "いちばん頭の良い生徒でさえ、その問題は解けなかった。",
+    "exampleEn": "Even the brightest student couldn't solve the problem.",
+    "kanji": [
+      "解"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "貧しい",
+    "reading": "まずしい",
+    "glossEn": [
+      "poor",
+      "needy"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "われわれは貧しい人あざ笑ってはいけない。",
+    "exampleEn": "We must not laugh at the poor.",
+    "kanji": [
+      "貧"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "責める",
+    "reading": "せめる",
+    "glossEn": [
+      "to condemn",
+      "to blame"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "あまり自分を責めないで。",
+    "exampleEn": "Don't be too hard on yourself.",
+    "kanji": [
+      "責"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "過ごす",
+    "reading": "すごす",
+    "glossEn": [
+      "to spend (time)",
+      "to pass"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "お元気でお過ごしのことと思います。",
+    "exampleEn": "I hope this letter finds you well.",
+    "kanji": [
+      "過"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "適する",
+    "reading": "てきする",
+    "glossEn": [
+      "to fit",
+      "to suit"
+    ],
+    "partOfSpeech": [
+      "vs-s",
+      "vi"
+    ],
+    "example": "その肉は全く食用に適さなかった。",
+    "exampleEn": "None of the meat was fit to eat.",
+    "kanji": [
+      "適"
+    ],
+    "jlpt": 3
+  },
+  {
+    "ja": "一応",
+    "reading": "いちおう",
+    "glossEn": [
+      "more or less",
+      "though not quite satisfactorily"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "adv"
+    ],
+    "example": "ええ、先方から一応返事はありました。",
+    "exampleEn": "Yeah, there was some sort of reply from them.",
+    "kanji": [
+      "一",
+      "応"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "休講",
+    "reading": "きゅうこう",
+    "glossEn": [
+      "cancellation (of a lecture, class, etc.)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "この授業は明日休講です。",
+    "exampleEn": "This lesson is cancelled tomorrow.",
+    "kanji": [
+      "休",
+      "講"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "余る",
+    "reading": "あまる",
+    "glossEn": [
+      "to remain",
+      "to be left over"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "日本では米が、ヨーロッパではワインが余っている。",
+    "exampleEn": "Japan has a surplus of rice, Europe of wine.",
+    "kanji": [
+      "余"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "余計",
+    "reading": "よけい",
+    "glossEn": [
+      "extra",
+      "more"
+    ],
+    "partOfSpeech": [
+      "adj-na"
+    ],
+    "example": "こんな余計な機能なんでつけたんだろう。",
+    "exampleEn": "What did they add this needless function for?",
+    "kanji": [
+      "余",
+      "計"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "保健",
+    "reading": "ほけん",
+    "glossEn": [
+      "preservation of health",
+      "hygiene"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ＷＨＯとは世界保健機構を表す。",
+    "exampleEn": "WHO stands for World Health Organization.",
+    "kanji": [
+      "保",
+      "健"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "停止",
+    "reading": "ていし",
+    "glossEn": [
+      "stoppage",
+      "coming to a stop"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "コンピューター・システムは午後８時に自動的に停止する。",
+    "exampleEn": "The computer system shuts down automatically at 8pm.",
+    "kanji": [
+      "停",
+      "止"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "停車",
+    "reading": "ていしゃ",
+    "glossEn": [
+      "stopping (of a train, car, etc.)",
+      "stop"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "この列車は各駅に停車する。",
+    "exampleEn": "This train stops at every station.",
+    "kanji": [
+      "停",
+      "車"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "停電",
+    "reading": "ていでん",
+    "glossEn": [
+      "power outage",
+      "power failure"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "台風の余波で２日間停電した。",
+    "exampleEn": "There was no electricity for two days in the aftermath of the typhoon.",
+    "kanji": [
+      "停",
+      "電"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "公務",
+    "reading": "こうむ",
+    "glossEn": [
+      "official business",
+      "public business"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "公務のために多くの時間がとられる。",
+    "exampleEn": "My public duties take a lot of time.",
+    "kanji": [
+      "公",
+      "務"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "出張",
+    "reading": "しゅっちょう",
+    "glossEn": [
+      "business trip",
+      "official trip"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "ロス出張をキャンセルしようかな。",
+    "exampleEn": "I should cancel my L.A. trip.",
+    "kanji": [
+      "出",
+      "張"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "分解",
+    "reading": "ぶんかい",
+    "glossEn": [
+      "disassembly",
+      "dismantling"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "水は酸素と水素に分解できる。",
+    "exampleEn": "Water can be decomposed into oxygen and hydrogen.",
+    "kanji": [
+      "分",
+      "解"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "可決",
+    "reading": "かけつ",
+    "glossEn": [
+      "approval",
+      "adoption (of a motion, bill, etc.)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "委員会はその議案を可決した。",
+    "exampleEn": "The committee passed the bill.",
+    "kanji": [
+      "可",
+      "決"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "在学",
+    "reading": "ざいがく",
+    "glossEn": [
+      "attending (school, college, etc.)",
+      "being enrolled"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "その学校には二千人の学生が在学している。",
+    "exampleEn": "There are 2,000 students in the school.",
+    "kanji": [
+      "在",
+      "学"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "基地",
+    "reading": "きち",
+    "glossEn": [
+      "base (military, expedition, etc.)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この近くに軍の基地がある。",
+    "exampleEn": "There is a military base near here.",
+    "kanji": [
+      "基",
+      "地"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "増大",
+    "reading": "ぞうだい",
+    "glossEn": [
+      "enlargement",
+      "increase"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "貿易が国富を増大させた。",
+    "exampleEn": "Trade increased the country's wealth.",
+    "kanji": [
+      "増",
+      "大"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "快晴",
+    "reading": "かいせい",
+    "glossEn": [
+      "clear weather",
+      "cloudless weather"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "今日は快晴だ。これで一日中仕事が出来る。",
+    "exampleEn": "It's fair today, so we can work all day.",
+    "kanji": [
+      "快",
+      "晴"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "性能",
+    "reading": "せいのう",
+    "glossEn": [
+      "ability",
+      "performance"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この車はあの車より性能がよい。",
+    "exampleEn": "This car has a better performance than that one.",
+    "kanji": [
+      "性",
+      "能"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "接近",
+    "reading": "せっきん",
+    "glossEn": [
+      "getting closer",
+      "drawing nearer"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "飛行機はニューヨークに接近している。",
+    "exampleEn": "The plane is approaching New York.",
+    "kanji": [
+      "接",
+      "近"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "損得",
+    "reading": "そんとく",
+    "glossEn": [
+      "loss and gain",
+      "advantage and disadvantage"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "損得なしにしよう。",
+    "exampleEn": "Let's make it a fair trade.",
+    "kanji": [
+      "損",
+      "得"
+    ],
+    "jlpt": 2
   },
   {
     "ja": "改造",
@@ -3642,126 +3363,8 @@
     "kanji": [
       "改",
       "造"
-    ]
-  },
-  {
-    "ja": "政情",
-    "reading": "せいじょう",
-    "glossEn": [
-      "political situation",
-      "political affairs"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "外国資本家は現地の政情不安が理由で手を引きました。",
-    "exampleEn": "Foreign investors backed off because of regional political unrest.",
-    "kanji": [
-      "政",
-      "情"
-    ]
-  },
-  {
-    "ja": "救い",
-    "reading": "すくい",
-    "glossEn": [
-      "help",
-      "rescue"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "「神はわれらの救いである」と司祭は言った。",
-    "exampleEn": "\"God is our salvation,\" said the priest.",
-    "kanji": [
-      "救"
-    ]
-  },
-  {
-    "ja": "救う",
-    "reading": "すくう",
-    "glossEn": [
-      "to rescue (someone)",
-      "to save"
-    ],
-    "partOfSpeech": [
-      "v5u",
-      "vt"
-    ],
-    "example": "その犬は少女の命を救った。",
-    "exampleEn": "The dog saved the girl's life.",
-    "kanji": [
-      "救"
-    ]
-  },
-  {
-    "ja": "救命",
-    "reading": "きゅうめい",
-    "glossEn": [
-      "lifesaving"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "その暑さで気絶して、気がついたら救命いかだの中にいた。",
-    "exampleEn": "I fainted from the heat, and when I came to, I was in a life raft.",
-    "kanji": [
-      "救",
-      "命"
-    ]
-  },
-  {
-    "ja": "教授",
-    "reading": "きょうじゅ",
-    "glossEn": [
-      "professor"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "一人の教授がささやいた。",
-    "exampleEn": "One of his colleagues whispered.",
-    "kanji": [
-      "教",
-      "授"
-    ]
-  },
-  {
-    "ja": "教示",
-    "reading": "きょうじ",
-    "glossEn": [
-      "instruction",
-      "teaching"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "ご教示ありがとうございます。助かりました。",
-    "exampleEn": "Thank you for your instruction. It really helped.",
-    "kanji": [
-      "教",
-      "示"
-    ]
-  },
-  {
-    "ja": "文句",
-    "reading": "もんく",
-    "glossEn": [
-      "complaint",
-      "grumbling"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "そんなことは君が文句を言う理由にはならないよ。",
-    "exampleEn": "That doesn't give you grounds for complaining.",
-    "kanji": [
-      "文",
-      "句"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "文脈",
@@ -3778,24 +3381,8 @@
     "kanji": [
       "文",
       "脈"
-    ]
-  },
-  {
-    "ja": "断る",
-    "reading": "ことわる",
-    "glossEn": [
-      "to refuse",
-      "to reject"
     ],
-    "partOfSpeech": [
-      "v5r",
-      "vt"
-    ],
-    "example": "予め断りますが、今日のブログは面白くないよ〜。",
-    "exampleEn": "Just to warn you in advance, today's blog is no fun.",
-    "kanji": [
-      "断"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "断定",
@@ -3814,7 +3401,8 @@
     "kanji": [
       "断",
       "定"
-    ]
+    ],
+    "jlpt": 2
   },
   {
     "ja": "断水",
@@ -3834,117 +3422,8 @@
     "kanji": [
       "断",
       "水"
-    ]
-  },
-  {
-    "ja": "断絶",
-    "reading": "だんぜつ",
-    "glossEn": [
-      "extinction (e.g. of a family)",
-      "dying out"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その国は米国との外交関係を断絶した。",
-    "exampleEn": "That country broke off diplomatic relations with the United States.",
-    "kanji": [
-      "断",
-      "絶"
-    ]
-  },
-  {
-    "ja": "新居",
-    "reading": "しんきょ",
-    "glossEn": [
-      "new home"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "自分の新居にわくわくしている。",
-    "exampleEn": "I am thrilled with my new home.",
-    "kanji": [
-      "新",
-      "居"
-    ]
-  },
-  {
-    "ja": "新築",
-    "reading": "しんちく",
-    "glossEn": [
-      "new building",
-      "new construction"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "adj-no"
-    ],
-    "example": "家を新築中です。",
-    "exampleEn": "I'm getting a new house built.",
-    "kanji": [
-      "新",
-      "築"
-    ]
-  },
-  {
-    "ja": "新設",
-    "reading": "しんせつ",
-    "glossEn": [
-      "establishing",
-      "founding"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "adj-no"
-    ],
-    "example": "新設校の用地が出来ました。",
-    "exampleEn": "The site for the new school has been bought.",
-    "kanji": [
-      "新",
-      "設"
-    ]
-  },
-  {
-    "ja": "日報",
-    "reading": "にっぽう",
-    "glossEn": [
-      "daily report"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "今日は日報を書いてよ。",
-    "exampleEn": "Write up the daily report today!",
-    "kanji": [
-      "日",
-      "報"
-    ]
-  },
-  {
-    "ja": "日常",
-    "reading": "にちじょう",
-    "glossEn": [
-      "everyday",
-      "daily"
-    ],
-    "partOfSpeech": [
-      "adj-no",
-      "n",
-      "adv"
-    ],
-    "example": "日常の運動はあなたのためになる。",
-    "exampleEn": "Moderate exercise is good for you.",
-    "kanji": [
-      "日",
-      "常"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "日程",
@@ -3961,74 +3440,8 @@
     "kanji": [
       "日",
       "程"
-    ]
-  },
-  {
-    "ja": "旧式",
-    "reading": "きゅうしき",
-    "glossEn": [
-      "old type",
-      "old style"
     ],
-    "partOfSpeech": [
-      "adj-na",
-      "adj-no"
-    ],
-    "example": "この機械は旧式になってしまった。",
-    "exampleEn": "This machine has gone out of date.",
-    "kanji": [
-      "旧",
-      "式"
-    ]
-  },
-  {
-    "ja": "明確",
-    "reading": "めいかく",
-    "glossEn": [
-      "clear",
-      "precise"
-    ],
-    "partOfSpeech": [
-      "adj-na"
-    ],
-    "example": "この語を明確に定義できますか。",
-    "exampleEn": "Can you clearly define this word?",
-    "kanji": [
-      "明",
-      "確"
-    ]
-  },
-  {
-    "ja": "易い",
-    "reading": "やすい",
-    "glossEn": [
-      "easy"
-    ],
-    "partOfSpeech": [
-      "adj-i"
-    ],
-    "example": "悪習は身につきやすい。",
-    "exampleEn": "Bad habits are easy to get into.",
-    "kanji": [
-      "易"
-    ]
-  },
-  {
-    "ja": "時限",
-    "reading": "じげん",
-    "glossEn": [
-      "(school) period"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "１時限は何の授業ですか。",
-    "exampleEn": "What do you have the first period?",
-    "kanji": [
-      "時",
-      "限"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "書留",
@@ -4046,60 +3459,8 @@
     "kanji": [
       "書",
       "留"
-    ]
-  },
-  {
-    "ja": "月謝",
-    "reading": "げっしゃ",
-    "glossEn": [
-      "monthly tuition fee"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "このスイミングスクールの毎月の月謝はいくらですか。",
-    "exampleEn": "How much is the monthly fee of this swimming school?",
-    "kanji": [
-      "月",
-      "謝"
-    ]
-  },
-  {
-    "ja": "有志",
-    "reading": "ゆうし",
-    "glossEn": [
-      "interested person",
-      "volunteer"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no"
-    ],
-    "example": "その協会は有志を求める広告をテレビに出した。",
-    "exampleEn": "The institution advertised on TV for volunteers.",
-    "kanji": [
-      "有",
-      "志"
-    ]
-  },
-  {
-    "ja": "有毒",
-    "reading": "ゆうどく",
-    "glossEn": [
-      "poisonous",
-      "toxic"
-    ],
-    "partOfSpeech": [
-      "adj-na",
-      "adj-no",
-      "n"
-    ],
-    "example": "この食品は有毒である。",
-    "exampleEn": "This food is unhealthy.",
-    "kanji": [
-      "有",
-      "毒"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "期限",
@@ -4116,125 +3477,8 @@
     "kanji": [
       "期",
       "限"
-    ]
-  },
-  {
-    "ja": "木綿",
-    "reading": "もめん",
-    "glossEn": [
-      "cotton (material)"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "このブラウスは木綿製です。",
-    "exampleEn": "This blouse is cotton.",
-    "kanji": [
-      "木",
-      "綿"
-    ]
-  },
-  {
-    "ja": "木製",
-    "reading": "もくせい",
-    "glossEn": [
-      "wooden",
-      "made of wood"
-    ],
-    "partOfSpeech": [
-      "adj-no",
-      "n"
-    ],
-    "example": "それは木製ですか、それとも金属製ですか。",
-    "exampleEn": "Is it made of wood or metal?",
-    "kanji": [
-      "木",
-      "製"
-    ]
-  },
-  {
-    "ja": "本件",
-    "reading": "ほんけん",
-    "glossEn": [
-      "this matter",
-      "this case"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "本件についての率直なご意見をお聞かせください。",
-    "exampleEn": "Could you share your honest opinion on this issue?",
-    "kanji": [
-      "本",
-      "件"
-    ]
-  },
-  {
-    "ja": "本性",
-    "reading": "ほんしょう",
-    "glossEn": [
-      "true character",
-      "real nature"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "わずかの言葉が人の本性を表すことがある。",
-    "exampleEn": "A few words may betray a man's true character.",
-    "kanji": [
-      "本",
-      "性"
-    ]
-  },
-  {
-    "ja": "条件",
-    "reading": "じょうけん",
-    "glossEn": [
-      "condition",
-      "term"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "そちらの条件を受け入れましょう。",
-    "exampleEn": "We will accept your conditions.",
-    "kanji": [
-      "条",
-      "件"
-    ]
-  },
-  {
-    "ja": "東経",
-    "reading": "とうけい",
-    "glossEn": [
-      "east longitude"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "日本の子午線は東経１３５度です。",
-    "exampleEn": "Japan is on the 135th meridian East.",
-    "kanji": [
-      "東",
-      "経"
-    ]
-  },
-  {
-    "ja": "校則",
-    "reading": "こうそく",
-    "glossEn": [
-      "school rules",
-      "school regulations"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "校則は、順守すべきだ。",
-    "exampleEn": "You should observe the school rules.",
-    "kanji": [
-      "校",
-      "則"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "格別",
@@ -4253,331 +3497,8 @@
     "kanji": [
       "格",
       "別"
-    ]
-  },
-  {
-    "ja": "格好",
-    "reading": "かっこう",
-    "glossEn": [
-      "shape",
-      "form"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "あの少年は格好がいい。",
-    "exampleEn": "The young man is a handsome figure.",
-    "kanji": [
-      "格",
-      "好"
-    ]
-  },
-  {
-    "ja": "格安",
-    "reading": "かくやす",
-    "glossEn": [
-      "(very) cheap",
-      "(very) inexpensive"
-    ],
-    "partOfSpeech": [
-      "adj-no",
-      "adj-na",
-      "n"
-    ],
-    "example": "何日前までに予約すれば格安料金の対象になりますか。",
-    "exampleEn": "How early do I have to make a reservation to qualify for the discount?",
-    "kanji": [
-      "格",
-      "安"
-    ]
-  },
-  {
-    "ja": "検定",
-    "reading": "けんてい",
-    "glossEn": [
-      "official certification",
-      "official approval"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "ＳＴＥＰという文字は日本英語検定協会を表している。",
-    "exampleEn": "The letters STEP stand for the Society for Testing English Proficiency.",
-    "kanji": [
-      "検",
-      "定"
-    ]
-  },
-  {
-    "ja": "構う",
-    "reading": "かまう",
-    "glossEn": [
-      "to mind",
-      "to care about"
-    ],
-    "partOfSpeech": [
-      "v5u",
-      "vi"
-    ],
-    "example": "６時に起きるのはかまわない。",
-    "exampleEn": "I don't mind getting up at six.",
-    "kanji": [
-      "構"
-    ]
-  },
-  {
-    "ja": "横断",
-    "reading": "おうだん",
-    "glossEn": [
-      "crossing (a road, river, etc.)",
-      "cutting through (e.g. of a river through a town)"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "道路を横断する時は気を付けなさい。",
-    "exampleEn": "Take care when you cross the street.",
-    "kanji": [
-      "横",
-      "断"
-    ]
-  },
-  {
-    "ja": "横領",
-    "reading": "おうりょう",
-    "glossEn": [
-      "embezzlement",
-      "misappropriation"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その市長は市の金を横領した。",
-    "exampleEn": "The mayor appropriated city money for his own use.",
-    "kanji": [
-      "横",
-      "領"
-    ]
-  },
-  {
-    "ja": "機構",
-    "reading": "きこう",
-    "glossEn": [
-      "mechanism",
-      "machinery"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "ＷＨＯとは世界保健機構を表す。",
-    "exampleEn": "WHO stands for World Health Organization.",
-    "kanji": [
-      "機",
-      "構"
-    ]
-  },
-  {
-    "ja": "機能",
-    "reading": "きのう",
-    "glossEn": [
-      "function",
-      "facility"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "こんな余計な機能なんでつけたんだろう。",
-    "exampleEn": "What did they add this needless function for?",
-    "kanji": [
-      "機",
-      "能"
-    ]
-  },
-  {
-    "ja": "欠損",
-    "reading": "けっそん",
-    "glossEn": [
-      "deficit",
-      "shortage"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "同社は第一四半期に４億ドルの欠損を出した。",
-    "exampleEn": "The company incurred a deficit of $400 million during the first quarter.",
-    "kanji": [
-      "欠",
-      "損"
-    ]
-  },
-  {
-    "ja": "正確",
-    "reading": "せいかく",
-    "glossEn": [
-      "accurate",
-      "correct"
-    ],
-    "partOfSpeech": [
-      "adj-na",
-      "n"
-    ],
-    "example": "この時計の時間は正確だ。",
-    "exampleEn": "This watch keeps correct time.",
-    "kanji": [
-      "正",
-      "確"
-    ]
-  },
-  {
-    "ja": "正義",
-    "reading": "せいぎ",
-    "glossEn": [
-      "justice",
-      "right"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "最後には正義は勝つものだ。",
-    "exampleEn": "Justice will prevail in the end.",
-    "kanji": [
-      "正",
-      "義"
-    ]
-  },
-  {
-    "ja": "正解",
-    "reading": "せいかい",
-    "glossEn": [
-      "correct answer",
-      "right solution"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "正解をまるで囲みなさい。",
-    "exampleEn": "Please circle the right answer.",
-    "kanji": [
-      "正",
-      "解"
-    ]
-  },
-  {
-    "ja": "武器",
-    "reading": "ぶき",
-    "glossEn": [
-      "weapon",
-      "arms"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "その軍隊は十分な武器を持っていた。",
-    "exampleEn": "The troops had plenty of arms.",
-    "kanji": [
-      "武",
-      "器"
-    ]
-  },
-  {
-    "ja": "殺し",
-    "reading": "ころし",
-    "glossEn": [
-      "murder",
-      "killing"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "一度殺すと、殺しが楽しくなる。",
-    "exampleEn": "Once we've killed, we enjoy killing.",
-    "kanji": [
-      "殺"
-    ]
-  },
-  {
-    "ja": "殺す",
-    "reading": "ころす",
-    "glossEn": [
-      "to kill",
-      "to slay"
-    ],
-    "partOfSpeech": [
-      "v5s",
-      "vt"
-    ],
-    "example": "おまえはオレを殺そうとしている。",
-    "exampleEn": "You are trying to kill me.",
-    "kanji": [
-      "殺"
-    ]
-  },
-  {
-    "ja": "気絶",
-    "reading": "きぜつ",
-    "glossEn": [
-      "faint",
-      "fainting"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その暑さで気絶して、気がついたら救命いかだの中にいた。",
-    "exampleEn": "I fainted from the heat, and when I came to, I was in a life raft.",
-    "kanji": [
-      "気",
-      "絶"
-    ]
-  },
-  {
-    "ja": "気質",
-    "reading": "きしつ",
-    "glossEn": [
-      "disposition",
-      "temperament"
-    ],
-    "partOfSpeech": [
-      "n",
-      "n-suf"
-    ],
-    "example": "成功不成功は気質に左右されることが多い。",
-    "exampleEn": "Success often depends on one's temperament.",
-    "kanji": [
-      "気",
-      "質"
-    ]
-  },
-  {
-    "ja": "水準",
-    "reading": "すいじゅん",
-    "glossEn": [
-      "level",
-      "standard"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "君の仕事は期待している水準に達していない。",
-    "exampleEn": "Your work comes short of the expected standard.",
-    "kanji": [
-      "水",
-      "準"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "水素",
@@ -4593,81 +3514,8 @@
     "kanji": [
       "水",
       "素"
-    ]
-  },
-  {
-    "ja": "氷河",
-    "reading": "ひょうが",
-    "glossEn": [
-      "glacier"
     ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "その氷河はゆっくりではあるが動いている。",
-    "exampleEn": "The glacier moves but by inches.",
-    "kanji": [
-      "氷",
-      "河"
-    ]
-  },
-  {
-    "ja": "永続",
-    "reading": "えいぞく",
-    "glossEn": [
-      "permanence",
-      "continuation"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi",
-      "adj-no"
-    ],
-    "example": "この新薬は効果が永続的である。",
-    "exampleEn": "This new medicine has a lasting effect.",
-    "kanji": [
-      "永",
-      "続"
-    ]
-  },
-  {
-    "ja": "永遠",
-    "reading": "えいえん",
-    "glossEn": [
-      "eternity",
-      "perpetuity"
-    ],
-    "partOfSpeech": [
-      "n",
-      "adj-no",
-      "adj-na"
-    ],
-    "example": "その画家は、いわば永遠の少年だ。",
-    "exampleEn": "The artist is eternally a boy.",
-    "kanji": [
-      "永",
-      "遠"
-    ]
-  },
-  {
-    "ja": "決断",
-    "reading": "けつだん",
-    "glossEn": [
-      "decision",
-      "determination"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "決断の日は近い。",
-    "exampleEn": "The day of decision is at hand.",
-    "kanji": [
-      "決",
-      "断"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "法則",
@@ -4684,26 +3532,8 @@
     "kanji": [
       "法",
       "則"
-    ]
-  },
-  {
-    "ja": "消費",
-    "reading": "しょうひ",
-    "glossEn": [
-      "consumption",
-      "expenditure"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "その車は多量の燃料を消費する。",
-    "exampleEn": "The car consumes a lot of fuel.",
-    "kanji": [
-      "消",
-      "費"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "液体",
@@ -4719,24 +3549,8 @@
     "kanji": [
       "液",
       "体"
-    ]
-  },
-  {
-    "ja": "混む",
-    "reading": "こむ",
-    "glossEn": [
-      "to be crowded",
-      "to be packed"
     ],
-    "partOfSpeech": [
-      "v5m",
-      "vi"
-    ],
-    "example": "土曜日のカラオケ屋は特に混んでいる。",
-    "exampleEn": "The karaoke shop is especially crowded on Saturdays.",
-    "kanji": [
-      "混"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "混合",
@@ -4756,63 +3570,8 @@
     "kanji": [
       "混",
       "合"
-    ]
-  },
-  {
-    "ja": "混雑",
-    "reading": "こんざつ",
-    "glossEn": [
-      "congestion",
-      "crush"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "example": "その道は車で混雑している。",
-    "exampleEn": "The roads are jammed with cars.",
-    "kanji": [
-      "混",
-      "雑"
-    ]
-  },
-  {
-    "ja": "減る",
-    "reading": "へる",
-    "glossEn": [
-      "to decrease (in size or number)",
-      "to diminish"
-    ],
-    "partOfSpeech": [
-      "v5r",
-      "vi"
-    ],
-    "example": "会員は５人に減った。",
-    "exampleEn": "The number of members decreased to five.",
-    "kanji": [
-      "減"
-    ]
-  },
-  {
-    "ja": "減量",
-    "reading": "げんりょう",
-    "glossEn": [
-      "loss in weight (esp. body weight)",
-      "weight reduction"
-    ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "example": "これはあなたの減量に役立つ良い運動です。",
-    "exampleEn": "This is a good exercise to help you lose weight.",
-    "kanji": [
-      "減",
-      "量"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "測定",
@@ -4830,7 +3589,8 @@
     "kanji": [
       "測",
       "定"
-    ]
+    ],
+    "jlpt": 2
   },
   {
     "ja": "測量",
@@ -4849,75 +3609,8 @@
     "kanji": [
       "測",
       "量"
-    ]
-  },
-  {
-    "ja": "準備",
-    "reading": "じゅんび",
-    "glossEn": [
-      "preparation",
-      "arrangements"
     ],
-    "partOfSpeech": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "example": "準備ができるまでちょっと待ってくれ。",
-    "exampleEn": "Hang on a bit until I'm ready.",
-    "kanji": [
-      "準",
-      "備"
-    ]
-  },
-  {
-    "ja": "火災",
-    "reading": "かさい",
-    "glossEn": [
-      "conflagration",
-      "fire"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "火災の理由は何か。",
-    "exampleEn": "What caused the fire?",
-    "kanji": [
-      "火",
-      "災"
-    ]
-  },
-  {
-    "ja": "災い",
-    "reading": "わざわい",
-    "glossEn": [
-      "disaster",
-      "calamity"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "災いを転じて福としなさい。",
-    "exampleEn": "Turn your misfortune to account.",
-    "kanji": [
-      "災"
-    ]
-  },
-  {
-    "ja": "炭素",
-    "reading": "たんそ",
-    "glossEn": [
-      "carbon (C)"
-    ],
-    "partOfSpeech": [
-      "n"
-    ],
-    "example": "石炭は大部分が炭素から成っている。",
-    "exampleEn": "Coal consists mostly of carbon.",
-    "kanji": [
-      "炭",
-      "素"
-    ]
+    "jlpt": 2
   },
   {
     "ja": "炭鉱",
@@ -4934,394 +3627,1960 @@
     "kanji": [
       "炭",
       "鉱"
-    ]
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "点在",
-    "reading": "てんざい",
+    "ja": "研修",
+    "reading": "けんしゅう",
     "glossEn": [
-      "being dotted about",
-      "being scattered"
+      "training (esp. in-service)",
+      "induction course"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "研修会は午後4時開始予定です。",
+    "exampleEn": "The training session is scheduled to begin at 4 p.m.",
+    "kanji": [
+      "研",
+      "修"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "確率",
+    "reading": "かくりつ",
+    "glossEn": [
+      "probability",
+      "likelihood"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "キャンセル待ちで乗れる確率はどれくらいですか。",
+    "exampleEn": "If I wait, what's the possibility I can get a seat?",
+    "kanji": [
+      "確",
+      "率"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "税関",
+    "reading": "ぜいかん",
+    "glossEn": [
+      "customs",
+      "customs house"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "税関では長い列が出来ているだろう。",
+    "exampleEn": "There will be long lines at the Customs.",
+    "kanji": [
+      "税",
+      "関"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "素人",
+    "reading": "しろうと",
+    "glossEn": [
+      "amateur",
+      "layman"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あのシロウト歌手は文句なくタレントショーで一位となった。",
+    "exampleEn": "The amateur singer won first in the talent show hands down.",
+    "kanji": [
+      "素",
+      "人"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "素直",
+    "reading": "すなお",
+    "glossEn": [
+      "obedient",
+      "meek"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "思っていることを素直に言うのは悪いことではありません。",
+    "exampleEn": "Saying what you think frankly is not a bad thing.",
+    "kanji": [
+      "素",
+      "直"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "経度",
+    "reading": "けいど",
+    "glossEn": [
+      "longitude"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "赤道における経度1度当たりの長さ。",
+    "exampleEn": "Distance per degree of longitude at equator.",
+    "kanji": [
+      "経",
+      "度"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "統計",
+    "reading": "とうけい",
+    "glossEn": [
+      "statistics"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "中国のＧＤＰ統計はオオカミ少年か。",
+    "exampleEn": "Are the Chinese GDP figures a case of the boy crying wolf?",
+    "kanji": [
+      "統",
+      "計"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "編集",
+    "reading": "へんしゅう",
+    "glossEn": [
+      "editing",
+      "compilation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "ビルは編集部員です。",
+    "exampleEn": "Bill is on the editorial staff.",
+    "kanji": [
+      "編",
+      "集"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "美容",
+    "reading": "びよう",
+    "glossEn": [
+      "beauty",
+      "good figure"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "間食は美容に悪い。",
+    "exampleEn": "Eating between meals is bad for the figure.",
+    "kanji": [
+      "美",
+      "容"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "能率",
+    "reading": "のうりつ",
+    "glossEn": [
+      "efficiency"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そうすれば能率が上がりますよ。",
+    "exampleEn": "That makes for efficiency.",
+    "kanji": [
+      "能",
+      "率"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "血圧",
+    "reading": "けつあつ",
+    "glossEn": [
+      "blood pressure"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "血圧を計りましょう。",
+    "exampleEn": "Let me take your blood pressure.",
+    "kanji": [
+      "血",
+      "圧"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "製作",
+    "reading": "せいさく",
+    "glossEn": [
+      "manufacture",
+      "production"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "この工場では自動車の部品を製作している。",
+    "exampleEn": "This factory manufactures automobile parts.",
+    "kanji": [
+      "製",
+      "作"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "要領",
+    "reading": "ようりょう",
+    "glossEn": [
+      "point",
+      "gist"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この報告書は要領をえていない。",
+    "exampleEn": "This report isn't to the point.",
+    "kanji": [
+      "要",
+      "領"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "解放",
+    "reading": "かいほう",
+    "glossEn": [
+      "release",
+      "unleashing"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "人質は解放されるだろう。",
+    "exampleEn": "The hostages will be released.",
+    "kanji": [
+      "解",
+      "放"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "解散",
+    "reading": "かいさん",
+    "glossEn": [
+      "breaking up (a meeting, gathering, etc.)",
+      "dispersal (e.g. of a crowd)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "会は八時に解散した。",
+    "exampleEn": "The meeting broke up at eight.",
+    "kanji": [
+      "解",
+      "散"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "課程",
+    "reading": "かてい",
+    "glossEn": [
+      "course",
+      "curriculum"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その大学の課程は自然科学と社会科学から成り立っている。",
+    "exampleEn": "That university's curriculum covers natural science and social science.",
+    "kanji": [
+      "課",
+      "程"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "課税",
+    "reading": "かぜい",
+    "glossEn": [
+      "taxation"
     ],
     "partOfSpeech": [
       "n",
       "vs",
       "vi"
     ],
-    "example": "谷には農家が点在していた。",
-    "exampleEn": "The valley was dotted with farm houses.",
+    "example": "課税品をお持ちですか。",
+    "exampleEn": "Do you have anything to declare?",
     "kanji": [
-      "点",
-      "在"
-    ]
+      "課",
+      "税"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "燃費",
-    "reading": "ねんぴ",
+    "ja": "貸家",
+    "reading": "かしや",
     "glossEn": [
-      "fuel consumption",
-      "gas mileage"
+      "house for rent"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "あなたの車は本当に燃費が悪いんですね。",
-    "exampleEn": "This car of yours is a real gas guzzler.",
+    "example": "これは貸家だ、売家ではない。",
+    "exampleEn": "This is a house to let, not to be sold.",
     "kanji": [
-      "燃",
-      "費"
-    ]
+      "貸",
+      "家"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "牧師",
-    "reading": "ぼくし",
+    "ja": "資料",
+    "reading": "しりょう",
     "glossEn": [
-      "pastor",
-      "minister"
+      "material",
+      "materials"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "新しい資料をお送りください。",
+    "exampleEn": "Please send us more information.",
+    "kanji": [
+      "資",
+      "料"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "輸血",
+    "reading": "ゆけつ",
+    "glossEn": [
+      "blood transfusion"
     ],
     "partOfSpeech": [
       "n",
-      "adj-no"
+      "vs",
+      "vt",
+      "vi"
     ],
-    "example": "１９６４年にキング牧師はノーベル平和賞を受賞した。",
-    "exampleEn": "In 1964, Rev. King won the Nobel Peace Prize.",
+    "example": "輸血が必要です。",
+    "exampleEn": "A blood transfusion is necessary.",
     "kanji": [
-      "牧",
-      "師"
-    ]
+      "輸",
+      "血"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "物価",
-    "reading": "ぶっか",
+    "ja": "運河",
+    "reading": "うんが",
     "glossEn": [
-      "prices of commodities",
-      "prices (in general)"
+      "(navigable) canal",
+      "waterway"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "物価はまもなく下がるはずだ。",
-    "exampleEn": "Prices ought to come down soon.",
+    "example": "この船は大きすぎて運河を通れない。",
+    "exampleEn": "This ship is too big to pass through the canal.",
     "kanji": [
-      "物",
-      "価"
-    ]
+      "運",
+      "河"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "特性",
-    "reading": "とくせい",
+    "ja": "酸性",
+    "reading": "さんせい",
     "glossEn": [
-      "special characteristic",
-      "special quality"
+      "acidity"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "ブタはある特性を人間と共有している。",
-    "exampleEn": "Pigs share certain characteristics with human beings.",
+    "example": "パイナップルやレモンのような酸性の果実はすっぱい。",
+    "exampleEn": "Acid fruits like pineapples and lemons are sour.",
     "kanji": [
-      "特",
+      "酸",
       "性"
-    ]
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "特質",
-    "reading": "とくしつ",
+    "ja": "鉱物",
+    "reading": "こうぶつ",
     "glossEn": [
-      "characteristic",
-      "feature"
+      "mineral"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "笑いは人間だけの特質なのか。",
-    "exampleEn": "Is laughter a quality of man only?",
+    "example": "オーストラリアは鉱物が豊富だ。",
+    "exampleEn": "Australia is abundant in minerals.",
     "kanji": [
-      "特",
-      "質"
-    ]
+      "鉱",
+      "物"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "犯す",
-    "reading": "おかす",
+    "ja": "防止",
+    "reading": "ぼうし",
     "glossEn": [
-      "to commit (e.g. crime)",
-      "to perpetrate"
+      "prevention",
+      "check"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf",
+      "vs",
+      "vt"
+    ],
+    "example": "チョコレートにはＬＤＬの酸化を防止する力がある。",
+    "exampleEn": "Chocolate acts to prevent LDL oxidisation.",
+    "kanji": [
+      "防",
+      "止"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "限度",
+    "reading": "げんど",
+    "glossEn": [
+      "limit",
+      "bounds"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "物事には限度がある。",
+    "exampleEn": "There is a limit to everything.",
+    "kanji": [
+      "限",
+      "度"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "雑音",
+    "reading": "ざつおん",
+    "glossEn": [
+      "noise (usu. unpleasant)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ラジオに雑音が入る。",
+    "exampleEn": "The radio is disturbed by noises.",
+    "kanji": [
+      "雑",
+      "音"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "順序",
+    "reading": "じゅんじょ",
+    "glossEn": [
+      "order",
+      "sequence"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "まずご両親に話してみるのが順序というものだろう。",
+    "exampleEn": "First of all, you should talk it over with your parents.",
+    "kanji": [
+      "順",
+      "序"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "不規則",
+    "reading": "ふきそく",
+    "glossEn": [
+      "irregular",
+      "unsystematic"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "生理が不規則です。",
+    "exampleEn": "My menstrual cycle is irregular.",
+    "kanji": [
+      "不",
+      "規",
+      "則"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "再来月",
+    "reading": "さらいげつ",
+    "glossEn": [
+      "month after next"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "再来月は１２月だ。",
+    "exampleEn": "The month after next is December.",
+    "kanji": [
+      "再",
+      "来",
+      "月"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "再来週",
+    "reading": "さらいしゅう",
+    "glossEn": [
+      "week after next"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "再来週の木曜日はどう？",
+    "exampleEn": "How about two weeks from Thursday?",
+    "kanji": [
+      "再",
+      "来",
+      "週"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "増やす",
+    "reading": "ふやす",
+    "glossEn": [
+      "to increase",
+      "to add to"
     ],
     "partOfSpeech": [
       "v5s",
       "vt"
     ],
-    "example": "ビルはその罪を犯していなかった。",
-    "exampleEn": "Bill did not commit the crime.",
+    "example": "体力を増やすように努めなさい。",
+    "exampleEn": "Try to build up your strength.",
     "kanji": [
-      "犯"
-    ]
+      "増"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "犯人",
-    "reading": "はんにん",
+    "ja": "寄せる",
+    "reading": "よせる",
     "glossEn": [
-      "offender",
-      "criminal"
+      "to come near",
+      "to let someone approach"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "いすをもっと火の近くに寄せなさい。",
+    "exampleEn": "Draw your chair closer to the fire.",
+    "kanji": [
+      "寄"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "接する",
+    "reading": "せっする",
+    "glossEn": [
+      "to touch",
+      "to come in contact with"
+    ],
+    "partOfSpeech": [
+      "vs-s",
+      "vi"
+    ],
+    "example": "もっと思いやりをもって接してやらないといけませんよ。",
+    "exampleEn": "You must treat them with more consideration.",
+    "kanji": [
+      "接"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "新幹線",
+    "reading": "しんかんせん",
+    "glossEn": [
+      "Shinkansen",
+      "bullet train"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "その犯人はまだつかまっていない。",
-    "exampleEn": "The criminal is still at large.",
+    "example": "新しい新幹線の速いこと！",
+    "exampleEn": "How fast the new Shinkansen goes!",
     "kanji": [
-      "犯",
-      "人"
-    ]
+      "新",
+      "幹",
+      "線"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "犯罪",
-    "reading": "はんざい",
+    "ja": "方程式",
+    "reading": "ほうていしき",
     "glossEn": [
-      "crime",
-      "offence"
+      "equation",
+      "formula"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "戦争は人類に対する犯罪だ。",
-    "exampleEn": "War is a crime against humanity.",
+    "example": "以下の方程式の解を求めよ。",
+    "exampleEn": "Find the solution to the following equation.",
     "kanji": [
-      "犯",
-      "罪"
-    ]
+      "方",
+      "程",
+      "式"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "状態",
-    "reading": "じょうたい",
+    "ja": "暴れる",
+    "reading": "あばれる",
     "glossEn": [
-      "state",
-      "condition"
+      "to act violently",
+      "to rage"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "少年たちは２階でどたばた暴れていた。",
+    "exampleEn": "The boys were banging about upstairs.",
+    "kanji": [
+      "暴"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "混じる",
+    "reading": "まじる",
+    "glossEn": [
+      "to be mixed",
+      "to be blended with"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "トムは知らない人に混じって居心地が悪かった。",
+    "exampleEn": "Tom is ill at ease among strangers.",
+    "kanji": [
+      "混"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "混ぜる",
+    "reading": "まぜる",
+    "glossEn": [
+      "to mix",
+      "to stir"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "水を加え、練り粉がどろどろしない程度に混ぜなさい。",
+    "exampleEn": "Add water and mix to a firm dough.",
+    "kanji": [
+      "混"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "燃やす",
+    "reading": "もやす",
+    "glossEn": [
+      "to burn"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "このガラクタは火に燃やしなさい。",
+    "exampleEn": "Burn this rubbish on the fire.",
+    "kanji": [
+      "燃"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "真似る",
+    "reading": "まねる",
+    "glossEn": [
+      "to mimic",
+      "to imitate"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "オウムはしばしば人の言葉をまねる。",
+    "exampleEn": "Parrots often imitate human speech.",
+    "kanji": [
+      "真",
+      "似"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "過半数",
+    "reading": "かはんすう",
+    "glossEn": [
+      "majority"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "その古家はひどい状態であった。",
-    "exampleEn": "The old house was in bad shape.",
+    "example": "合格者の過半数は大学出身者であった。",
+    "exampleEn": "The majority of the successful candidates were university graduates.",
     "kanji": [
-      "状",
-      "態"
-    ]
+      "過",
+      "半",
+      "数"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "独楽",
-    "reading": "こま",
+    "ja": "差し支え",
+    "reading": "さしつかえ",
     "glossEn": [
-      "spinning top"
+      "hindrance",
+      "impediment"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "こまはぐるぐる回転した。",
-    "exampleEn": "The top went around and around.",
+    "example": "その家は理想的とはいえないが、まぁさしつかえはない。",
+    "exampleEn": "The house is not ideal, but it's all right.",
     "kanji": [
-      "独",
-      "楽"
-    ]
+      "差",
+      "支"
+    ],
+    "jlpt": 2
   },
   {
-    "ja": "独特",
-    "reading": "どくとく",
+    "ja": "総理大臣",
+    "reading": "そうりだいじん",
     "glossEn": [
-      "peculiarity",
-      "uniqueness"
+      "prime minister (as the head of a cabinet government)",
+      "premier"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "総理大臣が辞任した。",
+    "exampleEn": "The Prime Minister has resigned.",
+    "kanji": [
+      "総",
+      "理",
+      "大",
+      "臣"
+    ],
+    "jlpt": 2
+  },
+  {
+    "ja": "仏",
+    "reading": "ほとけ",
+    "glossEn": [
+      "Buddha",
+      "Shakyamuni"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あの人は仏のような人だ。",
+    "exampleEn": "He is a saint of a man.",
+    "kanji": [
+      "仏"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "仮",
+    "reading": "かり",
+    "glossEn": [
+      "temporary",
+      "provisional"
+    ],
+    "partOfSpeech": [
+      "adj-no",
+      "pref"
+    ],
+    "example": "仮のブリッジをいれます。",
+    "exampleEn": "You'll need a temporary bridge.",
+    "kanji": [
+      "仮"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "像",
+    "reading": "ぞう",
+    "glossEn": [
+      "image",
+      "figure"
     ],
     "partOfSpeech": [
       "n",
+      "n-suf"
+    ],
+    "example": "その像は型に入れられて作られた。",
+    "exampleEn": "The statue was cast in a mold.",
+    "kanji": [
+      "像"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "再",
+    "reading": "さい",
+    "glossEn": [
+      "re-",
+      "again"
+    ],
+    "partOfSpeech": [
+      "pref"
+    ],
+    "example": "ビザの再発給をお願いしたいのですが。",
+    "exampleEn": "Could you please issue me a visa again?",
+    "kanji": [
+      "再"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "志",
+    "reading": "こころざし",
+    "glossEn": [
+      "will",
+      "resolution"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "何事をするにも志が大切。",
+    "exampleEn": "The will is as good as the deed.",
+    "kanji": [
+      "志"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "総",
+    "reading": "そう",
+    "glossEn": [
+      "whole",
+      "total"
+    ],
+    "partOfSpeech": [
+      "pref"
+    ],
+    "example": "総入れ歯にする必要があります。",
+    "exampleEn": "You have to have a full denture.",
+    "kanji": [
+      "総"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "製",
+    "reading": "せい",
+    "glossEn": [
+      "make",
+      "manufacture"
+    ],
+    "partOfSpeech": [
+      "n-suf",
+      "n"
+    ],
+    "example": "これらの箱はプラスチック製です。",
+    "exampleEn": "These boxes are made of plastic.",
+    "kanji": [
+      "製"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "費",
+    "reading": "ひ",
+    "glossEn": [
+      "cost",
+      "expense"
+    ],
+    "partOfSpeech": [
+      "n-suf"
+    ],
+    "example": "製造費は予算の３６パーセントと見積もっている。",
+    "exampleEn": "I estimate the production costs to be 36 percent of the budget.",
+    "kanji": [
+      "費"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "銅",
+    "reading": "どう",
+    "glossEn": [
+      "copper (Cu)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "銅はよく電気を通す。",
+    "exampleEn": "Copper conducts electricity well.",
+    "kanji": [
+      "銅"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "際",
+    "reading": "さい",
+    "glossEn": [
+      "occasion",
+      "time"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "火事の際は１１９番に電話してください。",
+    "exampleEn": "In the case of fire, dial 119.",
+    "kanji": [
+      "際"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "万能",
+    "reading": "ばんのう",
+    "glossEn": [
+      "all-purpose",
+      "utility"
+    ],
+    "partOfSpeech": [
+      "adj-no",
+      "n"
+    ],
+    "example": "人間は神ほど万能ではない。",
+    "exampleEn": "Man is not as almighty as God.",
+    "kanji": [
+      "万",
+      "能"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "主任",
+    "reading": "しゅにん",
+    "glossEn": [
+      "person in charge",
+      "senior staff"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その問題は主任をひどく苦しめた。",
+    "exampleEn": "The problem tortured the chief.",
+    "kanji": [
+      "主",
+      "任"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "交易",
+    "reading": "こうえき",
+    "glossEn": [
+      "trade",
+      "commerce"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "戦争中米国は英国との交易を中断しようとした。",
+    "exampleEn": "During the war, America tried to stop trading with England.",
+    "kanji": [
+      "交",
+      "易"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "人質",
+    "reading": "ひとじち",
+    "glossEn": [
+      "hostage"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "人質は解放されるだろう。",
+    "exampleEn": "The hostages will be released.",
+    "kanji": [
+      "人",
+      "質"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "付属",
+    "reading": "ふぞく",
+    "glossEn": [
+      "being attached (to)",
+      "being affiliated (to)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi",
+      "adj-no"
+    ],
+    "example": "そのカレッジは大学に付属している。",
+    "exampleEn": "The college is affiliated with the university.",
+    "kanji": [
+      "付",
+      "属"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "体格",
+    "reading": "たいかく",
+    "glossEn": [
+      "build",
+      "physique"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そのスポーツ選手はがっしりした体格をしていた。",
+    "exampleEn": "The athlete had a strong build.",
+    "kanji": [
+      "体",
+      "格"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "何故",
+    "reading": "なぜ",
+    "glossEn": [
+      "why",
+      "how"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "あなたはなぜ働いているの。",
+    "exampleEn": "How come you're still working?",
+    "kanji": [
+      "何",
+      "故"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "余り",
+    "reading": "あまり",
+    "glossEn": [
+      "remainder",
+      "remnant"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "この手の本はあまり読まない。",
+    "exampleEn": "I don't read this kind of book much.",
+    "kanji": [
+      "余"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "保つ",
+    "reading": "たもつ",
+    "glossEn": [
+      "to keep",
+      "to preserve"
+    ],
+    "partOfSpeech": [
+      "v5t",
+      "vt"
+    ],
+    "example": "体面を保つために行った。",
+    "exampleEn": "For appearances sake, I went.",
+    "kanji": [
+      "保"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "保護",
+    "reading": "ほご",
+    "glossEn": [
+      "protection",
+      "safeguard"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "その子はおじの保護を受けている。",
+    "exampleEn": "He is in custody of his uncle.",
+    "kanji": [
+      "保",
+      "護"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "保険",
+    "reading": "ほけん",
+    "glossEn": [
+      "insurance"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この保険は何もかもカバーする。",
+    "exampleEn": "This insurance covers everything.",
+    "kanji": [
+      "保",
+      "険"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "元素",
+    "reading": "げんそ",
+    "glossEn": [
+      "element",
+      "chemical element"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "元素記号Ｈは水素をあらわす。",
+    "exampleEn": "The chemical symbol H indicates hydrogen.",
+    "kanji": [
+      "元",
+      "素"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "再建",
+    "reading": "さいけん",
+    "glossEn": [
+      "rebuilding",
+      "reconstruction"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "その城は、１４８５年に全焼して、再建されなかった。",
+    "exampleEn": "The castle, burnt down in 1485, was not rebuilt.",
+    "kanji": [
+      "再",
+      "建"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "再生",
+    "reading": "さいせい",
+    "glossEn": [
+      "restoration to life",
+      "coming to life again"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "録音が終わったらそれを再生して聞かせてください。",
+    "exampleEn": "Please play it back for me after you've finished the recording.",
+    "kanji": [
+      "再",
+      "生"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "出費",
+    "reading": "しゅっぴ",
+    "glossEn": [
+      "expenses",
+      "disbursements"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "金をためるには出費を切りつめないと。",
+    "exampleEn": "We must cut our expenses to save money.",
+    "kanji": [
+      "出",
+      "費"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "初版",
+    "reading": "しょはん",
+    "glossEn": [
+      "first edition"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "初版は１０年前に出版された。",
+    "exampleEn": "The first edition was published ten years ago.",
+    "kanji": [
+      "初",
+      "版"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "単独",
+    "reading": "たんどく",
+    "glossEn": [
+      "sole",
+      "single"
+    ],
+    "partOfSpeech": [
       "adj-no",
       "adj-na"
     ],
-    "example": "ナチズムはドイツ独特のものでしたか。",
-    "exampleEn": "Was Nazism peculiar to Germany?",
+    "example": "不幸は決して単独では来ない。",
+    "exampleEn": "Misfortunes seldom come singly.",
     "kanji": [
-      "独",
-      "特"
-    ]
+      "単",
+      "独"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "独立",
-    "reading": "どくりつ",
+    "ja": "同居",
+    "reading": "どうきょ",
     "glossEn": [
-      "independence",
-      "self-reliance"
+      "living together",
+      "coexistence"
     ],
     "partOfSpeech": [
       "n",
       "vs",
       "vi"
     ],
-    "example": "インドは英国から１９４７年に独立した。",
-    "exampleEn": "India gained independence from Britain in 1947.",
+    "example": "キムはケンと同居している。",
+    "exampleEn": "Kim is living with Ken.",
     "kanji": [
-      "独",
-      "立"
-    ]
+      "同",
+      "居"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "独自",
-    "reading": "どくじ",
+    "ja": "品質",
+    "reading": "ひんしつ",
     "glossEn": [
-      "original",
-      "unique"
+      "quality (of a product or a service)"
     ],
     "partOfSpeech": [
-      "adj-no",
-      "adj-na",
       "n"
     ],
-    "example": "どの民族も独自の神話を持っている。",
-    "exampleEn": "Every nation has its own myths.",
+    "example": "もっと品質の良いものはありますか。",
+    "exampleEn": "Do you have better quality ones?",
     "kanji": [
-      "独",
-      "自"
-    ]
+      "品",
+      "質"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "率直",
-    "reading": "そっちょく",
+    "ja": "営む",
+    "reading": "いとなむ",
     "glossEn": [
-      "frank",
-      "candid"
+      "to run (a business)",
+      "to operate"
     ],
     "partOfSpeech": [
-      "adj-na",
-      "n"
+      "v5m",
+      "vt"
     ],
-    "example": "あなたの率直な意見が聞きたいのです。",
-    "exampleEn": "I would like to hear your honest opinion.",
+    "example": "その島には漁業を営む人たちが住んでいた。",
+    "exampleEn": "The island was inhabited by a fishing people.",
     "kanji": [
-      "率",
-      "直"
-    ]
+      "営"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "現像",
-    "reading": "げんぞう",
+    "ja": "国防",
+    "reading": "こくぼう",
     "glossEn": [
-      "development (of film)",
-      "photographic processing"
+      "national defence",
+      "national defense"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "国防のため大きな額が計上された。",
+    "exampleEn": "A considerable amount of money was appropriated for the national defense.",
+    "kanji": [
+      "国",
+      "防"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "圧力",
+    "reading": "あつりょく",
+    "glossEn": [
+      "pressure"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "橋が圧力で落ちた。",
+    "exampleEn": "The bridge crashed under the pressure.",
+    "kanji": [
+      "圧",
+      "力"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "基金",
+    "reading": "ききん",
+    "glossEn": [
+      "fund",
+      "foundation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "シンガポールの中央基金は年金を支給する。",
+    "exampleEn": "Singapore's Central Fund provides pensions.",
+    "kanji": [
+      "基",
+      "金"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "増し",
+    "reading": "まし",
+    "glossEn": [
+      "better",
+      "preferable"
+    ],
+    "partOfSpeech": [
+      "adj-na"
+    ],
+    "example": "非会員は50ドル増しとなります。",
+    "exampleEn": "Non-members pay an additional 50 dollars.",
+    "kanji": [
+      "増"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "女史",
+    "reading": "じょし",
+    "glossEn": [
+      "lady (of high social status; e.g. scholar, artist, critic, politician)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "コブ女史が帰ってくる日が待ち遠しいよ。ほんとに。",
+    "exampleEn": "I'm looking forward to the day when Miss Cobb comes back, I can tell you.",
+    "kanji": [
+      "女",
+      "史"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "学歴",
+    "reading": "がくれき",
+    "glossEn": [
+      "academic background",
+      "academic credentials"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "給料は、経験と学歴に基づいて決まります。",
+    "exampleEn": "Pay will be based on experience and educational background.",
+    "kanji": [
+      "学",
+      "歴"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "守衛",
+    "reading": "しゅえい",
+    "glossEn": [
+      "(security) guard",
+      "caretaker"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "守衛にとがめられた。",
+    "exampleEn": "I was challenged by a gatekeeper.",
+    "kanji": [
+      "守",
+      "衛"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "実情",
+    "reading": "じつじょう",
+    "glossEn": [
+      "real condition",
+      "actual circumstances"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "実情がどうなっているかはっきり言いましょう。",
+    "exampleEn": "I will tell you exactly how the matter stands.",
+    "kanji": [
+      "実",
+      "情"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "対応",
+    "reading": "たいおう",
+    "glossEn": [
+      "correspondence (to)",
+      "equivalence"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "その日本語に対応する英語はない。",
+    "exampleEn": "That Japanese word has no equivalent in English.",
+    "kanji": [
+      "対",
+      "応"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "居住",
+    "reading": "きょじゅう",
+    "glossEn": [
+      "residence",
+      "living (at, in)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "「居住外国人」とは、どういう意味ですか。",
+    "exampleEn": "What does \"resident alien\" mean?",
+    "kanji": [
+      "居",
+      "住"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "平均",
+    "reading": "へいきん",
+    "glossEn": [
+      "average",
+      "mean"
     ],
     "partOfSpeech": [
       "n",
       "vs",
       "vt"
     ],
-    "example": "このフィルムを現像してもらえますか。",
-    "exampleEn": "Can I have this film developed?",
+    "example": "今年の冬は気温が平均以上だ。",
+    "exampleEn": "The temperature is above average this winter.",
     "kanji": [
-      "現",
-      "像"
-    ]
+      "平",
+      "均"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "現在",
-    "reading": "げんざい",
+    "ja": "形勢",
+    "reading": "けいせい",
     "glossEn": [
-      "the present",
-      "present time"
+      "condition",
+      "situation"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "形勢は逆転した。",
+    "exampleEn": "Now the shoe is on the other foot.",
+    "kanji": [
+      "形",
+      "勢"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "形態",
+    "reading": "けいたい",
+    "glossEn": [
+      "form",
+      "shape"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ジョギングは、運動として、好ましい形態になった。",
+    "exampleEn": "Jogging has become the favorite form of exercise.",
+    "kanji": [
+      "形",
+      "態"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "得点",
+    "reading": "とくてん",
+    "glossEn": [
+      "scoring",
+      "score"
     ],
     "partOfSpeech": [
       "n",
-      "adv",
-      "adj-no"
+      "vs",
+      "vi"
+    ],
+    "example": "ハーフタイムでの得点はどうでしたか。",
+    "exampleEn": "What was the score at halftime?",
+    "kanji": [
+      "得",
+      "点"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "復旧",
+    "reading": "ふっきゅう",
+    "glossEn": [
+      "restoration",
+      "restitution"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
     ],
     "example": "現在、通常のサービスの早急な復旧に努めています。",
     "exampleEn": "We are currently working to restore normal service as soon as possible.",
     "kanji": [
-      "現",
-      "在"
-    ]
+      "復",
+      "旧"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "現実",
-    "reading": "げんじつ",
+    "ja": "復活",
+    "reading": "ふっかつ",
     "glossEn": [
-      "reality",
-      "actuality"
+      "revival (of an old system, custom, fashion, etc.)",
+      "restoration"
     ],
     "partOfSpeech": [
-      "n"
+      "n",
+      "vs",
+      "vt",
+      "vi"
     ],
-    "example": "いい加減に現実をみつめろ。",
-    "exampleEn": "Open your eyes to reality.",
+    "example": "３０年前のファッションが復活した。",
+    "exampleEn": "Fashions of thirty years ago have come back in style.",
     "kanji": [
-      "現",
-      "実"
-    ]
+      "復",
+      "活"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "現象",
-    "reading": "げんしょう",
+    "ja": "復興",
+    "reading": "ふっこう",
     "glossEn": [
-      "phenomenon"
+      "revival",
+      "reconstruction"
     ],
     "partOfSpeech": [
-      "n"
+      "n",
+      "vs",
+      "vt",
+      "vi"
     ],
-    "example": "この現象に関してはまだ物理的な説明がなされていない。",
-    "exampleEn": "There is not a physical explanation for this phenomenon yet.",
+    "example": "それはさらにいっそうの活力で復興した。",
+    "exampleEn": "It revived with even greater vigor.",
     "kanji": [
-      "現",
-      "象"
-    ]
+      "復",
+      "興"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "理性",
-    "reading": "りせい",
+    "ja": "必修",
+    "reading": "ひっしゅう",
     "glossEn": [
-      "reason",
-      "reasoning power"
+      "required (subject)"
     ],
     "partOfSpeech": [
-      "n"
+      "n",
+      "adj-no"
     ],
-    "example": "人間には理性があるが動物には無い。",
-    "exampleEn": "Man has reason, animals do not.",
+    "example": "体育の授業は全員が必修です。",
+    "exampleEn": "The physical fitness courses are required for everyone.",
     "kanji": [
-      "理",
-      "性"
-    ]
+      "必",
+      "修"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "理解",
-    "reading": "りかい",
+    "ja": "志す",
+    "reading": "こころざす",
     "glossEn": [
-      "understanding",
-      "comprehension"
+      "to aspire to",
+      "to aim for"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vi",
+      "vt"
+    ],
+    "example": "このコーヒー店には芸術家を志すものが足しげく通う。",
+    "exampleEn": "This coffee shop is frequented by aspiring artists.",
+    "kanji": [
+      "志"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "志向",
+    "reading": "しこう",
+    "glossEn": [
+      "intention",
+      "aim"
     ],
     "partOfSpeech": [
       "n",
       "vs",
       "vt"
     ],
-    "example": "わたしはあなたの言うことが理解できる。",
-    "exampleEn": "I can understand what you are saying.",
+    "example": "その会社の強さは未来志向の戦略によって生みだされている。",
+    "exampleEn": "The strength of the firm is attributed to its future-oriented strategy.",
     "kanji": [
-      "理",
-      "解"
-    ]
+      "志",
+      "向"
+    ],
+    "jlpt": 1
   },
   {
-    "ja": "用件",
-    "reading": "ようけん",
+    "ja": "応急",
+    "reading": "おうきゅう",
     "glossEn": [
-      "business",
-      "thing to be done"
+      "emergency fix",
+      "tentative measure"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "これらの建物は応急の修理が必要です。",
+    "exampleEn": "These buildings need temporary repairs.",
+    "kanji": [
+      "応",
+      "急"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "情け",
+    "reading": "なさけ",
+    "glossEn": [
+      "pity",
+      "sympathy"
     ],
     "partOfSpeech": [
       "n"
     ],
-    "example": "その用件は明日まで待てますか。",
-    "exampleEn": "Can the matter wait till tomorrow?",
+    "example": "旅は道連れ世は情け。",
+    "exampleEn": "No road is long with good company.",
     "kanji": [
-      "用",
-      "件"
-    ]
+      "情"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "招き",
+    "reading": "まねき",
+    "glossEn": [
+      "invitation"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "お招き下さってありがとうございました。",
+    "exampleEn": "It was kind of you to invite us.",
+    "kanji": [
+      "招"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "採用",
+    "reading": "さいよう",
+    "glossEn": [
+      "use",
+      "adoption"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "６世紀にアングロ・サクソン族はローマ文字を採用した。",
+    "exampleEn": "In the 6th century, the Anglo-Saxons adopted Roman characters.",
+    "kanji": [
+      "採",
+      "用"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "採算",
+    "reading": "さいさん",
+    "glossEn": [
+      "profit"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その事業もやがては採算が取れるようになるだろう。",
+    "exampleEn": "The business will pay in due course.",
+    "kanji": [
+      "採",
+      "算"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "提示",
+    "reading": "ていじ",
+    "glossEn": [
+      "presentation (of a passport, ID, etc.)",
+      "showing"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "下記に対して価格を提示してください。",
+    "exampleEn": "I'd like a quote for the following.",
+    "kanji": [
+      "提",
+      "示"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "救い",
+    "reading": "すくい",
+    "glossEn": [
+      "help",
+      "rescue"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "「神はわれらの救いである」と司祭は言った。",
+    "exampleEn": "\"God is our salvation,\" said the priest.",
+    "kanji": [
+      "救"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "新築",
+    "reading": "しんちく",
+    "glossEn": [
+      "new building",
+      "new construction"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "adj-no"
+    ],
+    "example": "家を新築中です。",
+    "exampleEn": "I'm getting a new house built.",
+    "kanji": [
+      "新",
+      "築"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "易い",
+    "reading": "やすい",
+    "glossEn": [
+      "easy"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "悪習は身につきやすい。",
+    "exampleEn": "Bad habits are easy to get into.",
+    "kanji": [
+      "易"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "月謝",
+    "reading": "げっしゃ",
+    "glossEn": [
+      "monthly tuition fee"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "このスイミングスクールの毎月の月謝はいくらですか。",
+    "exampleEn": "How much is the monthly fee of this swimming school?",
+    "kanji": [
+      "月",
+      "謝"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "木綿",
+    "reading": "もめん",
+    "glossEn": [
+      "cotton (material)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "このブラウスは木綿製です。",
+    "exampleEn": "This blouse is cotton.",
+    "kanji": [
+      "木",
+      "綿"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "機構",
+    "reading": "きこう",
+    "glossEn": [
+      "mechanism",
+      "machinery"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ＷＨＯとは世界保健機構を表す。",
+    "exampleEn": "WHO stands for World Health Organization.",
+    "kanji": [
+      "機",
+      "構"
+    ],
+    "jlpt": 1
+  },
+  {
+    "ja": "正義",
+    "reading": "せいぎ",
+    "glossEn": [
+      "justice",
+      "right"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "最後には正義は勝つものだ。",
+    "exampleEn": "Justice will prevail in the end.",
+    "kanji": [
+      "正",
+      "義"
+    ],
+    "jlpt": 1
   }
 ]
