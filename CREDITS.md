@@ -16,8 +16,9 @@
 | 素材 | 出處 | 授權 | 用途 |
 |---|---|---|---|
 | OpenMoji | [openmoji.org](https://openmoji.org/) | CC BY-SA 4.0 | 意味插圖（black 線稿版） |
-| Open Peeps | [openpeeps.com](https://www.openpeeps.com/) | CC0 | 網站插圖、紙面陪伴角色 |
-| Humaaans | [humaaans.com](https://www.humaaans.com/) | CC BY 4.0 | 網站插圖 |
+| ~~Open Peeps~~ | [openpeeps.com](https://www.openpeeps.com/) | CC0 | **未採用** —— 沒有可程式化取得的發布，官網只提供 Sketch/Figma 檔手動下載 |
+| ~~Humaaans~~ | [humaaans.com](https://www.humaaans.com/) | CC BY 4.0 | **未採用** —— `react-humaaans` 是 2019 年的 UMD bundle，ESM 下沒有可用的 default export |
+| 陪伴角色 | 本專案自繪（`src/components/Mascot.tsx`） | MIT | 螢幕與紙面共用的線稿角色 |
 | Phosphor Icons | [phosphoricons.com](https://phosphoricons.com/) | MIT | 孩子看的大圖示 |
 | Tabler Icons | [tabler.io/icons](https://tabler.io/icons) | MIT | App 外殼圖示 |
 | Lucide | [lucide.dev](https://lucide.dev/) | ISC | 補缺圖示 |

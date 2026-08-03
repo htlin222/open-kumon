@@ -37,6 +37,7 @@ export interface ProgressView {
   /** 下一個有內容的年級；沒有就是 null */
   nextGrade: number | null
   promote: () => void
+  restore: (store: Store) => void
 }
 
 /**
@@ -129,5 +130,6 @@ export function useProgress(): ProgressView {
     nextGrade:
       child && KANJI_BY_GRADE[child.grade + 1] ? child.grade + 1 : null,
     promote: () => child && update(promoteGrade(store, child.id)),
+    restore: setStore,
   }
 }

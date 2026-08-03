@@ -2,6 +2,8 @@ import { Button, Heading, TextInput } from '@primer/react'
 import { IconPrinter, IconFlame, IconRefresh, IconConfetti } from '@tabler/icons-react'
 import { useState } from 'react'
 import { MistakeChecklist } from './MistakeChecklist'
+import { DataPanel } from './DataPanel'
+import { Mascot } from './Mascot'
 import { pickForSheet } from '../content/readings'
 import type { ProgressView } from '../hooks/useProgress'
 import type { KanjiEntry } from '../content/schema'
@@ -38,6 +40,9 @@ export function TodayPanel({ progress, lookup }: TodayPanelProps) {
 
       {assignment?.kind === 'finished' ? (
         <div>
+          <div style={{ display: 'grid', placeItems: 'center', padding: '8px 0', color: '#1f883d' }}>
+            <Mascot mood="cheer" size={110} />
+          </div>
           <div className="chrome__note" style={{ marginTop: 0 }}>
             <IconConfetti size={18} /> {progress.grade} 年生的字全部寫完了。
           </div>
@@ -88,7 +93,14 @@ export function TodayPanel({ progress, lookup }: TodayPanelProps) {
           )}
 
           {doneToday ? (
-            <div className="chrome__note">今天這張已經完成了。明天會有新的一張。</div>
+            <div>
+              <div style={{ display: 'grid', placeItems: 'center', padding: '8px 0', color: '#1f883d' }}>
+                <Mascot mood="cheer" size={90} />
+              </div>
+              <div className="chrome__note" style={{ marginTop: 0 }}>
+                今天這張已經完成了。明天會有新的一張。
+              </div>
+            </div>
           ) : (
             <MistakeChecklist
               kanji={progress.checkable}
@@ -98,6 +110,8 @@ export function TodayPanel({ progress, lookup }: TodayPanelProps) {
           )}
         </>
       )}
+
+      <DataPanel store={progress.store} onRestore={progress.restore} />
     </>
   )
 }
@@ -127,6 +141,9 @@ function FirstRun({ onCreate }: { onCreate: (name: string) => void }) {
       <Heading as="h1" style={{ fontSize: 20, marginBottom: 8 }}>
         open-kumon
       </Heading>
+      <div style={{ display: 'grid', placeItems: 'center', padding: '8px 0', color: '#57606a' }}>
+        <Mascot mood="wave" size={110} />
+      </div>
       <div className="chrome__note" style={{ marginTop: 0 }}>
         先建立一個孩子的檔案。進度存在這台裝置上，不會上傳。
       </div>

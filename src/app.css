@@ -123,3 +123,9 @@
   font-size: 13px;
   color: var(--fgColor-muted, #59636e);
 }
+
+.chrome__data {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid var(--borderColor-default, #d1d9e0);
+}

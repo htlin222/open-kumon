@@ -60,7 +60,9 @@ Build-time pipeline：KANJIDIC2 / kanjiapi.dev（讀音）· KanjiVG（筆順）
 | 實機列印驗收（範字 34mm／格子 26mm） | ✅ |
 | 課表引擎（每日一張、階段解鎖） | ✅ |
 | 錯題本與間隔複習（3/7/21/60 天） | ✅ |
-| 進度儲存（localStorage、多孩子、匯出匯入） | ✅ |
+| 進度儲存（localStorage、多孩子） | ✅ |
+| 匯出／匯入備份（有 UI） | ✅ |
+| 陪伴角色（自繪線稿，非 Open Peeps） | ✅ |
 | 3–5 年級釋義（595 字） | ⬜ |
 | 言葉と文のきまり／文章の読解／書き方 版型 | ⬜ |
 | 程度檢定（Workers AI） | ⬜ |
