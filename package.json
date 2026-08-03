@@ -17,7 +17,8 @@
     "audit:sheets": "playwright test tests/audit",
     "content:strokes": "tsx scripts/build-strokes.ts",
     "content:illustrations": "tsx scripts/build-illustrations.ts",
-    "content:all": "pnpm content:build && pnpm content:strokes && pnpm content:illustrations && pnpm content:verify"
+    "content:all": "pnpm content:build && pnpm content:strokes && pnpm content:illustrations && pnpm content:verify",
+    "content:vocab": "tsx scripts/build-vocab.ts"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

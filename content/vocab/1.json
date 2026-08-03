@@ -1,0 +1,4986 @@
+[
+  {
+    "ja": "大",
+    "reading": "だい",
+    "glossEn": [
+      "large",
+      "big"
+    ],
+    "partOfSpeech": [
+      "pref",
+      "adj-na",
+      "n"
+    ],
+    "example": "大か、小か。",
+    "exampleEn": "Large or small?",
+    "kanji": [
+      "大"
+    ]
+  },
+  {
+    "ja": "小",
+    "reading": "しょう",
+    "glossEn": [
+      "smallness",
+      "small item"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-pref"
+    ],
+    "example": "大か、小か。",
+    "exampleEn": "Large or small?",
+    "kanji": [
+      "小"
+    ]
+  },
+  {
+    "ja": "手",
+    "reading": "て",
+    "glossEn": [
+      "hand",
+      "arm"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ここに手のないナベがある。",
+    "exampleEn": "Here is a pan without handles.",
+    "kanji": [
+      "手"
+    ]
+  },
+  {
+    "ja": "村",
+    "reading": "むら",
+    "glossEn": [
+      "village"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "町は村よりも大きい。",
+    "exampleEn": "Towns are larger than villages.",
+    "kanji": [
+      "村"
+    ]
+  },
+  {
+    "ja": "林",
+    "reading": "はやし",
+    "glossEn": [
+      "wood",
+      "woods"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "林に竹が目立つ。",
+    "exampleEn": "Bamboo stands out in the woods.",
+    "kanji": [
+      "林"
+    ]
+  },
+  {
+    "ja": "玉",
+    "reading": "たま",
+    "glossEn": [
+      "ball",
+      "sphere"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ニッケルは５セント玉です。",
+    "exampleEn": "A nickel is a five-cent coin.",
+    "kanji": [
+      "玉"
+    ]
+  },
+  {
+    "ja": "空",
+    "reading": "から",
+    "glossEn": [
+      "emptiness",
+      "being empty"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "ほとんど空なのでガソリンを入れなくてはなりません。",
+    "exampleEn": "I need to put some gas in the car, as it's almost empty.",
+    "kanji": [
+      "空"
+    ]
+  },
+  {
+    "ja": "竹",
+    "reading": "たけ",
+    "glossEn": [
+      "bamboo (any grass of subfamily Bambusoideae)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "林に竹が目立つ。",
+    "exampleEn": "Bamboo stands out in the woods.",
+    "kanji": [
+      "竹"
+    ]
+  },
+  {
+    "ja": "足",
+    "reading": "あし",
+    "glossEn": [
+      "foot",
+      "paw"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "また足がしびれた。",
+    "exampleEn": "My foot's asleep again!",
+    "kanji": [
+      "足"
+    ]
+  },
+  {
+    "ja": "お金",
+    "reading": "おかね",
+    "glossEn": [
+      "money"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "どうやってそのお金を手に入れたんですか。",
+    "exampleEn": "How did you come by the money?",
+    "kanji": [
+      "金"
+    ]
+  },
+  {
+    "ja": "三つ",
+    "reading": "みっつ",
+    "glossEn": [
+      "three"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": "ボーイさん、コーヒー３つください。",
+    "exampleEn": "Waiter, three coffees, please.",
+    "kanji": [
+      "三"
+    ]
+  },
+  {
+    "ja": "三本",
+    "reading": "さんぼん",
+    "glossEn": [
+      "three (long cylindrical things)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "チョークを三本ください。",
+    "exampleEn": "Give me three pieces of chalk.",
+    "kanji": [
+      "三",
+      "本"
+    ]
+  },
+  {
+    "ja": "上る",
+    "reading": "のぼる",
+    "glossEn": [
+      "to ascend",
+      "to go up"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "あなたは、上れませんよ。",
+    "exampleEn": "You cannot climb!",
+    "kanji": [
+      "上"
+    ]
+  },
+  {
+    "ja": "上手",
+    "reading": "じょうず",
+    "glossEn": [
+      "skillful",
+      "skilled"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "あなたは上手にバスケットボールができますか。",
+    "exampleEn": "Do you play basketball well?",
+    "kanji": [
+      "上",
+      "手"
+    ]
+  },
+  {
+    "ja": "下る",
+    "reading": "くだる",
+    "glossEn": [
+      "to descend",
+      "to go down"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "山を下ったところに学校がある。",
+    "exampleEn": "There is a school down the mountain.",
+    "kanji": [
+      "下"
+    ]
+  },
+  {
+    "ja": "八つ",
+    "reading": "やっつ",
+    "glossEn": [
+      "eight"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": "そこに八つの小石があった。",
+    "exampleEn": "There were eight pebbles there.",
+    "kanji": [
+      "八"
+    ]
+  },
+  {
+    "ja": "右手",
+    "reading": "みぎて",
+    "glossEn": [
+      "right hand"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "右手がしびれます。",
+    "exampleEn": "My right hand is numb.",
+    "kanji": [
+      "右",
+      "手"
+    ]
+  },
+  {
+    "ja": "四本",
+    "reading": "よんほん",
+    "glossEn": [
+      "four (long cylindrical things)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "犬は四本足である。",
+    "exampleEn": "A dog has four legs.",
+    "kanji": [
+      "四",
+      "本"
+    ]
+  },
+  {
+    "ja": "女子",
+    "reading": "じょし",
+    "glossEn": [
+      "woman",
+      "girl"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "このクラスには１５人の男子と２８人の女子がいる。",
+    "exampleEn": "This class consists of 15 boys and 28 girls.",
+    "kanji": [
+      "女",
+      "子"
+    ]
+  },
+  {
+    "ja": "学ぶ",
+    "reading": "まなぶ",
+    "glossEn": [
+      "to learn",
+      "to study"
+    ],
+    "partOfSpeech": [
+      "v5b",
+      "vt"
+    ],
+    "example": "いくつになっても学ぶことはある。",
+    "exampleEn": "One is never too old to learn.",
+    "kanji": [
+      "学"
+    ]
+  },
+  {
+    "ja": "川上",
+    "reading": "かわかみ",
+    "glossEn": [
+      "upper reaches of a river",
+      "upstream"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ここから３キロほど川上に村が１つある。",
+    "exampleEn": "There is a village about three kilometers up the river from here.",
+    "kanji": [
+      "川",
+      "上"
+    ]
+  },
+  {
+    "ja": "手足",
+    "reading": "てあし",
+    "glossEn": [
+      "hands and feet",
+      "limbs"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "手足がむくんでいます。",
+    "exampleEn": "My hands and legs are swollen.",
+    "kanji": [
+      "手",
+      "足"
+    ]
+  },
+  {
+    "ja": "竹林",
+    "reading": "ちくりん",
+    "glossEn": [
+      "bamboo thicket",
+      "bamboo grove"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "パンダは竹林にすんでいます。",
+    "exampleEn": "Pandas live in bamboo thickets.",
+    "kanji": [
+      "竹",
+      "林"
+    ]
+  },
+  {
+    "ja": "糸口",
+    "reading": "いとぐち",
+    "glossEn": [
+      "beginning",
+      "start"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "わずかなヒントを糸口にして、正しいこたえを見つけた。",
+    "exampleEn": "He took a slight hint as the start and found the correct answer.",
+    "kanji": [
+      "糸",
+      "口"
+    ]
+  },
+  {
+    "ja": "花火",
+    "reading": "はなび",
+    "glossEn": [
+      "fireworks"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "すごい花火だ！",
+    "exampleEn": "These fireworks are spectacular!",
+    "kanji": [
+      "花",
+      "火"
+    ]
+  },
+  {
+    "ja": "２月",
+    "reading": "にがつ",
+    "glossEn": [
+      "February"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "生年月日は１９６０年２月１４日です。",
+    "exampleEn": "I was born on February 14, 1960.",
+    "kanji": [
+      "月"
+    ]
+  },
+  {
+    "ja": "３日",
+    "reading": "みっか",
+    "glossEn": [
+      "3rd day of the month"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "１０月３日です。",
+    "exampleEn": "It's the third of October.",
+    "kanji": [
+      "日"
+    ]
+  },
+  {
+    "ja": "５日",
+    "reading": "いつか",
+    "glossEn": [
+      "5th day of the month"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "１月５日から１月１５日までおねがいします。",
+    "exampleEn": "From the 5th to the 15th of January, please.",
+    "kanji": [
+      "日"
+    ]
+  },
+  {
+    "ja": "お先に",
+    "reading": "おさきに",
+    "glossEn": [
+      "before",
+      "previously"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "お先にどうぞ。",
+    "exampleEn": "After you.",
+    "kanji": [
+      "先"
+    ]
+  },
+  {
+    "ja": "お天気",
+    "reading": "おてんき",
+    "glossEn": [
+      "weather"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "いいお天気ですね。",
+    "exampleEn": "It's a beautiful day, isn't it?",
+    "kanji": [
+      "天",
+      "気"
+    ]
+  },
+  {
+    "ja": "お年玉",
+    "reading": "おとしだま",
+    "glossEn": [
+      "New Year's gift (usu. money given to a child by relatives and visitors)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "それはいわゆる「お年玉」でした。",
+    "exampleEn": "That's what we call an \"otoshidama\".",
+    "kanji": [
+      "年",
+      "玉"
+    ]
+  },
+  {
+    "ja": "一日中",
+    "reading": "いちにちじゅう",
+    "glossEn": [
+      "all day long",
+      "all the day"
+    ],
+    "partOfSpeech": [
+      "adv",
+      "n"
+    ],
+    "example": "１日中テニスをしていたのだから。",
+    "exampleEn": "He was playing tennis all day.",
+    "kanji": [
+      "一",
+      "日",
+      "中"
+    ]
+  },
+  {
+    "ja": "下げる",
+    "reading": "さげる",
+    "glossEn": [
+      "to hang",
+      "to suspend"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "ラジオの音を下げてくれませんか。",
+    "exampleEn": "Could you turn down the radio?",
+    "kanji": [
+      "下"
+    ]
+  },
+  {
+    "ja": "男の子",
+    "reading": "おとこのこ",
+    "glossEn": [
+      "boy",
+      "son"
+    ],
+    "partOfSpeech": [
+      "exp",
+      "n"
+    ],
+    "example": "あのハンサムな男の子を見て。",
+    "exampleEn": "Look at that good-looking boy.",
+    "kanji": [
+      "男",
+      "子"
+    ]
+  },
+  {
+    "ja": "立てる",
+    "reading": "たてる",
+    "glossEn": [
+      "to stand up",
+      "to put up"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "バースデーケーキにろうそくを立ててください。",
+    "exampleEn": "Please put some candles on the birthday cake.",
+    "kanji": [
+      "立"
+    ]
+  },
+  {
+    "ja": "１４日",
+    "reading": "じゅうよっか",
+    "glossEn": [
+      "14th day of the month"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "生年月日は１９６０年２月１４日です。",
+    "exampleEn": "I was born on February 14, 1960.",
+    "kanji": [
+      "日"
+    ]
+  },
+  {
+    "ja": "お出かけ",
+    "reading": "おでかけ",
+    "glossEn": [
+      "about to start out",
+      "just about to leave or go out"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "いつお出かけになりますか。",
+    "exampleEn": "When will you go out?",
+    "kanji": [
+      "出"
+    ]
+  },
+  {
+    "ja": "女らしい",
+    "reading": "おんならしい",
+    "glossEn": [
+      "womanly",
+      "ladylike"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "スージーには女らしさがほとんどなかった。",
+    "exampleEn": "Susie wasn't very feminine.",
+    "kanji": [
+      "女"
+    ]
+  },
+  {
+    "ja": "気のせい",
+    "reading": "きのせい",
+    "glossEn": [
+      "(just) one's imagination"
+    ],
+    "partOfSpeech": [
+      "exp",
+      "n"
+    ],
+    "example": "気のせいだよ。",
+    "exampleEn": "It's just your imagination.",
+    "kanji": [
+      "気"
+    ]
+  },
+  {
+    "ja": "気まぐれ",
+    "reading": "きまぐれ",
+    "glossEn": [
+      "whim",
+      "caprice"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "気まぐれな天気だな。",
+    "exampleEn": "The weather is fickle.",
+    "kanji": [
+      "気"
+    ]
+  },
+  {
+    "ja": "生年月日",
+    "reading": "せいねんがっぴ",
+    "glossEn": [
+      "birth date",
+      "date of birth"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "生年月日は１９６０年２月１４日です。",
+    "exampleEn": "I was born on February 14, 1960.",
+    "kanji": [
+      "生",
+      "年",
+      "月",
+      "日"
+    ]
+  },
+  {
+    "ja": "ぶら下がる",
+    "reading": "ぶらさがる",
+    "glossEn": [
+      "to hang down (from)",
+      "to dangle"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "テーブルの上にはランプがぶら下がっていた。",
+    "exampleEn": "There was a lamp hanging above the table.",
+    "kanji": [
+      "下"
+    ]
+  },
+  {
+    "ja": "手に入れる",
+    "reading": "てにいれる",
+    "glossEn": [
+      "to obtain",
+      "to get"
+    ],
+    "partOfSpeech": [
+      "exp",
+      "v1"
+    ],
+    "example": "どうやってそのお金を手に入れたんですか。",
+    "exampleEn": "How did you come by the money?",
+    "kanji": [
+      "手",
+      "入"
+    ]
+  },
+  {
+    "ja": "立ち上がる",
+    "reading": "たちあがる",
+    "glossEn": [
+      "to stand up",
+      "to get up"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "どうしよう、コンピューターが立ち上がらない。",
+    "exampleEn": "I can't start up my computer. What am I supposed to do?",
+    "kanji": [
+      "立",
+      "上"
+    ]
+  },
+  {
+    "ja": "一",
+    "reading": "いち",
+    "glossEn": [
+      "one",
+      "1"
+    ],
+    "partOfSpeech": [
+      "num",
+      "pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一"
+    ]
+  },
+  {
+    "ja": "七",
+    "reading": "しち",
+    "glossEn": [
+      "seven"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "七"
+    ]
+  },
+  {
+    "ja": "三",
+    "reading": "さん",
+    "glossEn": [
+      "three",
+      "3"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "三"
+    ]
+  },
+  {
+    "ja": "上",
+    "reading": "うえ",
+    "glossEn": [
+      "above",
+      "over"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "上"
+    ]
+  },
+  {
+    "ja": "下",
+    "reading": "した",
+    "glossEn": [
+      "below",
+      "down"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下"
+    ]
+  },
+  {
+    "ja": "中",
+    "reading": "なか",
+    "glossEn": [
+      "inside",
+      "interior"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "中"
+    ]
+  },
+  {
+    "ja": "九",
+    "reading": "きゅう",
+    "glossEn": [
+      "nine",
+      "9"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "九"
+    ]
+  },
+  {
+    "ja": "二",
+    "reading": "に",
+    "glossEn": [
+      "two",
+      "2"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "二"
+    ]
+  },
+  {
+    "ja": "五",
+    "reading": "ご",
+    "glossEn": [
+      "five",
+      "5"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "五"
+    ]
+  },
+  {
+    "ja": "人",
+    "reading": "じん",
+    "glossEn": [
+      "-ian (e.g. Italian)",
+      "-ite (e.g. Tokyoite)"
+    ],
+    "partOfSpeech": [
+      "suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人"
+    ]
+  },
+  {
+    "ja": "先",
+    "reading": "さき",
+    "glossEn": [
+      "point",
+      "tip"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先"
+    ]
+  },
+  {
+    "ja": "八",
+    "reading": "はち",
+    "glossEn": [
+      "eight",
+      "8"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "八"
+    ]
+  },
+  {
+    "ja": "六",
+    "reading": "ろく",
+    "glossEn": [
+      "six",
+      "6"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "六"
+    ]
+  },
+  {
+    "ja": "円",
+    "reading": "えん",
+    "glossEn": [
+      "yen (currency of Japan)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "円"
+    ]
+  },
+  {
+    "ja": "出",
+    "reading": "で",
+    "glossEn": [
+      "coming out",
+      "going out"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出"
+    ]
+  },
+  {
+    "ja": "力",
+    "reading": "ちから",
+    "glossEn": [
+      "force",
+      "strength"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "力"
+    ]
+  },
+  {
+    "ja": "十",
+    "reading": "じゅう",
+    "glossEn": [
+      "ten",
+      "10"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十"
+    ]
+  },
+  {
+    "ja": "千",
+    "reading": "せん",
+    "glossEn": [
+      "thousand",
+      "1,000"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "千"
+    ]
+  },
+  {
+    "ja": "口",
+    "reading": "くち",
+    "glossEn": [
+      "mouth"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "口"
+    ]
+  },
+  {
+    "ja": "右",
+    "reading": "みぎ",
+    "glossEn": [
+      "right",
+      "right-hand side"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "右"
+    ]
+  },
+  {
+    "ja": "名",
+    "reading": "な",
+    "glossEn": [
+      "name",
+      "given name"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "名"
+    ]
+  },
+  {
+    "ja": "四",
+    "reading": "し",
+    "glossEn": [
+      "four",
+      "4"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "四"
+    ]
+  },
+  {
+    "ja": "土",
+    "reading": "つち",
+    "glossEn": [
+      "earth",
+      "soil"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "土"
+    ]
+  },
+  {
+    "ja": "夕",
+    "reading": "ゆう",
+    "glossEn": [
+      "evening"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "夕"
+    ]
+  },
+  {
+    "ja": "天",
+    "reading": "てん",
+    "glossEn": [
+      "sky"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "天"
+    ]
+  },
+  {
+    "ja": "女",
+    "reading": "おんな",
+    "glossEn": [
+      "woman",
+      "female"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "女"
+    ]
+  },
+  {
+    "ja": "子",
+    "reading": "こ",
+    "glossEn": [
+      "child",
+      "kid"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "子"
+    ]
+  },
+  {
+    "ja": "字",
+    "reading": "あざ",
+    "glossEn": [
+      "section of village"
+    ],
+    "partOfSpeech": [
+      "n",
+      "suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "字"
+    ]
+  },
+  {
+    "ja": "学",
+    "reading": "がく",
+    "glossEn": [
+      "learning",
+      "scholarship"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "学"
+    ]
+  },
+  {
+    "ja": "山",
+    "reading": "やま",
+    "glossEn": [
+      "mountain",
+      "hill"
+    ],
+    "partOfSpeech": [
+      "n",
+      "ctr"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "山"
+    ]
+  },
+  {
+    "ja": "川",
+    "reading": "かわ",
+    "glossEn": [
+      "river",
+      "stream"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "川"
+    ]
+  },
+  {
+    "ja": "左",
+    "reading": "ひだり",
+    "glossEn": [
+      "left",
+      "left-hand side"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "左"
+    ]
+  },
+  {
+    "ja": "年",
+    "reading": "とし",
+    "glossEn": [
+      "year"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年"
+    ]
+  },
+  {
+    "ja": "文",
+    "reading": "ふみ",
+    "glossEn": [
+      "letter",
+      "note"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "文"
+    ]
+  },
+  {
+    "ja": "日",
+    "reading": "ひ",
+    "glossEn": [
+      "day",
+      "days"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "日"
+    ]
+  },
+  {
+    "ja": "早",
+    "reading": "はや",
+    "glossEn": [
+      "already",
+      "now"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "早"
+    ]
+  },
+  {
+    "ja": "月",
+    "reading": "つき",
+    "glossEn": [
+      "Moon"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "月"
+    ]
+  },
+  {
+    "ja": "木",
+    "reading": "き",
+    "glossEn": [
+      "tree",
+      "shrub"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "木"
+    ]
+  },
+  {
+    "ja": "本",
+    "reading": "ほん",
+    "glossEn": [
+      "book",
+      "volume"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "本"
+    ]
+  },
+  {
+    "ja": "森",
+    "reading": "もり",
+    "glossEn": [
+      "forest"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "森"
+    ]
+  },
+  {
+    "ja": "正",
+    "reading": "せい",
+    "glossEn": [
+      "(logical) true",
+      "regular"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "正"
+    ]
+  },
+  {
+    "ja": "気",
+    "reading": "き",
+    "glossEn": [
+      "spirit",
+      "mind"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "気"
+    ]
+  },
+  {
+    "ja": "水",
+    "reading": "みず",
+    "glossEn": [
+      "water (esp. cool or cold)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "水"
+    ]
+  },
+  {
+    "ja": "火",
+    "reading": "ひ",
+    "glossEn": [
+      "fire",
+      "flame"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "火"
+    ]
+  },
+  {
+    "ja": "犬",
+    "reading": "いぬ",
+    "glossEn": [
+      "dog (Canis (lupus) familiaris)",
+      "canine"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "犬"
+    ]
+  },
+  {
+    "ja": "王",
+    "reading": "おう",
+    "glossEn": [
+      "king",
+      "ruler"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "王"
+    ]
+  },
+  {
+    "ja": "生",
+    "reading": "なま",
+    "glossEn": [
+      "raw",
+      "uncooked"
+    ],
+    "partOfSpeech": [
+      "adj-no",
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "生"
+    ]
+  },
+  {
+    "ja": "田",
+    "reading": "た",
+    "glossEn": [
+      "rice field"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "田"
+    ]
+  },
+  {
+    "ja": "男",
+    "reading": "おとこ",
+    "glossEn": [
+      "man",
+      "male"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "男"
+    ]
+  },
+  {
+    "ja": "町",
+    "reading": "まち",
+    "glossEn": [
+      "town",
+      "block"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "町"
+    ]
+  },
+  {
+    "ja": "白",
+    "reading": "しろ",
+    "glossEn": [
+      "white"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "白"
+    ]
+  },
+  {
+    "ja": "百",
+    "reading": "ひゃく",
+    "glossEn": [
+      "hundred",
+      "100"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "百"
+    ]
+  },
+  {
+    "ja": "目",
+    "reading": "め",
+    "glossEn": [
+      "eye",
+      "eyeball"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "目"
+    ]
+  },
+  {
+    "ja": "石",
+    "reading": "いし",
+    "glossEn": [
+      "stone",
+      "rock"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "石"
+    ]
+  },
+  {
+    "ja": "糸",
+    "reading": "いと",
+    "glossEn": [
+      "thread",
+      "yarn"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "糸"
+    ]
+  },
+  {
+    "ja": "耳",
+    "reading": "みみ",
+    "glossEn": [
+      "ear"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "耳"
+    ]
+  },
+  {
+    "ja": "花",
+    "reading": "はな",
+    "glossEn": [
+      "flower",
+      "blossom"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "花"
+    ]
+  },
+  {
+    "ja": "草",
+    "reading": "くさ",
+    "glossEn": [
+      "grass",
+      "weed"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "草"
+    ]
+  },
+  {
+    "ja": "虫",
+    "reading": "むし",
+    "glossEn": [
+      "insect",
+      "bug"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "虫"
+    ]
+  },
+  {
+    "ja": "貝",
+    "reading": "かい",
+    "glossEn": [
+      "shellfish"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "貝"
+    ]
+  },
+  {
+    "ja": "赤",
+    "reading": "あか",
+    "glossEn": [
+      "red",
+      "crimson"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "赤"
+    ]
+  },
+  {
+    "ja": "車",
+    "reading": "くるま",
+    "glossEn": [
+      "car",
+      "automobile"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "車"
+    ]
+  },
+  {
+    "ja": "金",
+    "reading": "かね",
+    "glossEn": [
+      "money"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "金"
+    ]
+  },
+  {
+    "ja": "雨",
+    "reading": "あめ",
+    "glossEn": [
+      "rain"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "雨"
+    ]
+  },
+  {
+    "ja": "青",
+    "reading": "あお",
+    "glossEn": [
+      "blue",
+      "azure"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "青"
+    ]
+  },
+  {
+    "ja": "音",
+    "reading": "おと",
+    "glossEn": [
+      "sound",
+      "noise"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "音"
+    ]
+  },
+  {
+    "ja": "ヶ月",
+    "reading": "かげつ",
+    "glossEn": [
+      "counter for months"
+    ],
+    "partOfSpeech": [
+      "ctr"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "月"
+    ]
+  },
+  {
+    "ja": "一つ",
+    "reading": "ひとつ",
+    "glossEn": [
+      "one"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一"
+    ]
+  },
+  {
+    "ja": "一二",
+    "reading": "いちに",
+    "glossEn": [
+      "one or two",
+      "a couple"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "二"
+    ]
+  },
+  {
+    "ja": "一人",
+    "reading": "ひとり",
+    "glossEn": [
+      "one person"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "人"
+    ]
+  },
+  {
+    "ja": "一円",
+    "reading": "いちえん",
+    "glossEn": [
+      "one yen"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "円"
+    ]
+  },
+  {
+    "ja": "一口",
+    "reading": "ひとくち",
+    "glossEn": [
+      "mouthful",
+      "morsel"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "口"
+    ]
+  },
+  {
+    "ja": "一大",
+    "reading": "いちだい",
+    "glossEn": [
+      "one large ...",
+      "a great ..."
+    ],
+    "partOfSpeech": [
+      "n-pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "大"
+    ]
+  },
+  {
+    "ja": "一女",
+    "reading": "いちじょ",
+    "glossEn": [
+      "one daughter"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "女"
+    ]
+  },
+  {
+    "ja": "一字",
+    "reading": "いちじ",
+    "glossEn": [
+      "(one) letter",
+      "(one) character"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "字"
+    ]
+  },
+  {
+    "ja": "一年",
+    "reading": "いちねん",
+    "glossEn": [
+      "one year",
+      "some time ago"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "年"
+    ]
+  },
+  {
+    "ja": "一手",
+    "reading": "いって",
+    "glossEn": [
+      "one move (in go, shogi, etc.)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "手"
+    ]
+  },
+  {
+    "ja": "一文",
+    "reading": "いちもん",
+    "glossEn": [
+      "tiny amount of money",
+      "a penny"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "文"
+    ]
+  },
+  {
+    "ja": "一日",
+    "reading": "いちにち",
+    "glossEn": [
+      "one day"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "日"
+    ]
+  },
+  {
+    "ja": "一月",
+    "reading": "ひとつき",
+    "glossEn": [
+      "one month"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "月"
+    ]
+  },
+  {
+    "ja": "一本",
+    "reading": "いっぽん",
+    "glossEn": [
+      "one long cylindrical thing",
+      "one film, TV show, etc."
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "本"
+    ]
+  },
+  {
+    "ja": "一校",
+    "reading": "いっこう",
+    "glossEn": [
+      "one school"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "校"
+    ]
+  },
+  {
+    "ja": "一気",
+    "reading": "いっき",
+    "glossEn": [
+      "one breath"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "気"
+    ]
+  },
+  {
+    "ja": "一生",
+    "reading": "いっしょう",
+    "glossEn": [
+      "whole life",
+      "a lifetime"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "生"
+    ]
+  },
+  {
+    "ja": "一男",
+    "reading": "いちなん",
+    "glossEn": [
+      "boy",
+      "eldest son"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "男"
+    ]
+  },
+  {
+    "ja": "一目",
+    "reading": "ひとめ",
+    "glossEn": [
+      "glance",
+      "look"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "目"
+    ]
+  },
+  {
+    "ja": "一石",
+    "reading": "いっせき",
+    "glossEn": [
+      "one game (of go)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "石"
+    ]
+  },
+  {
+    "ja": "一見",
+    "reading": "いっけん",
+    "glossEn": [
+      "look",
+      "glimpse"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "見"
+    ]
+  },
+  {
+    "ja": "一足",
+    "reading": "いっそく",
+    "glossEn": [
+      "a pair (of shoes or socks)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "一",
+      "足"
+    ]
+  },
+  {
+    "ja": "七つ",
+    "reading": "ななつ",
+    "glossEn": [
+      "seven"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "七"
+    ]
+  },
+  {
+    "ja": "七夕",
+    "reading": "たなばた",
+    "glossEn": [
+      "Star Festival (held in July or August)",
+      "Tanabata"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "七",
+      "夕"
+    ]
+  },
+  {
+    "ja": "三人",
+    "reading": "さんにん",
+    "glossEn": [
+      "three people"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "三",
+      "人"
+    ]
+  },
+  {
+    "ja": "三女",
+    "reading": "さんじょ",
+    "glossEn": [
+      "third daughter"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "三",
+      "女"
+    ]
+  },
+  {
+    "ja": "三年",
+    "reading": "さんねん",
+    "glossEn": [
+      "three years"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "三",
+      "年"
+    ]
+  },
+  {
+    "ja": "三男",
+    "reading": "さんなん",
+    "glossEn": [
+      "three sons"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "三",
+      "男"
+    ]
+  },
+  {
+    "ja": "上げ",
+    "reading": "あげ",
+    "glossEn": [
+      "tuck (e.g. in a dress)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "上"
+    ]
+  },
+  {
+    "ja": "上り",
+    "reading": "のぼり",
+    "glossEn": [
+      "ascent",
+      "climbing"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "上"
+    ]
+  },
+  {
+    "ja": "上下",
+    "reading": "うえした",
+    "glossEn": [
+      "top and bottom",
+      "up and down"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "上",
+      "下"
+    ]
+  },
+  {
+    "ja": "上田",
+    "reading": "じょうでん",
+    "glossEn": [
+      "high rice field",
+      "very fertile rice field"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "上",
+      "田"
+    ]
+  },
+  {
+    "ja": "上空",
+    "reading": "じょうくう",
+    "glossEn": [
+      "sky",
+      "the skies"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "上",
+      "空"
+    ]
+  },
+  {
+    "ja": "下す",
+    "reading": "くだす",
+    "glossEn": [
+      "to make a decision",
+      "to draw a conclusion"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下"
+    ]
+  },
+  {
+    "ja": "下り",
+    "reading": "くだり",
+    "glossEn": [
+      "down-train",
+      "train heading toward the ending point of its route"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下"
+    ]
+  },
+  {
+    "ja": "下山",
+    "reading": "げざん",
+    "glossEn": [
+      "descending a mountain",
+      "descent"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下",
+      "山"
+    ]
+  },
+  {
+    "ja": "下手",
+    "reading": "したて",
+    "glossEn": [
+      "humble position",
+      "inferior"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下",
+      "手"
+    ]
+  },
+  {
+    "ja": "下水",
+    "reading": "げすい",
+    "glossEn": [
+      "drainage",
+      "ditch"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下",
+      "水"
+    ]
+  },
+  {
+    "ja": "下火",
+    "reading": "したび",
+    "glossEn": [
+      "dying down (of a fire)",
+      "waning"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下",
+      "火"
+    ]
+  },
+  {
+    "ja": "下町",
+    "reading": "したまち",
+    "glossEn": [
+      "low-lying part of a city (usu. containing shops, factories, etc.)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下",
+      "町"
+    ]
+  },
+  {
+    "ja": "下見",
+    "reading": "したみ",
+    "glossEn": [
+      "preliminary inspection",
+      "having a look in advance"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下",
+      "見"
+    ]
+  },
+  {
+    "ja": "下車",
+    "reading": "げしゃ",
+    "glossEn": [
+      "alighting (from a train, bus, etc.)",
+      "getting off"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "下",
+      "車"
+    ]
+  },
+  {
+    "ja": "中学",
+    "reading": "ちゅうがく",
+    "glossEn": [
+      "junior high school",
+      "middle school"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "中",
+      "学"
+    ]
+  },
+  {
+    "ja": "中小",
+    "reading": "ちゅうしょう",
+    "glossEn": [
+      "small and medium"
+    ],
+    "partOfSpeech": [
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "中",
+      "小"
+    ]
+  },
+  {
+    "ja": "中年",
+    "reading": "ちゅうねん",
+    "glossEn": [
+      "middle-age",
+      "middle age"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "中",
+      "年"
+    ]
+  },
+  {
+    "ja": "中日",
+    "reading": "ちゅうにち",
+    "glossEn": [
+      "China and Japan",
+      "Chinese-Japanese"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "中",
+      "日"
+    ]
+  },
+  {
+    "ja": "中立",
+    "reading": "ちゅうりつ",
+    "glossEn": [
+      "neutrality"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "中",
+      "立"
+    ]
+  },
+  {
+    "ja": "中耳",
+    "reading": "ちゅうじ",
+    "glossEn": [
+      "middle ear",
+      "tympanum"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "中",
+      "耳"
+    ]
+  },
+  {
+    "ja": "九つ",
+    "reading": "ここのつ",
+    "glossEn": [
+      "nine"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "九"
+    ]
+  },
+  {
+    "ja": "九九",
+    "reading": "くく",
+    "glossEn": [
+      "multiplication table",
+      "times table"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "九"
+    ]
+  },
+  {
+    "ja": "二つ",
+    "reading": "ふたつ",
+    "glossEn": [
+      "two"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "二"
+    ]
+  },
+  {
+    "ja": "二人",
+    "reading": "ふたり",
+    "glossEn": [
+      "two persons",
+      "two people"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "二",
+      "人"
+    ]
+  },
+  {
+    "ja": "五つ",
+    "reading": "いつつ",
+    "glossEn": [
+      "five"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "五"
+    ]
+  },
+  {
+    "ja": "人中",
+    "reading": "ひとなか",
+    "glossEn": [
+      "society",
+      "company"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "中"
+    ]
+  },
+  {
+    "ja": "人出",
+    "reading": "ひとで",
+    "glossEn": [
+      "crowd",
+      "turnout"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "出"
+    ]
+  },
+  {
+    "ja": "人口",
+    "reading": "じんこう",
+    "glossEn": [
+      "population"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "口"
+    ]
+  },
+  {
+    "ja": "人名",
+    "reading": "じんめい",
+    "glossEn": [
+      "person's name"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "名"
+    ]
+  },
+  {
+    "ja": "人文",
+    "reading": "じんぶん",
+    "glossEn": [
+      "humanity",
+      "civilization"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "文"
+    ]
+  },
+  {
+    "ja": "人気",
+    "reading": "にんき",
+    "glossEn": [
+      "popularity",
+      "public favor"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "気"
+    ]
+  },
+  {
+    "ja": "人生",
+    "reading": "じんせい",
+    "glossEn": [
+      "(one's) life"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "生"
+    ]
+  },
+  {
+    "ja": "人目",
+    "reading": "ひとめ",
+    "glossEn": [
+      "(public) notice",
+      "attention"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "人",
+      "目"
+    ]
+  },
+  {
+    "ja": "休み",
+    "reading": "やすみ",
+    "glossEn": [
+      "rest",
+      "recess"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "休"
+    ]
+  },
+  {
+    "ja": "休む",
+    "reading": "やすむ",
+    "glossEn": [
+      "to be absent",
+      "to take a day off"
+    ],
+    "partOfSpeech": [
+      "v5m",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "休"
+    ]
+  },
+  {
+    "ja": "休学",
+    "reading": "きゅうがく",
+    "glossEn": [
+      "temporary absence from school"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "休",
+      "学"
+    ]
+  },
+  {
+    "ja": "休日",
+    "reading": "きゅうじつ",
+    "glossEn": [
+      "holiday",
+      "day off"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "休",
+      "日"
+    ]
+  },
+  {
+    "ja": "休校",
+    "reading": "きゅうこう",
+    "glossEn": [
+      "(temporary) closure of school"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "休",
+      "校"
+    ]
+  },
+  {
+    "ja": "先ず",
+    "reading": "まず",
+    "glossEn": [
+      "first (of all)",
+      "firstly"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先"
+    ]
+  },
+  {
+    "ja": "先に",
+    "reading": "さきに",
+    "glossEn": [
+      "previously",
+      "before"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先"
+    ]
+  },
+  {
+    "ja": "先人",
+    "reading": "せんじん",
+    "glossEn": [
+      "predecessor",
+      "pioneer"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先",
+      "人"
+    ]
+  },
+  {
+    "ja": "先手",
+    "reading": "せんて",
+    "glossEn": [
+      "moving first",
+      "person with the first move"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先",
+      "手"
+    ]
+  },
+  {
+    "ja": "先日",
+    "reading": "せんじつ",
+    "glossEn": [
+      "the other day",
+      "a few days ago"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先",
+      "日"
+    ]
+  },
+  {
+    "ja": "先月",
+    "reading": "せんげつ",
+    "glossEn": [
+      "last month"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先",
+      "月"
+    ]
+  },
+  {
+    "ja": "先生",
+    "reading": "せんせい",
+    "glossEn": [
+      "teacher",
+      "instructor"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先",
+      "生"
+    ]
+  },
+  {
+    "ja": "先見",
+    "reading": "せんけん",
+    "glossEn": [
+      "foresight",
+      "anticipation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "先",
+      "見"
+    ]
+  },
+  {
+    "ja": "入り",
+    "reading": "いり",
+    "glossEn": [
+      "entering",
+      "entrance"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "入"
+    ]
+  },
+  {
+    "ja": "入る",
+    "reading": "いる",
+    "glossEn": [
+      "to enter",
+      "to go in"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "入"
+    ]
+  },
+  {
+    "ja": "入力",
+    "reading": "にゅうりょく",
+    "glossEn": [
+      "input",
+      "(data) entry"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "入",
+      "力"
+    ]
+  },
+  {
+    "ja": "入学",
+    "reading": "にゅうがく",
+    "glossEn": [
+      "admission (to a school or university)",
+      "entrance"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "入",
+      "学"
+    ]
+  },
+  {
+    "ja": "入手",
+    "reading": "にゅうしゅ",
+    "glossEn": [
+      "acquisition",
+      "obtaining"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "入",
+      "手"
+    ]
+  },
+  {
+    "ja": "入金",
+    "reading": "にゅうきん",
+    "glossEn": [
+      "receipt of money",
+      "money received"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "入",
+      "金"
+    ]
+  },
+  {
+    "ja": "六つ",
+    "reading": "むっつ",
+    "glossEn": [
+      "six"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "六"
+    ]
+  },
+  {
+    "ja": "出し",
+    "reading": "だし",
+    "glossEn": [
+      "dashi",
+      "Japanese soup stock made from fish and kelp"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出"
+    ]
+  },
+  {
+    "ja": "出す",
+    "reading": "だす",
+    "glossEn": [
+      "to take out",
+      "to get out"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出"
+    ]
+  },
+  {
+    "ja": "出る",
+    "reading": "でる",
+    "glossEn": [
+      "to leave",
+      "to exit"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出"
+    ]
+  },
+  {
+    "ja": "出入",
+    "reading": "しゅつにゅう",
+    "glossEn": [
+      "in and out",
+      "income and expenses"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "入"
+    ]
+  },
+  {
+    "ja": "出力",
+    "reading": "しゅつりょく",
+    "glossEn": [
+      "output (electrical, signal, etc.)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "力"
+    ]
+  },
+  {
+    "ja": "出口",
+    "reading": "でぐち",
+    "glossEn": [
+      "exit",
+      "way out"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "口"
+    ]
+  },
+  {
+    "ja": "出土",
+    "reading": "しゅつど",
+    "glossEn": [
+      "archeological excavation (archaeological)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "土"
+    ]
+  },
+  {
+    "ja": "出火",
+    "reading": "しゅっか",
+    "glossEn": [
+      "outbreak of fire"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "火"
+    ]
+  },
+  {
+    "ja": "出生",
+    "reading": "しゅっしょう",
+    "glossEn": [
+      "birth"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "生"
+    ]
+  },
+  {
+    "ja": "出足",
+    "reading": "であし",
+    "glossEn": [
+      "turnout (of people)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "足"
+    ]
+  },
+  {
+    "ja": "出金",
+    "reading": "しゅっきん",
+    "glossEn": [
+      "withdrawal (of money)",
+      "payment"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "出",
+      "金"
+    ]
+  },
+  {
+    "ja": "力む",
+    "reading": "りきむ",
+    "glossEn": [
+      "to strain (oneself)",
+      "to bear down"
+    ],
+    "partOfSpeech": [
+      "v5m",
+      "vi"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "力"
+    ]
+  },
+  {
+    "ja": "力学",
+    "reading": "りきがく",
+    "glossEn": [
+      "mechanics",
+      "dynamics"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "力",
+      "学"
+    ]
+  },
+  {
+    "ja": "十一",
+    "reading": "じゅういち",
+    "glossEn": [
+      "eleven",
+      "11"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "一"
+    ]
+  },
+  {
+    "ja": "十七",
+    "reading": "じゅうなな",
+    "glossEn": [
+      "seventeen",
+      "17"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "七"
+    ]
+  },
+  {
+    "ja": "十三",
+    "reading": "じゅうさん",
+    "glossEn": [
+      "thirteen",
+      "13"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "三"
+    ]
+  },
+  {
+    "ja": "十九",
+    "reading": "じゅうきゅう",
+    "glossEn": [
+      "nineteen",
+      "19"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "九"
+    ]
+  },
+  {
+    "ja": "十二",
+    "reading": "じゅうに",
+    "glossEn": [
+      "twelve",
+      "12"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "二"
+    ]
+  },
+  {
+    "ja": "十五",
+    "reading": "じゅうご",
+    "glossEn": [
+      "fifteen",
+      "15"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "五"
+    ]
+  },
+  {
+    "ja": "十八",
+    "reading": "じゅうはち",
+    "glossEn": [
+      "eighteen",
+      "18"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "八"
+    ]
+  },
+  {
+    "ja": "十六",
+    "reading": "じゅうろく",
+    "glossEn": [
+      "sixteen",
+      "16"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "六"
+    ]
+  },
+  {
+    "ja": "十四",
+    "reading": "じゅうし",
+    "glossEn": [
+      "fourteen",
+      "14"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "四"
+    ]
+  },
+  {
+    "ja": "十字",
+    "reading": "じゅうじ",
+    "glossEn": [
+      "cross",
+      "cross shape"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "十",
+      "字"
+    ]
+  },
+  {
+    "ja": "口上",
+    "reading": "こうじょう",
+    "glossEn": [
+      "speech",
+      "address"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "口",
+      "上"
+    ]
+  },
+  {
+    "ja": "口先",
+    "reading": "くちさき",
+    "glossEn": [
+      "lip service",
+      "mere words"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "口",
+      "先"
+    ]
+  },
+  {
+    "ja": "口火",
+    "reading": "くちび",
+    "glossEn": [
+      "fuse",
+      "pilot light"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "口",
+      "火"
+    ]
+  },
+  {
+    "ja": "右上",
+    "reading": "みぎうえ",
+    "glossEn": [
+      "upper right"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "右",
+      "上"
+    ]
+  },
+  {
+    "ja": "右下",
+    "reading": "みぎした",
+    "glossEn": [
+      "lower right"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "右",
+      "下"
+    ]
+  },
+  {
+    "ja": "右足",
+    "reading": "みぎあし",
+    "glossEn": [
+      "right foot"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "右",
+      "足"
+    ]
+  },
+  {
+    "ja": "名人",
+    "reading": "めいじん",
+    "glossEn": [
+      "master",
+      "expert"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "名",
+      "人"
+    ]
+  },
+  {
+    "ja": "名手",
+    "reading": "めいしゅ",
+    "glossEn": [
+      "master",
+      "expert"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "名",
+      "手"
+    ]
+  },
+  {
+    "ja": "名月",
+    "reading": "めいげつ",
+    "glossEn": [
+      "harvest moon (trad. 15th day of the 8th lunar month)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "名",
+      "月"
+    ]
+  },
+  {
+    "ja": "名目",
+    "reading": "めいもく",
+    "glossEn": [
+      "name",
+      "title"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "名",
+      "目"
+    ]
+  },
+  {
+    "ja": "四つ",
+    "reading": "よっつ",
+    "glossEn": [
+      "four",
+      "4"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "四"
+    ]
+  },
+  {
+    "ja": "四人",
+    "reading": "よにん",
+    "glossEn": [
+      "four people"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "四",
+      "人"
+    ]
+  },
+  {
+    "ja": "四百",
+    "reading": "よんひゃく",
+    "glossEn": [
+      "400",
+      "four hundred"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "四",
+      "百"
+    ]
+  },
+  {
+    "ja": "土人",
+    "reading": "どじん",
+    "glossEn": [
+      "native",
+      "aboriginal"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "土",
+      "人"
+    ]
+  },
+  {
+    "ja": "土手",
+    "reading": "どて",
+    "glossEn": [
+      "embankment",
+      "bank"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "土",
+      "手"
+    ]
+  },
+  {
+    "ja": "土日",
+    "reading": "どにち",
+    "glossEn": [
+      "weekend",
+      "Saturday and Sunday"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "土",
+      "日"
+    ]
+  },
+  {
+    "ja": "土木",
+    "reading": "どぼく",
+    "glossEn": [
+      "engineering works",
+      "civil engineering"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "土",
+      "木"
+    ]
+  },
+  {
+    "ja": "土石",
+    "reading": "どせき",
+    "glossEn": [
+      "earth and stones"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "土",
+      "石"
+    ]
+  },
+  {
+    "ja": "土足",
+    "reading": "どそく",
+    "glossEn": [
+      "shod feet",
+      "wearing shoes"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "土",
+      "足"
+    ]
+  },
+  {
+    "ja": "夕日",
+    "reading": "ゆうひ",
+    "glossEn": [
+      "evening sun",
+      "setting sun"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "夕",
+      "日"
+    ]
+  },
+  {
+    "ja": "夕立",
+    "reading": "ゆうだち",
+    "glossEn": [
+      "(sudden, heavy) shower (on a summer afternoon or evening)",
+      "evening shower"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "夕",
+      "立"
+    ]
+  },
+  {
+    "ja": "大人",
+    "reading": "おとな",
+    "glossEn": [
+      "adult",
+      "grown-up"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "adj-na"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "人"
+    ]
+  },
+  {
+    "ja": "大口",
+    "reading": "おおぐち",
+    "glossEn": [
+      "big mouth",
+      "mouth opened wide"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "口"
+    ]
+  },
+  {
+    "ja": "大名",
+    "reading": "だいみょう",
+    "glossEn": [
+      "daimyo (Japanese feudal lord)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "名"
+    ]
+  },
+  {
+    "ja": "大学",
+    "reading": "だいがく",
+    "glossEn": [
+      "university",
+      "college"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "学"
+    ]
+  },
+  {
+    "ja": "大小",
+    "reading": "だいしょう",
+    "glossEn": [
+      "size"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "小"
+    ]
+  },
+  {
+    "ja": "大山",
+    "reading": "たいざん",
+    "glossEn": [
+      "great mountain",
+      "large mountain"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "山"
+    ]
+  },
+  {
+    "ja": "大手",
+    "reading": "おおて",
+    "glossEn": [
+      "major company",
+      "big company"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "手"
+    ]
+  },
+  {
+    "ja": "大木",
+    "reading": "たいぼく",
+    "glossEn": [
+      "large tree"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "木"
+    ]
+  },
+  {
+    "ja": "大正",
+    "reading": "たいしょう",
+    "glossEn": [
+      "Taishō era (1912.7.30-1926.12.25)",
+      "Taisho era"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "正"
+    ]
+  },
+  {
+    "ja": "大気",
+    "reading": "たいき",
+    "glossEn": [
+      "atmosphere",
+      "air"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "気"
+    ]
+  },
+  {
+    "ja": "大水",
+    "reading": "おおみず",
+    "glossEn": [
+      "flood"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "水"
+    ]
+  },
+  {
+    "ja": "大火",
+    "reading": "たいか",
+    "glossEn": [
+      "large fire"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "火"
+    ]
+  },
+  {
+    "ja": "大男",
+    "reading": "おおおとこ",
+    "glossEn": [
+      "big man",
+      "large man"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "男"
+    ]
+  },
+  {
+    "ja": "大空",
+    "reading": "おおぞら",
+    "glossEn": [
+      "wide open sky",
+      "the blue"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "空"
+    ]
+  },
+  {
+    "ja": "大金",
+    "reading": "たいきん",
+    "glossEn": [
+      "large amount of money",
+      "great cost"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "金"
+    ]
+  },
+  {
+    "ja": "大雨",
+    "reading": "おおあめ",
+    "glossEn": [
+      "heavy rain",
+      "torrential rainfall"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "大",
+      "雨"
+    ]
+  },
+  {
+    "ja": "天下",
+    "reading": "てんか",
+    "glossEn": [
+      "the whole world"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "天",
+      "下"
+    ]
+  },
+  {
+    "ja": "天文",
+    "reading": "てんもん",
+    "glossEn": [
+      "astronomy"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "天",
+      "文"
+    ]
+  },
+  {
+    "ja": "天気",
+    "reading": "てんき",
+    "glossEn": [
+      "weather"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "天",
+      "気"
+    ]
+  },
+  {
+    "ja": "女中",
+    "reading": "じょちゅう",
+    "glossEn": [
+      "hostess (in a ryokan)",
+      "waitress (in a traditional restaurant)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "女",
+      "中"
+    ]
+  },
+  {
+    "ja": "女王",
+    "reading": "じょおう",
+    "glossEn": [
+      "queen"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "女",
+      "王"
+    ]
+  },
+  {
+    "ja": "子女",
+    "reading": "しじょ",
+    "glossEn": [
+      "sons and daughters",
+      "children"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "子",
+      "女"
+    ]
+  },
+  {
+    "ja": "子犬",
+    "reading": "こいぬ",
+    "glossEn": [
+      "puppy"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "子",
+      "犬"
+    ]
+  },
+  {
+    "ja": "学力",
+    "reading": "がくりょく",
+    "glossEn": [
+      "scholarly ability",
+      "scholarship"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "学",
+      "力"
+    ]
+  },
+  {
+    "ja": "学年",
+    "reading": "がくねん",
+    "glossEn": [
+      "academic year",
+      "school year"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "学",
+      "年"
+    ]
+  },
+  {
+    "ja": "学校",
+    "reading": "がっこう",
+    "glossEn": [
+      "school"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "学",
+      "校"
+    ]
+  },
+  {
+    "ja": "学生",
+    "reading": "がくせい",
+    "glossEn": [
+      "student (esp. a university student)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "学",
+      "生"
+    ]
+  },
+  {
+    "ja": "小人",
+    "reading": "しょうにん",
+    "glossEn": [
+      "child (esp. one of elementary school age or younger)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "人"
+    ]
+  },
+  {
+    "ja": "小口",
+    "reading": "こぐち",
+    "glossEn": [
+      "cut end",
+      "edge (of a page, etc.)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "口"
+    ]
+  },
+  {
+    "ja": "小学",
+    "reading": "しょうがく",
+    "glossEn": [
+      "elementary school",
+      "primary school"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "学"
+    ]
+  },
+  {
+    "ja": "小山",
+    "reading": "こやま",
+    "glossEn": [
+      "hill",
+      "knoll"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "山"
+    ]
+  },
+  {
+    "ja": "小川",
+    "reading": "おがわ",
+    "glossEn": [
+      "stream",
+      "brook"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "川"
+    ]
+  },
+  {
+    "ja": "小火",
+    "reading": "ぼや",
+    "glossEn": [
+      "small fire"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "火"
+    ]
+  },
+  {
+    "ja": "小石",
+    "reading": "こいし",
+    "glossEn": [
+      "pebble",
+      "small stone"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "石"
+    ]
+  },
+  {
+    "ja": "小雨",
+    "reading": "こさめ",
+    "glossEn": [
+      "light rain",
+      "drizzle"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "小",
+      "雨"
+    ]
+  },
+  {
+    "ja": "山川",
+    "reading": "さんせん",
+    "glossEn": [
+      "mountains and rivers"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "山",
+      "川"
+    ]
+  },
+  {
+    "ja": "山手",
+    "reading": "やまて",
+    "glossEn": [
+      "place near the mountains"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "山",
+      "手"
+    ]
+  },
+  {
+    "ja": "山村",
+    "reading": "さんそん",
+    "glossEn": [
+      "mountain village"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "山",
+      "村"
+    ]
+  },
+  {
+    "ja": "山林",
+    "reading": "さんりん",
+    "glossEn": [
+      "mountain forest",
+      "forest on a mountain"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "山",
+      "林"
+    ]
+  },
+  {
+    "ja": "川下",
+    "reading": "かわしも",
+    "glossEn": [
+      "downstream"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "川",
+      "下"
+    ]
+  },
+  {
+    "ja": "左上",
+    "reading": "ひだりうえ",
+    "glossEn": [
+      "upper left"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "左",
+      "上"
+    ]
+  },
+  {
+    "ja": "左右",
+    "reading": "さゆう",
+    "glossEn": [
+      "left and right",
+      "right and left"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "左",
+      "右"
+    ]
+  },
+  {
+    "ja": "左手",
+    "reading": "ひだりて",
+    "glossEn": [
+      "left hand"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "左",
+      "手"
+    ]
+  },
+  {
+    "ja": "左足",
+    "reading": "ひだりあし",
+    "glossEn": [
+      "left foot"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "左",
+      "足"
+    ]
+  },
+  {
+    "ja": "年上",
+    "reading": "としうえ",
+    "glossEn": [
+      "older",
+      "senior"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年",
+      "上"
+    ]
+  },
+  {
+    "ja": "年下",
+    "reading": "としした",
+    "glossEn": [
+      "younger",
+      "junior"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年",
+      "下"
+    ]
+  },
+  {
+    "ja": "年中",
+    "reading": "ねんじゅう",
+    "glossEn": [
+      "whole year",
+      "all year round"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年",
+      "中"
+    ]
+  },
+  {
+    "ja": "年月",
+    "reading": "としつき",
+    "glossEn": [
+      "months and years"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年",
+      "月"
+    ]
+  },
+  {
+    "ja": "年生",
+    "reading": "ねんせい",
+    "glossEn": [
+      "nth-year student",
+      "nth-year pupil"
+    ],
+    "partOfSpeech": [
+      "suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年",
+      "生"
+    ]
+  },
+  {
+    "ja": "年男",
+    "reading": "としおとこ",
+    "glossEn": [
+      "man born in a year with the same Chinese zodiac sign as the current year"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年",
+      "男"
+    ]
+  },
+  {
+    "ja": "年金",
+    "reading": "ねんきん",
+    "glossEn": [
+      "annuity",
+      "pension"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "年",
+      "金"
+    ]
+  },
+  {
+    "ja": "手中",
+    "reading": "しゅちゅう",
+    "glossEn": [
+      "in one's hands",
+      "in one's control"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "手",
+      "中"
+    ]
+  },
+  {
+    "ja": "手口",
+    "reading": "てぐち",
+    "glossEn": [
+      "modus operandi",
+      "criminal technique"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "手",
+      "口"
+    ]
+  },
+  {
+    "ja": "手本",
+    "reading": "てほん",
+    "glossEn": [
+      "model",
+      "(good) example"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "手",
+      "本"
+    ]
+  },
+  {
+    "ja": "文中",
+    "reading": "ぶんちゅう",
+    "glossEn": [
+      "in the sentence",
+      "in the text"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "文",
+      "中"
+    ]
+  },
+  {
+    "ja": "文字",
+    "reading": "もじ",
+    "glossEn": [
+      "letter (of an alphabet)",
+      "character"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "文",
+      "字"
+    ]
+  },
+  {
+    "ja": "文学",
+    "reading": "ぶんがく",
+    "glossEn": [
+      "literature"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "文",
+      "学"
+    ]
+  },
+  {
+    "ja": "日中",
+    "reading": "にっちゅう",
+    "glossEn": [
+      "daytime",
+      "during the day"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "日",
+      "中"
+    ]
+  },
+  {
+    "ja": "日本",
+    "reading": "にほん",
+    "glossEn": [
+      "Japan"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "日",
+      "本"
+    ]
+  },
+  {
+    "ja": "早い",
+    "reading": "はやい",
+    "glossEn": [
+      "fast",
+      "quick"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "早"
+    ]
+  },
+  {
+    "ja": "早く",
+    "reading": "はやく",
+    "glossEn": [
+      "early",
+      "soon"
+    ],
+    "partOfSpeech": [
+      "adv",
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "早"
+    ]
+  },
+  {
+    "ja": "早口",
+    "reading": "はやくち",
+    "glossEn": [
+      "fast-talking",
+      "rapid talking"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "早",
+      "口"
+    ]
+  },
+  {
+    "ja": "月日",
+    "reading": "つきひ",
+    "glossEn": [
+      "time",
+      "years"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "月",
+      "日"
+    ]
+  },
+  {
+    "ja": "月見",
+    "reading": "つきみ",
+    "glossEn": [
+      "moon viewing (esp. during the eight month of the lunar calendar)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "月",
+      "見"
+    ]
+  }
+]

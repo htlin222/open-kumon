@@ -9,6 +9,8 @@
 | KANJIDIC2 | [EDRDG](http://www.edrdg.org/wiki/index.php/KANJIDIC_Project) | CC BY-SA 4.0 | 音読み・訓読み・画数 |
 | kanjiapi.dev | [kanjiapi.dev](https://kanjiapi.dev/) | — （資料源自 KANJIDIC2 / JMdict） | 上述資料的 JSON 介面 |
 | KanjiVG | [KanjiVG](https://kanjivg.tagaini.net/) | CC BY-SA 3.0 | 筆順路徑、なぞり書き範字 |
+| JMdict | [EDRDG](https://www.edrdg.org/jmdict/j_jmdict.html) | CC BY-SA 4.0 | 語彙、讀音 |
+| Tatoeba | [tatoeba.org](https://tatoeba.org/) | CC BY 2.0 FR | 例句（經 JMdict 收錄） |
 | 学年別漢字配当表 | 文部科学省 小学校学習指導要領（平成29年告示）別表 | 公開資料 | 年級與字的對應（令和2年度實施版） |
 
 ## 圖像

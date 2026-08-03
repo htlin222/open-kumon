@@ -1,0 +1,5003 @@
+[
+  {
+    "ja": "今",
+    "reading": "いま",
+    "glossEn": [
+      "now",
+      "the present time"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "adv"
+    ],
+    "example": "今のアナウンスは何だったのですか。",
+    "exampleEn": "What did the announcement just say?",
+    "kanji": [
+      "今"
+    ]
+  },
+  {
+    "ja": "何",
+    "reading": "なに",
+    "glossEn": [
+      "what"
+    ],
+    "partOfSpeech": [
+      "pn"
+    ],
+    "example": "今のアナウンスは何だったのですか。",
+    "exampleEn": "What did the announcement just say?",
+    "kanji": [
+      "何"
+    ]
+  },
+  {
+    "ja": "作",
+    "reading": "さく",
+    "glossEn": [
+      "work (e.g. of art)",
+      "piece"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": "この絵はモネの作とされている。",
+    "exampleEn": "This painting is attributed to Monet.",
+    "kanji": [
+      "作"
+    ]
+  },
+  {
+    "ja": "冬",
+    "reading": "ふゆ",
+    "glossEn": [
+      "winter"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "まもなく冬だ。",
+    "exampleEn": "It will be winter before long.",
+    "kanji": [
+      "冬"
+    ]
+  },
+  {
+    "ja": "分",
+    "reading": "ふん",
+    "glossEn": [
+      "minute (unit of time)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "１０時４０分から１１時まで休み時間です。",
+    "exampleEn": "We have a break from 10:40 to 11:00.",
+    "kanji": [
+      "分"
+    ]
+  },
+  {
+    "ja": "前",
+    "reading": "まえ",
+    "glossEn": [
+      "in front (of)",
+      "before (e.g. a building)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "まっすぐ前を見てください。",
+    "exampleEn": "Look forward, please.",
+    "kanji": [
+      "前"
+    ]
+  },
+  {
+    "ja": "場",
+    "reading": "ば",
+    "glossEn": [
+      "place",
+      "spot"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "場が白けた。",
+    "exampleEn": "The party grew chilly.",
+    "kanji": [
+      "場"
+    ]
+  },
+  {
+    "ja": "声",
+    "reading": "こえ",
+    "glossEn": [
+      "voice"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたの声が聞けてうれしいわ。",
+    "exampleEn": "I am happy to hear your voice.",
+    "kanji": [
+      "声"
+    ]
+  },
+  {
+    "ja": "外",
+    "reading": "そと",
+    "glossEn": [
+      "outside",
+      "exterior"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "うちはうち、そとはそと。",
+    "exampleEn": "Our house, our rules.",
+    "kanji": [
+      "外"
+    ]
+  },
+  {
+    "ja": "家",
+    "reading": "いえ",
+    "glossEn": [
+      "house",
+      "residence"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "木立の間に家が見える。",
+    "exampleEn": "I see a house among the trees.",
+    "kanji": [
+      "家"
+    ]
+  },
+  {
+    "ja": "市",
+    "reading": "いち",
+    "glossEn": [
+      "market",
+      "fair"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "市は月曜ごとに立つ。",
+    "exampleEn": "The market is held every Monday.",
+    "kanji": [
+      "市"
+    ]
+  },
+  {
+    "ja": "後",
+    "reading": "あと",
+    "glossEn": [
+      "behind",
+      "rear"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "雨天の後には晴天が来る。",
+    "exampleEn": "After rain comes fair weather.",
+    "kanji": [
+      "後"
+    ]
+  },
+  {
+    "ja": "才",
+    "reading": "さい",
+    "glossEn": [
+      "ability",
+      "gift"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "われわれのすべてが生まれつき音楽の才があるわけではない。",
+    "exampleEn": "Not all of us are born with musical talent.",
+    "kanji": [
+      "才"
+    ]
+  },
+  {
+    "ja": "星",
+    "reading": "ほし",
+    "glossEn": [
+      "star (usu. excluding the Sun)",
+      "planet (usu. excluding Earth)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ドアには大きな金色の星がついていました。",
+    "exampleEn": "There was a big gold star on the door.",
+    "kanji": [
+      "星"
+    ]
+  },
+  {
+    "ja": "昼",
+    "reading": "ひる",
+    "glossEn": [
+      "noon",
+      "midday"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ケンは昼まで家にいるでしょう。",
+    "exampleEn": "Ken will be at home until noon.",
+    "kanji": [
+      "昼"
+    ]
+  },
+  {
+    "ja": "歩",
+    "reading": "ほ",
+    "glossEn": [
+      "step",
+      "stride"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "３歩歩いてジャンプしなさい。",
+    "exampleEn": "Take three steps and jump.",
+    "kanji": [
+      "歩"
+    ]
+  },
+  {
+    "ja": "毎",
+    "reading": "まい",
+    "glossEn": [
+      "every (usu. with events, e.g. every weekend)",
+      "each"
+    ],
+    "partOfSpeech": [
+      "pref"
+    ],
+    "example": "ベッドメーキングは毎日しますか。",
+    "exampleEn": "Should I make my bed every day?",
+    "kanji": [
+      "毎"
+    ]
+  },
+  {
+    "ja": "池",
+    "reading": "いけ",
+    "glossEn": [
+      "pond"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この前の夏にこの池は水がなくなりました。",
+    "exampleEn": "The pond dried up last summer.",
+    "kanji": [
+      "池"
+    ]
+  },
+  {
+    "ja": "海",
+    "reading": "うみ",
+    "glossEn": [
+      "sea",
+      "ocean"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "何としても海をひと目みたいものだ。",
+    "exampleEn": "I ache for a sight of the sea.",
+    "kanji": [
+      "海"
+    ]
+  },
+  {
+    "ja": "点",
+    "reading": "てん",
+    "glossEn": [
+      "dot",
+      "spot"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "どんな小さな点でも見ることができる。",
+    "exampleEn": "I can see the tiniest spot.",
+    "kanji": [
+      "点"
+    ]
+  },
+  {
+    "ja": "用",
+    "reading": "よう",
+    "glossEn": [
+      "business",
+      "task"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "何の用でここに来たのですか。",
+    "exampleEn": "What has brought you here?",
+    "kanji": [
+      "用"
+    ]
+  },
+  {
+    "ja": "紙",
+    "reading": "かみ",
+    "glossEn": [
+      "paper"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "紙に線を１本引きなさい。",
+    "exampleEn": "Draw a line on the paper.",
+    "kanji": [
+      "紙"
+    ]
+  },
+  {
+    "ja": "角",
+    "reading": "つの",
+    "glossEn": [
+      "horn",
+      "antler"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "カタツムリがすっと角を出した。",
+    "exampleEn": "The snail shot out its horns.",
+    "kanji": [
+      "角"
+    ]
+  },
+  {
+    "ja": "話",
+    "reading": "はなし",
+    "glossEn": [
+      "talk",
+      "speech"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "話を聞かせてくれ。",
+    "exampleEn": "I want a full report though.",
+    "kanji": [
+      "話"
+    ]
+  },
+  {
+    "ja": "語",
+    "reading": "ご",
+    "glossEn": [
+      "word",
+      "term"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf",
+      "ctr"
+    ],
+    "example": "メキシコではなに語を話すのですか。",
+    "exampleEn": "What is the language spoken in Mexico?",
+    "kanji": [
+      "語"
+    ]
+  },
+  {
+    "ja": "通",
+    "reading": "つう",
+    "glossEn": [
+      "authority",
+      "expert"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf",
+      "adj-na"
+    ],
+    "example": "ここにあなたあての手紙が何通かあります。",
+    "exampleEn": "Here are some letters for you.",
+    "kanji": [
+      "通"
+    ]
+  },
+  {
+    "ja": "週",
+    "reading": "しゅう",
+    "glossEn": [
+      "week"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": "それはその前の週に買ったものでした。",
+    "exampleEn": "I had bought it the week before.",
+    "kanji": [
+      "週"
+    ]
+  },
+  {
+    "ja": "間",
+    "reading": "あいだ",
+    "glossEn": [
+      "space (between)",
+      "gap"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "二人の間がしっくり行かない。",
+    "exampleEn": "They don't get along together.",
+    "kanji": [
+      "間"
+    ]
+  },
+  {
+    "ja": "雲",
+    "reading": "くも",
+    "glossEn": [
+      "cloud"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "雲がだんだん黒くなっています。",
+    "exampleEn": "The clouds are getting darker.",
+    "kanji": [
+      "雲"
+    ]
+  },
+  {
+    "ja": "頭",
+    "reading": "あたま",
+    "glossEn": [
+      "head"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "アリスは頭に花をさしています。",
+    "exampleEn": "Alice has a flower in her hair.",
+    "kanji": [
+      "頭"
+    ]
+  },
+  {
+    "ja": "顔",
+    "reading": "かお",
+    "glossEn": [
+      "face",
+      "visage"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ヘレンはみんなにほめられて顔を赤くした。",
+    "exampleEn": "Helen blushed at their praise.",
+    "kanji": [
+      "顔"
+    ]
+  },
+  {
+    "ja": "風",
+    "reading": "かぜ",
+    "glossEn": [
+      "wind",
+      "breeze"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "カーテンが風になびいた。",
+    "exampleEn": "The curtains blew in the wind.",
+    "kanji": [
+      "風"
+    ]
+  },
+  {
+    "ja": "首",
+    "reading": "くび",
+    "glossEn": [
+      "neck"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたの首は風前のともし火だ。",
+    "exampleEn": "Your job hangs by a thread.",
+    "kanji": [
+      "首"
+    ]
+  },
+  {
+    "ja": "お茶",
+    "reading": "おちゃ",
+    "glossEn": [
+      "tea (esp. green or barley)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "３時はお茶にしよう。",
+    "exampleEn": "Let's have tea at 3:00.",
+    "kanji": [
+      "茶"
+    ]
+  },
+  {
+    "ja": "お話",
+    "reading": "おはなし",
+    "glossEn": [
+      "story",
+      "tale"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "知っていることしかお話しできません。",
+    "exampleEn": "I can only tell you what I know.",
+    "kanji": [
+      "話"
+    ]
+  },
+  {
+    "ja": "一台",
+    "reading": "いちだい",
+    "glossEn": [
+      "one machine",
+      "one vehicle"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "１台の車が入り口に止まった。",
+    "exampleEn": "A car stopped at the entrance.",
+    "kanji": [
+      "一",
+      "台"
+    ]
+  },
+  {
+    "ja": "一歩",
+    "reading": "いっぽ",
+    "glossEn": [
+      "(a) step",
+      "one step"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "もう一歩も歩けないよ。",
+    "exampleEn": "I can't walk another step.",
+    "kanji": [
+      "一",
+      "歩"
+    ]
+  },
+  {
+    "ja": "一番",
+    "reading": "いちばん",
+    "glossEn": [
+      "number one",
+      "first"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "このネクタイにしましょう、一番よさそうだから。",
+    "exampleEn": "I will take this tie, as it seems to be the best.",
+    "kanji": [
+      "一",
+      "番"
+    ]
+  },
+  {
+    "ja": "一行",
+    "reading": "いちぎょう",
+    "glossEn": [
+      "(one) line",
+      "(one) row"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ハムレットから１行引用できますか。",
+    "exampleEn": "Can you quote a line of Hamlet?",
+    "kanji": [
+      "一",
+      "行"
+    ]
+  },
+  {
+    "ja": "中心",
+    "reading": "ちゅうしん",
+    "glossEn": [
+      "center",
+      "centre"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "その町の中心にすてきな公園がある。",
+    "exampleEn": "There is a nice park in the center of the town.",
+    "kanji": [
+      "中",
+      "心"
+    ]
+  },
+  {
+    "ja": "今回",
+    "reading": "こんかい",
+    "glossEn": [
+      "this time",
+      "now"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "今回はしくじれないぞ。",
+    "exampleEn": "You cannot fail this time.",
+    "kanji": [
+      "今",
+      "回"
+    ]
+  },
+  {
+    "ja": "今後",
+    "reading": "こんご",
+    "glossEn": [
+      "from now on",
+      "hereafter"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "今後気をつけなくてはなりません。",
+    "exampleEn": "You must be careful from now on.",
+    "kanji": [
+      "今",
+      "後"
+    ]
+  },
+  {
+    "ja": "今日",
+    "reading": "きょう",
+    "glossEn": [
+      "today",
+      "this day"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "今日は何をしたいですか。",
+    "exampleEn": "What would you like to do today?",
+    "kanji": [
+      "今",
+      "日"
+    ]
+  },
+  {
+    "ja": "今月",
+    "reading": "こんげつ",
+    "glossEn": [
+      "this month"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "今月の売り上げはよくない。",
+    "exampleEn": "Sales have been off this month.",
+    "kanji": [
+      "今",
+      "月"
+    ]
+  },
+  {
+    "ja": "今週",
+    "reading": "こんしゅう",
+    "glossEn": [
+      "this week"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "今週はどちらにいらしゃいましたか。",
+    "exampleEn": "Where have you been this week?",
+    "kanji": [
+      "今",
+      "週"
+    ]
+  },
+  {
+    "ja": "休止",
+    "reading": "きゅうし",
+    "glossEn": [
+      "pause",
+      "suspension"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "こちらのレジは今休止中なんですよ。",
+    "exampleEn": "This register is out of commission.",
+    "kanji": [
+      "休",
+      "止"
+    ]
+  },
+  {
+    "ja": "会合",
+    "reading": "かいごう",
+    "glossEn": [
+      "meeting",
+      "assembly"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "これはとても大切な会合だ。",
+    "exampleEn": "This is a very important meeting.",
+    "kanji": [
+      "会",
+      "合"
+    ]
+  },
+  {
+    "ja": "会計",
+    "reading": "かいけい",
+    "glossEn": [
+      "accounting",
+      "finance"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "vs"
+    ],
+    "example": "チェックアウトしたいので、会計をおねがいします。",
+    "exampleEn": "I'd like to check out. Do you have my bill?",
+    "kanji": [
+      "会",
+      "計"
+    ]
+  },
+  {
+    "ja": "何で",
+    "reading": "なんで",
+    "glossEn": [
+      "why?",
+      "what for?"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "テニスウェアってなんでミニスカートなのかしら？",
+    "exampleEn": "I wonder why tennis is played in mini-skirts.",
+    "kanji": [
+      "何"
+    ]
+  },
+  {
+    "ja": "何方",
+    "reading": "どなた",
+    "glossEn": [
+      "who"
+    ],
+    "partOfSpeech": [
+      "pn"
+    ],
+    "example": "「どなたですか」「お母さんよ」",
+    "exampleEn": "\"Who is it?\" \"It's your mother.\"",
+    "kanji": [
+      "何",
+      "方"
+    ]
+  },
+  {
+    "ja": "何時",
+    "reading": "なんじ",
+    "glossEn": [
+      "what time",
+      "which hour"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたの時計では何時ですか。",
+    "exampleEn": "What time is it by your watch?",
+    "kanji": [
+      "何",
+      "時"
+    ]
+  },
+  {
+    "ja": "元気",
+    "reading": "げんき",
+    "glossEn": [
+      "lively",
+      "full of spirit"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "こんにちは、ロジャー。とっても元気よ。",
+    "exampleEn": "Hi, Roger. I'm pretty good!",
+    "kanji": [
+      "元",
+      "気"
+    ]
+  },
+  {
+    "ja": "兄弟",
+    "reading": "きょうだい",
+    "glossEn": [
+      "brothers and sisters",
+      "siblings"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたは何人兄弟がいますか。",
+    "exampleEn": "How many siblings do you have?",
+    "kanji": [
+      "兄",
+      "弟"
+    ]
+  },
+  {
+    "ja": "先方",
+    "reading": "せんぽう",
+    "glossEn": [
+      "other party",
+      "other side"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "先方が電話にお出になりました。",
+    "exampleEn": "Your party is on the line.",
+    "kanji": [
+      "先",
+      "方"
+    ]
+  },
+  {
+    "ja": "先週",
+    "reading": "せんしゅう",
+    "glossEn": [
+      "last week",
+      "the week before"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "この本は先週一番売れた。",
+    "exampleEn": "This was the best-selling book last week.",
+    "kanji": [
+      "先",
+      "週"
+    ]
+  },
+  {
+    "ja": "光線",
+    "reading": "こうせん",
+    "glossEn": [
+      "ray (of light)",
+      "beam"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "このランプは強い光線を出す。",
+    "exampleEn": "This lamp sends out a powerful beam.",
+    "kanji": [
+      "光",
+      "線"
+    ]
+  },
+  {
+    "ja": "内気",
+    "reading": "うちき",
+    "glossEn": [
+      "shy",
+      "bashful"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "その内気な少年はぼそぼそと自分の名前をつぶやいた。",
+    "exampleEn": "The shy boy murmured his name.",
+    "kanji": [
+      "内",
+      "気"
+    ]
+  },
+  {
+    "ja": "内科",
+    "reading": "ないか",
+    "glossEn": [
+      "internal medicine"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "内科はどこですか。",
+    "exampleEn": "Where is the Internal Medicine Department?",
+    "kanji": [
+      "内",
+      "科"
+    ]
+  },
+  {
+    "ja": "出場",
+    "reading": "しゅつじょう",
+    "glossEn": [
+      "participation (in a tournament, match, race, etc.)",
+      "entry"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "２０チームがトーナメントに出場した。",
+    "exampleEn": "Twenty teams entered the tournament.",
+    "kanji": [
+      "出",
+      "場"
+    ]
+  },
+  {
+    "ja": "切る",
+    "reading": "きる",
+    "glossEn": [
+      "to cut",
+      "to cut through"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vt"
+    ],
+    "example": "エアコンを切ってもかまいませんか。",
+    "exampleEn": "Do you mind if I turn off the AC?",
+    "kanji": [
+      "切"
+    ]
+  },
+  {
+    "ja": "切れ",
+    "reading": "きれ",
+    "glossEn": [
+      "piece",
+      "slice"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "肉は何切れにしましょうか。",
+    "exampleEn": "How many slices of meat would you like?",
+    "kanji": [
+      "切"
+    ]
+  },
+  {
+    "ja": "半数",
+    "reading": "はんすう",
+    "glossEn": [
+      "half the number",
+      "half (of an amount)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "学生の半数が休んでいた。",
+    "exampleEn": "Half the students were absent.",
+    "kanji": [
+      "半",
+      "数"
+    ]
+  },
+  {
+    "ja": "半日",
+    "reading": "はんにち",
+    "glossEn": [
+      "half day"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "半日のツアーはありますか。",
+    "exampleEn": "Do you offer any half-day tours?",
+    "kanji": [
+      "半",
+      "日"
+    ]
+  },
+  {
+    "ja": "南北",
+    "reading": "なんぼく",
+    "glossEn": [
+      "north and south",
+      "north to south"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "日本は南北に長い国です。",
+    "exampleEn": "Japan is a very long country from north to south.",
+    "kanji": [
+      "南",
+      "北"
+    ]
+  },
+  {
+    "ja": "台本",
+    "reading": "だいほん",
+    "glossEn": [
+      "script",
+      "libretto"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "台本に目を通しておいてください。",
+    "exampleEn": "Please go over the script.",
+    "kanji": [
+      "台",
+      "本"
+    ]
+  },
+  {
+    "ja": "合う",
+    "reading": "あう",
+    "glossEn": [
+      "to come together",
+      "to merge"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vi"
+    ],
+    "example": "このチョッキは前が合わない。",
+    "exampleEn": "This waistcoat won't meet at the front.",
+    "kanji": [
+      "合"
+    ]
+  },
+  {
+    "ja": "合図",
+    "reading": "あいず",
+    "glossEn": [
+      "sign",
+      "signal"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "すぐにゴーの合図をしてください。",
+    "exampleEn": "Give us the sign to go soon.",
+    "kanji": [
+      "合",
+      "図"
+    ]
+  },
+  {
+    "ja": "名前",
+    "reading": "なまえ",
+    "glossEn": [
+      "name"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたの名前はリストからはずされた。",
+    "exampleEn": "Your name was dropped from the list.",
+    "kanji": [
+      "名",
+      "前"
+    ]
+  },
+  {
+    "ja": "回す",
+    "reading": "まわす",
+    "glossEn": [
+      "to turn",
+      "to rotate"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "社長に電話を回します。",
+    "exampleEn": "I'll put you through to the president.",
+    "kanji": [
+      "回"
+    ]
+  },
+  {
+    "ja": "国内",
+    "reading": "こくない",
+    "glossEn": [
+      "within the country",
+      "inside the county"
+    ],
+    "partOfSpeech": [
+      "adj-no",
+      "n"
+    ],
+    "example": "アメリカへ行くくらいなら、国内にいるほうがましだ。",
+    "exampleEn": "You might as well stay at home as go to America.",
+    "kanji": [
+      "国",
+      "内"
+    ]
+  },
+  {
+    "ja": "土台",
+    "reading": "どだい",
+    "glossEn": [
+      "foundation",
+      "base"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この家は土台がしっかりしている。",
+    "exampleEn": "This house has a solid foundation.",
+    "kanji": [
+      "土",
+      "台"
+    ]
+  },
+  {
+    "ja": "土曜",
+    "reading": "どよう",
+    "glossEn": [
+      "Saturday"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "土曜に学校がありますか。",
+    "exampleEn": "Do you go to school on Saturday?",
+    "kanji": [
+      "土",
+      "曜"
+    ]
+  },
+  {
+    "ja": "地上",
+    "reading": "ちじょう",
+    "glossEn": [
+      "above ground",
+      "on the ground"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "B2出口から地上に出てください。",
+    "exampleEn": "Go up to ground level at exit B2.",
+    "kanji": [
+      "地",
+      "上"
+    ]
+  },
+  {
+    "ja": "地図",
+    "reading": "ちず",
+    "glossEn": [
+      "map",
+      "atlas"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "どこへ行けばヨーロッパの地図が手に入りますか。",
+    "exampleEn": "Where can I obtain a map of Europe?",
+    "kanji": [
+      "地",
+      "図"
+    ]
+  },
+  {
+    "ja": "夕方",
+    "reading": "ゆうがた",
+    "glossEn": [
+      "early evening (usu. from 3pm to 6pm)",
+      "dusk"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "ひょっとすると夕方前に雨になるかもしれない。",
+    "exampleEn": "It might rain before evening.",
+    "kanji": [
+      "夕",
+      "方"
+    ]
+  },
+  {
+    "ja": "外出",
+    "reading": "がいしゅつ",
+    "glossEn": [
+      "going out",
+      "outing"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "ヒーターをつけたまま外出した。",
+    "exampleEn": "I went out with the heater on.",
+    "kanji": [
+      "外",
+      "出"
+    ]
+  },
+  {
+    "ja": "外米",
+    "reading": "がいまい",
+    "glossEn": [
+      "foreign rice"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "外米はぼそぼそしていて、日本人の口には合わない。",
+    "exampleEn": "Foreign rice is hard and tasteless, and doesn't appeal to the Japanese palate.",
+    "kanji": [
+      "外",
+      "米"
+    ]
+  },
+  {
+    "ja": "多才",
+    "reading": "たさい",
+    "glossEn": [
+      "talented"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "adj-no",
+      "n"
+    ],
+    "example": "ジムは多才な人といってもいいだろう。",
+    "exampleEn": "Jim can be said to be a man of many talents.",
+    "kanji": [
+      "多",
+      "才"
+    ]
+  },
+  {
+    "ja": "大体",
+    "reading": "だいたい",
+    "glossEn": [
+      "generally",
+      "on the whole"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "だいたいどのくらいの時間がかかりますか。",
+    "exampleEn": "About how long will it take?",
+    "kanji": [
+      "大",
+      "体"
+    ]
+  },
+  {
+    "ja": "太る",
+    "reading": "ふとる",
+    "glossEn": [
+      "to put on weight",
+      "to gain weight"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "あまり太ったのでカラーの前が合わなかった。",
+    "exampleEn": "He got so stout that his collar did not meet.",
+    "kanji": [
+      "太"
+    ]
+  },
+  {
+    "ja": "小鳥",
+    "reading": "ことり",
+    "glossEn": [
+      "small bird",
+      "little bird"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "小鳥たちはたのしそうにさえずっています。",
+    "exampleEn": "The birds are singing merrily.",
+    "kanji": [
+      "小",
+      "鳥"
+    ]
+  },
+  {
+    "ja": "少し",
+    "reading": "すこし",
+    "glossEn": [
+      "a little",
+      "a bit"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "少しテレビを見てもいいですか。",
+    "exampleEn": "Do you mind if I watch TV for a while?",
+    "kanji": [
+      "少"
+    ]
+  },
+  {
+    "ja": "広さ",
+    "reading": "ひろさ",
+    "glossEn": [
+      "area",
+      "extent"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この家の広さはどのくらいありますか。",
+    "exampleEn": "What is the area of this house?",
+    "kanji": [
+      "広"
+    ]
+  },
+  {
+    "ja": "店内",
+    "reading": "てんない",
+    "glossEn": [
+      "inside of a store (restaurant, café, etc.)",
+      "store interior"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "いいか。店内では大人しくしてるんだぞ。",
+    "exampleEn": "OK, you keep quiet while we're in the store.",
+    "kanji": [
+      "店",
+      "内"
+    ]
+  },
+  {
+    "ja": "店長",
+    "reading": "てんちょう",
+    "glossEn": [
+      "shop manager"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この店の店長はひげが生えています。",
+    "exampleEn": "The manager of this store is growing a beard.",
+    "kanji": [
+      "店",
+      "長"
+    ]
+  },
+  {
+    "ja": "引く",
+    "reading": "ひく",
+    "glossEn": [
+      "to pull",
+      "to tug"
+    ],
+    "partOfSpeech": [
+      "v5k",
+      "vt"
+    ],
+    "example": "カーテンがゆっくり引かれた。",
+    "exampleEn": "The curtains were drawn slowly.",
+    "kanji": [
+      "引"
+    ]
+  },
+  {
+    "ja": "引用",
+    "reading": "いんよう",
+    "glossEn": [
+      "quotation",
+      "citation"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "adj-no"
+    ],
+    "example": "ハムレットから１行引用できますか。",
+    "exampleEn": "Can you quote a line of Hamlet?",
+    "kanji": [
+      "引",
+      "用"
+    ]
+  },
+  {
+    "ja": "弱い",
+    "reading": "よわい",
+    "glossEn": [
+      "weak",
+      "frail"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "それを言われると弱いなあ。",
+    "exampleEn": "That sure puts me on the spot.",
+    "kanji": [
+      "弱"
+    ]
+  },
+  {
+    "ja": "強国",
+    "reading": "きょうこく",
+    "glossEn": [
+      "strong nation",
+      "powerful country"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "日本は力のある強国になっていた。",
+    "exampleEn": "Japan has become a powerful nation.",
+    "kanji": [
+      "強",
+      "国"
+    ]
+  },
+  {
+    "ja": "強気",
+    "reading": "つよき",
+    "glossEn": [
+      "confident",
+      "assured"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "adj-no",
+      "n"
+    ],
+    "example": "あまり強気になるなよ。",
+    "exampleEn": "Don't press your luck, kid.",
+    "kanji": [
+      "強",
+      "気"
+    ]
+  },
+  {
+    "ja": "当て",
+    "reading": "あて",
+    "glossEn": [
+      "aim",
+      "object"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ここにあなたあての手紙が何通かあります。",
+    "exampleEn": "Here are some letters for you.",
+    "kanji": [
+      "当"
+    ]
+  },
+  {
+    "ja": "当の",
+    "reading": "とうの",
+    "glossEn": [
+      "the ... in question"
+    ],
+    "partOfSpeech": [
+      "adj-pn"
+    ],
+    "example": "当のその少年は今日学校に来なかった。",
+    "exampleEn": "The boy in question did not come to school today.",
+    "kanji": [
+      "当"
+    ]
+  },
+  {
+    "ja": "当分",
+    "reading": "とうぶん",
+    "glossEn": [
+      "for the present",
+      "for the time being"
+    ],
+    "partOfSpeech": [
+      "adv",
+      "n"
+    ],
+    "example": "これで当分は間に合うでしょう。",
+    "exampleEn": "This will do for the time being.",
+    "kanji": [
+      "当",
+      "分"
+    ]
+  },
+  {
+    "ja": "思う",
+    "reading": "おもう",
+    "glossEn": [
+      "to think",
+      "to consider"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vt"
+    ],
+    "example": "晴れだと思うよ。",
+    "exampleEn": "I think it will be sunny.",
+    "kanji": [
+      "思"
+    ]
+  },
+  {
+    "ja": "手紙",
+    "reading": "てがみ",
+    "glossEn": [
+      "letter",
+      "note"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ここにあなたあての手紙が何通かあります。",
+    "exampleEn": "Here are some letters for you.",
+    "kanji": [
+      "手",
+      "紙"
+    ]
+  },
+  {
+    "ja": "手間",
+    "reading": "てま",
+    "glossEn": [
+      "time",
+      "labour"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "食べるのにどうしてそんなに手間がかかるのか。",
+    "exampleEn": "Why do you take so long to eat?",
+    "kanji": [
+      "手",
+      "間"
+    ]
+  },
+  {
+    "ja": "教会",
+    "reading": "きょうかい",
+    "glossEn": [
+      "church",
+      "congregation"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その教会は１１７３年までさかのぼる。",
+    "exampleEn": "The church dates back to 1173.",
+    "kanji": [
+      "教",
+      "会"
+    ]
+  },
+  {
+    "ja": "教室",
+    "reading": "きょうしつ",
+    "glossEn": [
+      "classroom",
+      "lecture room"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "エアロビクス教室に一日入学したいのですが。",
+    "exampleEn": "I'd like to try out the aerobics class for a day.",
+    "kanji": [
+      "教",
+      "室"
+    ]
+  },
+  {
+    "ja": "数分",
+    "reading": "すうふん",
+    "glossEn": [
+      "several minutes",
+      "a few minutes"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "アキラは数分の間外出した。",
+    "exampleEn": "Akira went out for a few minutes.",
+    "kanji": [
+      "数",
+      "分"
+    ]
+  },
+  {
+    "ja": "新年",
+    "reading": "しんねん",
+    "glossEn": [
+      "New Year"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "新年が近づいていた。",
+    "exampleEn": "The New Year was drawing near.",
+    "kanji": [
+      "新",
+      "年"
+    ]
+  },
+  {
+    "ja": "新米",
+    "reading": "しんまい",
+    "glossEn": [
+      "new rice",
+      "first rice crop of the year"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "新米のくせに大きな顔をするな。",
+    "exampleEn": "Act your place.",
+    "kanji": [
+      "新",
+      "米"
+    ]
+  },
+  {
+    "ja": "新聞",
+    "reading": "しんぶん",
+    "glossEn": [
+      "newspaper"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ジョンのことが新聞に出ていた。",
+    "exampleEn": "John was mentioned in the paper.",
+    "kanji": [
+      "新",
+      "聞"
+    ]
+  },
+  {
+    "ja": "新雪",
+    "reading": "しんせつ",
+    "glossEn": [
+      "fresh snow",
+      "new snow"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "新雪でスキーをするのはとても楽しいことです。",
+    "exampleEn": "It is great fun skiing on new-fallen snow.",
+    "kanji": [
+      "新",
+      "雪"
+    ]
+  },
+  {
+    "ja": "明日",
+    "reading": "あした",
+    "glossEn": [
+      "tomorrow"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "あしたは一日中ひまです。",
+    "exampleEn": "I'll be free all day tomorrow.",
+    "kanji": [
+      "明",
+      "日"
+    ]
+  },
+  {
+    "ja": "明白",
+    "reading": "めいはく",
+    "glossEn": [
+      "obvious",
+      "clear"
+    ],
+    "partOfSpeech": [
+      "adj-na"
+    ],
+    "example": "何をしなければならないかは明白です。",
+    "exampleEn": "It is clear what must be done.",
+    "kanji": [
+      "明",
+      "白"
+    ]
+  },
+  {
+    "ja": "明細",
+    "reading": "めいさい",
+    "glossEn": [
+      "details",
+      "particulars"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "明細を教えていただけますか。",
+    "exampleEn": "I'd like you to itemize the charges.",
+    "kanji": [
+      "明",
+      "細"
+    ]
+  },
+  {
+    "ja": "昼食",
+    "reading": "ちゅうしょく",
+    "glossEn": [
+      "lunch",
+      "midday meal"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "今日は昼食をとる時間がない。",
+    "exampleEn": "I don't have enough time to eat lunch today.",
+    "kanji": [
+      "昼",
+      "食"
+    ]
+  },
+  {
+    "ja": "時計",
+    "reading": "とけい",
+    "glossEn": [
+      "clock",
+      "watch"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたの時計では何時ですか。",
+    "exampleEn": "What time is it by your watch?",
+    "kanji": [
+      "時",
+      "計"
+    ]
+  },
+  {
+    "ja": "時間",
+    "reading": "じかん",
+    "glossEn": [
+      "time"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "いつだって読書の時間は見つけられる。",
+    "exampleEn": "We can always find time for reading.",
+    "kanji": [
+      "時",
+      "間"
+    ]
+  },
+  {
+    "ja": "晴天",
+    "reading": "せいてん",
+    "glossEn": [
+      "fine weather (i.e. little or no clouds)",
+      "fair weather"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "雨天の後には晴天が来る。",
+    "exampleEn": "After rain comes fair weather.",
+    "kanji": [
+      "晴",
+      "天"
+    ]
+  },
+  {
+    "ja": "書く",
+    "reading": "かく",
+    "glossEn": [
+      "to write",
+      "to compose"
+    ],
+    "partOfSpeech": [
+      "v5k",
+      "vt"
+    ],
+    "example": "ここにあなたの名前をかいてくれませんか。",
+    "exampleEn": "Would you please write your name here?",
+    "kanji": [
+      "書"
+    ]
+  },
+  {
+    "ja": "書店",
+    "reading": "しょてん",
+    "glossEn": [
+      "bookshop",
+      "bookstore"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "書店で手に入ります。",
+    "exampleEn": "You can get it at a bookstore.",
+    "kanji": [
+      "書",
+      "店"
+    ]
+  },
+  {
+    "ja": "木星",
+    "reading": "もくせい",
+    "glossEn": [
+      "Jupiter (planet)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あの上の方で光っている星は木星です。",
+    "exampleEn": "The star which shines up there is Jupiter.",
+    "kanji": [
+      "木",
+      "星"
+    ]
+  },
+  {
+    "ja": "来る",
+    "reading": "くる",
+    "glossEn": [
+      "to come (spatially or temporally)",
+      "to approach"
+    ],
+    "partOfSpeech": [
+      "vk",
+      "vi"
+    ],
+    "example": "１０時までに来ます。",
+    "exampleEn": "I'll come by 10.",
+    "kanji": [
+      "来"
+    ]
+  },
+  {
+    "ja": "来店",
+    "reading": "らいてん",
+    "glossEn": [
+      "coming to a store (restaurant, bar, shop, etc.)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "来週またご来店下さい。",
+    "exampleEn": "Check back next week.",
+    "kanji": [
+      "来",
+      "店"
+    ]
+  },
+  {
+    "ja": "来日",
+    "reading": "らいにち",
+    "glossEn": [
+      "coming to Japan",
+      "visit to Japan"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "ボブがいつ来日したか分からない。",
+    "exampleEn": "I don't know when Bob came to Japan.",
+    "kanji": [
+      "来",
+      "日"
+    ]
+  },
+  {
+    "ja": "来春",
+    "reading": "らいしゅん",
+    "glossEn": [
+      "next spring"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "そのコンサートは来春おこなわれる。",
+    "exampleEn": "The concert will take place next spring.",
+    "kanji": [
+      "来",
+      "春"
+    ]
+  },
+  {
+    "ja": "来週",
+    "reading": "らいしゅう",
+    "glossEn": [
+      "next week"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": "来週ヨーロッパへ行くつもりなんです。",
+    "exampleEn": "I'm going to Europe next week.",
+    "kanji": [
+      "来",
+      "週"
+    ]
+  },
+  {
+    "ja": "東方",
+    "reading": "とうほう",
+    "glossEn": [
+      "eastern direction"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "日本は中国の東方にある。",
+    "exampleEn": "Japan is to the east of China.",
+    "kanji": [
+      "東",
+      "方"
+    ]
+  },
+  {
+    "ja": "歌う",
+    "reading": "うたう",
+    "glossEn": [
+      "to sing"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vt",
+      "vi"
+    ],
+    "example": "ジョンはステージで何を歌いましたか。",
+    "exampleEn": "What did John sing on the stage?",
+    "kanji": [
+      "歌"
+    ]
+  },
+  {
+    "ja": "止む",
+    "reading": "やむ",
+    "glossEn": [
+      "to cease",
+      "to stop"
+    ],
+    "partOfSpeech": [
+      "v5m",
+      "vi"
+    ],
+    "example": "雨がやみさえすればいいのになあ。",
+    "exampleEn": "If only it would stop raining!",
+    "kanji": [
+      "止"
+    ]
+  },
+  {
+    "ja": "正門",
+    "reading": "せいもん",
+    "glossEn": [
+      "main gate",
+      "main entrance"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "車が正門のところへきて止まった。",
+    "exampleEn": "A car drew up at the main gate.",
+    "kanji": [
+      "正",
+      "門"
+    ]
+  },
+  {
+    "ja": "歩く",
+    "reading": "あるく",
+    "glossEn": [
+      "to walk"
+    ],
+    "partOfSpeech": [
+      "v5k",
+      "vi"
+    ],
+    "example": "歩いて行きますか？それともバスで行きますか？",
+    "exampleEn": "Will you go on foot or by bus?",
+    "kanji": [
+      "歩"
+    ]
+  },
+  {
+    "ja": "歩み",
+    "reading": "あゆみ",
+    "glossEn": [
+      "walking"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "何て歩みののろいやつだろう。",
+    "exampleEn": "How slow you are!",
+    "kanji": [
+      "歩"
+    ]
+  },
+  {
+    "ja": "毎に",
+    "reading": "ごとに",
+    "glossEn": [
+      "one by one",
+      "each"
+    ],
+    "partOfSpeech": [
+      "exp",
+      "suf"
+    ],
+    "example": "バスは１０分ごとに通っている。",
+    "exampleEn": "The buses run every ten minutes.",
+    "kanji": [
+      "毎"
+    ]
+  },
+  {
+    "ja": "気分",
+    "reading": "きぶん",
+    "glossEn": [
+      "feeling",
+      "mood"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "とても気分がリフレッシュされる。",
+    "exampleEn": "I feel like a brand new person.",
+    "kanji": [
+      "気",
+      "分"
+    ]
+  },
+  {
+    "ja": "気前",
+    "reading": "きまえ",
+    "glossEn": [
+      "generosity"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "金はないが気前はよい。",
+    "exampleEn": "Poor as he is, he is generous.",
+    "kanji": [
+      "気",
+      "前"
+    ]
+  },
+  {
+    "ja": "気楽",
+    "reading": "きらく",
+    "glossEn": [
+      "carefree",
+      "comfortable"
+    ],
+    "partOfSpeech": [
+      "adj-na",
+      "n"
+    ],
+    "example": "ほんの気楽なパーティーだった。",
+    "exampleEn": "It was only an informal party.",
+    "kanji": [
+      "気",
+      "楽"
+    ]
+  },
+  {
+    "ja": "海上",
+    "reading": "かいじょう",
+    "glossEn": [
+      "(on the) sea",
+      "surface of the sea"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "たくさんの船が海上を走っている。",
+    "exampleEn": "Many boats are sailing on the sea.",
+    "kanji": [
+      "海",
+      "上"
+    ]
+  },
+  {
+    "ja": "王室",
+    "reading": "おうしつ",
+    "glossEn": [
+      "royal family"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この土地は王室のものです。",
+    "exampleEn": "This land belongs to the Royal Family.",
+    "kanji": [
+      "王",
+      "室"
+    ]
+  },
+  {
+    "ja": "生理",
+    "reading": "せいり",
+    "glossEn": [
+      "physiology"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "生理用ナプキンはどこにありますか。",
+    "exampleEn": "Where are the sanitary napkins?",
+    "kanji": [
+      "生",
+      "理"
+    ]
+  },
+  {
+    "ja": "用心",
+    "reading": "ようじん",
+    "glossEn": [
+      "care",
+      "precaution"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt",
+      "vi"
+    ],
+    "example": "火には、用心しなさい。",
+    "exampleEn": "Be on your guard against fire.",
+    "kanji": [
+      "用",
+      "心"
+    ]
+  },
+  {
+    "ja": "白黒",
+    "reading": "しろくろ",
+    "glossEn": [
+      "black and white",
+      "monochrome"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "ジェーンは、白黒をはっきりさせる人です。",
+    "exampleEn": "Jane calls a spade a spade.",
+    "kanji": [
+      "白",
+      "黒"
+    ]
+  },
+  {
+    "ja": "直ぐ",
+    "reading": "すぐ",
+    "glossEn": [
+      "immediately",
+      "at once"
+    ],
+    "partOfSpeech": [
+      "adv",
+      "n"
+    ],
+    "example": "「雨がすぐあがるでしょうか」「あがらないと思うよ」",
+    "exampleEn": "\"Will it stop raining soon?\" \"I'm afraid not.\"",
+    "kanji": [
+      "直"
+    ]
+  },
+  {
+    "ja": "直し",
+    "reading": "なおし",
+    "glossEn": [
+      "correction",
+      "rectification"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "今自分を見つめ直し。",
+    "exampleEn": "Now is the time I got to speak out.",
+    "kanji": [
+      "直"
+    ]
+  },
+  {
+    "ja": "直す",
+    "reading": "なおす",
+    "glossEn": [
+      "to repair",
+      "to mend"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "あなたの時計は明日までには直しておきますよ。",
+    "exampleEn": "I will have repaired your watch by tomorrow.",
+    "kanji": [
+      "直"
+    ]
+  },
+  {
+    "ja": "直に",
+    "reading": "じかに",
+    "glossEn": [
+      "directly",
+      "in person"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "あなたとじかに会ってじっくり話したいことがあるのです。",
+    "exampleEn": "I have something to talk over with you, face to face.",
+    "kanji": [
+      "直"
+    ]
+  },
+  {
+    "ja": "直る",
+    "reading": "なおる",
+    "glossEn": [
+      "to get mended",
+      "to be repaired"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "いったい、いつになったらそのケチは直るの？",
+    "exampleEn": "When will you ever loosen your purse strings?",
+    "kanji": [
+      "直"
+    ]
+  },
+  {
+    "ja": "直線",
+    "reading": "ちょくせん",
+    "glossEn": [
+      "straight line"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "この２つの直線は直角に交わっている。",
+    "exampleEn": "These two lines are at right angles.",
+    "kanji": [
+      "直",
+      "線"
+    ]
+  },
+  {
+    "ja": "直角",
+    "reading": "ちょっかく",
+    "glossEn": [
+      "right angle"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-na",
+      "adj-no"
+    ],
+    "example": "これらの線は直角に交わる。",
+    "exampleEn": "These lines meet at right angles.",
+    "kanji": [
+      "直",
+      "角"
+    ]
+  },
+  {
+    "ja": "立場",
+    "reading": "たちば",
+    "glossEn": [
+      "position",
+      "situation"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "お答えできる立場にありません。",
+    "exampleEn": "I'm not in a position to answer.",
+    "kanji": [
+      "立",
+      "場"
+    ]
+  },
+  {
+    "ja": "絵画",
+    "reading": "かいが",
+    "glossEn": [
+      "painting",
+      "picture"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その絵画を見たらおもしろかった。",
+    "exampleEn": "I found the picture interesting.",
+    "kanji": [
+      "絵",
+      "画"
+    ]
+  },
+  {
+    "ja": "考え",
+    "reading": "かんがえ",
+    "glossEn": [
+      "thinking",
+      "thought"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたの考えを言ってください。",
+    "exampleEn": "Please tell me what you think.",
+    "kanji": [
+      "考"
+    ]
+  },
+  {
+    "ja": "自前",
+    "reading": "じまえ",
+    "glossEn": [
+      "paying one's own expenses"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "自前で買ったのです。",
+    "exampleEn": "She got it at her own expense.",
+    "kanji": [
+      "自",
+      "前"
+    ]
+  },
+  {
+    "ja": "色気",
+    "reading": "いろけ",
+    "glossEn": [
+      "colouring",
+      "coloring"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "色気より食い気。",
+    "exampleEn": "Fair words fill not the belly.",
+    "kanji": [
+      "色",
+      "気"
+    ]
+  },
+  {
+    "ja": "茶色",
+    "reading": "ちゃいろ",
+    "glossEn": [
+      "brown",
+      "light brown"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "その犬は茶色で小さくて、やせています。",
+    "exampleEn": "The dog is brown, small and thin.",
+    "kanji": [
+      "茶",
+      "色"
+    ]
+  },
+  {
+    "ja": "行い",
+    "reading": "おこない",
+    "glossEn": [
+      "deed",
+      "act"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そのような行ないはいかにもメグらしい。",
+    "exampleEn": "Such behavior is just like Meg.",
+    "kanji": [
+      "行"
+    ]
+  },
+  {
+    "ja": "行く",
+    "reading": "いく",
+    "glossEn": [
+      "to go",
+      "to move (towards)"
+    ],
+    "partOfSpeech": [
+      "v5k-s",
+      "vi"
+    ],
+    "example": "その音はだんだん小さくなっていった。",
+    "exampleEn": "The sound grew fainter and fainter.",
+    "kanji": [
+      "行"
+    ]
+  },
+  {
+    "ja": "見当",
+    "reading": "けんとう",
+    "glossEn": [
+      "estimate",
+      "guess"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "それがどこにあるのか、およその見当はついている。",
+    "exampleEn": "I have a rough idea where it is.",
+    "kanji": [
+      "見",
+      "当"
+    ]
+  },
+  {
+    "ja": "親友",
+    "reading": "しんゆう",
+    "glossEn": [
+      "close friend",
+      "bosom friend"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "トムとフランクは親友だ。",
+    "exampleEn": "Tom and Frank are good friends.",
+    "kanji": [
+      "親",
+      "友"
+    ]
+  },
+  {
+    "ja": "言う",
+    "reading": "いう",
+    "glossEn": [
+      "to say",
+      "to utter"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vt"
+    ],
+    "example": "「みんなひと休みしようぜ」とジョンは言った。",
+    "exampleEn": "John said, \"Hey guys, let's take a break.\"",
+    "kanji": [
+      "言"
+    ]
+  },
+  {
+    "ja": "言明",
+    "reading": "げんめい",
+    "glossEn": [
+      "declaration",
+      "statement"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "example": "「わたしはキリストではありません」と言明した。",
+    "exampleEn": "But confessed freely, I am not the Christ.",
+    "kanji": [
+      "言",
+      "明"
+    ]
+  },
+  {
+    "ja": "言語",
+    "reading": "げんご",
+    "glossEn": [
+      "language"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ドイツ語はやさしい言語ではありません。",
+    "exampleEn": "German is not an easy language.",
+    "kanji": [
+      "言",
+      "語"
+    ]
+  },
+  {
+    "ja": "走り",
+    "reading": "はしり",
+    "glossEn": [
+      "running"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "走りさえすれば、どんな車でもよいのです。",
+    "exampleEn": "Any car will do, as long as it runs.",
+    "kanji": [
+      "走"
+    ]
+  },
+  {
+    "ja": "走る",
+    "reading": "はしる",
+    "glossEn": [
+      "to run"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "あの走ってる少年をごらんなさい。",
+    "exampleEn": "Look at that boy running.",
+    "kanji": [
+      "走"
+    ]
+  },
+  {
+    "ja": "近い",
+    "reading": "ちかい",
+    "glossEn": [
+      "near",
+      "close"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "クリスマスが近くなってきた。",
+    "exampleEn": "Christmas is fast approaching.",
+    "kanji": [
+      "近"
+    ]
+  },
+  {
+    "ja": "近く",
+    "reading": "ちかく",
+    "glossEn": [
+      "near",
+      "neighbourhood"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no",
+      "adv"
+    ],
+    "example": "７時近くだ。学校へ行かなくては。",
+    "exampleEn": "It is close to seven o'clock. We have to go to school.",
+    "kanji": [
+      "近"
+    ]
+  },
+  {
+    "ja": "近道",
+    "reading": "ちかみち",
+    "glossEn": [
+      "shorter way",
+      "shortcut"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "学校への近道だよ。",
+    "exampleEn": "It's a shortcut to the school.",
+    "kanji": [
+      "近",
+      "道"
+    ]
+  },
+  {
+    "ja": "通じ",
+    "reading": "つうじ",
+    "glossEn": [
+      "(bowel) movement",
+      "evacuation"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "お通じがよくなりますよ。",
+    "exampleEn": "It moves the bowels.",
+    "kanji": [
+      "通"
+    ]
+  },
+  {
+    "ja": "通す",
+    "reading": "とおす",
+    "glossEn": [
+      "to let pass",
+      "to allow through"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "山を通してトンネルを通した。",
+    "exampleEn": "They drove a tunnel through the hill.",
+    "kanji": [
+      "通"
+    ]
+  },
+  {
+    "ja": "通る",
+    "reading": "とおる",
+    "glossEn": [
+      "to go by",
+      "to go past"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "ケリーの声は、よく通る。",
+    "exampleEn": "Kelly's voice carries well.",
+    "kanji": [
+      "通"
+    ]
+  },
+  {
+    "ja": "通学",
+    "reading": "つうがく",
+    "glossEn": [
+      "commuting to school",
+      "school commute"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "いつもバス通学です。",
+    "exampleEn": "I usually go to school by bus.",
+    "kanji": [
+      "通",
+      "学"
+    ]
+  },
+  {
+    "ja": "週間",
+    "reading": "しゅうかん",
+    "glossEn": [
+      "week"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "もう２週間たったら帰ります。",
+    "exampleEn": "I will be back in another two weeks.",
+    "kanji": [
+      "週",
+      "間"
+    ]
+  },
+  {
+    "ja": "道草",
+    "reading": "みちくさ",
+    "glossEn": [
+      "loitering on the way"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "帰り道で道草するんじゃないのよ。",
+    "exampleEn": "Don't play around too much after school.",
+    "kanji": [
+      "道",
+      "草"
+    ]
+  },
+  {
+    "ja": "野生",
+    "reading": "やせい",
+    "glossEn": [
+      "wild"
+    ],
+    "partOfSpeech": [
+      "adj-no"
+    ],
+    "example": "野原には野生の花がたくさんある。",
+    "exampleEn": "The fields abound in wild flowers.",
+    "kanji": [
+      "野",
+      "生"
+    ]
+  },
+  {
+    "ja": "金色",
+    "reading": "きんいろ",
+    "glossEn": [
+      "gold (colour, color)"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adj-no"
+    ],
+    "example": "ドアには大きな金色の星がついていました。",
+    "exampleEn": "There was a big gold star on the door.",
+    "kanji": [
+      "金",
+      "色"
+    ]
+  },
+  {
+    "ja": "長い",
+    "reading": "ながい",
+    "glossEn": [
+      "long (distance, length)"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "これは日本で２番目に長い川だ。",
+    "exampleEn": "This is the second longest river in Japan.",
+    "kanji": [
+      "長"
+    ]
+  },
+  {
+    "ja": "電子",
+    "reading": "でんし",
+    "glossEn": [
+      "electron"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "電子タイプライターはありますか。",
+    "exampleEn": "Do you have an electronic typewriter?",
+    "kanji": [
+      "電",
+      "子"
+    ]
+  },
+  {
+    "ja": "音色",
+    "reading": "ねいろ",
+    "glossEn": [
+      "tone color",
+      "tone colour"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "このギターは音色があっている。",
+    "exampleEn": "The guitar is in tune.",
+    "kanji": [
+      "音",
+      "色"
+    ]
+  },
+  {
+    "ja": "風船",
+    "reading": "ふうせん",
+    "glossEn": [
+      "balloon (toy or decoration)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "風船が空に上がっていった。",
+    "exampleEn": "The balloon went up in the sky.",
+    "kanji": [
+      "風",
+      "船"
+    ]
+  },
+  {
+    "ja": "鳴く",
+    "reading": "なく",
+    "glossEn": [
+      "to make sound (of an animal)",
+      "to call"
+    ],
+    "partOfSpeech": [
+      "v5k",
+      "vi"
+    ],
+    "example": "カエルが鳴いたら帰ろう。",
+    "exampleEn": "Let's return when the frog croaks.",
+    "kanji": [
+      "鳴"
+    ]
+  },
+  {
+    "ja": "黒い",
+    "reading": "くろい",
+    "glossEn": [
+      "black"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "ナンシーはヘレンよりもほんのすこし色が黒い。",
+    "exampleEn": "Nancy is a shade darker than Helen.",
+    "kanji": [
+      "黒"
+    ]
+  },
+  {
+    "ja": "黒字",
+    "reading": "くろじ",
+    "glossEn": [
+      "(being in) the black",
+      "surplus"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "今月は黒字である。",
+    "exampleEn": "We are in the black this month.",
+    "kanji": [
+      "黒",
+      "字"
+    ]
+  },
+  {
+    "ja": "お手数",
+    "reading": "おてすう",
+    "glossEn": [
+      "trouble",
+      "bother"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "お手数かけてどうもすいません。",
+    "exampleEn": "I'm sorry to bother you.",
+    "kanji": [
+      "手",
+      "数"
+    ]
+  },
+  {
+    "ja": "お話中",
+    "reading": "おはなしちゅう",
+    "glossEn": [
+      "busy (phone)"
+    ],
+    "partOfSpeech": [
+      "adj-no"
+    ],
+    "example": "お話し中、ごめんなさい。",
+    "exampleEn": "Excuse me for interrupting you.",
+    "kanji": [
+      "話",
+      "中"
+    ]
+  },
+  {
+    "ja": "一時間",
+    "reading": "いちじかん",
+    "glossEn": [
+      "one hour"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "１時間かそこらで帰ってきます。",
+    "exampleEn": "I'll be back in an hour or so.",
+    "kanji": [
+      "一",
+      "時",
+      "間"
+    ]
+  },
+  {
+    "ja": "中国語",
+    "reading": "ちゅうごくご",
+    "glossEn": [
+      "Chinese (language)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ケイトは中国語をほとんど話せない。",
+    "exampleEn": "Kate can hardly speak Chinese.",
+    "kanji": [
+      "中",
+      "国",
+      "語"
+    ]
+  },
+  {
+    "ja": "交わる",
+    "reading": "まじわる",
+    "glossEn": [
+      "to cross",
+      "to intersect"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "これらの線は直角に交わる。",
+    "exampleEn": "These lines meet at right angles.",
+    "kanji": [
+      "交"
+    ]
+  },
+  {
+    "ja": "今にも",
+    "reading": "いまにも",
+    "glossEn": [
+      "at any moment (now)",
+      "at any minute"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "トムは今にもここに来るはずです。",
+    "exampleEn": "Tom should be here any minute.",
+    "kanji": [
+      "今"
+    ]
+  },
+  {
+    "ja": "何でも",
+    "reading": "なんでも",
+    "glossEn": [
+      "any",
+      "anything"
+    ],
+    "partOfSpeech": [
+      "exp"
+    ],
+    "example": "この犬は何でもほとんど食べます。",
+    "exampleEn": "This dog eats almost anything.",
+    "kanji": [
+      "何"
+    ]
+  },
+  {
+    "ja": "何とも",
+    "reading": "なんとも",
+    "glossEn": [
+      "really",
+      "very"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "何とも言いようがないなあ。",
+    "exampleEn": "I just don't know what to say.",
+    "kanji": [
+      "何"
+    ]
+  },
+  {
+    "ja": "兄さん",
+    "reading": "にいさん",
+    "glossEn": [
+      "older brother",
+      "elder brother"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "兄さんはよくおなりだと思いますが。",
+    "exampleEn": "I hope your brother is better.",
+    "kanji": [
+      "兄"
+    ]
+  },
+  {
+    "ja": "出来る",
+    "reading": "できる",
+    "glossEn": [
+      "to be able to do",
+      "to be possible"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "あの二人はどうもできているらしい。",
+    "exampleEn": "They seem to be in love with each other.",
+    "kanji": [
+      "出",
+      "来"
+    ]
+  },
+  {
+    "ja": "分ける",
+    "reading": "わける",
+    "glossEn": [
+      "to divide (into)",
+      "to split (into)"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "ケーキをあなた方２人で分けなさい。",
+    "exampleEn": "Divide the cake between you two.",
+    "kanji": [
+      "分"
+    ]
+  },
+  {
+    "ja": "切れる",
+    "reading": "きれる",
+    "glossEn": [
+      "to break",
+      "to snap"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "ガソリンが切れかかっている。",
+    "exampleEn": "We're running out of gas.",
+    "kanji": [
+      "切"
+    ]
+  },
+  {
+    "ja": "口答え",
+    "reading": "くちごたえ",
+    "glossEn": [
+      "retort",
+      "back talk"
+    ],
+    "partOfSpeech": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "example": "お母さんに口答えしてはいけませんよ。",
+    "exampleEn": "Don't answer your mother back.",
+    "kanji": [
+      "口",
+      "答"
+    ]
+  },
+  {
+    "ja": "図書室",
+    "reading": "としょしつ",
+    "glossEn": [
+      "library (usu. single-room)",
+      "small library"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "図書室ではしゃべるな。",
+    "exampleEn": "Don't talk in the reading room.",
+    "kanji": [
+      "図",
+      "書",
+      "室"
+    ]
+  },
+  {
+    "ja": "夏休み",
+    "reading": "なつやすみ",
+    "glossEn": [
+      "summer vacation",
+      "summer holiday"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "この夏休みはどこかへ行くのですか。",
+    "exampleEn": "Are you going away this summer?",
+    "kanji": [
+      "夏",
+      "休"
+    ]
+  },
+  {
+    "ja": "外れる",
+    "reading": "はずれる",
+    "glossEn": [
+      "to be disconnected",
+      "to get out of place"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "バックミラーがはずれてしまいました。",
+    "exampleEn": "The rear-view mirror fell off.",
+    "kanji": [
+      "外"
+    ]
+  },
+  {
+    "ja": "少しも",
+    "reading": "すこしも",
+    "glossEn": [
+      "(not) at all",
+      "(not) a bit"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "コックさんは少しもかけていない。",
+    "exampleEn": "The cook hasn't put any on it.",
+    "kanji": [
+      "少"
+    ]
+  },
+  {
+    "ja": "広がる",
+    "reading": "ひろがる",
+    "glossEn": [
+      "to spread (out)",
+      "to extend"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "うわさは四方八方に広がった。",
+    "exampleEn": "The rumor spread far and wide.",
+    "kanji": [
+      "広"
+    ]
+  },
+  {
+    "ja": "広まる",
+    "reading": "ひろまる",
+    "glossEn": [
+      "to spread",
+      "to be propagated"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "そのうわさはすぐ広まった。",
+    "exampleEn": "The rumors spread soon abroad.",
+    "kanji": [
+      "広"
+    ]
+  },
+  {
+    "ja": "弱める",
+    "reading": "よわめる",
+    "glossEn": [
+      "to weaken"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "大きなかしわの木が風の力を弱めている。",
+    "exampleEn": "The big oak tree breaks the force of the wind.",
+    "kanji": [
+      "弱"
+    ]
+  },
+  {
+    "ja": "当てる",
+    "reading": "あてる",
+    "glossEn": [
+      "to hit"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "かろうじて車に当てられずにすんだ。",
+    "exampleEn": "I narrowly escaped being hit by a car.",
+    "kanji": [
+      "当"
+    ]
+  },
+  {
+    "ja": "手引書",
+    "reading": "てびきしょ",
+    "glossEn": [
+      "handbook",
+      "manual"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "こういう手引書はもっと分かりやすく書くべきだ。",
+    "exampleEn": "Such manuals should be written in simpler language.",
+    "kanji": [
+      "手",
+      "引",
+      "書"
+    ]
+  },
+  {
+    "ja": "教科書",
+    "reading": "きょうかしょ",
+    "glossEn": [
+      "textbook",
+      "coursebook"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "教科書はどうしたらいいんでしょうか。",
+    "exampleEn": "Where do we get the textbooks?",
+    "kanji": [
+      "教",
+      "科",
+      "書"
+    ]
+  },
+  {
+    "ja": "数える",
+    "reading": "かぞえる",
+    "glossEn": [
+      "to count",
+      "to enumerate"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "あの子は２０まで数えられる。",
+    "exampleEn": "That child can count to twenty.",
+    "kanji": [
+      "数"
+    ]
+  },
+  {
+    "ja": "数ヶ月",
+    "reading": "すうかげつ",
+    "glossEn": [
+      "several months"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あのフランス人は日本にきてわずか数ヶ月です。",
+    "exampleEn": "It is only a few months since that Frenchman came to Japan.",
+    "kanji": [
+      "数",
+      "月"
+    ]
+  },
+  {
+    "ja": "明かり",
+    "reading": "あかり",
+    "glossEn": [
+      "light",
+      "glow"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "どうか明かりをつけて下さい。",
+    "exampleEn": "Turn on the light, please.",
+    "kanji": [
+      "明"
+    ]
+  },
+  {
+    "ja": "明るい",
+    "reading": "あかるい",
+    "glossEn": [
+      "light",
+      "bright"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "ダイヤは明るく光った。",
+    "exampleEn": "The diamond shone brightly.",
+    "kanji": [
+      "明"
+    ]
+  },
+  {
+    "ja": "晴れる",
+    "reading": "はれる",
+    "glossEn": [
+      "to clear up",
+      "to clear away"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "明日は晴れるだろう。",
+    "exampleEn": "It will be fine tomorrow.",
+    "kanji": [
+      "晴"
+    ]
+  },
+  {
+    "ja": "楽天家",
+    "reading": "らくてんか",
+    "glossEn": [
+      "optimist",
+      "easy-going person"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ヘレンは生来楽天家だ。",
+    "exampleEn": "Helen is by nature an optimist.",
+    "kanji": [
+      "楽",
+      "天",
+      "家"
+    ]
+  },
+  {
+    "ja": "止まる",
+    "reading": "とまる",
+    "glossEn": [
+      "to stop (moving)",
+      "to come to a stop"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "そして、電車はキーッという音を立てて止まった。",
+    "exampleEn": "Then, the train screeched to a halt.",
+    "kanji": [
+      "止"
+    ]
+  },
+  {
+    "ja": "点ける",
+    "reading": "つける",
+    "glossEn": [
+      "to turn on",
+      "to switch on"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "テレビをつけて。",
+    "exampleEn": "Please turn on the television.",
+    "kanji": [
+      "点"
+    ]
+  },
+  {
+    "ja": "用いる",
+    "reading": "もちいる",
+    "glossEn": [
+      "to use",
+      "to make use of"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "この語は今では用いられない。",
+    "exampleEn": "That word has fallen out of use.",
+    "kanji": [
+      "用"
+    ]
+  },
+  {
+    "ja": "知らせ",
+    "reading": "しらせ",
+    "glossEn": [
+      "news",
+      "word"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そのしらせでとてもうれしい。",
+    "exampleEn": "I am very pleased at the news.",
+    "kanji": [
+      "知"
+    ]
+  },
+  {
+    "ja": "空き家",
+    "reading": "あきや",
+    "glossEn": [
+      "vacant house",
+      "unoccupied house"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その家は今空き家だ。",
+    "exampleEn": "The house is not occupied now.",
+    "kanji": [
+      "空",
+      "家"
+    ]
+  },
+  {
+    "ja": "答える",
+    "reading": "こたえる",
+    "glossEn": [
+      "to answer",
+      "to reply"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "「はい、ありません」とジョーダンさんは答えた。",
+    "exampleEn": "\"No, I don't,\" said Mr Jordan.",
+    "kanji": [
+      "答"
+    ]
+  },
+  {
+    "ja": "細かい",
+    "reading": "こまかい",
+    "glossEn": [
+      "small"
+    ],
+    "partOfSpeech": [
+      "adj-i"
+    ],
+    "example": "わたしはこまかい点までしらべました。",
+    "exampleEn": "I went into details.",
+    "kanji": [
+      "細"
+    ]
+  },
+  {
+    "ja": "聞かす",
+    "reading": "きかす",
+    "glossEn": [
+      "to let (someone) hear",
+      "to tell (e.g. a story)"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "そのことについてできるだけ話を聞かしてください。",
+    "exampleEn": "Tell me as much about that as possible.",
+    "kanji": [
+      "聞"
+    ]
+  },
+  {
+    "ja": "見直す",
+    "reading": "みなおす",
+    "glossEn": [
+      "to look at again"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "見直したよ。",
+    "exampleEn": "I'm seeing you in a new light.",
+    "kanji": [
+      "見",
+      "直"
+    ]
+  },
+  {
+    "ja": "親バカ",
+    "reading": "おやばか",
+    "glossEn": [
+      "over-fond parent",
+      "doting parent"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "それが親ばかというものさ。",
+    "exampleEn": "We parents sometimes become blind in loving our children too much.",
+    "kanji": [
+      "親"
+    ]
+  },
+  {
+    "ja": "近づく",
+    "reading": "ちかづく",
+    "glossEn": [
+      "to approach",
+      "to draw near"
+    ],
+    "partOfSpeech": [
+      "v5k",
+      "vi"
+    ],
+    "example": "クリスマスが近づいてきた。",
+    "exampleEn": "Christmas is fast approaching.",
+    "kanji": [
+      "近"
+    ]
+  },
+  {
+    "ja": "通じる",
+    "reading": "つうじる",
+    "glossEn": [
+      "to be open (to traffic)",
+      "to lead (to)"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "電話が通じません。",
+    "exampleEn": "The telephone doesn't work.",
+    "kanji": [
+      "通"
+    ]
+  },
+  {
+    "ja": "道のり",
+    "reading": "みちのり",
+    "glossEn": [
+      "distance",
+      "journey"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そこまでだいぶ道のりがあります。",
+    "exampleEn": "You have to walk a long way to get there.",
+    "kanji": [
+      "道"
+    ]
+  },
+  {
+    "ja": "音楽家",
+    "reading": "おんがくか",
+    "glossEn": [
+      "musician"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "トムはちょっとした音楽家だ。",
+    "exampleEn": "Tom is something of a musician.",
+    "kanji": [
+      "音",
+      "楽",
+      "家"
+    ]
+  },
+  {
+    "ja": "あなた方",
+    "reading": "あなたがた",
+    "glossEn": [
+      "you (plural)"
+    ],
+    "partOfSpeech": [
+      "pn"
+    ],
+    "example": "ケーキをあなた方２人で分けなさい。",
+    "exampleEn": "Divide the cake between you two.",
+    "kanji": [
+      "方"
+    ]
+  },
+  {
+    "ja": "お母さん",
+    "reading": "おかあさん",
+    "glossEn": [
+      "mother",
+      "mom"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "お母さんに口答えしてはいけませんよ。",
+    "exampleEn": "Don't answer your mother back.",
+    "kanji": [
+      "母"
+    ]
+  },
+  {
+    "ja": "そう言う",
+    "reading": "そういう",
+    "glossEn": [
+      "such",
+      "like that"
+    ],
+    "partOfSpeech": [
+      "adj-pn"
+    ],
+    "example": "そういうことは口にするな。",
+    "exampleEn": "Don't talk about such a thing.",
+    "kanji": [
+      "言"
+    ]
+  },
+  {
+    "ja": "やり直す",
+    "reading": "やりなおす",
+    "glossEn": [
+      "to do over again",
+      "to redo"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "なされたことはやり直せない。",
+    "exampleEn": "What is done cannot be undone.",
+    "kanji": [
+      "直"
+    ]
+  },
+  {
+    "ja": "ドイツ語",
+    "reading": "ドイツご",
+    "glossEn": [
+      "German (language)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "ドイツ語はやさしい言語ではありません。",
+    "exampleEn": "German is not an easy language.",
+    "kanji": [
+      "語"
+    ]
+  },
+  {
+    "ja": "何という",
+    "reading": "なんという",
+    "glossEn": [
+      "how (beautiful, tasty, etc.)",
+      "what a ..."
+    ],
+    "partOfSpeech": [
+      "exp"
+    ],
+    "example": "なんというばかげた考えだ。",
+    "exampleEn": "What an absurd idea!",
+    "kanji": [
+      "何"
+    ]
+  },
+  {
+    "ja": "兄ちゃん",
+    "reading": "にいちゃん",
+    "glossEn": [
+      "(one's) older brother"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "兄ちゃん、こっち生中二つー。",
+    "exampleEn": "Kiddo! Two medium-size drafts here.",
+    "kanji": [
+      "兄"
+    ]
+  },
+  {
+    "ja": "売り出し",
+    "reading": "うりだし",
+    "glossEn": [
+      "(bargain) sale"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あのデパートでは今週メンズスーツが売り出し中だ。",
+    "exampleEn": "Men's suits are on sale this week at that department store.",
+    "kanji": [
+      "売",
+      "出"
+    ]
+  },
+  {
+    "ja": "小売り店",
+    "reading": "こうりてん",
+    "glossEn": [
+      "retail store",
+      "retail shop"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あの小売店のバックにはもっと大きな会社がひかえています。",
+    "exampleEn": "The small retail outlet is only a front for a much larger entity.",
+    "kanji": [
+      "小",
+      "売",
+      "店"
+    ]
+  },
+  {
+    "ja": "引きつる",
+    "reading": "ひきつる",
+    "glossEn": [
+      "to have a cramp",
+      "to twitch"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "顔がひきつります。",
+    "exampleEn": "My face twitches.",
+    "kanji": [
+      "引"
+    ]
+  },
+  {
+    "ja": "引き出し",
+    "reading": "ひきだし",
+    "glossEn": [
+      "drawer"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "きれいなタオルは引き出しにありますよ。",
+    "exampleEn": "The clean towels are in the drawer.",
+    "kanji": [
+      "引",
+      "出"
+    ]
+  },
+  {
+    "ja": "思いつき",
+    "reading": "おもいつき",
+    "glossEn": [
+      "idea",
+      "plan"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "それについて一つ思いつきを言ってもいいですか。",
+    "exampleEn": "May I make a suggestion about it?",
+    "kanji": [
+      "思"
+    ]
+  },
+  {
+    "ja": "思い出す",
+    "reading": "おもいだす",
+    "glossEn": [
+      "to recall",
+      "to remember"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "あなたを見るとお兄さんを思い出します。",
+    "exampleEn": "You remind me of your brother.",
+    "kanji": [
+      "思",
+      "出"
+    ]
+  },
+  {
+    "ja": "方がいい",
+    "reading": "ほうがいい",
+    "glossEn": [
+      "had better ..."
+    ],
+    "partOfSpeech": [
+      "exp",
+      "adj-ix"
+    ],
+    "example": "ここにはいない方がよい。",
+    "exampleEn": "We had better not remain here.",
+    "kanji": [
+      "方"
+    ]
+  },
+  {
+    "ja": "時間切れ",
+    "reading": "じかんぎれ",
+    "glossEn": [
+      "being out of time",
+      "passing the deadline"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "「もう少しで時間ぎれだからね」と先生は言った。",
+    "exampleEn": "\"You are almost out of time\", said the teacher.",
+    "kanji": [
+      "時",
+      "間",
+      "切"
+    ]
+  },
+  {
+    "ja": "朝ごはん",
+    "reading": "あさごはん",
+    "glossEn": [
+      "breakfast"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "朝ごはんにはなにがよろしいですか。",
+    "exampleEn": "What would you like for breakfast?",
+    "kanji": [
+      "朝"
+    ]
+  },
+  {
+    "ja": "立ち直る",
+    "reading": "たちなおる",
+    "glossEn": [
+      "to regain one's footing",
+      "to get back on one's feet"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "ショックから立ち直りましたか。",
+    "exampleEn": "Have you recovered from the shock?",
+    "kanji": [
+      "立",
+      "直"
+    ]
+  },
+  {
+    "ja": "考え直す",
+    "reading": "かんがえなおす",
+    "glossEn": [
+      "to reconsider",
+      "to rethink"
+    ],
+    "partOfSpeech": [
+      "v5s",
+      "vt"
+    ],
+    "example": "あなたがそれを考え直して止めてもらえればと思います。",
+    "exampleEn": "I hope you'll think better of it.",
+    "kanji": [
+      "考",
+      "直"
+    ]
+  },
+  {
+    "ja": "見当たる",
+    "reading": "みあたる",
+    "glossEn": [
+      "to be found"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "スーツケースが一つ見あたりません。",
+    "exampleEn": "One of my suitcases is missing.",
+    "kanji": [
+      "見",
+      "当"
+    ]
+  },
+  {
+    "ja": "見晴らし",
+    "reading": "みはらし",
+    "glossEn": [
+      "(scenic) view",
+      "prospect"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "そのホテルは見晴らしがよい。",
+    "exampleEn": "The hotel has a good prospect.",
+    "kanji": [
+      "見",
+      "晴"
+    ]
+  },
+  {
+    "ja": "間に合う",
+    "reading": "まにあう",
+    "glossEn": [
+      "to be in time (for)"
+    ],
+    "partOfSpeech": [
+      "v5u",
+      "vi"
+    ],
+    "example": "これで当分は間に合うでしょう。",
+    "exampleEn": "This will do for the time being.",
+    "kanji": [
+      "間",
+      "合"
+    ]
+  },
+  {
+    "ja": "間もなく",
+    "reading": "まもなく",
+    "glossEn": [
+      "soon",
+      "shortly"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "まもなくお会いできることを楽しみにしています。",
+    "exampleEn": "I am looking forward to seeing you soon.",
+    "kanji": [
+      "間"
+    ]
+  },
+  {
+    "ja": "と言うもの",
+    "reading": "というもの",
+    "glossEn": [
+      "something like ...",
+      "something called ..."
+    ],
+    "partOfSpeech": [
+      "exp"
+    ],
+    "example": "これがいわゆる「天ぷら」というものです。",
+    "exampleEn": "This is what we call \"tempura\".",
+    "kanji": [
+      "言"
+    ]
+  },
+  {
+    "ja": "スペイン語",
+    "reading": "スペインご",
+    "glossEn": [
+      "Spanish (language)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "どうしてスペイン語を学ぶのですか。",
+    "exampleEn": "What do you learn Spanish for?",
+    "kanji": [
+      "語"
+    ]
+  },
+  {
+    "ja": "出来るだけ",
+    "reading": "できるだけ",
+    "glossEn": [
+      "as much as one can",
+      "as much as possible"
+    ],
+    "partOfSpeech": [
+      "exp",
+      "adv",
+      "adj-no"
+    ],
+    "example": "できるだけ多くの本を読みなさい。",
+    "exampleEn": "Read as many books as you can.",
+    "kanji": [
+      "出",
+      "来"
+    ]
+  },
+  {
+    "ja": "売り切れる",
+    "reading": "うりきれる",
+    "glossEn": [
+      "to be sold out"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vi"
+    ],
+    "example": "そのケーキはすぐに売り切れるでしょう。",
+    "exampleEn": "The cakes may be sold out soon.",
+    "kanji": [
+      "売",
+      "切"
+    ]
+  },
+  {
+    "ja": "引き上げる",
+    "reading": "ひきあげる",
+    "glossEn": [
+      "to pull up",
+      "to drag up"
+    ],
+    "partOfSpeech": [
+      "v1",
+      "vt"
+    ],
+    "example": "引き上げてくれ。",
+    "exampleEn": "Give me a hoist.",
+    "kanji": [
+      "引",
+      "上"
+    ]
+  },
+  {
+    "ja": "思い当たる",
+    "reading": "おもいあたる",
+    "glossEn": [
+      "to suddenly understand (esp. on basis of experience or memory)",
+      "to come to mind"
+    ],
+    "partOfSpeech": [
+      "v5r",
+      "vi"
+    ],
+    "example": "夏休みも近いけど、どこかいいところ思い当たりますか。",
+    "exampleEn": "Summer vacation is near. Can you think of a good place for the holidays?",
+    "kanji": [
+      "思",
+      "当"
+    ]
+  },
+  {
+    "ja": "細かいこと",
+    "reading": "こまかいこと",
+    "glossEn": [
+      "trifles",
+      "minor details"
+    ],
+    "partOfSpeech": [
+      "exp"
+    ],
+    "example": "細かいことにこだわるな。",
+    "exampleEn": "Don't split hairs.",
+    "kanji": [
+      "細"
+    ]
+  },
+  {
+    "ja": "行き止まり",
+    "reading": "いきどまり",
+    "glossEn": [
+      "dead end",
+      "blind alley"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "その道は行き止まりだった。",
+    "exampleEn": "The road came to a dead end.",
+    "kanji": [
+      "行",
+      "止"
+    ]
+  },
+  {
+    "ja": "見ず知らず",
+    "reading": "みずしらず",
+    "glossEn": [
+      "strange",
+      "unfamiliar"
+    ],
+    "partOfSpeech": [
+      "adj-no"
+    ],
+    "example": "どうして見ず知らずの男が自分の名前を知っているんだろう？",
+    "exampleEn": "How did a total stranger know his name?",
+    "kanji": [
+      "見",
+      "知"
+    ]
+  },
+  {
+    "ja": "いつの間にか",
+    "reading": "いつのまにか",
+    "glossEn": [
+      "before one knows",
+      "before one becomes aware of"
+    ],
+    "partOfSpeech": [
+      "adv"
+    ],
+    "example": "いつの間にかボブは外へ出ていた。",
+    "exampleEn": "Bob went out before I knew it.",
+    "kanji": [
+      "間"
+    ]
+  },
+  {
+    "ja": "お帰りなさい",
+    "reading": "おかえりなさい",
+    "glossEn": [
+      "welcome home"
+    ],
+    "partOfSpeech": [
+      "int"
+    ],
+    "example": "「ただいまー」「お帰りなさい」",
+    "exampleEn": "\"I'm back.\" \"Welcome home.\"",
+    "kanji": [
+      "帰"
+    ]
+  },
+  {
+    "ja": "かも知れない",
+    "reading": "かもしれない",
+    "glossEn": [
+      "may",
+      "might"
+    ],
+    "partOfSpeech": [
+      "exp"
+    ],
+    "example": "あなたの言うことは正しいかもしれない。",
+    "exampleEn": "You could be right, I suppose.",
+    "kanji": [
+      "知"
+    ]
+  },
+  {
+    "ja": "行ってきます",
+    "reading": "いってきます",
+    "glossEn": [
+      "I'm off (and will be back later)",
+      "see you later"
+    ],
+    "partOfSpeech": [
+      "exp"
+    ],
+    "example": "一時間したら行ってきます。",
+    "exampleEn": "I'm going out in an hour.",
+    "kanji": [
+      "行"
+    ]
+  },
+  {
+    "ja": "クラシック音楽",
+    "reading": "クラシックおんがく",
+    "glossEn": [
+      "classical music"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": "あなたはクラシック音楽がすきですか。",
+    "exampleEn": "Do you care for classical music?",
+    "kanji": [
+      "音",
+      "楽"
+    ]
+  },
+  {
+    "ja": "言いようがない",
+    "reading": "いいようがない",
+    "glossEn": [
+      "indescribable",
+      "having no way to express"
+    ],
+    "partOfSpeech": [
+      "exp",
+      "adj-i"
+    ],
+    "example": "何とも言いようがないなあ。",
+    "exampleEn": "I just don't know what to say.",
+    "kanji": [
+      "言"
+    ]
+  },
+  {
+    "ja": "と言うことはない",
+    "reading": "ということはない",
+    "glossEn": [
+      "it is not possible (to, that)",
+      "there is no such thing as"
+    ],
+    "partOfSpeech": [
+      "exp"
+    ],
+    "example": "アイディアが足りないということはない。",
+    "exampleEn": "There is no shortage of ideas.",
+    "kanji": [
+      "言"
+    ]
+  },
+  {
+    "ja": "万",
+    "reading": "まん",
+    "glossEn": [
+      "10,000",
+      "ten thousand"
+    ],
+    "partOfSpeech": [
+      "num"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "万"
+    ]
+  },
+  {
+    "ja": "丸",
+    "reading": "まる",
+    "glossEn": [
+      "circle"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "丸"
+    ]
+  },
+  {
+    "ja": "京",
+    "reading": "きょう",
+    "glossEn": [
+      "imperial capital (esp. Kyoto)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "京"
+    ]
+  },
+  {
+    "ja": "会",
+    "reading": "かい",
+    "glossEn": [
+      "meeting",
+      "assembly"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "会"
+    ]
+  },
+  {
+    "ja": "体",
+    "reading": "からだ",
+    "glossEn": [
+      "body"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "体"
+    ]
+  },
+  {
+    "ja": "元",
+    "reading": "もと",
+    "glossEn": [
+      "origin",
+      "source"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "元"
+    ]
+  },
+  {
+    "ja": "兄",
+    "reading": "あに",
+    "glossEn": [
+      "older brother",
+      "elder brother"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "兄"
+    ]
+  },
+  {
+    "ja": "光",
+    "reading": "ひかり",
+    "glossEn": [
+      "light"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "光"
+    ]
+  },
+  {
+    "ja": "公",
+    "reading": "おおやけ",
+    "glossEn": [
+      "official",
+      "governmental"
+    ],
+    "partOfSpeech": [
+      "adj-no",
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "公"
+    ]
+  },
+  {
+    "ja": "内",
+    "reading": "うち",
+    "glossEn": [
+      "inside",
+      "within"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "内"
+    ]
+  },
+  {
+    "ja": "刀",
+    "reading": "かたな",
+    "glossEn": [
+      "sword (esp. Japanese single-edged)",
+      "katana"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "刀"
+    ]
+  },
+  {
+    "ja": "北",
+    "reading": "きた",
+    "glossEn": [
+      "north"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "北"
+    ]
+  },
+  {
+    "ja": "午",
+    "reading": "うま",
+    "glossEn": [
+      "the Horse (seventh sign of the Chinese zodiac)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "午"
+    ]
+  },
+  {
+    "ja": "半",
+    "reading": "はん",
+    "glossEn": [
+      "half",
+      "semi-"
+    ],
+    "partOfSpeech": [
+      "n-pref",
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "半"
+    ]
+  },
+  {
+    "ja": "南",
+    "reading": "みなみ",
+    "glossEn": [
+      "south"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "南"
+    ]
+  },
+  {
+    "ja": "原",
+    "reading": "はら",
+    "glossEn": [
+      "field",
+      "plain"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "原"
+    ]
+  },
+  {
+    "ja": "友",
+    "reading": "とも",
+    "glossEn": [
+      "friend",
+      "companion"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "友"
+    ]
+  },
+  {
+    "ja": "古",
+    "reading": "いにしえ",
+    "glossEn": [
+      "antiquity",
+      "ancient times"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "古"
+    ]
+  },
+  {
+    "ja": "台",
+    "reading": "だい",
+    "glossEn": [
+      "stand",
+      "rest"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "台"
+    ]
+  },
+  {
+    "ja": "合",
+    "reading": "ごう",
+    "glossEn": [
+      "gō",
+      "traditional unit of volume, approx. 180 ml"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "合"
+    ]
+  },
+  {
+    "ja": "同",
+    "reading": "どう",
+    "glossEn": [
+      "the same",
+      "the said"
+    ],
+    "partOfSpeech": [
+      "pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "同"
+    ]
+  },
+  {
+    "ja": "回",
+    "reading": "かい",
+    "glossEn": [
+      "counter for occurrences"
+    ],
+    "partOfSpeech": [
+      "ctr"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "回"
+    ]
+  },
+  {
+    "ja": "図",
+    "reading": "ず",
+    "glossEn": [
+      "drawing",
+      "picture"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "図"
+    ]
+  },
+  {
+    "ja": "国",
+    "reading": "くに",
+    "glossEn": [
+      "country",
+      "state"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "国"
+    ]
+  },
+  {
+    "ja": "園",
+    "reading": "その",
+    "glossEn": [
+      "garden",
+      "orchard"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "園"
+    ]
+  },
+  {
+    "ja": "地",
+    "reading": "ち",
+    "glossEn": [
+      "earth",
+      "ground"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "地"
+    ]
+  },
+  {
+    "ja": "夏",
+    "reading": "なつ",
+    "glossEn": [
+      "summer"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "夏"
+    ]
+  },
+  {
+    "ja": "多",
+    "reading": "た",
+    "glossEn": [
+      "multi-"
+    ],
+    "partOfSpeech": [
+      "n",
+      "pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "多"
+    ]
+  },
+  {
+    "ja": "夜",
+    "reading": "よる",
+    "glossEn": [
+      "night",
+      "evening"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "夜"
+    ]
+  },
+  {
+    "ja": "妹",
+    "reading": "いもうと",
+    "glossEn": [
+      "younger sister"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "妹"
+    ]
+  },
+  {
+    "ja": "姉",
+    "reading": "あね",
+    "glossEn": [
+      "older sister",
+      "elder sister"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "姉"
+    ]
+  },
+  {
+    "ja": "室",
+    "reading": "しつ",
+    "glossEn": [
+      "room"
+    ],
+    "partOfSpeech": [
+      "n",
+      "n-suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "室"
+    ]
+  },
+  {
+    "ja": "寺",
+    "reading": "てら",
+    "glossEn": [
+      "temple (Buddhist)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "寺"
+    ]
+  },
+  {
+    "ja": "少",
+    "reading": "しょう",
+    "glossEn": [
+      "small",
+      "little"
+    ],
+    "partOfSpeech": [
+      "pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "少"
+    ]
+  },
+  {
+    "ja": "岩",
+    "reading": "いわ",
+    "glossEn": [
+      "rock",
+      "boulder"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "岩"
+    ]
+  },
+  {
+    "ja": "店",
+    "reading": "みせ",
+    "glossEn": [
+      "store",
+      "shop"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "店"
+    ]
+  },
+  {
+    "ja": "弓",
+    "reading": "ゆみ",
+    "glossEn": [
+      "bow (weapon)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "弓"
+    ]
+  },
+  {
+    "ja": "弟",
+    "reading": "おとうと",
+    "glossEn": [
+      "younger brother",
+      "little brother"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "弟"
+    ]
+  },
+  {
+    "ja": "弱",
+    "reading": "じゃく",
+    "glossEn": [
+      "a little less than",
+      "a little under"
+    ],
+    "partOfSpeech": [
+      "suf"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "弱"
+    ]
+  },
+  {
+    "ja": "形",
+    "reading": "かたち",
+    "glossEn": [
+      "(physical) form",
+      "shape"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "形"
+    ]
+  },
+  {
+    "ja": "心",
+    "reading": "こころ",
+    "glossEn": [
+      "mind",
+      "heart"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "心"
+    ]
+  },
+  {
+    "ja": "戸",
+    "reading": "と",
+    "glossEn": [
+      "door (esp. Japanese-style)"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "戸"
+    ]
+  },
+  {
+    "ja": "数",
+    "reading": "かず",
+    "glossEn": [
+      "number",
+      "amount"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "数"
+    ]
+  },
+  {
+    "ja": "新",
+    "reading": "しん",
+    "glossEn": [
+      "new",
+      "neo-"
+    ],
+    "partOfSpeech": [
+      "pref"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "新"
+    ]
+  },
+  {
+    "ja": "方",
+    "reading": "かた",
+    "glossEn": [
+      "direction",
+      "way"
+    ],
+    "partOfSpeech": [
+      "n"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "方"
+    ]
+  },
+  {
+    "ja": "春",
+    "reading": "はる",
+    "glossEn": [
+      "spring",
+      "springtime"
+    ],
+    "partOfSpeech": [
+      "n",
+      "adv"
+    ],
+    "example": null,
+    "exampleEn": null,
+    "kanji": [
+      "春"
+    ]
+  }
+]
