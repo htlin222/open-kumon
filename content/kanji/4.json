@@ -1,0 +1,2909 @@
+[
+  {
+    "kanji": "不",
+    "grade": 4,
+    "strokes": 4,
+    "on": [
+      "フ",
+      "ブ"
+    ],
+    "kun": [],
+    "meaningZh": "不",
+    "kanjivgId": "04e0d"
+  },
+  {
+    "kanji": "争",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "meaningZh": "爭",
+    "kanjivgId": "04e89"
+  },
+  {
+    "kanji": "付",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
+    ],
+    "meaningZh": "附上；交付",
+    "kanjivgId": "04ed8"
+  },
+  {
+    "kanji": "令",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "レイ"
+    ],
+    "kun": [],
+    "meaningZh": "命令",
+    "kanjivgId": "04ee4"
+  },
+  {
+    "kanji": "以",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "もっ.て"
+    ],
+    "meaningZh": "以",
+    "kanjivgId": "04ee5"
+  },
+  {
+    "kanji": "仲",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "なか"
+    ],
+    "meaningZh": "關係；居中",
+    "kanjivgId": "04ef2"
+  },
+  {
+    "kanji": "伝",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "デン",
+      "テン"
+    ],
+    "kun": [
+      "つた.わる",
+      "つた.える",
+      "つた.う",
+      "つだ.う",
+      "-づた.い",
+      "つて"
+    ],
+    "meaningZh": "傳達",
+    "kanjivgId": "04f1d"
+  },
+  {
+    "kanji": "位",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "くらい",
+      "ぐらい"
+    ],
+    "meaningZh": "位置；名次",
+    "kanjivgId": "04f4d"
+  },
+  {
+    "kanji": "低",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "ひく.い",
+      "ひく.める",
+      "ひく.まる"
+    ],
+    "meaningZh": "低",
+    "kanjivgId": "04f4e"
+  },
+  {
+    "kanji": "例",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "たと.える"
+    ],
+    "meaningZh": "例子",
+    "kanjivgId": "04f8b"
+  },
+  {
+    "kanji": "便",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ベン",
+      "ビン"
+    ],
+    "kun": [
+      "たよ.り"
+    ],
+    "meaningZh": "方便；郵件",
+    "kanjivgId": "04fbf"
+  },
+  {
+    "kanji": "信",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "シン"
+    ],
+    "kun": [],
+    "meaningZh": "相信；信號",
+    "kanjivgId": "04fe1"
+  },
+  {
+    "kanji": "倉",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "くら"
+    ],
+    "meaningZh": "倉庫",
+    "kanjivgId": "05009"
+  },
+  {
+    "kanji": "候",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "そうろう"
+    ],
+    "meaningZh": "時候；氣候",
+    "kanjivgId": "05019"
+  },
+  {
+    "kanji": "借",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "シャク"
+    ],
+    "kun": [
+      "か.りる"
+    ],
+    "meaningZh": "借入",
+    "kanjivgId": "0501f"
+  },
+  {
+    "kanji": "健",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "すこ.やか"
+    ],
+    "meaningZh": "健康",
+    "kanjivgId": "05065"
+  },
+  {
+    "kanji": "側",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "かわ",
+      "がわ",
+      "そば"
+    ],
+    "meaningZh": "側邊",
+    "kanjivgId": "05074"
+  },
+  {
+    "kanji": "働",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "はたら.く"
+    ],
+    "meaningZh": "工作",
+    "kanjivgId": "050cd"
+  },
+  {
+    "kanji": "億",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "オク"
+    ],
+    "kun": [],
+    "meaningZh": "億",
+    "kanjivgId": "05104"
+  },
+  {
+    "kanji": "兆",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "きざ.す",
+      "きざ.し"
+    ],
+    "meaningZh": "兆；徵兆",
+    "kanjivgId": "05146"
+  },
+  {
+    "kanji": "児",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ジ",
+      "ニ",
+      "ゲイ"
+    ],
+    "kun": [
+      "こ",
+      "-こ",
+      "-っこ"
+    ],
+    "meaningZh": "兒童",
+    "kanjivgId": "05150"
+  },
+  {
+    "kanji": "共",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "meaningZh": "共同",
+    "kanjivgId": "05171"
+  },
+  {
+    "kanji": "兵",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ヘイ",
+      "ヒョウ"
+    ],
+    "kun": [
+      "つわもの"
+    ],
+    "meaningZh": "士兵",
+    "kanjivgId": "05175",
+    "openmoji": "1F396"
+  },
+  {
+    "kanji": "典",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "テン",
+      "デン"
+    ],
+    "kun": [
+      "ふみ",
+      "のり"
+    ],
+    "meaningZh": "典",
+    "kanjivgId": "05178"
+  },
+  {
+    "kanji": "冷",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "meaningZh": "冷",
+    "kanjivgId": "051b7"
+  },
+  {
+    "kanji": "初",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "meaningZh": "最初",
+    "kanjivgId": "0521d"
+  },
+  {
+    "kanji": "別",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ベツ"
+    ],
+    "kun": [
+      "わか.れる",
+      "わ.ける"
+    ],
+    "meaningZh": "分別；不同",
+    "kanjivgId": "05225"
+  },
+  {
+    "kanji": "利",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "き.く"
+    ],
+    "meaningZh": "便利；利益",
+    "kanjivgId": "05229"
+  },
+  {
+    "kanji": "刷",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "サツ"
+    ],
+    "kun": [
+      "す.る",
+      "-ず.り",
+      "-ずり",
+      "は.く"
+    ],
+    "meaningZh": "印刷",
+    "kanjivgId": "05237"
+  },
+  {
+    "kanji": "副",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "フク"
+    ],
+    "kun": [],
+    "meaningZh": "副",
+    "kanjivgId": "0526f"
+  },
+  {
+    "kanji": "功",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "いさお"
+    ],
+    "meaningZh": "功勞",
+    "kanjivgId": "0529f"
+  },
+  {
+    "kanji": "加",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "meaningZh": "加",
+    "kanjivgId": "052a0"
+  },
+  {
+    "kanji": "努",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ド"
+    ],
+    "kun": [
+      "つと.める"
+    ],
+    "meaningZh": "努力",
+    "kanjivgId": "052aa"
+  },
+  {
+    "kanji": "労",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "ろう.する",
+      "いたわ.る",
+      "いた.ずき",
+      "ねぎら",
+      "つか.れる",
+      "ねぎら.う"
+    ],
+    "meaningZh": "辛勞",
+    "kanjivgId": "052b4"
+  },
+  {
+    "kanji": "勇",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "いさ.む"
+    ],
+    "meaningZh": "勇敢",
+    "kanjivgId": "052c7"
+  },
+  {
+    "kanji": "包",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "つつ.む",
+      "くる.む"
+    ],
+    "meaningZh": "包",
+    "kanjivgId": "05305"
+  },
+  {
+    "kanji": "卒",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ソツ",
+      "シュツ"
+    ],
+    "kun": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "meaningZh": "畢業",
+    "kanjivgId": "05352"
+  },
+  {
+    "kanji": "協",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "キョウ"
+    ],
+    "kun": [],
+    "meaningZh": "協力",
+    "kanjivgId": "05354"
+  },
+  {
+    "kanji": "単",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "ひとえ"
+    ],
+    "meaningZh": "單一",
+    "kanjivgId": "05358"
+  },
+  {
+    "kanji": "博",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ハク",
+      "バク"
+    ],
+    "kun": [],
+    "meaningZh": "博",
+    "kanjivgId": "0535a"
+  },
+  {
+    "kanji": "印",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "しるし",
+      "-じるし",
+      "しる.す"
+    ],
+    "meaningZh": "印記",
+    "kanjivgId": "05370"
+  },
+  {
+    "kanji": "参",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "サン",
+      "シン"
+    ],
+    "kun": [
+      "まい.る",
+      "まい-",
+      "まじわる",
+      "みつ"
+    ],
+    "meaningZh": "參加",
+    "kanjivgId": "053c2"
+  },
+  {
+    "kanji": "司",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "つかさど.る"
+    ],
+    "meaningZh": "掌管",
+    "kanjivgId": "053f8"
+  },
+  {
+    "kanji": "各",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "おのおの"
+    ],
+    "meaningZh": "各",
+    "kanjivgId": "05404"
+  },
+  {
+    "kanji": "周",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "まわ.り"
+    ],
+    "meaningZh": "周圍",
+    "kanjivgId": "05468"
+  },
+  {
+    "kanji": "唱",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "とな.える"
+    ],
+    "meaningZh": "唱；提倡",
+    "kanjivgId": "05531"
+  },
+  {
+    "kanji": "器",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "うつわ"
+    ],
+    "meaningZh": "器具",
+    "kanjivgId": "05668"
+  },
+  {
+    "kanji": "固",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "かた.める",
+      "かた.まる",
+      "かた.まり",
+      "かた.い"
+    ],
+    "meaningZh": "堅固",
+    "kanjivgId": "056fa"
+  },
+  {
+    "kanji": "塩",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "しお"
+    ],
+    "meaningZh": "鹽",
+    "kanjivgId": "05869",
+    "openmoji": "1F9C2"
+  },
+  {
+    "kanji": "変",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "か.わる",
+      "か.わり",
+      "か.える"
+    ],
+    "meaningZh": "改變；奇怪",
+    "kanjivgId": "05909"
+  },
+  {
+    "kanji": "夫",
+    "grade": 4,
+    "strokes": 4,
+    "on": [
+      "フ",
+      "フウ",
+      "ブ"
+    ],
+    "kun": [
+      "おっと",
+      "それ"
+    ],
+    "meaningZh": "丈夫",
+    "kanjivgId": "0592b",
+    "openmoji": "1F935"
+  },
+  {
+    "kanji": "失",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "うしな.う",
+      "う.せる"
+    ],
+    "meaningZh": "失去",
+    "kanjivgId": "05931"
+  },
+  {
+    "kanji": "好",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "meaningZh": "喜歡",
+    "kanjivgId": "0597d"
+  },
+  {
+    "kanji": "季",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "meaningZh": "季節",
+    "kanjivgId": "05b63"
+  },
+  {
+    "kanji": "孫",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "まご"
+    ],
+    "meaningZh": "孫子",
+    "kanjivgId": "05b6b",
+    "openmoji": "1F476"
+  },
+  {
+    "kanji": "完",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "meaningZh": "完成",
+    "kanjivgId": "05b8c"
+  },
+  {
+    "kanji": "官",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "meaningZh": "官",
+    "kanjivgId": "05b98"
+  },
+  {
+    "kanji": "害",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "ガイ"
+    ],
+    "kun": [],
+    "meaningZh": "傷害",
+    "kanjivgId": "05bb3"
+  },
+  {
+    "kanji": "察",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "サツ"
+    ],
+    "kun": [],
+    "meaningZh": "觀察；推測",
+    "kanjivgId": "05bdf"
+  },
+  {
+    "kanji": "巣",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "す",
+      "す.くう"
+    ],
+    "meaningZh": "巢",
+    "kanjivgId": "05de3",
+    "openmoji": "1FAB9"
+  },
+  {
+    "kanji": "差",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "サ"
+    ],
+    "kun": [
+      "さ.す",
+      "さ.し"
+    ],
+    "meaningZh": "差別；伸出",
+    "kanjivgId": "05dee"
+  },
+  {
+    "kanji": "希",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "キ",
+      "ケ"
+    ],
+    "kun": [
+      "まれ",
+      "こいねが.う"
+    ],
+    "meaningZh": "希望",
+    "kanjivgId": "05e0c"
+  },
+  {
+    "kanji": "席",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "むしろ"
+    ],
+    "meaningZh": "座位",
+    "kanjivgId": "05e2d",
+    "openmoji": "1FA91"
+  },
+  {
+    "kanji": "帯",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "お.びる",
+      "おび"
+    ],
+    "meaningZh": "腰帶；攜帶",
+    "kanjivgId": "05e2f",
+    "openmoji": "1F9E3"
+  },
+  {
+    "kanji": "底",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "そこ"
+    ],
+    "meaningZh": "底",
+    "kanjivgId": "05e95"
+  },
+  {
+    "kanji": "府",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "フ"
+    ],
+    "kun": [],
+    "meaningZh": "府",
+    "kanjivgId": "05e9c"
+  },
+  {
+    "kanji": "康",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "meaningZh": "健康",
+    "kanjivgId": "05eb7"
+  },
+  {
+    "kanji": "建",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ケン",
+      "コン"
+    ],
+    "kun": [
+      "た.てる",
+      "た.て",
+      "-だ.て",
+      "た.つ"
+    ],
+    "meaningZh": "建造",
+    "kanjivgId": "05efa",
+    "openmoji": "1F3D7"
+  },
+  {
+    "kanji": "径",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "みち",
+      "こみち",
+      "さしわたし",
+      "ただちに"
+    ],
+    "meaningZh": "直徑；小路",
+    "kanjivgId": "05f84"
+  },
+  {
+    "kanji": "徒",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "いたずら",
+      "あだ"
+    ],
+    "meaningZh": "徒；學生",
+    "kanjivgId": "05f92"
+  },
+  {
+    "kanji": "必",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "ヒツ"
+    ],
+    "kun": [
+      "かなら.ず"
+    ],
+    "meaningZh": "一定",
+    "kanjivgId": "05fc5"
+  },
+  {
+    "kanji": "念",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ネン"
+    ],
+    "kun": [],
+    "meaningZh": "念頭",
+    "kanjivgId": "05ff5"
+  },
+  {
+    "kanji": "愛",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "アイ"
+    ],
+    "kun": [
+      "いと.しい",
+      "かな.しい",
+      "め.でる",
+      "お.しむ",
+      "まな"
+    ],
+    "meaningZh": "愛",
+    "kanjivgId": "0611b",
+    "openmoji": "1F495"
+  },
+  {
+    "kanji": "成",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "meaningZh": "成為",
+    "kanjivgId": "06210"
+  },
+  {
+    "kanji": "戦",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "いくさ",
+      "たたか.う",
+      "おのの.く",
+      "そよ.ぐ",
+      "わなな.く"
+    ],
+    "meaningZh": "戰鬥",
+    "kanjivgId": "06226",
+    "openmoji": "2694"
+  },
+  {
+    "kanji": "折",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "セツ",
+      "シャク"
+    ],
+    "kun": [
+      "お.る",
+      "おり",
+      "お.り",
+      "-お.り",
+      "お.れる"
+    ],
+    "meaningZh": "折；轉彎",
+    "kanjivgId": "06298"
+  },
+  {
+    "kanji": "挙",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "キョ"
+    ],
+    "kun": [
+      "あ.げる",
+      "あ.がる",
+      "こぞ.る"
+    ],
+    "meaningZh": "舉起",
+    "kanjivgId": "06319"
+  },
+  {
+    "kanji": "改",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "あらた.める",
+      "あらた.まる"
+    ],
+    "meaningZh": "改",
+    "kanjivgId": "06539"
+  },
+  {
+    "kanji": "敗",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "やぶ.れる"
+    ],
+    "meaningZh": "失敗",
+    "kanjivgId": "06557"
+  },
+  {
+    "kanji": "散",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "meaningZh": "散開",
+    "kanjivgId": "06563"
+  },
+  {
+    "kanji": "料",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "meaningZh": "費用；材料",
+    "kanjivgId": "06599"
+  },
+  {
+    "kanji": "旗",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "はた"
+    ],
+    "meaningZh": "旗",
+    "kanjivgId": "065d7",
+    "openmoji": "1F3F3"
+  },
+  {
+    "kanji": "昨",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "サク"
+    ],
+    "kun": [],
+    "meaningZh": "昨",
+    "kanjivgId": "06628"
+  },
+  {
+    "kanji": "景",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ケイ"
+    ],
+    "kun": [],
+    "meaningZh": "景色",
+    "kanjivgId": "0666f",
+    "openmoji": "1F304"
+  },
+  {
+    "kanji": "最",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "サイ",
+      "シュ"
+    ],
+    "kun": [
+      "もっと.も",
+      "つま"
+    ],
+    "meaningZh": "最",
+    "kanjivgId": "06700"
+  },
+  {
+    "kanji": "望",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ボウ",
+      "モウ"
+    ],
+    "kun": [
+      "のぞ.む",
+      "もち"
+    ],
+    "meaningZh": "盼望",
+    "kanjivgId": "0671b"
+  },
+  {
+    "kanji": "未",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "ミ",
+      "ビ"
+    ],
+    "kun": [
+      "いま.だ",
+      "ま.だ",
+      "ひつじ"
+    ],
+    "meaningZh": "尚未",
+    "kanjivgId": "0672a"
+  },
+  {
+    "kanji": "末",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "マツ",
+      "バツ"
+    ],
+    "kun": [
+      "すえ",
+      "うら",
+      "うれ"
+    ],
+    "meaningZh": "末",
+    "kanjivgId": "0672b"
+  },
+  {
+    "kanji": "札",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "サツ"
+    ],
+    "kun": [
+      "ふだ"
+    ],
+    "meaningZh": "紙鈔；牌子",
+    "kanjivgId": "0672d"
+  },
+  {
+    "kanji": "材",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ザイ"
+    ],
+    "kun": [],
+    "meaningZh": "材料",
+    "kanjivgId": "06750"
+  },
+  {
+    "kanji": "束",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "たば",
+      "たば.ねる",
+      "つか",
+      "つか.ねる"
+    ],
+    "meaningZh": "束；約定",
+    "kanjivgId": "0675f"
+  },
+  {
+    "kanji": "松",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "まつ"
+    ],
+    "meaningZh": "松樹",
+    "kanjivgId": "0677e",
+    "openmoji": "1F38D"
+  },
+  {
+    "kanji": "果",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "は.たす",
+      "はた.す",
+      "-は.たす",
+      "は.てる",
+      "-は.てる",
+      "は.て"
+    ],
+    "meaningZh": "果實；結果",
+    "kanjivgId": "0679c",
+    "openmoji": "1F34E"
+  },
+  {
+    "kanji": "栄",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "エイ",
+      "ヨウ"
+    ],
+    "kun": [
+      "さか.える",
+      "は.え",
+      "-ば.え",
+      "は.える",
+      "え"
+    ],
+    "meaningZh": "繁榮",
+    "kanjivgId": "06804"
+  },
+  {
+    "kanji": "案",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "つくえ"
+    ],
+    "meaningZh": "提案；擔心",
+    "kanjivgId": "06848"
+  },
+  {
+    "kanji": "梅",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "うめ"
+    ],
+    "meaningZh": "梅",
+    "kanjivgId": "06885"
+  },
+  {
+    "kanji": "械",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "かせ"
+    ],
+    "meaningZh": "機械",
+    "kanjivgId": "068b0",
+    "openmoji": "2699"
+  },
+  {
+    "kanji": "極",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "キョク",
+      "ゴク"
+    ],
+    "kun": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み",
+      "き.める",
+      "-ぎ.め",
+      "き.まる"
+    ],
+    "meaningZh": "極",
+    "kanjivgId": "06975"
+  },
+  {
+    "kanji": "標",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "しるべ",
+      "しるし"
+    ],
+    "meaningZh": "標記",
+    "kanjivgId": "06a19"
+  },
+  {
+    "kanji": "機",
+    "grade": 4,
+    "strokes": 16,
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "はた"
+    ],
+    "meaningZh": "機器；時機",
+    "kanjivgId": "06a5f",
+    "openmoji": "2708"
+  },
+  {
+    "kanji": "欠",
+    "grade": 4,
+    "strokes": 4,
+    "on": [
+      "ケツ",
+      "ケン"
+    ],
+    "kun": [
+      "か.ける",
+      "か.く"
+    ],
+    "meaningZh": "缺少",
+    "kanjivgId": "06b20"
+  },
+  {
+    "kanji": "残",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "ザン",
+      "サン"
+    ],
+    "kun": [
+      "のこ.る",
+      "のこ.す",
+      "そこな.う",
+      "のこ.り"
+    ],
+    "meaningZh": "剩下",
+    "kanjivgId": "06b8b"
+  },
+  {
+    "kanji": "氏",
+    "grade": 4,
+    "strokes": 4,
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "うじ",
+      "-うじ"
+    ],
+    "meaningZh": "氏；先生",
+    "kanjivgId": "06c0f"
+  },
+  {
+    "kanji": "民",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "ミン"
+    ],
+    "kun": [
+      "たみ"
+    ],
+    "meaningZh": "人民",
+    "kanjivgId": "06c11"
+  },
+  {
+    "kanji": "求",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "キュウ",
+      "グ"
+    ],
+    "kun": [
+      "もと.める"
+    ],
+    "meaningZh": "尋求",
+    "kanjivgId": "06c42"
+  },
+  {
+    "kanji": "治",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ジ",
+      "チ"
+    ],
+    "kun": [
+      "おさ.める",
+      "おさ.まる",
+      "なお.る",
+      "なお.す"
+    ],
+    "meaningZh": "治理；醫好",
+    "kanjivgId": "06cbb"
+  },
+  {
+    "kanji": "法",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ホウ",
+      "ハッ",
+      "ホッ",
+      "フラン"
+    ],
+    "kun": [
+      "のり"
+    ],
+    "meaningZh": "法",
+    "kanjivgId": "06cd5"
+  },
+  {
+    "kanji": "泣",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "な.く"
+    ],
+    "meaningZh": "哭",
+    "kanjivgId": "06ce3"
+  },
+  {
+    "kanji": "浅",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "あさ.い"
+    ],
+    "meaningZh": "淺",
+    "kanjivgId": "06d45"
+  },
+  {
+    "kanji": "浴",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "ヨク"
+    ],
+    "kun": [
+      "あ.びる",
+      "あ.びせる"
+    ],
+    "meaningZh": "沐浴",
+    "kanjivgId": "06d74"
+  },
+  {
+    "kanji": "清",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "セイ",
+      "ショウ",
+      "シン"
+    ],
+    "kun": [
+      "きよ.い",
+      "きよ.まる",
+      "きよ.める"
+    ],
+    "meaningZh": "清",
+    "kanjivgId": "06e05"
+  },
+  {
+    "kanji": "満",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "マン",
+      "バン"
+    ],
+    "kun": [
+      "み.ちる",
+      "み.つ",
+      "み.たす"
+    ],
+    "meaningZh": "滿",
+    "kanjivgId": "06e80"
+  },
+  {
+    "kanji": "漁",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "ギョ",
+      "リョウ"
+    ],
+    "kun": [
+      "あさ.る"
+    ],
+    "meaningZh": "捕魚",
+    "kanjivgId": "06f01",
+    "openmoji": "1F3A3"
+  },
+  {
+    "kanji": "灯",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひ",
+      "ほ-",
+      "ともしび",
+      "とも.す",
+      "あかり"
+    ],
+    "meaningZh": "燈",
+    "kanjivgId": "0706f",
+    "openmoji": "1F3EE"
+  },
+  {
+    "kanji": "無",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ム",
+      "ブ"
+    ],
+    "kun": [
+      "な.い"
+    ],
+    "meaningZh": "沒有",
+    "kanjivgId": "07121"
+  },
+  {
+    "kanji": "然",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ゼン",
+      "ネン"
+    ],
+    "kun": [
+      "しか",
+      "しか.り",
+      "しか.し",
+      "さ"
+    ],
+    "meaningZh": "然",
+    "kanjivgId": "07136"
+  },
+  {
+    "kanji": "焼",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "や.く",
+      "や.き",
+      "や.き-",
+      "-や.き",
+      "や.ける"
+    ],
+    "meaningZh": "燒；烤",
+    "kanjivgId": "0713c"
+  },
+  {
+    "kanji": "照",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "て.る",
+      "て.らす",
+      "て.れる"
+    ],
+    "meaningZh": "照",
+    "kanjivgId": "07167"
+  },
+  {
+    "kanji": "熱",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "ネツ"
+    ],
+    "kun": [
+      "あつ.い"
+    ],
+    "meaningZh": "熱",
+    "kanjivgId": "071b1",
+    "openmoji": "1F321"
+  },
+  {
+    "kanji": "牧",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ボク"
+    ],
+    "kun": [
+      "まき"
+    ],
+    "meaningZh": "牧",
+    "kanjivgId": "07267"
+  },
+  {
+    "kanji": "特",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "トク"
+    ],
+    "kun": [],
+    "meaningZh": "特別",
+    "kanjivgId": "07279"
+  },
+  {
+    "kanji": "産",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "う.む",
+      "う.まれる",
+      "うぶ-",
+      "む.す"
+    ],
+    "meaningZh": "生產",
+    "kanjivgId": "07523"
+  },
+  {
+    "kanji": "的",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "まと"
+    ],
+    "meaningZh": "的；標的",
+    "kanjivgId": "07684"
+  },
+  {
+    "kanji": "省",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "かえり.みる",
+      "はぶ.く"
+    ],
+    "meaningZh": "省；反省",
+    "kanjivgId": "07701"
+  },
+  {
+    "kanji": "祝",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "シュク",
+      "シュウ"
+    ],
+    "kun": [
+      "いわ.う"
+    ],
+    "meaningZh": "祝賀",
+    "kanjivgId": "0795d"
+  },
+  {
+    "kanji": "票",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [],
+    "meaningZh": "票",
+    "kanjivgId": "07968",
+    "openmoji": "1F5F3"
+  },
+  {
+    "kanji": "種",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "たね",
+      "-ぐさ"
+    ],
+    "meaningZh": "種類；種子",
+    "kanjivgId": "07a2e"
+  },
+  {
+    "kanji": "積",
+    "grade": 4,
+    "strokes": 16,
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "つ.む",
+      "-づ.み",
+      "つ.もる",
+      "つ.もり"
+    ],
+    "meaningZh": "堆積；面積",
+    "kanjivgId": "07a4d"
+  },
+  {
+    "kanji": "競",
+    "grade": 4,
+    "strokes": 20,
+    "on": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kun": [
+      "きそ.う",
+      "せ.る",
+      "くら.べる"
+    ],
+    "meaningZh": "競爭",
+    "kanjivgId": "07af6"
+  },
+  {
+    "kanji": "笑",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "わら.う",
+      "え.む"
+    ],
+    "meaningZh": "笑",
+    "kanjivgId": "07b11",
+    "openmoji": "1F604"
+  },
+  {
+    "kanji": "管",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "くだ"
+    ],
+    "meaningZh": "管子；管理",
+    "kanjivgId": "07ba1",
+    "openmoji": "1F6BF"
+  },
+  {
+    "kanji": "節",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "セツ",
+      "セチ"
+    ],
+    "kun": [
+      "ふし",
+      "-ぶし",
+      "のっと"
+    ],
+    "meaningZh": "節；季節",
+    "kanjivgId": "07bc0"
+  },
+  {
+    "kanji": "約",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ヤク"
+    ],
+    "kun": [
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "meaningZh": "約定；大約",
+    "kanjivgId": "07d04"
+  },
+  {
+    "kanji": "結",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ケツ",
+      "ケチ"
+    ],
+    "kun": [
+      "むす.ぶ",
+      "ゆ.う",
+      "ゆ.わえる"
+    ],
+    "meaningZh": "結；結束",
+    "kanjivgId": "07d50"
+  },
+  {
+    "kanji": "給",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "たま.う",
+      "たも.う",
+      "-たま.え"
+    ],
+    "meaningZh": "給",
+    "kanjivgId": "07d66",
+    "openmoji": "1F4B5"
+  },
+  {
+    "kanji": "続",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "ゾク",
+      "ショク",
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [
+      "つづ.く",
+      "つづ.ける",
+      "つぐ.ない"
+    ],
+    "meaningZh": "繼續",
+    "kanjivgId": "07d9a"
+  },
+  {
+    "kanji": "置",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "お.く",
+      "-お.き"
+    ],
+    "meaningZh": "放置",
+    "kanjivgId": "07f6e"
+  },
+  {
+    "kanji": "老",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "お.いる",
+      "ふ.ける"
+    ],
+    "meaningZh": "老",
+    "kanjivgId": "08001",
+    "openmoji": "1F9D3"
+  },
+  {
+    "kanji": "臣",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "シン",
+      "ジン"
+    ],
+    "kun": [],
+    "meaningZh": "臣",
+    "kanjivgId": "081e3"
+  },
+  {
+    "kanji": "良",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "よ.い",
+      "-よ.い",
+      "い.い",
+      "-い.い"
+    ],
+    "meaningZh": "好",
+    "kanjivgId": "0826f"
+  },
+  {
+    "kanji": "芸",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ゲイ",
+      "ウン"
+    ],
+    "kun": [
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "meaningZh": "技藝",
+    "kanjivgId": "082b8"
+  },
+  {
+    "kanji": "芽",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "め"
+    ],
+    "meaningZh": "芽",
+    "kanjivgId": "082bd"
+  },
+  {
+    "kanji": "英",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "はなぶさ"
+    ],
+    "meaningZh": "英",
+    "kanjivgId": "082f1"
+  },
+  {
+    "kanji": "菜",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "な"
+    ],
+    "meaningZh": "蔬菜",
+    "kanjivgId": "083dc",
+    "openmoji": "1F966"
+  },
+  {
+    "kanji": "街",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ガイ",
+      "カイ"
+    ],
+    "kun": [
+      "まち"
+    ],
+    "meaningZh": "街",
+    "kanjivgId": "08857"
+  },
+  {
+    "kanji": "衣",
+    "grade": 4,
+    "strokes": 6,
+    "on": [
+      "イ",
+      "エ"
+    ],
+    "kun": [
+      "ころも",
+      "きぬ",
+      "-ぎ"
+    ],
+    "meaningZh": "衣服",
+    "kanjivgId": "08863",
+    "openmoji": "1F457"
+  },
+  {
+    "kanji": "要",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "い.る",
+      "かなめ"
+    ],
+    "meaningZh": "需要；重要",
+    "kanjivgId": "08981"
+  },
+  {
+    "kanji": "覚",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "meaningZh": "記住；醒",
+    "kanjivgId": "0899a"
+  },
+  {
+    "kanji": "観",
+    "grade": 4,
+    "strokes": 18,
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "み.る",
+      "しめ.す"
+    ],
+    "meaningZh": "觀看",
+    "kanjivgId": "089b3",
+    "openmoji": "1F52D"
+  },
+  {
+    "kanji": "訓",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "クン",
+      "キン"
+    ],
+    "kun": [
+      "おし.える",
+      "よ.む",
+      "くん.ずる"
+    ],
+    "meaningZh": "訓；訓讀",
+    "kanjivgId": "08a13"
+  },
+  {
+    "kanji": "試",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "こころ.みる",
+      "ため.す"
+    ],
+    "meaningZh": "嘗試",
+    "kanjivgId": "08a66"
+  },
+  {
+    "kanji": "説",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "セツ",
+      "ゼイ"
+    ],
+    "kun": [
+      "と.く"
+    ],
+    "meaningZh": "說明",
+    "kanjivgId": "08aac"
+  },
+  {
+    "kanji": "課",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "カ"
+    ],
+    "kun": [],
+    "meaningZh": "課；科室",
+    "kanjivgId": "08ab2"
+  },
+  {
+    "kanji": "議",
+    "grade": 4,
+    "strokes": 20,
+    "on": [
+      "ギ"
+    ],
+    "kun": [],
+    "meaningZh": "議",
+    "kanjivgId": "08b70"
+  },
+  {
+    "kanji": "貨",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "たから"
+    ],
+    "meaningZh": "貨",
+    "kanjivgId": "08ca8"
+  },
+  {
+    "kanji": "軍",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "いくさ"
+    ],
+    "meaningZh": "軍",
+    "kanjivgId": "08ecd"
+  },
+  {
+    "kanji": "輪",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "わ"
+    ],
+    "meaningZh": "輪；圈",
+    "kanjivgId": "08f2a",
+    "openmoji": "2B55"
+  },
+  {
+    "kanji": "辞",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "や.める",
+      "いな.む"
+    ],
+    "meaningZh": "辭；辭典",
+    "kanjivgId": "08f9e",
+    "openmoji": "1F4D5"
+  },
+  {
+    "kanji": "辺",
+    "grade": 4,
+    "strokes": 5,
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "あた.り",
+      "ほと.り",
+      "-べ"
+    ],
+    "meaningZh": "附近；邊",
+    "kanjivgId": "08fba"
+  },
+  {
+    "kanji": "連",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "つら.なる",
+      "つら.ねる",
+      "つ.れる",
+      "-づ.れ"
+    ],
+    "meaningZh": "連；帶著",
+    "kanjivgId": "09023"
+  },
+  {
+    "kanji": "達",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "タツ",
+      "ダ"
+    ],
+    "kun": [
+      "-たち"
+    ],
+    "meaningZh": "到達；們",
+    "kanjivgId": "09054"
+  },
+  {
+    "kanji": "選",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "えら.ぶ",
+      "え.る",
+      "よ.る"
+    ],
+    "meaningZh": "選",
+    "kanjivgId": "09078",
+    "openmoji": "2611"
+  },
+  {
+    "kanji": "郡",
+    "grade": 4,
+    "strokes": 10,
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "こおり"
+    ],
+    "meaningZh": "郡",
+    "kanjivgId": "090e1"
+  },
+  {
+    "kanji": "量",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "はか.る"
+    ],
+    "meaningZh": "量",
+    "kanjivgId": "091cf"
+  },
+  {
+    "kanji": "録",
+    "grade": 4,
+    "strokes": 16,
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "しる.す",
+      "と.る"
+    ],
+    "meaningZh": "記錄",
+    "kanjivgId": "09332"
+  },
+  {
+    "kanji": "鏡",
+    "grade": 4,
+    "strokes": 19,
+    "on": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kun": [
+      "かがみ"
+    ],
+    "meaningZh": "鏡子",
+    "kanjivgId": "093e1",
+    "openmoji": "1FA9E"
+  },
+  {
+    "kanji": "関",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "せき",
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "meaningZh": "關；關口",
+    "kanjivgId": "095a2"
+  },
+  {
+    "kanji": "陸",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "リク",
+      "ロク"
+    ],
+    "kun": [
+      "おか"
+    ],
+    "meaningZh": "陸地",
+    "kanjivgId": "09678"
+  },
+  {
+    "kanji": "隊",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "タイ"
+    ],
+    "kun": [],
+    "meaningZh": "隊",
+    "kanjivgId": "0968a",
+    "openmoji": "1F46B"
+  },
+  {
+    "kanji": "静",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "meaningZh": "安靜",
+    "kanjivgId": "09759",
+    "openmoji": "1F92B"
+  },
+  {
+    "kanji": "順",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "meaningZh": "順序",
+    "kanjivgId": "09806"
+  },
+  {
+    "kanji": "願",
+    "grade": 4,
+    "strokes": 19,
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "ねが.う",
+      "-ねがい"
+    ],
+    "meaningZh": "祈願；拜託",
+    "kanjivgId": "09858",
+    "openmoji": "1F64F"
+  },
+  {
+    "kanji": "類",
+    "grade": 4,
+    "strokes": 18,
+    "on": [
+      "ルイ"
+    ],
+    "kun": [
+      "たぐ.い"
+    ],
+    "meaningZh": "種類",
+    "kanjivgId": "0985e"
+  },
+  {
+    "kanji": "飛",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "meaningZh": "飛",
+    "kanjivgId": "098db"
+  },
+  {
+    "kanji": "飯",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "めし"
+    ],
+    "meaningZh": "飯",
+    "kanjivgId": "098ef"
+  },
+  {
+    "kanji": "養",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "ヨウ",
+      "リョウ"
+    ],
+    "kun": [
+      "やしな.う"
+    ],
+    "meaningZh": "養",
+    "kanjivgId": "0990a",
+    "openmoji": "1F37C"
+  },
+  {
+    "kanji": "験",
+    "grade": 4,
+    "strokes": 18,
+    "on": [
+      "ケン",
+      "ゲン"
+    ],
+    "kun": [
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "meaningZh": "考驗",
+    "kanjivgId": "09a13"
+  },
+  {
+    "kanji": "賀",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ガ"
+    ],
+    "kun": [],
+    "meaningZh": "賀",
+    "kanjivgId": "08cc0",
+    "openmoji": "1F389"
+  },
+  {
+    "kanji": "群",
+    "grade": 4,
+    "strokes": 13,
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "む.れる",
+      "む.れ",
+      "むら",
+      "むら.がる"
+    ],
+    "meaningZh": "群",
+    "kanjivgId": "07fa4"
+  },
+  {
+    "kanji": "徳",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "トク"
+    ],
+    "kun": [],
+    "meaningZh": "品德",
+    "kanjivgId": "05fb3"
+  },
+  {
+    "kanji": "富",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "フ",
+      "フウ"
+    ],
+    "kun": [
+      "と.む",
+      "とみ"
+    ],
+    "meaningZh": "富有",
+    "kanjivgId": "05bcc"
+  },
+  {
+    "kanji": "城",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kun": [
+      "しろ"
+    ],
+    "meaningZh": "城堡",
+    "kanjivgId": "057ce",
+    "openmoji": "1F3EF"
+  },
+  {
+    "kanji": "茨",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "シ",
+      "ジ"
+    ],
+    "kun": [
+      "いばら",
+      "かや",
+      "くさぶき"
+    ],
+    "meaningZh": "茨（茨城）",
+    "kanjivgId": "08328"
+  },
+  {
+    "kanji": "媛",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "ひめ"
+    ],
+    "meaningZh": "媛（愛媛）",
+    "kanjivgId": "05a9b"
+  },
+  {
+    "kanji": "岡",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "おか"
+    ],
+    "meaningZh": "岡（山丘）",
+    "kanjivgId": "05ca1"
+  },
+  {
+    "kanji": "潟",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "かた",
+      "-がた"
+    ],
+    "meaningZh": "潟（新潟）",
+    "kanjivgId": "06f5f"
+  },
+  {
+    "kanji": "岐",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "キ",
+      "ギ"
+    ],
+    "kun": [],
+    "meaningZh": "岐（岐阜）",
+    "kanjivgId": "05c90"
+  },
+  {
+    "kanji": "熊",
+    "grade": 4,
+    "strokes": 14,
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "くま"
+    ],
+    "meaningZh": "熊",
+    "kanjivgId": "0718a",
+    "openmoji": "1F43B"
+  },
+  {
+    "kanji": "香",
+    "grade": 4,
+    "strokes": 9,
+    "on": [
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [
+      "か",
+      "かお.り",
+      "かお.る"
+    ],
+    "meaningZh": "香",
+    "kanjivgId": "09999"
+  },
+  {
+    "kanji": "佐",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "サ"
+    ],
+    "kun": [],
+    "meaningZh": "佐（輔佐）",
+    "kanjivgId": "04f50"
+  },
+  {
+    "kanji": "埼",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "meaningZh": "埼（埼玉）",
+    "kanjivgId": "057fc"
+  },
+  {
+    "kanji": "崎",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "meaningZh": "崎（岬角）",
+    "kanjivgId": "05d0e"
+  },
+  {
+    "kanji": "滋",
+    "grade": 4,
+    "strokes": 12,
+    "on": [
+      "ジ",
+      "シ"
+    ],
+    "kun": [],
+    "meaningZh": "滋（滋賀）",
+    "kanjivgId": "06ecb"
+  },
+  {
+    "kanji": "鹿",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "しか",
+      "か"
+    ],
+    "meaningZh": "鹿",
+    "kanjivgId": "09e7f",
+    "openmoji": "1F98C"
+  },
+  {
+    "kanji": "縄",
+    "grade": 4,
+    "strokes": 15,
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "なわ",
+      "ただ.す"
+    ],
+    "meaningZh": "繩",
+    "kanjivgId": "07e04",
+    "openmoji": "1FAA2"
+  },
+  {
+    "kanji": "井",
+    "grade": 4,
+    "strokes": 4,
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "い"
+    ],
+    "meaningZh": "井",
+    "kanjivgId": "04e95",
+    "openmoji": "1F573"
+  },
+  {
+    "kanji": "沖",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "おき",
+      "おきつ",
+      "ちゅう.する",
+      "わく"
+    ],
+    "meaningZh": "外海",
+    "kanjivgId": "06c96"
+  },
+  {
+    "kanji": "栃",
+    "grade": 4,
+    "strokes": 9,
+    "on": [],
+    "kun": [
+      "とち"
+    ],
+    "meaningZh": "栃（栃木）",
+    "kanjivgId": "06803"
+  },
+  {
+    "kanji": "奈",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "ナ",
+      "ナイ",
+      "ダイ"
+    ],
+    "kun": [
+      "いかん",
+      "からなし"
+    ],
+    "meaningZh": "奈（奈良）",
+    "kanjivgId": "05948"
+  },
+  {
+    "kanji": "梨",
+    "grade": 4,
+    "strokes": 11,
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "なし"
+    ],
+    "meaningZh": "梨",
+    "kanjivgId": "068a8",
+    "openmoji": "1F350"
+  },
+  {
+    "kanji": "阪",
+    "grade": 4,
+    "strokes": 7,
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "さか"
+    ],
+    "meaningZh": "阪（大阪）",
+    "kanjivgId": "0962a"
+  },
+  {
+    "kanji": "阜",
+    "grade": 4,
+    "strokes": 8,
+    "on": [
+      "フ",
+      "フウ"
+    ],
+    "kun": [],
+    "meaningZh": "阜（岐阜）",
+    "kanjivgId": "0961c"
+  }
+]

@@ -21,14 +21,16 @@ const FALSE_FRIENDS: Record<string, RegExp> = {
 
 describe('zh-TW 釋義', () => {
   const g1 = table['1']!
+  const all = [1, 2, 3, 4, 5].flatMap((g) => table[String(g)]!)
 
-  it('1 年級 80 字全部有釋義', () => {
-    const missing = g1.filter((k) => !zh[k]?.trim())
-    expect(missing, `缺：${missing.join('')}`).toHaveLength(0)
+  it('1–5 年級 835 字全部有釋義', () => {
+    expect(all).toHaveLength(835)
+    const missing = all.filter((k) => !zh[k]?.trim())
+    expect(missing, `缺 ${missing.length}：${missing.join('')}`).toHaveLength(0)
   })
 
   it('每則釋義不超過 12 字', () => {
-    for (const k of g1) expect(zh[k]!.length, `${k}: ${zh[k]}`).toBeLessThanOrEqual(12)
+    for (const k of all) expect(zh[k]!.length, `${k}: ${zh[k]}`).toBeLessThanOrEqual(12)
   })
 
   it('日中同形異義字標的是日文語境的意思', () => {

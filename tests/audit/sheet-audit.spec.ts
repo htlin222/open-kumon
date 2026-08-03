@@ -25,6 +25,10 @@ const CASES: Case[] = [
   { series: 'kanji', grade: 2, unit: 54 },
   { series: 'kanji', grade: 3, unit: 1 },
   { series: 'kanji', grade: 3, unit: 67 },
+  { series: 'kanji', grade: 4, unit: 1 },
+  { series: 'kanji', grade: 4, unit: 68 },
+  { series: 'kanji', grade: 5, unit: 1 },
+  { series: 'kanji', grade: 5, unit: 65 },
 ]
 
 for (const c of CASES) {
