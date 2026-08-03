@@ -65,7 +65,8 @@ Build-time pipeline：KANJIDIC2 / kanjiapi.dev（讀音）· KanjiVG（筆順）
 | 陪伴角色（自繪線稿，非 Open Peeps） | ✅ |
 
 | 言葉と文のきまり／文章の読解／書き方 版型 | ⬜ |
-| 程度檢定（Workers AI） | ⬜ |
+| 程度檢定（規則式自適應，16 題／3 分鐘） | ✅ |
+| 程度檢定結果的 AI 中文解讀（Workers AI） | ⬜ |
 | D1 進度同步 | ⬜ |
 
 ## 開發

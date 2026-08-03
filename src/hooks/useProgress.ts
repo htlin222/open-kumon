@@ -28,7 +28,7 @@ export interface ProgressView {
   checkable: string[]
   dueCount: number
   totalUnits: number
-  createChild: (name: string) => void
+  createChild: (name: string, grade?: number) => void
   chooseChild: (id: string) => void
   submit: (wrong: string[]) => void
   /** 今天是否已經送出過 */
@@ -122,7 +122,7 @@ export function useProgress(): ProgressView {
     checkable,
     dueCount: child ? dueOn(child.mistakes, today).length : 0,
     totalUnits,
-    createChild: (name) => update(addChild(store, name, today)),
+    createChild: (name, grade) => update(addChild(store, name, today, grade)),
     chooseChild: (id) => update(setActiveChild(store, id)),
     submit,
     doneToday,

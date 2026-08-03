@@ -63,12 +63,13 @@ export function saveStore(store: Store, storage: StorageLike = defaultStorage())
   }
 }
 
-export function addChild(store: Store, name: string, today: DayKey): Store {
+export function addChild(store: Store, name: string, today: DayKey, grade = 1): Store {
   const child: Child = {
     id: newId(),
     name,
     createdOn: today,
-    grade: 1,
+    // 程度檢定判定的起始年級；沒做檢定就是 1
+    grade: Math.min(Math.max(1, grade), 6),
     nextUnitNo: 1,
     mistakes: [],
     completions: [],

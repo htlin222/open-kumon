@@ -4,6 +4,7 @@ import { useState } from 'react'
 import { MistakeChecklist } from './MistakeChecklist'
 import { DataPanel } from './DataPanel'
 import { Mascot } from './Mascot'
+import { PlacementTest } from './PlacementTest'
 import { pickForSheet } from '../content/readings'
 import type { ProgressView } from '../hooks/useProgress'
 import type { KanjiEntry } from '../content/schema'
@@ -134,8 +135,20 @@ function KanjiRow({ entry }: { entry: KanjiEntry }) {
   )
 }
 
-function FirstRun({ onCreate }: { onCreate: (name: string) => void }) {
+function FirstRun({ onCreate }: { onCreate: (name: string, grade?: number) => void }) {
   const [name, setName] = useState('')
+  const [testing, setTesting] = useState(false)
+
+  if (testing) {
+    return (
+      <PlacementTest
+        childName={name}
+        onSkip={() => onCreate(name, 1)}
+        onDone={(r) => onCreate(name, r.needsKana ? 1 : r.startGrade)}
+      />
+    )
+  }
+
   return (
     <>
       <Heading as="h1" style={{ fontSize: 20, marginBottom: 8 }}>
@@ -159,10 +172,17 @@ function FirstRun({ onCreate }: { onCreate: (name: string) => void }) {
         variant="primary"
         className="chrome__print"
         disabled={!name.trim()}
-        onClick={() => onCreate(name.trim())}
+        onClick={() => setTesting(true)}
       >
-        開始
+        做程度檢定（約 3 分鐘）
       </Button>
+      <button
+        className="placement__skip"
+        disabled={!name.trim()}
+        onClick={() => onCreate(name.trim(), 1)}
+      >
+        跳過，直接從 1 年級開始
+      </button>
     </>
   )
 }
