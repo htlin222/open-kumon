@@ -37,6 +37,11 @@ export const KanjiEntrySchema = z
     kanjivgId: z.string().regex(/^[0-9a-f]{5}$/),
     /** OpenMoji hexcode；抽象字沒有對應插圖，可省略 */
     openmoji: z.string().optional(),
+    /**
+     * JLPT 等級（5 = N5 最易 … 1 = N1）。少數字不在任何級別內，為 null。
+     * 課程可以照這個排序，走「最快考過 N5」的路線，而不是照日本學校的學年。
+     */
+    jlpt: z.number().int().min(1).max(5).nullable(),
   })
   .refine((e) => e.on.length + e.kun.length > 0, {
     message: '至少要有一個音読み或訓読み',

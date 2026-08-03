@@ -13,6 +13,8 @@ interface KanjiApiEntry {
   stroke_count: number
   on_readings?: string[]
   kun_readings?: string[]
+  /** 新制 JLPT：5 = N5 … 1 = N1；不在級別內為 null */
+  jlpt?: number | null
 }
 
 const table = JSON.parse(readFileSync('content/kyoiku-by-grade.json', 'utf8')) as Record<
@@ -55,6 +57,7 @@ for (const grade of TARGET_GRADES) {
       kun: d.kun_readings ?? [],
       meaningZh: zh[ch]!,
       kanjivgId: kanjivgIdOf(ch),
+      jlpt: d.jlpt ?? null,
     })
   })
 

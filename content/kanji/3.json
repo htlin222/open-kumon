@@ -14,7 +14,8 @@
       "ひのと"
     ],
     "meaningZh": "丁；鄭重",
-    "kanjivgId": "04e01"
+    "kanjivgId": "04e01",
+    "jlpt": 1
   },
   {
     "kanji": "世",
@@ -29,7 +30,8 @@
       "よ"
     ],
     "meaningZh": "世界；世代",
-    "kanjivgId": "04e16"
+    "kanjivgId": "04e16",
+    "jlpt": 4
   },
   {
     "kanji": "両",
@@ -43,7 +45,8 @@
       "ふたつ"
     ],
     "meaningZh": "兩；兩側",
-    "kanjivgId": "04e21"
+    "kanjivgId": "04e21",
+    "jlpt": 3
   },
   {
     "kanji": "主",
@@ -60,7 +63,8 @@
       "あるじ"
     ],
     "meaningZh": "主要；主人",
-    "kanjivgId": "04e3b"
+    "kanjivgId": "04e3b",
+    "jlpt": 4
   },
   {
     "kanji": "乗",
@@ -77,6 +81,7 @@
     ],
     "meaningZh": "搭乘",
     "kanjivgId": "04e57",
+    "jlpt": 3,
     "openmoji": "1F686"
   },
   {
@@ -91,7 +96,8 @@
       "あらかじ.め"
     ],
     "meaningZh": "預先",
-    "kanjivgId": "04e88"
+    "kanjivgId": "04e88",
+    "jlpt": 3
   },
   {
     "kanji": "事",
@@ -107,7 +113,8 @@
       "つか.える"
     ],
     "meaningZh": "事情",
-    "kanjivgId": "04e8b"
+    "kanjivgId": "04e8b",
+    "jlpt": 4
   },
   {
     "kanji": "仕",
@@ -121,7 +128,8 @@
       "つか.える"
     ],
     "meaningZh": "侍奉；工作",
-    "kanjivgId": "04ed5"
+    "kanjivgId": "04ed5",
+    "jlpt": 4
   },
   {
     "kanji": "他",
@@ -134,7 +142,8 @@
       "ほか"
     ],
     "meaningZh": "其他",
-    "kanjivgId": "04ed6"
+    "kanjivgId": "04ed6",
+    "jlpt": 3
   },
   {
     "kanji": "代",
@@ -156,7 +165,8 @@
       "しろ"
     ],
     "meaningZh": "代替；世代",
-    "kanjivgId": "04ee3"
+    "kanjivgId": "04ee3",
+    "jlpt": 4
   },
   {
     "kanji": "住",
@@ -173,7 +183,8 @@
       "-ず.まい"
     ],
     "meaningZh": "居住",
-    "kanjivgId": "04f4f"
+    "kanjivgId": "04f4f",
+    "jlpt": 4
   },
   {
     "kanji": "使",
@@ -189,7 +200,8 @@
       "-づか.い"
     ],
     "meaningZh": "使用；派遣",
-    "kanjivgId": "04f7f"
+    "kanjivgId": "04f7f",
+    "jlpt": 4
   },
   {
     "kanji": "係",
@@ -205,7 +217,8 @@
       "かか.わる"
     ],
     "meaningZh": "負責人；關係",
-    "kanjivgId": "04fc2"
+    "kanjivgId": "04fc2",
+    "jlpt": 3
   },
   {
     "kanji": "倍",
@@ -216,7 +229,8 @@
     ],
     "kun": [],
     "meaningZh": "倍",
-    "kanjivgId": "0500d"
+    "kanjivgId": "0500d",
+    "jlpt": 2
   },
   {
     "kanji": "全",
@@ -230,7 +244,8 @@
       "すべ.て"
     ],
     "meaningZh": "全部",
-    "kanjivgId": "05168"
+    "kanjivgId": "05168",
+    "jlpt": 3
   },
   {
     "kanji": "具",
@@ -244,7 +259,8 @@
       "つぶさ.に"
     ],
     "meaningZh": "工具；具體",
-    "kanjivgId": "05177"
+    "kanjivgId": "05177",
+    "jlpt": 3
   },
   {
     "kanji": "写",
@@ -261,7 +277,8 @@
       "うつ.し"
     ],
     "meaningZh": "拍攝；抄寫",
-    "kanjivgId": "05199"
+    "kanjivgId": "05199",
+    "jlpt": 4
   },
   {
     "kanji": "列",
@@ -273,7 +290,8 @@
     ],
     "kun": [],
     "meaningZh": "行列",
-    "kanjivgId": "05217"
+    "kanjivgId": "05217",
+    "jlpt": 3
   },
   {
     "kanji": "助",
@@ -289,7 +307,8 @@
       "すけ"
     ],
     "meaningZh": "幫助",
-    "kanjivgId": "052a9"
+    "kanjivgId": "052a9",
+    "jlpt": 3
   },
   {
     "kanji": "勉",
@@ -302,7 +321,8 @@
       "つと.める"
     ],
     "meaningZh": "勤奮",
-    "kanjivgId": "052c9"
+    "kanjivgId": "052c9",
+    "jlpt": 4
   },
   {
     "kanji": "動",
@@ -316,7 +336,8 @@
       "うご.かす"
     ],
     "meaningZh": "動",
-    "kanjivgId": "052d5"
+    "kanjivgId": "052d5",
+    "jlpt": 4
   },
   {
     "kanji": "勝",
@@ -333,7 +354,8 @@
       "かつ"
     ],
     "meaningZh": "贏",
-    "kanjivgId": "052dd"
+    "kanjivgId": "052dd",
+    "jlpt": 3
   },
   {
     "kanji": "化",
@@ -350,7 +372,8 @@
       "け.する"
     ],
     "meaningZh": "變化",
-    "kanjivgId": "05316"
+    "kanjivgId": "05316",
+    "jlpt": 3
   },
   {
     "kanji": "区",
@@ -363,7 +386,8 @@
     ],
     "kun": [],
     "meaningZh": "區",
-    "kanjivgId": "0533a"
+    "kanjivgId": "0533a",
+    "jlpt": 2
   },
   {
     "kanji": "医",
@@ -379,6 +403,7 @@
     ],
     "meaningZh": "醫",
     "kanjivgId": "0533b",
+    "jlpt": 4,
     "openmoji": "1F3E5"
   },
   {
@@ -394,7 +419,8 @@
       "-さ.る"
     ],
     "meaningZh": "離去",
-    "kanjivgId": "053bb"
+    "kanjivgId": "053bb",
+    "jlpt": 4
   },
   {
     "kanji": "反",
@@ -414,7 +440,8 @@
       "-かえ.る"
     ],
     "meaningZh": "相反",
-    "kanjivgId": "053cd"
+    "kanjivgId": "053cd",
+    "jlpt": 3
   },
   {
     "kanji": "取",
@@ -431,7 +458,8 @@
       "-ど.り"
     ],
     "meaningZh": "拿",
-    "kanjivgId": "053d6"
+    "kanjivgId": "053d6",
+    "jlpt": 3
   },
   {
     "kanji": "受",
@@ -446,7 +474,8 @@
       "う.かる"
     ],
     "meaningZh": "接受",
-    "kanjivgId": "053d7"
+    "kanjivgId": "053d7",
+    "jlpt": 3
   },
   {
     "kanji": "号",
@@ -460,7 +489,8 @@
       "よびな"
     ],
     "meaningZh": "號碼",
-    "kanjivgId": "053f7"
+    "kanjivgId": "053f7",
+    "jlpt": 3
   },
   {
     "kanji": "向",
@@ -483,7 +513,8 @@
       "むか.い"
     ],
     "meaningZh": "朝向",
-    "kanjivgId": "05411"
+    "kanjivgId": "05411",
+    "jlpt": 3
   },
   {
     "kanji": "君",
@@ -497,7 +528,8 @@
       "-ぎみ"
     ],
     "meaningZh": "你；君",
-    "kanjivgId": "0541b"
+    "kanjivgId": "0541b",
+    "jlpt": 3
   },
   {
     "kanji": "味",
@@ -512,6 +544,7 @@
     ],
     "meaningZh": "味道",
     "kanjivgId": "05473",
+    "jlpt": 4,
     "openmoji": "1F44C"
   },
   {
@@ -526,7 +559,8 @@
       "いのち"
     ],
     "meaningZh": "生命；命令",
-    "kanjivgId": "0547d"
+    "kanjivgId": "0547d",
+    "jlpt": 3
   },
   {
     "kanji": "和",
@@ -545,7 +579,8 @@
       "あ.える"
     ],
     "meaningZh": "和；日本風",
-    "kanjivgId": "0548c"
+    "kanjivgId": "0548c",
+    "jlpt": 3
   },
   {
     "kanji": "品",
@@ -560,6 +595,7 @@
     ],
     "meaningZh": "物品",
     "kanjivgId": "054c1",
+    "jlpt": 4,
     "openmoji": "1F381"
   },
   {
@@ -571,7 +607,8 @@
     ],
     "kun": [],
     "meaningZh": "人員",
-    "kanjivgId": "054e1"
+    "kanjivgId": "054e1",
+    "jlpt": 4
   },
   {
     "kanji": "商",
@@ -585,6 +622,7 @@
     ],
     "meaningZh": "買賣",
     "kanjivgId": "05546",
+    "jlpt": 3,
     "openmoji": "1F3EC"
   },
   {
@@ -601,6 +639,7 @@
     ],
     "meaningZh": "問",
     "kanjivgId": "0554f",
+    "jlpt": 4,
     "openmoji": "2754"
   },
   {
@@ -615,6 +654,7 @@
     ],
     "meaningZh": "斜坡",
     "kanjivgId": "05742",
+    "jlpt": 2,
     "openmoji": "1F6E4"
   },
   {
@@ -626,7 +666,8 @@
     ],
     "kun": [],
     "meaningZh": "中央",
-    "kanjivgId": "0592e"
+    "kanjivgId": "0592e",
+    "jlpt": 2
   },
   {
     "kanji": "始",
@@ -641,7 +682,8 @@
       "はじ.まる"
     ],
     "meaningZh": "開始",
-    "kanjivgId": "059cb"
+    "kanjivgId": "059cb",
+    "jlpt": 4
   },
   {
     "kanji": "委",
@@ -654,7 +696,8 @@
       "ゆだ.ねる"
     ],
     "meaningZh": "委託",
-    "kanjivgId": "059d4"
+    "kanjivgId": "059d4",
+    "jlpt": 2
   },
   {
     "kanji": "守",
@@ -672,7 +715,8 @@
       "かみ"
     ],
     "meaningZh": "守護",
-    "kanjivgId": "05b88"
+    "kanjivgId": "05b88",
+    "jlpt": 3
   },
   {
     "kanji": "安",
@@ -688,7 +732,8 @@
       "やす.らか"
     ],
     "meaningZh": "便宜；安心",
-    "kanjivgId": "05b89"
+    "kanjivgId": "05b89",
+    "jlpt": 4
   },
   {
     "kanji": "定",
@@ -704,7 +749,8 @@
       "さだ.か"
     ],
     "meaningZh": "決定",
-    "kanjivgId": "05b9a"
+    "kanjivgId": "05b9a",
+    "jlpt": 3
   },
   {
     "kanji": "実",
@@ -722,7 +768,8 @@
       "みち.る"
     ],
     "meaningZh": "果實；事實",
-    "kanjivgId": "05b9f"
+    "kanjivgId": "05b9f",
+    "jlpt": 3
   },
   {
     "kanji": "客",
@@ -734,7 +781,8 @@
     ],
     "kun": [],
     "meaningZh": "客人",
-    "kanjivgId": "05ba2"
+    "kanjivgId": "05ba2",
+    "jlpt": 3
   },
   {
     "kanji": "宮",
@@ -750,7 +798,8 @@
       "みや"
     ],
     "meaningZh": "神宮",
-    "kanjivgId": "05bae"
+    "kanjivgId": "05bae",
+    "jlpt": 1
   },
   {
     "kanji": "宿",
@@ -765,7 +814,8 @@
       "やど.す"
     ],
     "meaningZh": "住宿",
-    "kanjivgId": "05bbf"
+    "kanjivgId": "05bbf",
+    "jlpt": 3
   },
   {
     "kanji": "寒",
@@ -778,7 +828,8 @@
       "さむ.い"
     ],
     "meaningZh": "冷",
-    "kanjivgId": "05bd2"
+    "kanjivgId": "05bd2",
+    "jlpt": 3
   },
   {
     "kanji": "対",
@@ -797,7 +848,8 @@
       "むか.う"
     ],
     "meaningZh": "對；相對",
-    "kanjivgId": "05bfe"
+    "kanjivgId": "05bfe",
+    "jlpt": 3
   },
   {
     "kanji": "局",
@@ -810,7 +862,8 @@
       "つぼね"
     ],
     "meaningZh": "局",
-    "kanjivgId": "05c40"
+    "kanjivgId": "05c40",
+    "jlpt": 3
   },
   {
     "kanji": "屋",
@@ -823,7 +876,8 @@
       "や"
     ],
     "meaningZh": "店；屋頂",
-    "kanjivgId": "05c4b"
+    "kanjivgId": "05c4b",
+    "jlpt": 4
   },
   {
     "kanji": "岸",
@@ -836,7 +890,8 @@
       "きし"
     ],
     "meaningZh": "岸",
-    "kanjivgId": "05cb8"
+    "kanjivgId": "05cb8",
+    "jlpt": 2
   },
   {
     "kanji": "島",
@@ -850,6 +905,7 @@
     ],
     "meaningZh": "島",
     "kanjivgId": "05cf6",
+    "jlpt": 2,
     "openmoji": "1F3DD"
   },
   {
@@ -864,7 +920,8 @@
       "す"
     ],
     "meaningZh": "州",
-    "kanjivgId": "05dde"
+    "kanjivgId": "05dde",
+    "jlpt": 2
   },
   {
     "kanji": "帳",
@@ -878,6 +935,7 @@
     ],
     "meaningZh": "帳本",
     "kanjivgId": "05e33",
+    "jlpt": 1,
     "openmoji": "1F4D2"
   },
   {
@@ -895,7 +953,8 @@
       "ひら"
     ],
     "meaningZh": "平；平坦",
-    "kanjivgId": "05e73"
+    "kanjivgId": "05e73",
+    "jlpt": 3
   },
   {
     "kanji": "幸",
@@ -910,7 +969,8 @@
       "しあわ.せ"
     ],
     "meaningZh": "幸福",
-    "kanjivgId": "05e78"
+    "kanjivgId": "05e78",
+    "jlpt": 3
   },
   {
     "kanji": "度",
@@ -926,7 +986,8 @@
       "-た.い"
     ],
     "meaningZh": "次數；程度",
-    "kanjivgId": "05ea6"
+    "kanjivgId": "05ea6",
+    "jlpt": 4
   },
   {
     "kanji": "庫",
@@ -941,6 +1002,7 @@
     ],
     "meaningZh": "倉庫",
     "kanjivgId": "05eab",
+    "jlpt": 2,
     "openmoji": "1F3ED"
   },
   {
@@ -954,7 +1016,8 @@
       "にわ"
     ],
     "meaningZh": "庭院",
-    "kanjivgId": "05ead"
+    "kanjivgId": "05ead",
+    "jlpt": 3
   },
   {
     "kanji": "式",
@@ -965,7 +1028,8 @@
     ],
     "kun": [],
     "meaningZh": "儀式；算式",
-    "kanjivgId": "05f0f"
+    "kanjivgId": "05f0f",
+    "jlpt": 3
   },
   {
     "kanji": "役",
@@ -977,7 +1041,8 @@
     ],
     "kun": [],
     "meaningZh": "角色；職務",
-    "kanjivgId": "05f79"
+    "kanjivgId": "05f79",
+    "jlpt": 3
   },
   {
     "kanji": "待",
@@ -991,7 +1056,8 @@
       "-ま.ち"
     ],
     "meaningZh": "等待",
-    "kanjivgId": "05f85"
+    "kanjivgId": "05f85",
+    "jlpt": 4
   },
   {
     "kanji": "急",
@@ -1007,6 +1073,7 @@
     ],
     "meaningZh": "急",
     "kanjivgId": "06025",
+    "jlpt": 4,
     "openmoji": "1F6A8"
   },
   {
@@ -1020,7 +1087,8 @@
       "いき"
     ],
     "meaningZh": "呼吸；氣息",
-    "kanjivgId": "0606f"
+    "kanjivgId": "0606f",
+    "jlpt": 3
   },
   {
     "kanji": "悪",
@@ -1043,6 +1111,7 @@
     ],
     "meaningZh": "壞",
     "kanjivgId": "060aa",
+    "jlpt": 4,
     "openmoji": "1F608"
   },
   {
@@ -1058,6 +1127,7 @@
     ],
     "meaningZh": "悲傷",
     "kanjivgId": "060b2",
+    "jlpt": 3,
     "openmoji": "1F622"
   },
   {
@@ -1072,7 +1142,8 @@
       "おも.う"
     ],
     "meaningZh": "想像",
-    "kanjivgId": "060f3"
+    "kanjivgId": "060f3",
+    "jlpt": 3
   },
   {
     "kanji": "意",
@@ -1083,7 +1154,8 @@
     ],
     "kun": [],
     "meaningZh": "意思；心意",
-    "kanjivgId": "0610f"
+    "kanjivgId": "0610f",
+    "jlpt": 4
   },
   {
     "kanji": "感",
@@ -1095,6 +1167,7 @@
     "kun": [],
     "meaningZh": "感覺",
     "kanjivgId": "0611f",
+    "jlpt": 3,
     "openmoji": "1F49B"
   },
   {
@@ -1111,7 +1184,8 @@
       "とこ"
     ],
     "meaningZh": "地方",
-    "kanjivgId": "06240"
+    "kanjivgId": "06240",
+    "jlpt": 3
   },
   {
     "kanji": "打",
@@ -1128,6 +1202,7 @@
     ],
     "meaningZh": "打",
     "kanjivgId": "06253",
+    "jlpt": 3,
     "openmoji": "26BE"
   },
   {
@@ -1143,6 +1218,7 @@
     ],
     "meaningZh": "投擲",
     "kanjivgId": "06295",
+    "jlpt": 3,
     "openmoji": "1F3C0"
   },
   {
@@ -1158,6 +1234,7 @@
     ],
     "meaningZh": "撿",
     "kanjivgId": "062fe",
+    "jlpt": 2,
     "openmoji": "1F91A"
   },
   {
@@ -1173,7 +1250,8 @@
       "も.てる"
     ],
     "meaningZh": "拿著",
-    "kanjivgId": "06301"
+    "kanjivgId": "06301",
+    "jlpt": 4
   },
   {
     "kanji": "指",
@@ -1189,6 +1267,7 @@
     ],
     "meaningZh": "手指；指出",
     "kanjivgId": "06307",
+    "jlpt": 3,
     "openmoji": "1F449"
   },
   {
@@ -1207,7 +1286,8 @@
       "ほう.る"
     ],
     "meaningZh": "放開",
-    "kanjivgId": "0653e"
+    "kanjivgId": "0653e",
+    "jlpt": 3
   },
   {
     "kanji": "整",
@@ -1221,7 +1301,8 @@
       "ととの.う"
     ],
     "meaningZh": "整理",
-    "kanjivgId": "06574"
+    "kanjivgId": "06574",
+    "jlpt": 1
   },
   {
     "kanji": "旅",
@@ -1235,6 +1316,7 @@
     ],
     "meaningZh": "旅行",
     "kanjivgId": "065c5",
+    "jlpt": 4,
     "openmoji": "1F9F3"
   },
   {
@@ -1246,7 +1328,8 @@
     ],
     "kun": [],
     "meaningZh": "族",
-    "kanjivgId": "065cf"
+    "kanjivgId": "065cf",
+    "jlpt": 4
   },
   {
     "kanji": "昔",
@@ -1261,6 +1344,7 @@
     ],
     "meaningZh": "從前",
     "kanjivgId": "06614",
+    "jlpt": 3,
     "openmoji": "1F570"
   },
   {
@@ -1272,7 +1356,8 @@
     ],
     "kun": [],
     "meaningZh": "昭（明亮）",
-    "kanjivgId": "0662d"
+    "kanjivgId": "0662d",
+    "jlpt": 1
   },
   {
     "kanji": "暑",
@@ -1286,6 +1371,7 @@
     ],
     "meaningZh": "熱",
     "kanjivgId": "06691",
+    "jlpt": 1,
     "openmoji": "1F975"
   },
   {
@@ -1301,7 +1387,8 @@
       "くれ.る"
     ],
     "meaningZh": "暗",
-    "kanjivgId": "06697"
+    "kanjivgId": "06697",
+    "jlpt": 3
   },
   {
     "kanji": "曲",
@@ -1317,6 +1404,7 @@
     ],
     "meaningZh": "曲子；彎曲",
     "kanjivgId": "066f2",
+    "jlpt": 3,
     "openmoji": "1F3BC"
   },
   {
@@ -1331,7 +1419,8 @@
       "あ.る"
     ],
     "meaningZh": "有",
-    "kanjivgId": "06709"
+    "kanjivgId": "06709",
+    "jlpt": 4
   },
   {
     "kanji": "服",
@@ -1343,6 +1432,7 @@
     "kun": [],
     "meaningZh": "衣服",
     "kanjivgId": "0670d",
+    "jlpt": 4,
     "openmoji": "1F455"
   },
   {
@@ -1355,7 +1445,8 @@
     ],
     "kun": [],
     "meaningZh": "期間",
-    "kanjivgId": "0671f"
+    "kanjivgId": "0671f",
+    "jlpt": 3
   },
   {
     "kanji": "板",
@@ -1370,6 +1461,7 @@
     ],
     "meaningZh": "板子",
     "kanjivgId": "0677f",
+    "jlpt": 2,
     "openmoji": "1FAB5"
   },
   {
@@ -1384,6 +1476,7 @@
     ],
     "meaningZh": "柱子",
     "kanjivgId": "067f1",
+    "jlpt": 2,
     "openmoji": "1F3DB"
   },
   {
@@ -1399,6 +1492,7 @@
     ],
     "meaningZh": "根",
     "kanjivgId": "06839",
+    "jlpt": 2,
     "openmoji": "1F955"
   },
   {
@@ -1413,7 +1507,8 @@
       "う.わる"
     ],
     "meaningZh": "種植",
-    "kanjivgId": "0690d"
+    "kanjivgId": "0690d",
+    "jlpt": 2
   },
   {
     "kanji": "業",
@@ -1427,7 +1522,8 @@
       "わざ"
     ],
     "meaningZh": "工作；行業",
-    "kanjivgId": "0696d"
+    "kanjivgId": "0696d",
+    "jlpt": 4
   },
   {
     "kanji": "様",
@@ -1442,7 +1538,8 @@
       "さん"
     ],
     "meaningZh": "樣子；先生小姐",
-    "kanjivgId": "069d8"
+    "kanjivgId": "069d8",
+    "jlpt": 3
   },
   {
     "kanji": "横",
@@ -1455,7 +1552,8 @@
       "よこ"
     ],
     "meaningZh": "橫；旁邊",
-    "kanjivgId": "06a2a"
+    "kanjivgId": "06a2a",
+    "jlpt": 3
   },
   {
     "kanji": "橋",
@@ -1469,6 +1567,7 @@
     ],
     "meaningZh": "橋",
     "kanjivgId": "06a4b",
+    "jlpt": 2,
     "openmoji": "1F309"
   },
   {
@@ -1484,7 +1583,8 @@
       "つぎ"
     ],
     "meaningZh": "下一個",
-    "kanjivgId": "06b21"
+    "kanjivgId": "06b21",
+    "jlpt": 3
   },
   {
     "kanji": "歯",
@@ -1501,6 +1601,7 @@
     ],
     "meaningZh": "牙齒",
     "kanjivgId": "06b6f",
+    "jlpt": 3,
     "openmoji": "1F9B7"
   },
   {
@@ -1516,6 +1617,7 @@
     ],
     "meaningZh": "死",
     "kanjivgId": "06b7b",
+    "jlpt": 4,
     "openmoji": "1F480"
   },
   {
@@ -1532,6 +1634,7 @@
     ],
     "meaningZh": "冰",
     "kanjivgId": "06c37",
+    "jlpt": 2,
     "openmoji": "1F9CA"
   },
   {
@@ -1548,7 +1651,8 @@
       "さ.く"
     ],
     "meaningZh": "決定",
-    "kanjivgId": "06c7a"
+    "kanjivgId": "06c7a",
+    "jlpt": 3
   },
   {
     "kanji": "油",
@@ -1563,6 +1667,7 @@
     ],
     "meaningZh": "油",
     "kanjivgId": "06cb9",
+    "jlpt": 2,
     "openmoji": "1FAD2"
   },
   {
@@ -1576,7 +1681,8 @@
       "なみ"
     ],
     "meaningZh": "波浪",
-    "kanjivgId": "06ce2"
+    "kanjivgId": "06ce2",
+    "jlpt": 2
   },
   {
     "kanji": "注",
@@ -1591,7 +1697,8 @@
       "つ.ぐ"
     ],
     "meaningZh": "注入；注意",
-    "kanjivgId": "06ce8"
+    "kanjivgId": "06ce8",
+    "jlpt": 4
   },
   {
     "kanji": "泳",
@@ -1605,6 +1712,7 @@
     ],
     "meaningZh": "游泳",
     "kanjivgId": "06cf3",
+    "jlpt": 3,
     "openmoji": "1F3CA"
   },
   {
@@ -1616,7 +1724,8 @@
     ],
     "kun": [],
     "meaningZh": "洋；西式",
-    "kanjivgId": "06d0b"
+    "kanjivgId": "06d0b",
+    "jlpt": 4
   },
   {
     "kanji": "流",
@@ -1633,7 +1742,8 @@
       "-なが.す"
     ],
     "meaningZh": "流",
-    "kanjivgId": "06d41"
+    "kanjivgId": "06d41",
+    "jlpt": 3
   },
   {
     "kanji": "消",
@@ -1647,7 +1757,8 @@
       "け.す"
     ],
     "meaningZh": "消失；熄滅",
-    "kanjivgId": "06d88"
+    "kanjivgId": "06d88",
+    "jlpt": 3
   },
   {
     "kanji": "深",
@@ -1664,7 +1775,8 @@
       "み-"
     ],
     "meaningZh": "深",
-    "kanjivgId": "06df1"
+    "kanjivgId": "06df1",
+    "jlpt": 3
   },
   {
     "kanji": "温",
@@ -1681,7 +1793,8 @@
       "ぬく"
     ],
     "meaningZh": "溫暖",
-    "kanjivgId": "06e29"
+    "kanjivgId": "06e29",
+    "jlpt": 2
   },
   {
     "kanji": "港",
@@ -1695,6 +1808,7 @@
     ],
     "meaningZh": "港口",
     "kanjivgId": "06e2f",
+    "jlpt": 3,
     "openmoji": "2693"
   },
   {
@@ -1708,7 +1822,8 @@
       "みずうみ"
     ],
     "meaningZh": "湖",
-    "kanjivgId": "06e56"
+    "kanjivgId": "06e56",
+    "jlpt": 2
   },
   {
     "kanji": "湯",
@@ -1722,6 +1837,7 @@
     ],
     "meaningZh": "熱水",
     "kanjivgId": "06e6f",
+    "jlpt": 2,
     "openmoji": "2668"
   },
   {
@@ -1733,7 +1849,8 @@
     ],
     "kun": [],
     "meaningZh": "漢",
-    "kanjivgId": "06f22"
+    "kanjivgId": "06f22",
+    "jlpt": 4
   },
   {
     "kanji": "炭",
@@ -1746,7 +1863,8 @@
       "すみ"
     ],
     "meaningZh": "木炭",
-    "kanjivgId": "070ad"
+    "kanjivgId": "070ad",
+    "jlpt": 2
   },
   {
     "kanji": "物",
@@ -1761,7 +1879,8 @@
       "もの-"
     ],
     "meaningZh": "東西",
-    "kanjivgId": "07269"
+    "kanjivgId": "07269",
+    "jlpt": 4
   },
   {
     "kanji": "球",
@@ -1774,7 +1893,8 @@
       "たま"
     ],
     "meaningZh": "球",
-    "kanjivgId": "07403"
+    "kanjivgId": "07403",
+    "jlpt": 3
   },
   {
     "kanji": "由",
@@ -1790,7 +1910,8 @@
       "よ.る"
     ],
     "meaningZh": "緣由",
-    "kanjivgId": "07531"
+    "kanjivgId": "07531",
+    "jlpt": 3
   },
   {
     "kanji": "申",
@@ -1805,7 +1926,8 @@
       "さる"
     ],
     "meaningZh": "說（謙讓）",
-    "kanjivgId": "07533"
+    "kanjivgId": "07533",
+    "jlpt": 3
   },
   {
     "kanji": "界",
@@ -1816,7 +1938,8 @@
     ],
     "kun": [],
     "meaningZh": "界",
-    "kanjivgId": "0754c"
+    "kanjivgId": "0754c",
+    "jlpt": 4
   },
   {
     "kanji": "畑",
@@ -1829,7 +1952,8 @@
       "-ばたけ"
     ],
     "meaningZh": "旱田",
-    "kanjivgId": "07551"
+    "kanjivgId": "07551",
+    "jlpt": null
   },
   {
     "kanji": "病",
@@ -1846,6 +1970,7 @@
     ],
     "meaningZh": "生病",
     "kanjivgId": "075c5",
+    "jlpt": 4,
     "openmoji": "1F912"
   },
   {
@@ -1864,7 +1989,8 @@
       "はな.つ"
     ],
     "meaningZh": "出發；發生",
-    "kanjivgId": "0767a"
+    "kanjivgId": "0767a",
+    "jlpt": 4
   },
   {
     "kanji": "登",
@@ -1883,6 +2009,7 @@
     ],
     "meaningZh": "登上",
     "kanjivgId": "0767b",
+    "jlpt": 3,
     "openmoji": "1F9D7"
   },
   {
@@ -1897,6 +2024,7 @@
     ],
     "meaningZh": "皮",
     "kanjivgId": "076ae",
+    "jlpt": 2,
     "openmoji": "1F34C"
   },
   {
@@ -1910,7 +2038,8 @@
       "さら"
     ],
     "meaningZh": "盤子",
-    "kanjivgId": "076bf"
+    "kanjivgId": "076bf",
+    "jlpt": 2
   },
   {
     "kanji": "相",
@@ -1924,7 +2053,8 @@
       "あい-"
     ],
     "meaningZh": "互相；相貌",
-    "kanjivgId": "076f8"
+    "kanjivgId": "076f8",
+    "jlpt": 3
   },
   {
     "kanji": "県",
@@ -1937,7 +2067,8 @@
       "か.ける"
     ],
     "meaningZh": "縣",
-    "kanjivgId": "0770c"
+    "kanjivgId": "0770c",
+    "jlpt": 2
   },
   {
     "kanji": "真",
@@ -1953,6 +2084,7 @@
     ],
     "meaningZh": "真的",
     "kanjivgId": "0771f",
+    "jlpt": 4,
     "openmoji": "1F4F7"
   },
   {
@@ -1970,7 +2102,8 @@
       "つ.ける"
     ],
     "meaningZh": "穿；到達",
-    "kanjivgId": "07740"
+    "kanjivgId": "07740",
+    "jlpt": 4
   },
   {
     "kanji": "短",
@@ -1983,7 +2116,8 @@
       "みじか.い"
     ],
     "meaningZh": "短",
-    "kanjivgId": "077ed"
+    "kanjivgId": "077ed",
+    "jlpt": 2
   },
   {
     "kanji": "研",
@@ -1996,7 +2130,8 @@
       "と.ぐ"
     ],
     "meaningZh": "研究",
-    "kanjivgId": "07814"
+    "kanjivgId": "07814",
+    "jlpt": 4
   },
   {
     "kanji": "礼",
@@ -2008,7 +2143,8 @@
     ],
     "kun": [],
     "meaningZh": "禮貌；道謝",
-    "kanjivgId": "0793c"
+    "kanjivgId": "0793c",
+    "jlpt": 3
   },
   {
     "kanji": "神",
@@ -2024,7 +2160,8 @@
       "こう-"
     ],
     "meaningZh": "神",
-    "kanjivgId": "0795e"
+    "kanjivgId": "0795e",
+    "jlpt": 3
   },
   {
     "kanji": "祭",
@@ -2040,6 +2177,7 @@
     ],
     "meaningZh": "祭典",
     "kanjivgId": "0796d",
+    "jlpt": 2,
     "openmoji": "1F386"
   },
   {
@@ -2051,7 +2189,8 @@
     ],
     "kun": [],
     "meaningZh": "福",
-    "kanjivgId": "0798f"
+    "kanjivgId": "0798f",
+    "jlpt": 3
   },
   {
     "kanji": "秒",
@@ -2063,6 +2202,7 @@
     "kun": [],
     "meaningZh": "秒",
     "kanjivgId": "079d2",
+    "jlpt": 2,
     "openmoji": "23F1"
   },
   {
@@ -2077,7 +2217,8 @@
       "きわ.める"
     ],
     "meaningZh": "探究",
-    "kanjivgId": "07a76"
+    "kanjivgId": "07a76",
+    "jlpt": 4
   },
   {
     "kanji": "章",
@@ -2088,7 +2229,8 @@
     ],
     "kun": [],
     "meaningZh": "章",
-    "kanjivgId": "07ae0"
+    "kanjivgId": "07ae0",
+    "jlpt": 2
   },
   {
     "kanji": "童",
@@ -2101,7 +2243,8 @@
       "わらべ"
     ],
     "meaningZh": "兒童",
-    "kanjivgId": "07ae5"
+    "kanjivgId": "07ae5",
+    "jlpt": 2
   },
   {
     "kanji": "笛",
@@ -2115,6 +2258,7 @@
     ],
     "meaningZh": "笛子",
     "kanjivgId": "07b1b",
+    "jlpt": 1,
     "openmoji": "1F3B7"
   },
   {
@@ -2127,7 +2271,8 @@
     ],
     "kun": [],
     "meaningZh": "第",
-    "kanjivgId": "07b2c"
+    "kanjivgId": "07b2c",
+    "jlpt": 1
   },
   {
     "kanji": "筆",
@@ -2141,6 +2286,7 @@
     ],
     "meaningZh": "筆",
     "kanjivgId": "07b46",
+    "jlpt": 2,
     "openmoji": "1F58C"
   },
   {
@@ -2156,7 +2302,8 @@
       "-ら"
     ],
     "meaningZh": "等；等級",
-    "kanjivgId": "07b49"
+    "kanjivgId": "07b49",
+    "jlpt": 3
   },
   {
     "kanji": "箱",
@@ -2170,6 +2317,7 @@
     ],
     "meaningZh": "箱子",
     "kanjivgId": "07bb1",
+    "jlpt": 3,
     "openmoji": "1F4E6"
   },
   {
@@ -2181,7 +2329,8 @@
     ],
     "kun": [],
     "meaningZh": "級",
-    "kanjivgId": "07d1a"
+    "kanjivgId": "07d1a",
+    "jlpt": 1
   },
   {
     "kanji": "終",
@@ -2199,7 +2348,8 @@
       "つい.に"
     ],
     "meaningZh": "結束",
-    "kanjivgId": "07d42"
+    "kanjivgId": "07d42",
+    "jlpt": 4
   },
   {
     "kanji": "緑",
@@ -2214,6 +2364,7 @@
     ],
     "meaningZh": "綠色",
     "kanjivgId": "07dd1",
+    "jlpt": 2,
     "openmoji": "1F7E2"
   },
   {
@@ -2229,6 +2380,7 @@
     ],
     "meaningZh": "練習",
     "kanjivgId": "07df4",
+    "jlpt": 2,
     "openmoji": "1F3CB"
   },
   {
@@ -2243,6 +2395,7 @@
     ],
     "meaningZh": "羊",
     "kanjivgId": "07f8a",
+    "jlpt": 1,
     "openmoji": "1F411"
   },
   {
@@ -2257,7 +2410,8 @@
       "うつく.しい"
     ],
     "meaningZh": "美",
-    "kanjivgId": "07f8e"
+    "kanjivgId": "07f8e",
+    "jlpt": 3
   },
   {
     "kanji": "習",
@@ -2272,7 +2426,8 @@
       "なら.い"
     ],
     "meaningZh": "學習",
-    "kanjivgId": "07fd2"
+    "kanjivgId": "07fd2",
+    "jlpt": 4
   },
   {
     "kanji": "者",
@@ -2285,7 +2440,8 @@
       "もの"
     ],
     "meaningZh": "人",
-    "kanjivgId": "08005"
+    "kanjivgId": "08005",
+    "jlpt": 4
   },
   {
     "kanji": "育",
@@ -2301,7 +2457,8 @@
       "はぐく.む"
     ],
     "meaningZh": "養育",
-    "kanjivgId": "080b2"
+    "kanjivgId": "080b2",
+    "jlpt": 3
   },
   {
     "kanji": "苦",
@@ -2319,7 +2476,8 @@
       "にが.る"
     ],
     "meaningZh": "苦；辛苦",
-    "kanjivgId": "082e6"
+    "kanjivgId": "082e6",
+    "jlpt": 3
   },
   {
     "kanji": "荷",
@@ -2333,6 +2491,7 @@
     ],
     "meaningZh": "行李",
     "kanjivgId": "08377",
+    "jlpt": 2,
     "openmoji": "1F392"
   },
   {
@@ -2348,7 +2507,8 @@
       "お.とす"
     ],
     "meaningZh": "掉落",
-    "kanjivgId": "0843d"
+    "kanjivgId": "0843d",
+    "jlpt": 3
   },
   {
     "kanji": "葉",
@@ -2362,6 +2522,7 @@
     ],
     "meaningZh": "葉子",
     "kanjivgId": "08449",
+    "jlpt": 3,
     "openmoji": "1F343"
   },
   {
@@ -2376,6 +2537,7 @@
     ],
     "meaningZh": "藥",
     "kanjivgId": "085ac",
+    "jlpt": 3,
     "openmoji": "1F48A"
   },
   {
@@ -2390,6 +2552,7 @@
     ],
     "meaningZh": "血",
     "kanjivgId": "08840",
+    "jlpt": 2,
     "openmoji": "1FA78"
   },
   {
@@ -2408,6 +2571,7 @@
     ],
     "meaningZh": "表面；表格",
     "kanjivgId": "08868",
+    "jlpt": 3,
     "openmoji": "1F4CA"
   },
   {
@@ -2422,6 +2586,7 @@
     ],
     "meaningZh": "詩",
     "kanjivgId": "08a69",
+    "jlpt": 1,
     "openmoji": "1F4DC"
   },
   {
@@ -2438,7 +2603,8 @@
       "ととの.える"
     ],
     "meaningZh": "調查；調整",
-    "kanjivgId": "08abf"
+    "kanjivgId": "08abf",
+    "jlpt": 3
   },
   {
     "kanji": "談",
@@ -2450,6 +2616,7 @@
     "kun": [],
     "meaningZh": "談話",
     "kanjivgId": "08ac7",
+    "jlpt": 3,
     "openmoji": "1F5EF"
   },
   {
@@ -2466,6 +2633,7 @@
     ],
     "meaningZh": "豆",
     "kanjivgId": "08c46",
+    "jlpt": 1,
     "openmoji": "1FAD8"
   },
   {
@@ -2481,7 +2649,8 @@
       "お.う"
     ],
     "meaningZh": "輸；背負",
-    "kanjivgId": "08ca0"
+    "kanjivgId": "08ca0",
+    "jlpt": 3
   },
   {
     "kanji": "起",
@@ -2498,7 +2667,8 @@
       "た.つ"
     ],
     "meaningZh": "起來",
-    "kanjivgId": "08d77"
+    "kanjivgId": "08d77",
+    "jlpt": 4
   },
   {
     "kanji": "路",
@@ -2513,7 +2683,8 @@
       "みち"
     ],
     "meaningZh": "路",
-    "kanjivgId": "08def"
+    "kanjivgId": "08def",
+    "jlpt": 3
   },
   {
     "kanji": "身",
@@ -2526,7 +2697,8 @@
       "み"
     ],
     "meaningZh": "身體",
-    "kanjivgId": "08eab"
+    "kanjivgId": "08eab",
+    "jlpt": null
   },
   {
     "kanji": "転",
@@ -2547,6 +2719,7 @@
     ],
     "meaningZh": "轉；跌倒",
     "kanjivgId": "08ee2",
+    "jlpt": 4,
     "openmoji": "1F6B2"
   },
   {
@@ -2564,7 +2737,8 @@
       "かろ.んじる"
     ],
     "meaningZh": "輕",
-    "kanjivgId": "08efd"
+    "kanjivgId": "08efd",
+    "jlpt": 2
   },
   {
     "kanji": "農",
@@ -2576,6 +2750,7 @@
     "kun": [],
     "meaningZh": "農",
     "kanjivgId": "08fb2",
+    "jlpt": 2,
     "openmoji": "1F69C"
   },
   {
@@ -2593,6 +2768,7 @@
     ],
     "meaningZh": "歸還",
     "kanjivgId": "08fd4",
+    "jlpt": 3,
     "openmoji": "21A9"
   },
   {
@@ -2606,7 +2782,8 @@
       "お.う"
     ],
     "meaningZh": "追",
-    "kanjivgId": "08ffd"
+    "kanjivgId": "08ffd",
+    "jlpt": 3
   },
   {
     "kanji": "送",
@@ -2620,6 +2797,7 @@
     ],
     "meaningZh": "送",
     "kanjivgId": "09001",
+    "jlpt": 4,
     "openmoji": "1F4E4"
   },
   {
@@ -2637,6 +2815,7 @@
     ],
     "meaningZh": "快",
     "kanjivgId": "0901f",
+    "jlpt": 3,
     "openmoji": "1F3CE"
   },
   {
@@ -2652,6 +2831,7 @@
     ],
     "meaningZh": "前進",
     "kanjivgId": "09032",
+    "jlpt": 3,
     "openmoji": "1F53C"
   },
   {
@@ -2668,6 +2848,7 @@
     ],
     "meaningZh": "玩",
     "kanjivgId": "0904a",
+    "jlpt": 3,
     "openmoji": "1F3AE"
   },
   {
@@ -2682,6 +2863,7 @@
     ],
     "meaningZh": "運送；運氣",
     "kanjivgId": "0904b",
+    "jlpt": 4,
     "openmoji": "1F69A"
   },
   {
@@ -2695,7 +2877,8 @@
       "-べ"
     ],
     "meaningZh": "部分；社團",
-    "kanjivgId": "090e8"
+    "kanjivgId": "090e8",
+    "jlpt": 3
   },
   {
     "kanji": "都",
@@ -2709,7 +2892,8 @@
       "みやこ"
     ],
     "meaningZh": "都市；首都",
-    "kanjivgId": "090fd"
+    "kanjivgId": "090fd",
+    "jlpt": 3
   },
   {
     "kanji": "配",
@@ -2722,7 +2906,8 @@
       "くば.る"
     ],
     "meaningZh": "分配",
-    "kanjivgId": "0914d"
+    "kanjivgId": "0914d",
+    "jlpt": 3
   },
   {
     "kanji": "酒",
@@ -2737,6 +2922,7 @@
     ],
     "meaningZh": "酒",
     "kanjivgId": "09152",
+    "jlpt": 3,
     "openmoji": "1F376"
   },
   {
@@ -2757,7 +2943,8 @@
       "おも"
     ],
     "meaningZh": "重；重疊",
-    "kanjivgId": "091cd"
+    "kanjivgId": "091cd",
+    "jlpt": 4
   },
   {
     "kanji": "鉄",
@@ -2771,6 +2958,7 @@
     ],
     "meaningZh": "鐵",
     "kanjivgId": "09244",
+    "jlpt": 2,
     "openmoji": "1F683"
   },
   {
@@ -2785,6 +2973,7 @@
     ],
     "meaningZh": "銀",
     "kanjivgId": "09280",
+    "jlpt": 4,
     "openmoji": "1F948"
   },
   {
@@ -2804,6 +2993,7 @@
     ],
     "meaningZh": "打開",
     "kanjivgId": "0958b",
+    "jlpt": 4,
     "openmoji": "1F513"
   },
   {
@@ -2815,7 +3005,8 @@
     ],
     "kun": [],
     "meaningZh": "院",
-    "kanjivgId": "09662"
+    "kanjivgId": "09662",
+    "jlpt": 4
   },
   {
     "kanji": "陽",
@@ -2829,6 +3020,7 @@
     ],
     "meaningZh": "太陽",
     "kanjivgId": "0967d",
+    "jlpt": 3,
     "openmoji": "1F31E"
   },
   {
@@ -2843,6 +3035,7 @@
     ],
     "meaningZh": "樓層；階段",
     "kanjivgId": "0968e",
+    "jlpt": 2,
     "openmoji": "1FA9C"
   },
   {
@@ -2859,6 +3052,7 @@
     ],
     "meaningZh": "集合",
     "kanjivgId": "096c6",
+    "jlpt": 4,
     "openmoji": "1F465"
   },
   {
@@ -2875,7 +3069,8 @@
       "つら"
     ],
     "meaningZh": "面；臉",
-    "kanjivgId": "09762"
+    "kanjivgId": "09762",
+    "jlpt": 3
   },
   {
     "kanji": "題",
@@ -2886,7 +3081,8 @@
     ],
     "kun": [],
     "meaningZh": "題目",
-    "kanjivgId": "0984c"
+    "kanjivgId": "0984c",
+    "jlpt": 4
   },
   {
     "kanji": "飲",
@@ -2902,6 +3098,7 @@
     ],
     "meaningZh": "喝",
     "kanjivgId": "098f2",
+    "jlpt": 4,
     "openmoji": "1F964"
   },
   {
@@ -2916,7 +3113,8 @@
       "たて"
     ],
     "meaningZh": "館",
-    "kanjivgId": "09928"
+    "kanjivgId": "09928",
+    "jlpt": 4
   },
   {
     "kanji": "駅",
@@ -2928,6 +3126,7 @@
     "kun": [],
     "meaningZh": "車站",
     "kanjivgId": "099c5",
+    "jlpt": 4,
     "openmoji": "1F689"
   },
   {
@@ -2942,6 +3141,7 @@
     ],
     "meaningZh": "鼻子",
     "kanjivgId": "09f3b",
+    "jlpt": 2,
     "openmoji": "1F443"
   }
 ]

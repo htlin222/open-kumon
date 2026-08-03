@@ -27,10 +27,20 @@ describe('KanjiEntrySchema', () => {
     meaningZh: '花',
     kanjivgId: '082b1',
     openmoji: '1F337',
+    jlpt: 4,
   }
 
   it('接受一筆完整資料', () => {
     expect(KanjiEntrySchema.safeParse(valid).success).toBe(true)
+  })
+
+  it('jlpt 可以是 null（少數字不在任何級別內）', () => {
+    expect(KanjiEntrySchema.safeParse({ ...valid, jlpt: null }).success).toBe(true)
+  })
+
+  it('拒絕超出 1–5 的 JLPT 等級', () => {
+    expect(KanjiEntrySchema.safeParse({ ...valid, jlpt: 6 }).success).toBe(false)
+    expect(KanjiEntrySchema.safeParse({ ...valid, jlpt: 0 }).success).toBe(false)
   })
 
   it('openmoji 可省略（抽象字沒有對應插圖）', () => {

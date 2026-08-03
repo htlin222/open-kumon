@@ -65,7 +65,12 @@ Build-time pipeline：KANJIDIC2 / kanjiapi.dev（讀音）· KanjiVG（筆順）
 | 陪伴角色（自繪線稿，非 Open Peeps） | ✅ |
 
 | 書き方（書寫）版型 —— 每 5 回插一張，零人工內容 | ✅ |
-| 言葉と文のきまり／文章の読解 版型 | ⬜ |
+| JLPT 雙軸排序（学年軸／JLPT軸可切換） | ✅ |
+| 語彙（單字量）版型 | ⬜ |
+| 文型（文法句型）版型 | ⬜ |
+| 聽力（紙上 QR → 音檔） | ⬜ |
+| 文章の読解 版型 | ⬜ |
+| 中學漢字 1110 字（N1 必需，超出小學範圍） | ⬜ |
 | 程度檢定（規則式自適應，16 題／3 分鐘） | ✅ |
 | 程度檢定結果的 AI 中文解讀（Workers AI） | ⬜ |
 | D1 進度同步 | ⬜ |
@@ -82,10 +87,16 @@ pnpm audit:sheets        # 列印稽核（六道關卡）
 ./tools/deploy.sh        # 部署到 Cloudflare Pages
 ```
 
+## 目標
+
+小二 N5 → 小六 N1。這條路有三個結構性障礙（小學只教 1026 字而 N1 需要 2136、聽解無法用紙練、語彙量從零開始），全部記錄在 [JLPT 路線圖](docs/plans/2026-08-03-jlpt-roadmap.md)。
+
 ## 文件
 
 - [設計文件](docs/plans/2026-08-03-open-kumon-design.md)
 - [M1–M2 實作計畫](docs/plans/2026-08-03-open-kumon-m1-m2.md)
+- [M3 課表引擎](docs/plans/2026-08-03-open-kumon-m3.md)
+- [JLPT 路線圖](docs/plans/2026-08-03-jlpt-roadmap.md)
 
 ## 授權
 
