@@ -9,7 +9,13 @@ import strokes3 from '../../content/strokes/3.json'
 import strokes4 from '../../content/strokes/4.json'
 import strokes5 from '../../content/strokes/5.json'
 import type { KanjiEntry } from './schema'
+import vocab1 from '../../content/vocab/1.json'
+import vocab2 from '../../content/vocab/2.json'
+import vocab3 from '../../content/vocab/3.json'
+import vocab4 from '../../content/vocab/4.json'
+import vocab5 from '../../content/vocab/5.json'
 import type { StrokeData } from './strokes'
+import type { VocabItem } from '../components/sheet/VocabSheet'
 
 /**
  * 已建構好的內容。build-time 產出、進 git、可人工校對。
@@ -40,6 +46,14 @@ export function earlierGrades(grade: number): KanjiEntry[] {
     .filter((g) => g < grade)
     .sort()
     .flatMap((g) => KANJI_BY_GRADE[g] ?? [])
+}
+
+export const VOCAB_BY_GRADE: Record<number, VocabItem[]> = {
+  1: vocab1 as VocabItem[],
+  2: vocab2 as VocabItem[],
+  3: vocab3 as VocabItem[],
+  4: vocab4 as VocabItem[],
+  5: vocab5 as VocabItem[],
 }
 
 export const AVAILABLE_GRADES = Object.keys(KANJI_BY_GRADE).map(Number).sort()

@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { KanjiSheet } from '../components/sheet/KanjiSheet'
 import { KakikataSheet } from '../components/sheet/KakikataSheet'
-import { STROKES_BY_GRADE, KANJI_BY_GRADE, earlierGrades } from '../content/registry'
+import { VocabSheet } from '../components/sheet/VocabSheet'
+import { STROKES_BY_GRADE, KANJI_BY_GRADE, VOCAB_BY_GRADE, earlierGrades } from '../content/registry'
 import { buildUnit, unitCount, type KanjiUnit } from '../curriculum/units'
 import { A4 } from '../print/units'
 
@@ -101,6 +102,25 @@ export function StaticPreview({ params }: { params: PreviewParams }) {
 
   const total = unitCount(entries)
   const unitNo = Math.min(Math.max(1, params.unitNo ?? 1), total)
+
+  if (params.series === 'vocab') {
+    const words = VOCAB_BY_GRADE[params.grade] ?? []
+    // 一回 10 個詞：正面 5 個寫讀音，背面 5 個填詞
+    const items = words.filter((w) => w.example).slice((unitNo - 1) * 10, unitNo * 10)
+    const sides: ('front' | 'back')[] = params.side === 'both' ? ['front', 'back'] : [params.side]
+    const sheets = sides.map((s) => (
+      <VocabSheet key={s} grade={params.grade} items={items} side={s} />
+    ))
+    // 稽核模式不縮放，讓 Playwright 量到真實尺寸；螢幕上要縮
+    if (params.raw) return <>{sheets}</>
+    return (
+      <div style={{ display: 'grid', gap: 24 }}>
+        {sheets.map((sheet, i) => (
+          <ScaledSheet key={i}>{sheet}</ScaledSheet>
+        ))}
+      </div>
+    )
+  }
 
   if (params.series === 'kakikata') {
     // 書き方 練的是「到這一回為止最近學的 6 個字」

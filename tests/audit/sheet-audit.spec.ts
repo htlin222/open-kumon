@@ -32,6 +32,9 @@ const CASES: Case[] = [
   // 書き方：一頁三個字、每字 3 描 4 寫，是格子最密的版型
   { series: 'kakikata', grade: 1, unit: 4 },
   { series: 'kakikata', grade: 5, unit: 30 },
+  // 語彙：例句是唯一「一整行日文」的版型，行長與斷行要驗
+  { series: 'vocab', grade: 3, unit: 1 },
+  { series: 'vocab', grade: 5, unit: 10 },
 ]
 
 for (const c of CASES) {
