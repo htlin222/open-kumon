@@ -6,13 +6,14 @@ import {
   activeChild,
   recordCompletion,
   setActiveChild,
+  promoteGrade,
 } from '../storage/store'
 import type { Completion, Store } from '../storage/schema'
 import { pickAssignment, streakOf, type Assignment } from '../curriculum/schedule'
 import { dueOn } from '../curriculum/srs'
 import { toDayKey, type DayKey } from '../curriculum/day'
 import { buildUnit, buildReviewUnit, checkableOf, unitCount, type KanjiUnit } from '../curriculum/units'
-import { KANJI_BY_GRADE } from '../content/registry'
+import { KANJI_BY_GRADE, earlierGrades } from '../content/registry'
 
 export interface ProgressView {
   store: Store
@@ -32,6 +33,10 @@ export interface ProgressView {
   submit: (wrong: string[]) => void
   /** 今天是否已經送出過 */
   doneToday: boolean
+  grade: number
+  /** 下一個有內容的年級；沒有就是 null */
+  nextGrade: number | null
+  promote: () => void
 }
 
 /**
@@ -69,7 +74,7 @@ export function useProgress(): ProgressView {
       return buildReviewUnit(entries, child.grade, assignment.kanji)
     }
     if (assignment.kind === 'lesson') {
-      return buildUnit(entries, child.grade, assignment.unitNo, assignment.injected)
+      return buildUnit(entries, child.grade, assignment.unitNo, assignment.injected, earlierGrades(child.grade))
     }
     return null
   }, [child, entries, assignment])
@@ -120,5 +125,9 @@ export function useProgress(): ProgressView {
     chooseChild: (id) => update(setActiveChild(store, id)),
     submit,
     doneToday,
+    grade: child?.grade ?? 1,
+    nextGrade:
+      child && KANJI_BY_GRADE[child.grade + 1] ? child.grade + 1 : null,
+    promote: () => child && update(promoteGrade(store, child.id)),
   }
 }

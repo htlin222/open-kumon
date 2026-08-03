@@ -112,6 +112,23 @@ export function recordCompletion(store: Store, childId: string, entry: Completio
   return { ...store, children }
 }
 
+/**
+ * 升上下一個年級。
+ *
+ * 刻意做成家長按按鈕，而不是做完最後一回就自動跳 —— 升級是個里程碑，
+ * 值得被看見；而且錯題本裡還有東西時，家長可能想先把它清乾淨再往上走。
+ */
+export function promoteGrade(store: Store, childId: string): Store {
+  const i = store.children.findIndex((c) => c.id === childId)
+  if (i === -1) return store
+  const child = store.children[i]!
+  if (child.grade >= 6) return store
+
+  const children = [...store.children]
+  children[i] = { ...child, grade: child.grade + 1, nextUnitNo: 1 }
+  return { ...store, children }
+}
+
 export function setActiveChild(store: Store, childId: string): Store {
   return store.children.some((c) => c.id === childId) ? { ...store, activeChildId: childId } : store
 }

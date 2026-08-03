@@ -19,6 +19,10 @@ const CASES: Case[] = [
   { series: 'kanji', grade: 1, unit: 1 },
   { series: 'kanji', grade: 1, unit: 14 },
   { series: 'kanji', grade: 1, unit: 27 },
+  // 2 年級的字筆畫多很多（「顔」18 畫），筆順條會換行、範字更擠
+  { series: 'kanji', grade: 2, unit: 1 },
+  { series: 'kanji', grade: 2, unit: 40 },
+  { series: 'kanji', grade: 2, unit: 54 },
 ]
 
 for (const c of CASES) {

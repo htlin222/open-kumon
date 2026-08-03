@@ -8,11 +8,29 @@ const raw = JSON.parse(readFileSync('content/source/openmoji-map.json', 'utf8'))
 >
 const { _comment, ...map } = raw
 const g1 = JSON.parse(readFileSync('content/kanji/1.json', 'utf8')) as KanjiEntry[]
+const g2 = JSON.parse(readFileSync('content/kanji/2.json', 'utf8')) as KanjiEntry[]
+
+/**
+ * 覆蓋率門檻分年級。1 年級幾乎都是具象字（日月火水山川），2 年級開始大量
+ * 抽象字（元・公・当・番・週），硬湊圖只會誤導孩子，所以門檻本來就該降。
+ */
+const MIN_COVERAGE = { 1: 0.7, 2: 0.35 } as const
 
 describe('OpenMoji 意味插圖', () => {
   it('1 年級覆蓋率 ≥ 70%', () => {
     const hit = g1.filter((e) => e.openmoji).length
-    expect(hit / g1.length).toBeGreaterThanOrEqual(0.7)
+    expect(hit / g1.length).toBeGreaterThanOrEqual(MIN_COVERAGE[1])
+  })
+
+  it('2 年級覆蓋率 ≥ 35%（抽象字多，門檻本來就低）', () => {
+    const hit = g2.filter((e) => e.openmoji).length
+    expect(hit / g2.length).toBeGreaterThanOrEqual(MIN_COVERAGE[2])
+  })
+
+  it('背面 10 題所需的插圖字，兩個年級都足夠', () => {
+    for (const [grade, list] of [[1, g1], [2, g2]] as const) {
+      expect(list.filter((e) => e.openmoji).length, `${grade}年級`).toBeGreaterThanOrEqual(10)
+    }
   })
 
   it('每個 hexcode 都對得到已複製的線稿檔', () => {
@@ -27,15 +45,15 @@ describe('OpenMoji 意味插圖', () => {
     expect([...new Set(dupes)], '重複的 hexcode').toHaveLength(0)
   })
 
-  it('對照表裡的字都真的在 1 年級配当表內', () => {
-    const chars = new Set(g1.map((e) => e.kanji))
+  it('對照表裡的字都在已建構的年級配当表內', () => {
+    const chars = new Set([...g1, ...g2].map((e) => e.kanji))
     for (const kanji of Object.keys(map)) {
-      expect(chars.has(kanji), `「${kanji}」不在 1 年級`).toBe(true)
+      expect(chars.has(kanji), `「${kanji}」不在 1–2 年級`).toBe(true)
     }
   })
 
-  it('content/kanji/1.json 的 openmoji 欄位與對照表一致', () => {
-    for (const e of g1) {
+  it('產出的 openmoji 欄位與對照表一致', () => {
+    for (const e of [...g1, ...g2]) {
       expect(e.openmoji, e.kanji).toBe(map[e.kanji])
     }
   })
@@ -45,7 +63,7 @@ describe('OpenMoji 意味插圖', () => {
       /fill="(?!none")[^"]+"/.test(readFileSync(`public/openmoji/${code}.svg`, 'utf8')),
     )
     // 頁面層的碳粉預算才是真正的關卡（tests/audit），這裡只擋住整批換成彩色版的意外
-    expect(solid.map(([k]) => k), `含實心色塊：${solid.map(([k]) => k).join('')}`).toHaveLength(2)
+    expect(solid.map(([k]) => k), `含實心色塊：${solid.map(([k]) => k).join('')}`).toHaveLength(7)
   })
 
   it('viewBox 一律 72×72（版型靠這個等比縮放）', () => {

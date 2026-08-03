@@ -22,7 +22,7 @@ export function TodayPanel({ progress, lookup }: TodayPanelProps) {
         open-kumon
       </Heading>
       <div className="chrome__unit">
-        {childName} ・ {progress.today}
+        {childName} ・ {progress.grade} 年生 ・ {progress.today}
       </div>
 
       <div className="chrome__stats">
@@ -37,10 +37,17 @@ export function TodayPanel({ progress, lookup }: TodayPanelProps) {
       </div>
 
       {assignment?.kind === 'finished' ? (
-        <div className="chrome__note">
-          <IconConfetti size={18} /> 這個年級的字全部寫完了。
-          <br />
-          等 2 年級內容補上來，或回頭把錯題本清空。
+        <div>
+          <div className="chrome__note" style={{ marginTop: 0 }}>
+            <IconConfetti size={18} /> {progress.grade} 年生的字全部寫完了。
+          </div>
+          {progress.nextGrade ? (
+            <Button variant="primary" className="chrome__print" onClick={progress.promote}>
+              升上 {progress.nextGrade} 年生
+            </Button>
+          ) : (
+            <div className="chrome__note">下一個年級的內容還沒建構。</div>
+          )}
         </div>
       ) : (
         <>

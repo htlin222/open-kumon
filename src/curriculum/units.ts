@@ -39,6 +39,8 @@ export function buildUnit(
   grade: number,
   unitNo: number,
   injected: readonly string[] = [],
+  /** 前面年級已學過的字。本年級開頭幾回還沒累積夠有插圖的字時用來補足背面 */
+  earlier: readonly KanjiEntry[] = [],
 ): KanjiUnit {
   const total = unitCount(entries)
   if (unitNo < 1 || unitNo > total) {
@@ -48,7 +50,8 @@ export function buildUnit(
   const start = (unitNo - 1) * KANJI_PER_UNIT
   const newKanji = entries.slice(start, start + KANJI_PER_UNIT)
 
-  const byChar = new Map(entries.map((e) => [e.kanji, e]))
+  // 到期的複習字可能來自前一個年級，查表必須涵蓋兩邊
+  const byChar = new Map([...earlier, ...entries].map((e) => [e.kanji, e]))
   // 到期字排最前面；沒有插圖的出不了看圖寫字的題，只能落掉
   const pinned = injected
     .map((k) => byChar.get(k))
@@ -57,8 +60,15 @@ export function buildUnit(
   const learned = entries.slice(0, start + KANJI_PER_UNIT).filter((e) => e.openmoji)
   const recent = learned.slice(-REVIEW_SLOTS).reverse()
 
-  const seen = new Set(pinned.map((e) => e.kanji))
-  const reviewKanji = [...pinned, ...recent.filter((e) => !seen.has(e.kanji))].slice(0, REVIEW_SLOTS)
+  // 年級開頭幾回，本年級還沒累積夠有插圖的字（2年級第1回是「万丸交」，一張圖都沒有），
+  // 背面會整頁空白。回頭取前一年級的字補足 —— 剛升級時複習舊字本來就是對的。
+  const backfill = earlier.filter((e) => e.openmoji).slice(-REVIEW_SLOTS * 2).reverse()
+
+  // 從空集合開始去重，順序自然保留：到期字 → 本年級最近學的 → 前年級補足
+  const seen = new Set<string>()
+  const reviewKanji = [...pinned, ...recent, ...backfill]
+    .filter((e) => (seen.has(e.kanji) ? false : (seen.add(e.kanji), true)))
+    .slice(0, REVIEW_SLOTS)
 
   return { grade, unitNo, kind: 'lesson', newKanji, reviewKanji }
 }

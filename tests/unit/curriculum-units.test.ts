@@ -125,3 +125,34 @@ describe('checkableOf', () => {
     expect(new Set(list).size).toBe(list.length)
   })
 })
+
+describe('年級開頭的背面補足', () => {
+  const g2 = JSON.parse(readFileSync('content/kanji/2.json', 'utf8')) as KanjiEntry[]
+
+  it('2 年級第 1 回的三個字都沒有插圖', () => {
+    const u = buildUnit(g2, 2, 1)
+    expect(u.newKanji.map((e) => e.kanji)).toEqual(['万', '丸', '交'])
+    expect(u.newKanji.every((e) => !e.openmoji)).toBe(true)
+  })
+
+  it('沒有前年級可補時，背面是空的（就是那張白紙）', () => {
+    expect(buildUnit(g2, 2, 1).reviewKanji).toEqual([])
+  })
+
+  it('傳入 1 年級的字之後背面就滿了', () => {
+    const u = buildUnit(g2, 2, 1, [], entries)
+    expect(u.reviewKanji).toHaveLength(10)
+    expect(u.reviewKanji.every((e) => e.openmoji)).toBe(true)
+  })
+
+  it('補足的字不會蓋掉到期的複習字', () => {
+    const u = buildUnit(g2, 2, 1, ['花'], entries)
+    expect(u.reviewKanji[0]!.kanji).toBe('花')
+  })
+
+  it('本年級已累積夠字之後就不需要補足', () => {
+    const late = buildUnit(g2, 2, 54, [], entries)
+    const fromG2 = late.reviewKanji.filter((e) => e.grade === 2)
+    expect(fromG2.length).toBe(late.reviewKanji.length)
+  })
+})

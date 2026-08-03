@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { KanjiSheet } from '../components/sheet/KanjiSheet'
-import { STROKES_BY_GRADE, KANJI_BY_GRADE } from '../content/registry'
+import { STROKES_BY_GRADE, KANJI_BY_GRADE, earlierGrades } from '../content/registry'
 import { buildUnit, unitCount, type KanjiUnit } from '../curriculum/units'
 import { A4 } from '../print/units'
 
@@ -93,7 +93,8 @@ export function StaticPreview({ params }: { params: PreviewParams }) {
 
   const total = unitCount(entries)
   const unitNo = Math.min(Math.max(1, params.unitNo ?? 1), total)
-  return <SheetStack unit={buildUnit(entries, params.grade, unitNo)} side={params.side} scaled={!params.raw} />
+  const unit = buildUnit(entries, params.grade, unitNo, [], earlierGrades(params.grade))
+  return <SheetStack unit={unit} side={params.side} scaled={!params.raw} />
 }
 
 export function Missing({ grade }: { grade: number }) {
