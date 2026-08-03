@@ -161,3 +161,47 @@
   cursor: pointer;
   text-decoration: underline;
 }
+
+.progress__page {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+}
+
+.progress__card {
+  padding: 16px;
+  margin-bottom: 16px;
+  border: 1px solid var(--borderColor-default, #d1d9e0);
+  border-radius: 10px;
+}
+
+.progress__name { font-size: 18px; font-weight: 600; }
+.progress__grade { font-size: 13px; color: var(--fgColor-muted, #59636e); }
+
+.progress__today {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 14px 0 10px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  background: var(--bgColor-neutral-muted, #818b981f);
+  color: var(--fgColor-muted, #59636e);
+}
+
+.progress__today.is-done {
+  background: var(--bgColor-success-muted, #dafbe1);
+  color: var(--fgColor-success, #1a7f37);
+}
+
+.progress__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  font-size: 13px;
+  color: var(--fgColor-muted, #59636e);
+}
+
+.progress__stats span { display: inline-flex; align-items: center; gap: 4px; }

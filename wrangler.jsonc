@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "open-kumon",
+  "compatibility_date": "2026-08-01",
+  "pages_build_output_dir": "dist",
+  "kv_namespaces": [
+    { "binding": "PROGRESS", "id": "0bd90bbfc40a43baa296dc2644f04769" }
+  ]
+}

@@ -53,6 +53,12 @@ export function useProgress(): ProgressView {
   const update = useCallback((next: Store) => {
     saveStore(next)
     setStore(next)
+    // 單向推快照給手機看。失敗不擋任何事 —— 進度的權威來源永遠是本機。
+    void fetch('/api/progress', {
+      method: 'PUT',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify(next),
+    }).catch(() => {})
   }, [])
 
   const child = activeChild(store)

@@ -4,7 +4,7 @@
 
 給台灣孩子的日本小學「国語」每日練習單。畫面上選好，一鍵印出 A4，寫完回網站勾錯題，隔天自動出下一張。
 
-**線上**：<https://open-kumon.pages.dev>（Cloudflare Access 保護，僅限白名單 email）
+**線上**：<https://open-kumon.pages.dev> ・ 手機看進度 <https://open-kumon.pages.dev/progress>（Cloudflare Access 保護，僅限白名單 email）
 
 課程骨架對齊「くもんの小学ドリル 国語」，範圍 1–5 年級，**835 字全數建構完成**（279 回，約一年半的每日份量）。
 
@@ -75,7 +75,7 @@ Build-time pipeline：KANJIDIC2 / kanjiapi.dev（讀音）· KanjiVG（筆順）
 | 中學漢字 1110 字（N1 必需，超出小學範圍） | ⬜ |
 | 程度檢定（規則式自適應，16 題／3 分鐘） | ✅ |
 | 程度檢定結果的 AI 中文解讀（Workers AI） | ⬜ |
-| D1 進度同步 | ⬜ |
+| 手機看進度（單向快照，Pages Functions + KV） | ✅ |
 
 ## 開發
 
