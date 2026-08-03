@@ -1,0 +1,2402 @@
+[
+  {
+    "prompt": "このＴシャツはバーゲン＿買ったんだ。",
+    "sentence": "このＴシャツはバーゲンで買ったんだ。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "I bought this T-shirt on sale."
+  },
+  {
+    "prompt": "何＿しなければならないかは明白です。",
+    "sentence": "何をしなければならないかは明白です。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "It is clear what must be done."
+  },
+  {
+    "prompt": "あくどい事＿するな。",
+    "sentence": "あくどい事をするな。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "Don't do wicked things."
+  },
+  {
+    "prompt": "あなたはシャツ＿あべこべに着ている。",
+    "sentence": "あなたはシャツをあべこべに着ている。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "You are wearing your shirt inside out."
+  },
+  {
+    "prompt": "あれがこの町＿大通りだ。",
+    "sentence": "あれがこの町の大通りだ。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "That is the main street of this city."
+  },
+  {
+    "prompt": "このフロッピー＿フォーマットしてはいけません。",
+    "sentence": "このフロッピーをフォーマットしてはいけません。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "You mustn't format this floppy disk."
+  },
+  {
+    "prompt": "たとえばあなたの家庭のいざこざ＿考えてごらんなさい。",
+    "sentence": "たとえばあなたの家庭のいざこざを考えてごらんなさい。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "Take, for instance, your family problems."
+  },
+  {
+    "prompt": "さっき＿やたらウネウネした道を進んでいる。",
+    "sentence": "さっきからやたらウネウネした道を進んでいる。",
+    "answer": "から",
+    "choices": [
+      "を",
+      "まで",
+      "と",
+      "から"
+    ],
+    "en": "I'm getting tired of driving on this winding road."
+  },
+  {
+    "prompt": "気＿楽にして、何よりもうろたえないことだ。",
+    "sentence": "気を楽にして、何よりもうろたえないことだ。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Relax, and above all, don't panic."
+  },
+  {
+    "prompt": "君、ええ仕事＿してるな。",
+    "sentence": "君、ええ仕事をしてるな。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "You're doing good work there."
+  },
+  {
+    "prompt": "この雨＿中をおいでにならないでください。",
+    "sentence": "この雨の中をおいでにならないでください。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Don't bother coming in this rain."
+  },
+  {
+    "prompt": "お客様＿サイズは切らしてしまっているようですが。",
+    "sentence": "お客様のサイズは切らしてしまっているようですが。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "I think we're out of your size."
+  },
+  {
+    "prompt": "どうやってそのお金＿手に入れたんですか。",
+    "sentence": "どうやってそのお金を手に入れたんですか。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "How did you come by the money?"
+  },
+  {
+    "prompt": "今日はこれ＿おしまいにしてはどうでしょう。",
+    "sentence": "今日はこれでおしまいにしてはどうでしょう。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "What do you say to calling it a day?"
+  },
+  {
+    "prompt": "あの子はよくお使い＿する。",
+    "sentence": "あの子はよくお使いをする。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "The boy often runs errands."
+  },
+  {
+    "prompt": "おじいさんはその木＿人形をピノキオと名づけました。",
+    "sentence": "おじいさんはその木の人形をピノキオと名づけました。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "The old man named the wooden doll Pinocchio."
+  },
+  {
+    "prompt": "くれぐれもお体＿お大事に。",
+    "sentence": "くれぐれもお体をお大事に。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Please take good care of yourself."
+  },
+  {
+    "prompt": "お湯＿全部使わないで。",
+    "sentence": "お湯を全部使わないで。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "Don't use all the hot water."
+  },
+  {
+    "prompt": "部屋の明かりのスイッチ＿カチッとつけた。",
+    "sentence": "部屋の明かりのスイッチをカチッとつけた。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "He flipped the switch and threw the room into brightness."
+  },
+  {
+    "prompt": "ラジオ＿とめてくれないかなぁ。",
+    "sentence": "ラジオをとめてくれないかなぁ。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "I wish they would turn off the radio."
+  },
+  {
+    "prompt": "あなた＿言うことは正しいかもしれない。",
+    "sentence": "あなたの言うことは正しいかもしれない。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "You could be right, I suppose."
+  },
+  {
+    "prompt": "旅行＿このガイドブックが役に立つかもしれませんよ。",
+    "sentence": "旅行でこのガイドブックが役に立つかもしれませんよ。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "This guidebook might be of use to you on your trip."
+  },
+  {
+    "prompt": "学校は午前８時１０分＿始まる。",
+    "sentence": "学校は午前８時１０分から始まる。",
+    "answer": "から",
+    "choices": [
+      "を",
+      "まで",
+      "から",
+      "と"
+    ],
+    "en": "School begins at 8:10 a.m."
+  },
+  {
+    "prompt": "太陽が地面＿からからにかわかした。",
+    "sentence": "太陽が地面をからからにかわかした。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "The sun has dried up the ground."
+  },
+  {
+    "prompt": "トムは頭にきつい一発＿受けた。",
+    "sentence": "トムは頭にきつい一発を受けた。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Tom received a heavy blow on the head."
+  },
+  {
+    "prompt": "ギリギリ＿ところで間に合った。",
+    "sentence": "ギリギリのところで間に合った。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "I just made it under the wire."
+  },
+  {
+    "prompt": "道はくねくねと畑＿中を走っていた。",
+    "sentence": "道はくねくねと畑の中を走っていた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "The road wound through the fields."
+  },
+  {
+    "prompt": "何＿ぐずぐずしてるの？",
+    "sentence": "何をぐずぐずしてるの？",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "What's taking you so long?"
+  },
+  {
+    "prompt": "こういうチェックポイント＿注意すると、いいですね。",
+    "sentence": "こういうチェックポイントを注意すると、いいですね。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "You'd better check these points."
+  },
+  {
+    "prompt": "君＿ためを思えばこそこう言ってるんだ。",
+    "sentence": "君のためを思えばこそこう言ってるんだ。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "It is precisely because I have your best interests at heart that I am saying this."
+  },
+  {
+    "prompt": "こちらへやってくる少年＿その犬をごらんなさい。",
+    "sentence": "こちらへやってくる少年とその犬をごらんなさい。",
+    "answer": "と",
+    "choices": [
+      "を",
+      "から",
+      "と",
+      "まで"
+    ],
+    "en": "Look at the boy and his dog that are coming this way."
+  },
+  {
+    "prompt": "だれかがドア＿こつこつとたたいている。",
+    "sentence": "だれかがドアをこつこつとたたいている。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Someone is tapping at the door."
+  },
+  {
+    "prompt": "緑色植物は自分自身＿食物を作ることができる。",
+    "sentence": "緑色植物は自分自身の食物を作ることができる。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Green plants can make their own food."
+  },
+  {
+    "prompt": "こないだ、カメラ＿なくしてしまった。",
+    "sentence": "こないだ、カメラをなくしてしまった。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "I lost my camera the other day."
+  },
+  {
+    "prompt": "これからは決してうそ＿つきません。",
+    "sentence": "これからは決してうそをつきません。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "I will never tell a lie from now on."
+  },
+  {
+    "prompt": "これらのクッキーは星の形＿している。",
+    "sentence": "これらのクッキーは星の形をしている。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "These cookies are star-shaped."
+  },
+  {
+    "prompt": "さっさと宿題＿しなさい。",
+    "sentence": "さっさと宿題をしなさい。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Do your homework without delay."
+  },
+  {
+    "prompt": "木の葉＿サラサラという音が聞こえた。",
+    "sentence": "木の葉のサラサラという音が聞こえた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "I heard the leaves rustling."
+  },
+  {
+    "prompt": "トムはしきりに新車＿買いたがっている。",
+    "sentence": "トムはしきりに新車を買いたがっている。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "Tom is eager to buy a new car."
+  },
+  {
+    "prompt": "今はジャガイモ＿世話をしている。",
+    "sentence": "今はジャガイモの世話をしている。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "I take care of the potatoes now."
+  },
+  {
+    "prompt": "男の子はたらい＿中でジャブジャブ水をはねかしていた。",
+    "sentence": "男の子はたらいの中でジャブジャブ水をはねかしていた。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "The boy splashed about in the tub."
+  },
+  {
+    "prompt": "君＿やることはじれったいね。",
+    "sentence": "君のやることはじれったいね。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "I am losing my patience with you."
+  },
+  {
+    "prompt": "他人＿顔をじろじろ見るんじゃない。",
+    "sentence": "他人の顔をじろじろ見るんじゃない。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Don't stare others in the face."
+  },
+  {
+    "prompt": "ヤンマがすいすいと水＿上を進んでいた。",
+    "sentence": "ヤンマがすいすいと水の上を進んでいた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "The dragonfly was skimming across the water."
+  },
+  {
+    "prompt": "カタツムリがすっと角＿出した。",
+    "sentence": "カタツムリがすっと角を出した。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "The snail shot out its horns."
+  },
+  {
+    "prompt": "リスはすばしこく木＿登る。",
+    "sentence": "リスはすばしこく木を登る。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "Squirrels are nimble in climbing trees."
+  },
+  {
+    "prompt": "自動車は角＿すれすれに通った。",
+    "sentence": "自動車は角をすれすれに通った。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "The car just shaved the corner."
+  },
+  {
+    "prompt": "その子は母親にキャンデー＿せがんだ。",
+    "sentence": "その子は母親にキャンデーをせがんだ。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "The child begged his mother for candy."
+  },
+  {
+    "prompt": "そいつ＿つかまえて！",
+    "sentence": "そいつをつかまえて！",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Get him!"
+  },
+  {
+    "prompt": "そちらはセントラル自動車学校＿はないんですか。",
+    "sentence": "そちらはセントラル自動車学校ではないんですか。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "Isn't this Central Driving School?"
+  },
+  {
+    "prompt": "そっち＿生活はどうだい？",
+    "sentence": "そっちの生活はどうだい？",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "How are things for you up there?"
+  },
+  {
+    "prompt": "そよ風＿池の面にさざ波が立った。",
+    "sentence": "そよ風で池の面にさざ波が立った。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "で"
+    ],
+    "en": "A gentle wind made ripples on the surface of the pond."
+  },
+  {
+    "prompt": "それら＿大きさはほとんど同じです。",
+    "sentence": "それらの大きさはほとんど同じです。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Their sizes are much the same."
+  },
+  {
+    "prompt": "１日中テニス＿していたのだから。",
+    "sentence": "１日中テニスをしていたのだから。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "He was playing tennis all day."
+  },
+  {
+    "prompt": "この車には楽にその山＿のぼるだけの力がある。",
+    "sentence": "この車には楽にその山をのぼるだけの力がある。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "This car has enough power to go up the mountain easily."
+  },
+  {
+    "prompt": "こんなデカイのがチャリ＿荷台に乗るわけないだろ。",
+    "sentence": "こんなデカイのがチャリの荷台に乗るわけないだろ。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "There's no way one that big is going to go on a bike's luggage rest."
+  },
+  {
+    "prompt": "つべこべ言わずに、出されたもの＿食べなさい。",
+    "sentence": "つべこべ言わずに、出されたものを食べなさい。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Eat what you are served, no buts about it."
+  },
+  {
+    "prompt": "あなた＿言うことは、ある意味では本当である。",
+    "sentence": "あなたの言うことは、ある意味では本当である。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "What you say is true in a sense."
+  },
+  {
+    "prompt": "これは本物＿ダイヤでしょう。",
+    "sentence": "これは本物のダイヤでしょう。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "This is probably a real diamond."
+  },
+  {
+    "prompt": "１２と２４と７と１１＿合計は５４です。",
+    "sentence": "１２と２４と７と１１の合計は５４です。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "The sum of 12, 24, 7 and 11 is 54."
+  },
+  {
+    "prompt": "この雨＿中を外出することはとてもできないことです。",
+    "sentence": "この雨の中を外出することはとてもできないことです。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Going out in this rain is out of the question."
+  },
+  {
+    "prompt": "細かいこと＿とやかく言うのはよそう。",
+    "sentence": "細かいことでとやかく言うのはよそう。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "Let's not quibble over trivial matters."
+  },
+  {
+    "prompt": "新聞社＿人たちがどやどやとやってきました。",
+    "sentence": "新聞社の人たちがどやどやとやってきました。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "The press are arriving in force."
+  },
+  {
+    "prompt": "だれかがドア＿どんどんたたいている。",
+    "sentence": "だれかがドアをどんどんたたいている。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Someone is battering at the door."
+  },
+  {
+    "prompt": "どんなに高くても、あの古い時計＿買います。",
+    "sentence": "どんなに高くても、あの古い時計を買います。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "I'll buy that old clock, however expensive it is."
+  },
+  {
+    "prompt": "なけなし＿金を取っていった。",
+    "sentence": "なけなしの金を取っていった。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "He took away what little money I had."
+  },
+  {
+    "prompt": "その品物＿１ダースにつき３ドルで買う。",
+    "sentence": "その品物を１ダースにつき３ドルで買う。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "I buy the goods at $3 a dozen."
+  },
+  {
+    "prompt": "はきはきと意見＿言ってください。",
+    "sentence": "はきはきと意見を言ってください。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Please state your opinion crisply and clearly."
+  },
+  {
+    "prompt": "あなたにここ＿ひょっこり出会えてうれしい。",
+    "sentence": "あなたにここでひょっこり出会えてうれしい。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "I am glad to run into you here."
+  },
+  {
+    "prompt": "川下り＿びしょびしょになった。",
+    "sentence": "川下りでびしょびしょになった。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "I got soaked boating downriver."
+  },
+  {
+    "prompt": "あの魚屋＿はぴんぴん生きている魚を売っている。",
+    "sentence": "あの魚屋ではぴんぴん生きている魚を売っている。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "で",
+      "まで"
+    ],
+    "en": "They sell live fish at the fish store."
+  },
+  {
+    "prompt": "テーブル＿上にはランプがぶら下がっていた。",
+    "sentence": "テーブルの上にはランプがぶら下がっていた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "There was a lamp hanging above the table."
+  },
+  {
+    "prompt": "その仕事＿へとへとだ。",
+    "sentence": "その仕事でへとへとだ。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "That job took a lot out of me."
+  },
+  {
+    "prompt": "ほら、あなた＿乗る電車が来たわ。",
+    "sentence": "ほら、あなたの乗る電車が来たわ。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "Look, here comes your train."
+  },
+  {
+    "prompt": "んじゃ、ほんのり・・・実力＿出しましょうかね。",
+    "sentence": "んじゃ、ほんのり・・・実力を出しましょうかね。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "Well then, let's show a little of our real strength shall we?"
+  },
+  {
+    "prompt": "パイプ＿水がぽたぽた落ちているのが聞こえるでしょ。",
+    "sentence": "パイプから水がぽたぽた落ちているのが聞こえるでしょ。",
+    "answer": "から",
+    "choices": [
+      "を",
+      "まで",
+      "と",
+      "から"
+    ],
+    "en": "You can hear the water dripping from the pipe."
+  },
+  {
+    "prompt": "この写真＿見るとむかつく。",
+    "sentence": "この写真を見るとむかつく。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "I always view this photo with disgust."
+  },
+  {
+    "prompt": "タケシはめきめき数学＿力をつけている。",
+    "sentence": "タケシはめきめき数学の力をつけている。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "Takeshi is making great progress with math."
+  },
+  {
+    "prompt": "みんなに聞こえるようにもっと大きな声＿話しなさい。",
+    "sentence": "みんなに聞こえるようにもっと大きな声で話しなさい。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "で",
+      "まで"
+    ],
+    "en": "Speak louder so everyone can hear you."
+  },
+  {
+    "prompt": "ありがとう。また、次＿日にくるようにします。",
+    "sentence": "ありがとう。また、次の日にくるようにします。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "Thanks. Maybe we'll come back."
+  },
+  {
+    "prompt": "アイスクリーム＿３つください。",
+    "sentence": "アイスクリームを３つください。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Give me three ice creams, please."
+  },
+  {
+    "prompt": "アイロン＿手をやけどしました。",
+    "sentence": "アイロンで手をやけどしました。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "I burned my hand with an iron."
+  },
+  {
+    "prompt": "Australiaという語＿アクセントはどこですか。",
+    "sentence": "Australiaという語のアクセントはどこですか。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Where do you place the stress in the word \"Australia\"?"
+  },
+  {
+    "prompt": "冬＿もなおアスパラガスが食べられる。",
+    "sentence": "冬でもなおアスパラガスが食べられる。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "で"
+    ],
+    "en": "You can still get asparagus in the winter."
+  },
+  {
+    "prompt": "アスピリン＿持ってきてください。",
+    "sentence": "アスピリンを持ってきてください。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Could you send up some aspirin?"
+  },
+  {
+    "prompt": "このデータ＿アップデートしていただけますか。",
+    "sentence": "このデータをアップデートしていただけますか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "Could I get you to update this data for me?"
+  },
+  {
+    "prompt": "あなた＿アドバイスなしではいられません。",
+    "sentence": "あなたのアドバイスなしではいられません。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "I cannot do without your advice."
+  },
+  {
+    "prompt": "デパート＿屋上にアドバルーンが上がっている。",
+    "sentence": "デパートの屋上にアドバルーンが上がっている。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "There is an advertising balloon flying above the department store."
+  },
+  {
+    "prompt": "今＿アナウンスは何だったのですか。",
+    "sentence": "今のアナウンスは何だったのですか。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "What did the announcement just say?"
+  },
+  {
+    "prompt": "そのアニメは外国＿も放送されています。",
+    "sentence": "そのアニメは外国でも放送されています。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "The animation is on the air even in other countries."
+  },
+  {
+    "prompt": "公園にたくさん＿アベックがいた。",
+    "sentence": "公園にたくさんのアベックがいた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "There were a lot of young couples in the park."
+  },
+  {
+    "prompt": "アメフト＿タッチダウンは６点になる。",
+    "sentence": "アメフトでタッチダウンは６点になる。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "で"
+    ],
+    "en": "In American football, a touchdown scores six points."
+  },
+  {
+    "prompt": "あなたはアルバイト＿しているの。",
+    "sentence": "あなたはアルバイトをしているの。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Do you have a part-time job?"
+  },
+  {
+    "prompt": "アルファベット＿大文字で書きなさい。",
+    "sentence": "アルファベットを大文字で書きなさい。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "Write the alphabet in capitals."
+  },
+  {
+    "prompt": "このアンテナ＿屋根につけると画面がはっきりする。",
+    "sentence": "このアンテナを屋根につけると画面がはっきりする。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "You'll get a clear picture with this antenna on the roof."
+  },
+  {
+    "prompt": "イニシャル＿サインしてご返送ください。",
+    "sentence": "イニシャルをサインしてご返送ください。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Please initial and send back to us."
+  },
+  {
+    "prompt": "その会社はイメージアップ＿はかっている。",
+    "sentence": "その会社はイメージアップをはかっている。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "The company is trying to improve its image."
+  },
+  {
+    "prompt": "イメージチェンジ＿したい。",
+    "sentence": "イメージチェンジをしたい。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "I'd like to change my image."
+  },
+  {
+    "prompt": "あなた＿名前はインクで書かなければならない。",
+    "sentence": "あなたの名前はインクで書かなければならない。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "You must write your name in ink."
+  },
+  {
+    "prompt": "ちまた＿はインターネットなるものがはやっています。",
+    "sentence": "ちまたではインターネットなるものがはやっています。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "で"
+    ],
+    "en": "People are talking about this Internet phenomenon."
+  },
+  {
+    "prompt": "どんなインプット＿もいただければありがたいです。",
+    "sentence": "どんなインプットでもいただければありがたいです。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Any input would be appreciated!"
+  },
+  {
+    "prompt": "君はウオーミングアップ＿始めたな。",
+    "sentence": "君はウオーミングアップを始めたな。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "You've started warming up."
+  },
+  {
+    "prompt": "エアポートバスはどこ＿出ていますか。",
+    "sentence": "エアポートバスはどこから出ていますか。",
+    "answer": "から",
+    "choices": [
+      "を",
+      "まで",
+      "から",
+      "と"
+    ],
+    "en": "Where do the airport buses leave from?"
+  },
+  {
+    "prompt": "エジプト＿は何を食べて生活していますか。",
+    "sentence": "エジプトでは何を食べて生活していますか。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "で"
+    ],
+    "en": "What do they live on in Egypt?"
+  },
+  {
+    "prompt": "上り＿エスカレーターはどこですか？",
+    "sentence": "上りのエスカレーターはどこですか？",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Where's the up-escalator?"
+  },
+  {
+    "prompt": "それはエチケット＿問題だ。",
+    "sentence": "それはエチケットの問題だ。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "It's a matter of etiquette."
+  },
+  {
+    "prompt": "兄はエレキギター＿買いました。",
+    "sentence": "兄はエレキギターを買いました。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "My brother bought an electric guitar."
+  },
+  {
+    "prompt": "どうしてビルはエンジニアになる決心＿したのか。",
+    "sentence": "どうしてビルはエンジニアになる決心をしたのか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "What made Bill decide to be an engineer?"
+  },
+  {
+    "prompt": "フルコースもあれば、サラダ＿軽いお食事もオーケー。",
+    "sentence": "フルコースもあれば、サラダで軽いお食事もオーケー。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "You can eat a complete meal, or just go easy with our salad bar."
+  },
+  {
+    "prompt": "オーストリア＿どこであなたは育ちましたか。",
+    "sentence": "オーストリアのどこであなたは育ちましたか。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "Where in Austria did you grow up?"
+  },
+  {
+    "prompt": "オタワはカナダ＿首都です。",
+    "sentence": "オタワはカナダの首都です。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Ottawa is the capital of Canada."
+  },
+  {
+    "prompt": "１０４＿オペレーターに聞いてみて。",
+    "sentence": "１０４のオペレーターに聞いてみて。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "Call the operator at 104 then."
+  },
+  {
+    "prompt": "新入生向け＿オリエンテーションを行う。",
+    "sentence": "新入生向けのオリエンテーションを行う。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "We will have a period of orientation for freshmen."
+  },
+  {
+    "prompt": "いくつかのシーンがオリジナル＿外された。",
+    "sentence": "いくつかのシーンがオリジナルから外された。",
+    "answer": "から",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Several scenes have been cut from the original."
+  },
+  {
+    "prompt": "オンライン＿お話しした方がよろしければそうします。",
+    "sentence": "オンラインでお話しした方がよろしければそうします。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "で",
+      "まで"
+    ],
+    "en": "If you need to go off-line, that is fine."
+  },
+  {
+    "prompt": "なにも田中さん＿力がオンリーだというのはない。",
+    "sentence": "なにも田中さんの力がオンリーだというのはない。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "This is not to say that Mr. Tanaka did it all on his own."
+  },
+  {
+    "prompt": "手荷物用＿カートはどこにありますか。",
+    "sentence": "手荷物用のカートはどこにありますか。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Where are the luggage carts?"
+  },
+  {
+    "prompt": "母＿日にお母さんにカーネーションをあげた。",
+    "sentence": "母の日にお母さんにカーネーションをあげた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "I gave my mother carnations on Mother's Day."
+  },
+  {
+    "prompt": "その少年はカーブ＿投げ方を知っている。",
+    "sentence": "その少年はカーブの投げ方を知っている。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "The boy knows how to throw a curve."
+  },
+  {
+    "prompt": "バッター＿カウントはツーストライクツーボール。",
+    "sentence": "バッターのカウントはツーストライクツーボール。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "The batter has two balls and two strikes on him."
+  },
+  {
+    "prompt": "ボクサーはあご＿打たれて、カウントアウトになった。",
+    "sentence": "ボクサーはあごを打たれて、カウントアウトになった。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "The boxer was hit on the chin and went down for the count."
+  },
+  {
+    "prompt": "カセットテープ＿買うつもりです。",
+    "sentence": "カセットテープを買うつもりです。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "I will buy cassette tapes."
+  },
+  {
+    "prompt": "カップ＿取っ手がこわれている。",
+    "sentence": "カップの取っ手がこわれている。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "The handle of the cup is broken."
+  },
+  {
+    "prompt": "カップルは写真＿ためにポーズをとった。",
+    "sentence": "カップルは写真のためにポーズをとった。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "The couple posed for the photograph."
+  },
+  {
+    "prompt": "カナダ＿はフランス語を話しますか。",
+    "sentence": "カナダではフランス語を話しますか。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Do they speak French in Canada?"
+  },
+  {
+    "prompt": "おじさんがぼくにカメラ＿くれました。",
+    "sentence": "おじさんがぼくにカメラをくれました。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "My uncle gave me a camera."
+  },
+  {
+    "prompt": "カラーフィルム＿一本ください。",
+    "sentence": "カラーフィルムを一本ください。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "I want a roll of color film for prints."
+  },
+  {
+    "prompt": "あなた＿カラフルなシャツは本当に目立ちます。",
+    "sentence": "あなたのカラフルなシャツは本当に目立ちます。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "Your colorful shirt really stands out."
+  },
+  {
+    "prompt": "ロングさん＿ところではあすガレージセールをします。",
+    "sentence": "ロングさんのところではあすガレージセールをします。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "The Longs are having a garage sale tomorrow."
+  },
+  {
+    "prompt": "この店は、ボトル＿キープできるんですか。",
+    "sentence": "この店は、ボトルをキープできるんですか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "Can I reserve a bottle and have you keep it here for me?"
+  },
+  {
+    "prompt": "キャロルはレンタカー＿運転しています。",
+    "sentence": "キャロルはレンタカーを運転しています。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "Carol is driving a rent-a-car."
+  },
+  {
+    "prompt": "この車は時速６０キロ＿走っている。",
+    "sentence": "この車は時速６０キロで走っている。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "で"
+    ],
+    "en": "This car is going 60km an hour."
+  },
+  {
+    "prompt": "ギリシア人もよく魚＿食べる。",
+    "sentence": "ギリシア人もよく魚を食べる。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Greeks often eat fish, too."
+  },
+  {
+    "prompt": "２パイントは１クオート＿等しい。",
+    "sentence": "２パイントは１クオートと等しい。",
+    "answer": "と",
+    "choices": [
+      "を",
+      "と",
+      "から",
+      "まで"
+    ],
+    "en": "Two pints are equal to a quart."
+  },
+  {
+    "prompt": "どんなに高くてもあのクラシックカー＿手に入れたい。",
+    "sentence": "どんなに高くてもあのクラシックカーを手に入れたい。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "I will get that classic car at all costs."
+  },
+  {
+    "prompt": "母はクリスマスケーキ＿作ってくれた。",
+    "sentence": "母はクリスマスケーキを作ってくれた。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "My mother made me a Christmas cake."
+  },
+  {
+    "prompt": "ここにクリスマスツリー＿立てましょう。",
+    "sentence": "ここにクリスマスツリーを立てましょう。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Let's put up the Christmas tree here."
+  },
+  {
+    "prompt": "その文書にはメモがクリップ＿つけられていた。",
+    "sentence": "その文書にはメモがクリップでつけられていた。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "A note was attached to the document with a paper clip."
+  },
+  {
+    "prompt": "二本＿道はそこでクロスしている。",
+    "sentence": "二本の道はそこでクロスしている。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "The two roads cross there."
+  },
+  {
+    "prompt": "グレイビー＿もう少しいかがですか。",
+    "sentence": "グレイビーをもう少しいかがですか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Would you like some more gravy?"
+  },
+  {
+    "prompt": "ケイトはケーキ＿作り方を知っています。",
+    "sentence": "ケイトはケーキの作り方を知っています。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "Kate knows how to make a cake."
+  },
+  {
+    "prompt": "その部屋＿ゲストは２０人いた。",
+    "sentence": "その部屋のゲストは２０人いた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "The guests in the room were twenty in number."
+  },
+  {
+    "prompt": "車はコース＿はずれた。",
+    "sentence": "車はコースをはずれた。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "The car veered from its course."
+  },
+  {
+    "prompt": "おすすめ＿コースはどこですか。",
+    "sentence": "おすすめのコースはどこですか。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "Which course do you recommend?"
+  },
+  {
+    "prompt": "コーチが助言＿してくれた。",
+    "sentence": "コーチが助言をしてくれた。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "The coach gave me some advice."
+  },
+  {
+    "prompt": "ランナーはコーナー＿回ってホームストレッチへ入った。",
+    "sentence": "ランナーはコーナーを回ってホームストレッチへ入った。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "The runners rounded the corner into the homestretch."
+  },
+  {
+    "prompt": "明日＿コーンフレークとか、軽い物にしようか？",
+    "sentence": "明日からコーンフレークとか、軽い物にしようか？",
+    "answer": "から",
+    "choices": [
+      "を",
+      "まで",
+      "から",
+      "と"
+    ],
+    "en": "Shall we go with cornflakes or something light from tomorrow?"
+  },
+  {
+    "prompt": "向こうにいるあのコアラ＿見てごらん。",
+    "sentence": "向こうにいるあのコアラを見てごらん。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Look at that koala over there."
+  },
+  {
+    "prompt": "コミュニケーション＿言う語はどういう意味であろうか。",
+    "sentence": "コミュニケーションと言う語はどういう意味であろうか。",
+    "answer": "と",
+    "choices": [
+      "と",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "What do you mean by communication?"
+  },
+  {
+    "prompt": "サリーは前＿日に買ったコンタクトをなくした。",
+    "sentence": "サリーは前の日に買ったコンタクトをなくした。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "Sally lost the contact lenses she had bought the day before."
+  },
+  {
+    "prompt": "その洋服は赤と白＿コントラストが美しい。",
+    "sentence": "その洋服は赤と白のコントラストが美しい。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "The dress has a beautiful contrast between red and white."
+  },
+  {
+    "prompt": "コンドルは動物園＿は決して育たない。",
+    "sentence": "コンドルは動物園では決して育たない。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "で"
+    ],
+    "en": "Condors have never bred in zoos."
+  },
+  {
+    "prompt": "コンビニ＿は何でも買えます。",
+    "sentence": "コンビニでは何でも買えます。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "I am able to buy anything in a convenience store."
+  },
+  {
+    "prompt": "ボブは１着＿ゴールインした。",
+    "sentence": "ボブは１着でゴールインした。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "で",
+      "から",
+      "まで"
+    ],
+    "en": "Bob reached the finish line first."
+  },
+  {
+    "prompt": "サーカス＿、商品としておもちゃを配っている。",
+    "sentence": "サーカスで、商品としておもちゃを配っている。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "で",
+      "まで"
+    ],
+    "en": "Circuses offer toys for prizes."
+  },
+  {
+    "prompt": "サイダー＿ください。",
+    "sentence": "サイダーをください。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "I'd like some cider, please."
+  },
+  {
+    "prompt": "サファリパークにいらっしゃるなら５番＿バスです。",
+    "sentence": "サファリパークにいらっしゃるなら５番のバスです。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "If you are going to the safari park, take the No.5 bus."
+  },
+  {
+    "prompt": "サンバはブラジル＿リズムですね。",
+    "sentence": "サンバはブラジルのリズムですね。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "Samba is a Brazilian rhythm, isn't it?"
+  },
+  {
+    "prompt": "神戸はシアトル＿姉妹都市です。",
+    "sentence": "神戸はシアトルの姉妹都市です。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Kobe is a sister city of Seattle."
+  },
+  {
+    "prompt": "そのシェパードは、びっこをひきながら道＿歩いていた。",
+    "sentence": "そのシェパードは、びっこをひきながら道を歩いていた。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "The German Shepherd was limping down the street."
+  },
+  {
+    "prompt": "このシャフトはピストン＿つながっている。",
+    "sentence": "このシャフトはピストンとつながっている。",
+    "answer": "と",
+    "choices": [
+      "と",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "This shaft links with a piston."
+  },
+  {
+    "prompt": "シュークリーム＿１ダース下さい。",
+    "sentence": "シュークリームを１ダース下さい。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "I want a dozen cream puffs."
+  },
+  {
+    "prompt": "ラケット１本とテニスシューズ＿送ってください。",
+    "sentence": "ラケット１本とテニスシューズを送ってください。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "Send me a racket and my tennis shoes."
+  },
+  {
+    "prompt": "これから始まるショー＿どうぞごゆっくり。",
+    "sentence": "これから始まるショーをどうぞごゆっくり。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "We hope you will enjoy the show."
+  },
+  {
+    "prompt": "シンバルがジャーン＿鳴った。",
+    "sentence": "シンバルがジャーンと鳴った。",
+    "answer": "と",
+    "choices": [
+      "と",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "The cymbals clashed."
+  },
+  {
+    "prompt": "ハトは平和＿シンボルである。",
+    "sentence": "ハトは平和のシンボルである。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "The dove is a symbol of peace."
+  },
+  {
+    "prompt": "このふたはあのジャー＿ふただ。",
+    "sentence": "このふたはあのジャーのふただ。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "This lid belongs with that jar."
+  },
+  {
+    "prompt": "この船はジャングル＿通りぬける。",
+    "sentence": "この船はジャングルを通りぬける。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "This boat goes through the jungle."
+  },
+  {
+    "prompt": "君＿ジョークはひどすぎた。",
+    "sentence": "君のジョークはひどすぎた。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "You went too far in your joke."
+  },
+  {
+    "prompt": "スカッシュ＿したいのですが。",
+    "sentence": "スカッシュをしたいのですが。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "I'd like to play a game of squash."
+  },
+  {
+    "prompt": "スキューバダイビング＿やったことがありますか。",
+    "sentence": "スキューバダイビングをやったことがありますか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "を",
+      "と"
+    ],
+    "en": "Have you ever tried scuba diving?"
+  },
+  {
+    "prompt": "スクリュードライバー＿ください。",
+    "sentence": "スクリュードライバーをください。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Could I have a screwdriver?"
+  },
+  {
+    "prompt": "スケーターはこま＿ようにくるくる回った。",
+    "sentence": "スケーターはこまのようにくるくる回った。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "The skater spun around like a top."
+  },
+  {
+    "prompt": "ダンスはスタイル＿よくするのにいい。",
+    "sentence": "ダンスはスタイルをよくするのにいい。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "Dancing is good for the figure."
+  },
+  {
+    "prompt": "夜にスタジオ＿は電気をつけない。",
+    "sentence": "夜にスタジオでは電気をつけない。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "で",
+      "まで"
+    ],
+    "en": "I don't switch on the light in my studio at night."
+  },
+  {
+    "prompt": "次＿スタンドまでどのくらいありますか。",
+    "sentence": "次のスタンドまでどのくらいありますか。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "How far is the next gas station?"
+  },
+  {
+    "prompt": "その歌手は放送室＿スタンバイしていた。",
+    "sentence": "その歌手は放送室でスタンバイしていた。",
+    "answer": "で",
+    "choices": [
+      "で",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "The singer was standing by in the studio."
+  },
+  {
+    "prompt": "ジョンはステージ＿上で「イマジン」を歌った。",
+    "sentence": "ジョンはステージの上で「イマジン」を歌った。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "John sang \"Imagine\" on the stage."
+  },
+  {
+    "prompt": "ジャックとベティは１ヶ月前＿ステディだ。",
+    "sentence": "ジャックとベティは１ヶ月前からステディだ。",
+    "answer": "から",
+    "choices": [
+      "を",
+      "まで",
+      "から",
+      "と"
+    ],
+    "en": "Jack and Betty have been going steady for a month."
+  },
+  {
+    "prompt": "そのスパナ＿取ってくれ。",
+    "sentence": "そのスパナを取ってくれ。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Hand me the wrench."
+  },
+  {
+    "prompt": "スピードメーターは時速９５マイル＿指していた。",
+    "sentence": "スピードメーターは時速９５マイルを指していた。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "The speedometer was indicating 95 mph."
+  },
+  {
+    "prompt": "どうしてスペイン語＿学ぶのですか。",
+    "sentence": "どうしてスペイン語を学ぶのですか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "What do you learn Spanish for?"
+  },
+  {
+    "prompt": "あそこ＿スポーツカーを見なさい。",
+    "sentence": "あそこのスポーツカーを見なさい。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Look at the sports car over there."
+  },
+  {
+    "prompt": "ここが地元＿人気スポット？",
+    "sentence": "ここが地元の人気スポット？",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "Is this one of the local hot spots?"
+  },
+  {
+    "prompt": "パイ＿スライスにしてください。",
+    "sentence": "パイをスライスにしてください。",
+    "answer": "を",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "Cut the pie into slices."
+  },
+  {
+    "prompt": "このソファーは場所＿取りすぎる。",
+    "sentence": "このソファーは場所を取りすぎる。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "を",
+      "まで",
+      "と"
+    ],
+    "en": "This sofa takes too much room."
+  },
+  {
+    "prompt": "スミスさんはソフトな語り口＿人物です。",
+    "sentence": "スミスさんはソフトな語り口の人物です。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Mr Smith is a softly-spoken person."
+  },
+  {
+    "prompt": "ターミナル＿所を右に曲がったところです。",
+    "sentence": "ターミナルの所を右に曲がったところです。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "Go out of the terminal and turn right."
+  },
+  {
+    "prompt": "その本＿タイトルは何ですか。",
+    "sentence": "その本のタイトルは何ですか。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "What is the title of the book?"
+  },
+  {
+    "prompt": "こういうタイプ＿人はおもしろくない。",
+    "sentence": "こういうタイプの人はおもしろくない。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "That type of person is dull."
+  },
+  {
+    "prompt": "その話はここ＿はタブーです。",
+    "sentence": "その話はここではタブーです。",
+    "answer": "で",
+    "choices": [
+      "を",
+      "から",
+      "で",
+      "まで"
+    ],
+    "en": "The topic is taboo here."
+  },
+  {
+    "prompt": "ダイヤル式＿電話って、ほとんど見なくなったな。",
+    "sentence": "ダイヤル式の電話って、ほとんど見なくなったな。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "の"
+    ],
+    "en": "You don't see many dial phones around anymore."
+  },
+  {
+    "prompt": "ダウンタウンにたくさん＿ホテルがあります。",
+    "sentence": "ダウンタウンにたくさんのホテルがあります。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "There are many hotels downtown."
+  },
+  {
+    "prompt": "ジョージは朝にたくさん＿チーズを食べた。",
+    "sentence": "ジョージは朝にたくさんのチーズを食べた。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "の",
+      "から",
+      "まで"
+    ],
+    "en": "George had a lot of cheese for breakfast."
+  },
+  {
+    "prompt": "あなたはチェス＿仕方を知っていますか。",
+    "sentence": "あなたはチェスの仕方を知っていますか。",
+    "answer": "の",
+    "choices": [
+      "を",
+      "から",
+      "の",
+      "まで"
+    ],
+    "en": "Do you know how to play chess?"
+  },
+  {
+    "prompt": "エンジン＿チェックしましたか。",
+    "sentence": "エンジンをチェックしましたか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Have you checked the engine?"
+  },
+  {
+    "prompt": "あなた＿チェックアウトはいつですか。",
+    "sentence": "あなたのチェックアウトはいつですか。",
+    "answer": "の",
+    "choices": [
+      "の",
+      "を",
+      "から",
+      "まで"
+    ],
+    "en": "When do you plan to check out?"
+  },
+  {
+    "prompt": "何時＿チェックインできますか。",
+    "sentence": "何時からチェックインできますか。",
+    "answer": "から",
+    "choices": [
+      "を",
+      "から",
+      "まで",
+      "と"
+    ],
+    "en": "What time do you start check-in?"
+  },
+  {
+    "prompt": "ぼくにチビ＿言われてあいつはすごくあたまにきた。",
+    "sentence": "ぼくにチビと言われてあいつはすごくあたまにきた。",
+    "answer": "と",
+    "choices": [
+      "を",
+      "から",
+      "と",
+      "まで"
+    ],
+    "en": "He got mad at me for calling him Shorty."
+  },
+  {
+    "prompt": "君はそのコンサート＿テープにとったか。",
+    "sentence": "君はそのコンサートをテープにとったか。",
+    "answer": "を",
+    "choices": [
+      "から",
+      "まで",
+      "と",
+      "を"
+    ],
+    "en": "Did you tape that concert?"
+  }
+]

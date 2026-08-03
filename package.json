@@ -18,7 +18,8 @@
     "content:strokes": "tsx scripts/build-strokes.ts",
     "content:illustrations": "tsx scripts/build-illustrations.ts",
     "content:all": "pnpm content:build && pnpm content:strokes && pnpm content:illustrations && pnpm content:verify",
-    "content:vocab": "tsx scripts/build-vocab.ts"
+    "content:vocab": "tsx scripts/build-vocab.ts",
+    "content:grammar": "tsx scripts/build-grammar.ts"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
@@ -45,6 +46,7 @@
     "@vitejs/plugin-react": "^6.0.5",
     "japanese": "^1.2.0",
     "jsdom": "^30.0.1",
+    "kuromoji": "^0.1.2",
     "kuroshiro": "^1.2.0",
     "kuroshiro-analyzer-kuromoji": "^1.1.0",
     "openmoji": "^17.0.0",
