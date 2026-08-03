@@ -1,10 +1,13 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { KanjiSheet } from '../components/sheet/KanjiSheet'
+import { KakikataSheet } from '../components/sheet/KakikataSheet'
 import { STROKES_BY_GRADE, KANJI_BY_GRADE, earlierGrades } from '../content/registry'
 import { buildUnit, unitCount, type KanjiUnit } from '../curriculum/units'
 import { A4 } from '../print/units'
 
 export interface PreviewParams {
+  /** 'kanji'（預設）或 'kakikata' */
+  series: string
   grade: number
   /** 指定回數；沒給就交給課表引擎決定 */
   unitNo: number | null
@@ -17,6 +20,7 @@ export function parseParams(search: string): PreviewParams {
   const q = new URLSearchParams(search)
   const unit = q.get('unit')
   return {
+    series: q.get('series') ?? 'kanji',
     grade: Number(q.get('grade') ?? 1),
     unitNo: unit === null ? null : Number(unit),
     side: (q.get('side') as PreviewParams['side']) ?? 'both',
@@ -68,9 +72,13 @@ export function SheetStack({ unit, side, scaled = true }: SheetStackProps) {
   if (!strokes) return <Missing grade={unit.grade} />
 
   const sides: ('front' | 'back')[] = side === 'both' ? ['front', 'back'] : [side]
-  const sheets = sides.map((s) => (
-    <KanjiSheet key={s} unit={unit} strokes={strokes} side={s} />
-  ))
+  const sheets = sides.map((s) =>
+    unit.kind === 'writing' ? (
+      <KakikataSheet key={s} grade={unit.grade} entries={unit.newKanji} strokes={strokes} side={s} />
+    ) : (
+      <KanjiSheet key={s} unit={unit} strokes={strokes} side={s} />
+    ),
+  )
 
   if (!scaled) return <>{sheets}</>
 
@@ -93,6 +101,20 @@ export function StaticPreview({ params }: { params: PreviewParams }) {
 
   const total = unitCount(entries)
   const unitNo = Math.min(Math.max(1, params.unitNo ?? 1), total)
+
+  if (params.series === 'kakikata') {
+    // 書き方 練的是「到這一回為止最近學的 6 個字」
+    const learned = entries.slice(0, unitNo * 3)
+    const unit = {
+      grade: params.grade,
+      unitNo: null,
+      kind: 'writing' as const,
+      newKanji: learned.slice(-8),
+      reviewKanji: [],
+    }
+    return <SheetStack unit={unit} side={params.side} scaled={!params.raw} />
+  }
+
   const unit = buildUnit(entries, params.grade, unitNo, [], earlierGrades(params.grade))
   return <SheetStack unit={unit} side={params.side} scaled={!params.raw} />
 }

@@ -21,7 +21,15 @@ export const MAX_INJECTED = 3
 export type Assignment =
   | { kind: 'review'; kanji: string[] }
   | { kind: 'lesson'; unitNo: number; injected: string[] }
+  /** 書き方：不推進主線，專練最近學過的字的字形與筆順 */
+  | { kind: 'writing'; kanji: string[] }
   | { kind: 'finished' }
+
+/** 每做完幾回正課插一張書き方 */
+export const WRITING_EVERY = 5
+
+/** 一張書き方練幾個字 */
+export const WRITING_SLOTS = 8
 
 export interface ScheduleInput {
   /** 主線下一回的編號（1-based） */
@@ -29,6 +37,12 @@ export interface ScheduleInput {
   totalUnits: number
   mistakes: readonly MistakeRecord[]
   today: DayKey
+  /** 已完成的正課回數，用來決定何時插書き方 */
+  lessonsDone?: number
+  /** 今天是否已經做過書き方（避免同一天重複出） */
+  writingDoneToday?: boolean
+  /** 最近學過的字，由呼叫端提供 */
+  recentKanji?: readonly string[]
 }
 
 export function pickAssignment({
@@ -36,12 +50,22 @@ export function pickAssignment({
   totalUnits,
   mistakes,
   today,
+  lessonsDone,
+  writingDoneToday,
+  recentKanji,
 }: ScheduleInput): Assignment {
   const ready = dueOn(mistakes, today)
   const mainLineDone = nextUnitNo > totalUnits
 
   if (ready.length >= REVIEW_THRESHOLD || (mainLineDone && ready.length > 0)) {
     return { kind: 'review', kanji: ready.map((r) => r.kanji) }
+  }
+
+  // 每 WRITING_EVERY 回正課之後插一張書き方。它不推進主線 ——
+  // 練的是字形與筆順，不是新字，所以不該吃掉主線的進度。
+  const due = (lessonsDone ?? 0) > 0 && (lessonsDone ?? 0) % WRITING_EVERY === 0
+  if (due && !writingDoneToday && (recentKanji?.length ?? 0) > 0) {
+    return { kind: 'writing', kanji: recentKanji!.slice(-WRITING_SLOTS) }
   }
 
   if (mainLineDone) return { kind: 'finished' }

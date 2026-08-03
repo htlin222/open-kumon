@@ -61,11 +61,17 @@ export function useProgress(): ProgressView {
 
   const assignment = useMemo<Assignment | null>(() => {
     if (!child || !entries) return null
+    const lessonsDone = child.completions.filter((c) => c.kind === 'lesson').length
+    // 已學過的字 = 主線走過的回數 × 每回字數
+    const learned = entries.slice(0, (child.nextUnitNo - 1) * 3).map((e) => e.kanji)
     return pickAssignment({
       nextUnitNo: child.nextUnitNo,
       totalUnits,
       mistakes: child.mistakes,
       today,
+      lessonsDone,
+      writingDoneToday: child.completions.some((c) => c.day === today && c.kind === 'writing'),
+      recentKanji: learned,
     })
   }, [child, entries, totalUnits, today])
 
@@ -77,6 +83,13 @@ export function useProgress(): ProgressView {
     if (assignment.kind === 'lesson') {
       return buildUnit(entries, child.grade, assignment.unitNo, assignment.injected, earlierGrades(child.grade))
     }
+    if (assignment.kind === 'writing') {
+      // 書き方 借用同一個結構，newKanji 就是要練的字
+      const all = [...earlierGrades(child.grade), ...entries]
+      const byChar = new Map(all.map((e) => [e.kanji, e]))
+      const picked = assignment.kanji.map((k) => byChar.get(k)).filter((e): e is NonNullable<typeof e> => Boolean(e))
+      return { grade: child.grade, unitNo: null, kind: 'writing', newKanji: picked, reviewKanji: [] }
+    }
     return null
   }, [child, entries, assignment])
 
@@ -84,7 +97,9 @@ export function useProgress(): ProgressView {
   const checkable = useMemo(() => {
     if (!unit || !assignment) return []
     if (assignment.kind === 'lesson') return checkableOf(unit, assignment.injected)
-    if (assignment.kind === 'review') return unit.newKanji.map((e) => e.kanji)
+    if (assignment.kind === 'review' || assignment.kind === 'writing') {
+      return unit.newKanji.map((e) => e.kanji)
+    }
     return []
   }, [unit, assignment])
 
@@ -92,7 +107,7 @@ export function useProgress(): ProgressView {
     child?.completions.some(
       (c) =>
         c.day === today &&
-        c.kind === (assignment?.kind === 'review' ? 'review' : 'lesson') &&
+        c.kind === (assignment?.kind === 'finished' || !assignment ? 'lesson' : assignment.kind) &&
         c.unitNo === (assignment?.kind === 'lesson' ? assignment.unitNo : null),
     ),
   )

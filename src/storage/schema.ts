@@ -23,7 +23,7 @@ export const MistakeRecordSchema = z.object({
 
 export const CompletionSchema = z.object({
   day: DayKeySchema,
-  kind: z.enum(['lesson', 'review']),
+  kind: z.enum(['lesson', 'review', 'writing']),
   /** 正課才有；複習卷為 null */
   unitNo: z.number().int().positive().nullable(),
   wrong: z.array(z.string()),

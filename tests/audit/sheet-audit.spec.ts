@@ -29,6 +29,9 @@ const CASES: Case[] = [
   { series: 'kanji', grade: 4, unit: 68 },
   { series: 'kanji', grade: 5, unit: 1 },
   { series: 'kanji', grade: 5, unit: 65 },
+  // 書き方：一頁三個字、每字 3 描 4 寫，是格子最密的版型
+  { series: 'kakikata', grade: 1, unit: 4 },
+  { series: 'kakikata', grade: 5, unit: 30 },
 ]
 
 for (const c of CASES) {
@@ -38,7 +41,7 @@ for (const c of CASES) {
     test.describe(name, () => {
       test.beforeEach(async ({ page }) => {
         await page.goto(
-          `/?grade=${c.grade}&unit=${c.unit}&side=${side}&raw=1`,
+          `/?series=${c.series}&grade=${c.grade}&unit=${c.unit}&side=${side}&raw=1`,
           { waitUntil: 'networkidle' },
         )
         await page.emulateMedia({ media: 'print' })

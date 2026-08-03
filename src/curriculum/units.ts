@@ -7,7 +7,7 @@ export interface KanjiUnit {
   grade: number
   /** 複習卷沒有回數 */
   unitNo: number | null
-  kind: 'lesson' | 'review'
+  kind: 'lesson' | 'review' | 'writing'
   /** 正面帶なぞり練習的字 */
   newKanji: KanjiEntry[]
   /** 背面看圖寫字的字 */

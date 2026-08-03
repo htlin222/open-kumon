@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { pickAssignment, REVIEW_THRESHOLD, MAX_INJECTED, streakOf } from '../../src/curriculum/schedule'
+import { pickAssignment, REVIEW_THRESHOLD, MAX_INJECTED, streakOf, WRITING_EVERY } from '../../src/curriculum/schedule'
 import type { MistakeRecord } from '../../src/curriculum/srs'
 
 const TODAY = '2026-08-03'
@@ -16,9 +16,10 @@ const overdue = (n: number) =>
   Array.from({ length: n }, (_, i) => due(`字${i}`, '2026-08-01'))
 
 describe('門檻設定', () => {
-  it('到期 8 個就出複習卷，正課最多混入 3 個', () => {
+  it('到期 8 個就出複習卷，正課最多混入 3 個，每 5 回插一張書き方', () => {
     expect(REVIEW_THRESHOLD).toBe(8)
     expect(MAX_INJECTED).toBe(3)
+    expect(WRITING_EVERY).toBe(5)
   })
 })
 
@@ -128,5 +129,52 @@ describe('streakOf', () => {
 
   it('紀錄順序顛倒也算得對', () => {
     expect(streakOf(['2026-08-03', '2026-08-01', '2026-08-02'], TODAY)).toBe(3)
+  })
+})
+
+describe('書き方 插入規則', () => {
+  const base = { nextUnitNo: 6, totalUnits: TOTAL_UNITS, mistakes: [], today: TODAY }
+  const recent = [...'一七三上下中九二五人']
+
+  it('做完 5 回正課後插一張書き方', () => {
+    const a = pickAssignment({ ...base, lessonsDone: 5, recentKanji: recent })
+    expect(a.kind).toBe('writing')
+  })
+
+  it('不到 5 回不插', () => {
+    expect(pickAssignment({ ...base, lessonsDone: 4, recentKanji: recent }).kind).toBe('lesson')
+  })
+
+  it('第 0 回不插（剛開始不該先練字形）', () => {
+    expect(pickAssignment({ ...base, lessonsDone: 0, recentKanji: recent }).kind).toBe('lesson')
+  })
+
+  it('取最近學的 8 個字（一面四個，正反兩面）', () => {
+    const a = pickAssignment({ ...base, lessonsDone: 5, recentKanji: recent })
+    expect(a.kind === 'writing' && a.kanji).toEqual([...'三上下中九二五人'])
+  })
+
+  it('今天已經做過書き方就回到正課', () => {
+    const a = pickAssignment({ ...base, lessonsDone: 5, recentKanji: recent, writingDoneToday: true })
+    expect(a.kind).toBe('lesson')
+  })
+
+  it('沒有學過的字就不插（第一天不會憑空出現）', () => {
+    expect(pickAssignment({ ...base, lessonsDone: 5, recentKanji: [] }).kind).toBe('lesson')
+  })
+
+  it('複習卷優先於書き方（到期太多要先補）', () => {
+    const a = pickAssignment({
+      ...base,
+      mistakes: overdue(8),
+      lessonsDone: 5,
+      recentKanji: recent,
+    })
+    expect(a.kind).toBe('review')
+  })
+
+  it('書き方 不推進主線 —— 它沒有 unitNo', () => {
+    const a = pickAssignment({ ...base, lessonsDone: 5, recentKanji: recent })
+    expect(a).not.toHaveProperty('unitNo')
   })
 })
