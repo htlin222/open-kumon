@@ -2,7 +2,8 @@ import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { KanjiSheet } from '../components/sheet/KanjiSheet'
 import { KakikataSheet } from '../components/sheet/KakikataSheet'
 import { VocabSheet } from '../components/sheet/VocabSheet'
-import { STROKES_BY_GRADE, KANJI_BY_GRADE, VOCAB_BY_GRADE, earlierGrades } from '../content/registry'
+import { GrammarSheet } from '../components/sheet/GrammarSheet'
+import { STROKES_BY_GRADE, KANJI_BY_GRADE, VOCAB_BY_GRADE, GRAMMAR_BY_GRADE, earlierGrades } from '../content/registry'
 import { buildUnit, unitCount, type KanjiUnit } from '../curriculum/units'
 import { A4 } from '../print/units'
 
@@ -102,6 +103,23 @@ export function StaticPreview({ params }: { params: PreviewParams }) {
 
   const total = unitCount(entries)
   const unitNo = Math.min(Math.max(1, params.unitNo ?? 1), total)
+
+  if (params.series === 'grammar') {
+    const all = GRAMMAR_BY_GRADE[params.grade] ?? []
+    const items = all.slice((unitNo - 1) * 10, unitNo * 10)
+    const sides: ('front' | 'back')[] = params.side === 'both' ? ['front', 'back'] : [params.side]
+    const sheets = sides.map((s) => (
+      <GrammarSheet key={s} grade={params.grade} items={items} side={s} />
+    ))
+    if (params.raw) return <>{sheets}</>
+    return (
+      <div style={{ display: 'grid', gap: 24 }}>
+        {sheets.map((sheet, i) => (
+          <ScaledSheet key={i}>{sheet}</ScaledSheet>
+        ))}
+      </div>
+    )
+  }
 
   if (params.series === 'vocab') {
     const words = VOCAB_BY_GRADE[params.grade] ?? []

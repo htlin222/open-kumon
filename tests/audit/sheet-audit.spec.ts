@@ -35,6 +35,8 @@ const CASES: Case[] = [
   // 語彙：例句是唯一「一整行日文」的版型，行長與斷行要驗
   { series: 'vocab', grade: 3, unit: 1 },
   { series: 'vocab', grade: 5, unit: 10 },
+  { series: 'grammar', grade: 1, unit: 1 },
+  { series: 'grammar', grade: 4, unit: 12 },
 ]
 
 for (const c of CASES) {

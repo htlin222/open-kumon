@@ -15,7 +15,13 @@ import vocab3 from '../../content/vocab/3.json'
 import vocab4 from '../../content/vocab/4.json'
 import vocab5 from '../../content/vocab/5.json'
 import type { StrokeData } from './strokes'
+import grammar1 from '../../content/grammar/1.json'
+import grammar2 from '../../content/grammar/2.json'
+import grammar3 from '../../content/grammar/3.json'
+import grammar4 from '../../content/grammar/4.json'
+import grammar5 from '../../content/grammar/5.json'
 import type { VocabItem } from '../components/sheet/VocabSheet'
+import type { GrammarItem } from '../components/sheet/GrammarSheet'
 
 /**
  * 已建構好的內容。build-time 產出、進 git、可人工校對。
@@ -54,6 +60,14 @@ export const VOCAB_BY_GRADE: Record<number, VocabItem[]> = {
   3: vocab3 as VocabItem[],
   4: vocab4 as VocabItem[],
   5: vocab5 as VocabItem[],
+}
+
+export const GRAMMAR_BY_GRADE: Record<number, GrammarItem[]> = {
+  1: grammar1 as GrammarItem[],
+  2: grammar2 as GrammarItem[],
+  3: grammar3 as GrammarItem[],
+  4: grammar4 as GrammarItem[],
+  5: grammar5 as GrammarItem[],
 }
 
 export const AVAILABLE_GRADES = Object.keys(KANJI_BY_GRADE).map(Number).sort()

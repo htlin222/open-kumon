@@ -31,7 +31,7 @@
 import { mkdirSync, readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs'
 import { TARGET_GRADES } from '../src/content/schema.ts'
 import { makeKanjiGuard } from '../src/content/guard.ts'
-import kuromoji from 'kuromoji'
+import kuromoji, { type IpadicFeatures, type Tokenizer } from 'kuromoji'
 
 export interface GrammarItem {
   /** 挖空後的句子，空格以 ＿ 表示 */
@@ -94,7 +94,7 @@ const table = JSON.parse(readFileSync('content/kyoiku-by-grade.json', 'utf8')) a
 const guard = makeKanjiGuard(table)
 
 console.log('載入 kuromoji 詞典…')
-const tokenizer = await new Promise<kuromoji.Tokenizer<kuromoji.IpadicFeatures>>((res, rej) =>
+const tokenizer = await new Promise<Tokenizer<IpadicFeatures>>((res, rej) =>
   kuromoji.builder({ dicPath: './node_modules/kuromoji/dict' }).build((e, t) => (e ? rej(e) : res(t))),
 )
 
@@ -142,7 +142,7 @@ for (const grade of TARGET_GRADES) {
     // 終助詞（ね・よ）與接續助詞（て）排除 —— 那些不是這裡要練的東西。
     const tokens = tokenizer.tokenize(jp)
     const candidates = tokens.filter(
-      (t, i) =>
+      (t: IpadicFeatures, i: number) =>
         t.pos === '助詞' &&
         ['格助詞', '連体化', '副助詞'].includes(t.pos_detail_1) &&
         (SAFE_PARTICLES as readonly string[]).includes(t.surface_form) &&
@@ -155,12 +155,14 @@ for (const grade of TARGET_GRADES) {
         //（「おつかれさまでした」被切出 さ[名詞] + まで[助詞]）
         !/^[\u3040-\u309F]$/.test(tokens[i - 1]!.surface_form) &&
         // 同一個助詞在句中只出現一次，否則挖掉哪個都可能有歧義
-        tokens.filter((x) => x.surface_form === t.surface_form && x.pos === '助詞').length === 1,
+        tokens.filter((x: IpadicFeatures) => x.surface_form === t.surface_form && x.pos === '助詞').length === 1,
     )
     if (candidates.length === 0) continue
 
     const target = candidates[0]!.surface_form
-    const at = tokens.slice(0, tokens.indexOf(candidates[0]!)).reduce((n, t) => n + t.surface_form.length, 0)
+    const at = tokens
+      .slice(0, tokens.indexOf(candidates[0]!))
+      .reduce((n: number, t: IpadicFeatures) => n + t.surface_form.length, 0)
 
     items.push({
       prompt: `${jp.slice(0, at)}＿${jp.slice(at + target!.length)}`,
